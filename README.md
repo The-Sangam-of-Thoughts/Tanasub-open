@@ -122,6 +122,10 @@ Tone is an orthogonal modifier: it colors the voice but never overrides the genr
 
 Licensed under the [MIT License](LICENSE), except where a file states different terms. Adapted humanization materials are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Vendored patterns in [`external/fabric-humanize/`](external/fabric-humanize/) retain their original MIT licence. See [`LICENSES/`](LICENSES/) for full texts and scope.
 
+## Contributing
+
+Contributions are welcome. Read [`CONTRIBUTING.md`](CONTRIBUTING.md) for repository scope, evidence and licensing standards, the pull-request workflow, required checks, and private security reporting.
+
 ## Architecture Decisions
 
 Key decisions are recorded as ADRs in [`docs/decisions/`](docs/decisions/):
