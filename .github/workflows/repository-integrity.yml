@@ -33,7 +33,7 @@ jobs:
             esac
 
             case "$path" in
-              .gitignore|LICENSE|*.md|*.json|*.csv|*.txt|external/fabric-humanize/LICENSE|external/humanizer/LICENSE|.github/workflows/repository-integrity.yml) ;;
+              .gitignore|LICENSE|.github/CODEOWNERS|*.md|*.json|*.csv|*.txt|external/fabric-humanize/LICENSE|external/humanizer/LICENSE|.github/workflows/repository-integrity.yml) ;;
               *) echo "Blocked file type or path: $path"; failed=1 ;;
             esac
           done < <(git ls-files)
