@@ -1,0 +1,56 @@
+{
+  "id": "src-cynical-dean-organizational-cynicism-1998",
+  "title": "Organizational Cynicism",
+  "creators": [
+    "James W. Dean",
+    "Pamela Brandes",
+    "Ravi Dharwadkar"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "The Academy of Management Review",
+    "published_date": "1998-04",
+    "edition": "Vol. 23, No. 2, pp. 341-352",
+    "doi": "10.2307/259378",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.2307/259378",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-cynical)",
+    "verification_notes": "Bibliographic metadata (authors, container, 23(2):341, DOI) confirmed via Crossref and OpenAlex on 2026-09-24; end page 352 per standard journal citations (12-page article); year corrected to 1998 (Crossref issued 1998-04). Full text not inspected. The paper models organizational cynicism as a composite negative attitude comprising cognition (distrust of the organization's integrity — the gap between stated and actual conduct), affect (negative feeling), and behavior (disparaging action), establishing cynicism as a structured, measurable construct rather than a mood. No passage quoted."
+  },
+  "axis_ids": [
+    "tone-cynical"
+  ],
+  "claim_ids": [
+    "clm-tone-cynical-dispositional-costs"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Academy of Management Review; analytical citation only."
+  }
+}

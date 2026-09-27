@@ -1,0 +1,54 @@
+{
+  "id": "src-nostalgic-silva-2012-saudade",
+  "title": "Saudade: A Key Portuguese Emotion",
+  "creators": [
+    "Isabel Fernandes Silva"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Emotion Review, Vol. 4, No. 2",
+    "published_date": "2012",
+    "edition": "pp. 203-211",
+    "doi": "10.1177/1754073911430727",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Portugal"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1177/1754073911430727",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-nostalgic)",
+    "verification_notes": "Citation (journal, volume, issue, pages, year, DOI) and abstract-level content - argument that saudade is a distinct key Portuguese emotion, prototypically directed at something good from the past, able to target the future (saudades do futuro), overwhelming, long-lasting, built on ambiguous thoughts of separation, and positively evaluated - verified via SAGE and indexing records on web search 2026-09-24. Full text not accessed."
+  },
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "claim_ids": [
+    "clm-tone-nostalgic-crosscultural-nonuniform"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "SAGE journal article; abstract-level citation only, no reproduction."
+  }
+}

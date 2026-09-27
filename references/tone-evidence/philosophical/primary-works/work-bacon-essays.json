@@ -1,0 +1,38 @@
+{
+  "id": "work-bacon-essays",
+  "title": "The Essayes or Counsels, Civill and Morall",
+  "creators": [
+    "Francis Bacon"
+  ],
+  "work_type": "essay-collection",
+  "published_date": "1597; enlarged 1612, 1625",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "England"
+  ],
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "period_role": "early-modern",
+  "source_id": "src-philosophical-bacon-kiernan-1985",
+  "access": {
+    "edition_or_version": "The Essayes or Counsels, Civill and Morall, ed. Michael Kiernan (Clarendon Press, 1985)",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "Short counsels on public and private life, testing a topic from several angles.",
+    "argumentative_stance": "Sententious and compressed; an observation is distilled into a memorable maxim that carries a general truth.",
+    "point_of_view": "Impersonal adviser; the 'I' is largely absent.",
+    "structure": "Brief essays each turning one topic over by weighing arguments against one another.",
+    "style_and_devices": "Aphoristic close, balanced antithesis, metaphor drawn from law, nature and craft; plainness alternating with epigram.",
+    "imagery": "Concrete figuration used to fix an abstraction in memory.",
+    "emotional_progression": "Cool appraisal; little emotional arc.",
+    "critical_reception": "Milestone of the English essay and of aphoristic prose; noted by critics as a Montaigne-influenced but distinct form.",
+    "failure_or_misuse_signals": "Aphorism piled on aphorism without development becomes a quotation list; impersonality tips into tone-detached."
+  }
+}

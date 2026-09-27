@@ -1,0 +1,58 @@
+{
+  "id": "src-warm-fiske-stereotype-content-2002",
+  "title": "A Model of (Often Mixed) Stereotype Content: Competence and Warmth Respectively Follow from Perceived Status and Competition",
+  "creators": [
+    "Susan T. Fiske",
+    "Amy J. C. Cuddy",
+    "Peter Glick",
+    "Jun Xu"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Personality and Social Psychology, Vol. 82, No. 6",
+    "published_date": "2002",
+    "edition": null,
+    "doi": "10.1037/0022-3514.82.6.878",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://psycnet.apa.org/doiLanding?doi=10.1037/0022-3514.82.6.878",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-warm)",
+    "verification_notes": "Confirmed the stereotype content model: warmth and competence are the two primary dimensions; mixed clusters (high warmth/low competence = paternalistic; high competence/low warmth = envious) produce distinct emotions. Noted the 2019 erratum on wording of correlation coefficients, which does not affect the qualitative claims used."
+  },
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "claim_ids": [
+    "clm-tone-warm-warmth-without-substance"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical citation only."
+  }
+}

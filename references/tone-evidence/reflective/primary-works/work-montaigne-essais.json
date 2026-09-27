@@ -1,0 +1,42 @@
+{
+  "id": "work-montaigne-essais",
+  "title": "Essais",
+  "creators": [
+    "Michel de Montaigne"
+  ],
+  "work_type": "essay collection",
+  "published_date": "1580-1595",
+  "languages": [
+    "fr"
+  ],
+  "regions": [
+    "France",
+    "Western Europe"
+  ],
+  "axis_ids": [
+    "tone-reflective"
+  ],
+  "period_role": "formative",
+  "source_id": "src-reflective-adorno-notes-literature-1991",
+  "access": {
+    "edition_or_version": "French text public domain; standard editions and translations widely available. Claims use essay locators (I.26, III.13), which are edition-stable, not page numbers.",
+    "language_used": "fr",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "secondary-attested",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "the self as material of a trial: general questions tested against the essayist's own habits and body",
+      "provisional modality and self-questioning; conclusions suspended rather than proven",
+      "visible revision across the 1580/1588/1595 edition layers",
+      "outward question, inward evidence: digression licensed, judgment held open under a questioning motto"
+    ],
+    "point_of_view": "First-person essayistic 'I' used as evidence, watched as it thinks — a controlled double stance.",
+    "tense_and_structure": "Shifts between present-tense self-observation and past-tense anecdote; the unit of structure is the attempt (essai), not the argument, and the essay's end is a suspension, not a proof.",
+    "rhythm_and_cadence": "Uneven accumulative periods; digressive hypotaxis — the main clause abandoned mid-sentence for an aside, then resumed; pacing follows the movement of attention rather than plot.",
+    "psychic_distance": "Close on the act of thinking but ironized: the essayist observes himself observing, an inbuilt slight step back.",
+    "style_and_devices": "Classical allusion used as mirror rather than ornament; analogy drawn from ordinary bodily experience; first-person inventory immediately qualified by personal counter-example and concessive connectives.",
+    "copyright_note": "Public domain. Described by technique only; no passage reproduced."
+  }
+}

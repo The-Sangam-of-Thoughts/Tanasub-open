@@ -1,0 +1,44 @@
+{
+  "id": "src-kennedy-elegy-2007",
+  "title": "Elegy",
+  "creators": ["David Kennedy"],
+  "source_type": "scholarly-book",
+  "source_roles": ["recognition", "definition"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Routledge (The New Critical Idiom)",
+    "published_date": "2007",
+    "edition": "First edition",
+    "doi": null,
+    "isbn": "9780415367776"
+  },
+  "languages": ["en"],
+  "regions": ["United Kingdom"],
+  "access": {
+    "locator": "Routledge / library catalog record",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-elegiac)",
+    "verification_notes": "Existence, author, publisher, year, series, and chapter layout (the elegiac mode; funeral lament; modern and digital elegy) verified via library catalogs and a university syllabus that assigns the sections."
+  },
+  "axis_ids": ["tone-elegiac"],
+  "claim_ids": [
+    "clm-tone-elegiac-present-loss",
+    "clm-tone-elegiac-consolation-arc"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Introductory scholarly survey; analytical paraphrase only."
+  }
+}

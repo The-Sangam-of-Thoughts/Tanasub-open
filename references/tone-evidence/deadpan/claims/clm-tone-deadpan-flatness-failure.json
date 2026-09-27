@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-deadpan-flatness-failure",
+  "craft_claim": "Expressionless delivery is only the surface half of deadpan; if the content is not absurd, incongruous, or loaded, the flatness produces confusion or blandness instead of comedy — the tone fails when the gap closes from the content side.",
+  "tone_ids": ["tone-deadpan"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-deadpan-giora-graded-salience-1997",
+      "location": "pp. 183–206",
+      "evidence_expression": "synthesis",
+      "note": "With no salient non-literal target in the content, the literal-first pathway terminates at sincerity: the reader has nowhere to redirect to, so the flat sentence simply states. Tier 2; explains the mechanism of the failure."
+    },
+    {
+      "evidence_id": "src-deadpan-wilson-sperber-verbal-irony-1992",
+      "location": "pp. 56–74",
+      "evidence_expression": "synthesis",
+      "note": "If there is no attitude being echoed and dissociated (nothing in the content worth dissociating from), the echoic account predicts no ironic interpretation arises. Tier 2; the theory's own negative case doubles as the failure diagnostic."
+    },
+    {
+      "evidence_id": "src-deadpan-deadpan-lexicon-2026",
+      "location": "entry 'deadpan' (1928 sense: expressionless delivery)",
+      "evidence_expression": "synthesis",
+      "note": "The lexical definition fixes only the *face*, never the content — which is exactly why practitioners import the word to mean neutral or bland writing and lose the comic engine. Tier 5; corroborates the confusion at the vocabulary level, never sole support."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-deadpan-booth-irony-1974",
+      "location": "discussion of ironic reward on rereading",
+      "evidence_expression": "paraphrase",
+      "note": "Booth argues sustained ironic passages repay rereading, so a passage that reads flat the first time may reveal its irony to a patient or primed reader. Mitigates but does not defeat: reliance on rereading is a poor bet for one-pass prose, and the card should assume single-pass reading."
+    }
+  ],
+  "scope": "All deadpan prose; the check applies before any use of the tone. Distinct from failure mode 2 (missing key) — here the key may exist but points at nothing, because the content is ordinary.",
+  "exceptions": "In satire framed by an explicit container (a named target, a genre promise of satire), flatness of content can be temporary: the loaded element may arrive late, provided it arrives.",
+  "confidence": "moderate",
+  "report_locations": ["#7--failure-modes-and-revision", "#4--when-to-show-restraint"],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

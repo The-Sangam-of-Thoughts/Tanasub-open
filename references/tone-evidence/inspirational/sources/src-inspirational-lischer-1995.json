@@ -1,0 +1,54 @@
+{
+  "id": "src-inspirational-lischer-1995",
+  "title": "The Preacher King: Martin Luther King, Jr. and the Word That Moved America",
+  "creators": [
+    "Richard Lischer"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Oxford University Press",
+    "published_date": "1995",
+    "edition": "First edition (updated edition 2020)",
+    "doi": null,
+    "isbn": "978-0195111323"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://global.oup.com/academic/product/the-preacher-king-9780195111323",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-inspirational)",
+    "verification_notes": "Author, title, publisher, year, and ISBN confirmed via Oxford University Press and Duke Scholars records. Documents King's formation in the African-American folk pulpit and his transposition of its cadences into public address."
+  },
+  "axis_ids": [
+    "tone-inspirational"
+  ],
+  "claim_ids": [
+    "clm-tone-inspirational-prophetic-civic"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Oxford University Press scholarly monograph; analytical citation only, no text reproduced. King's own speeches remain copyrighted and are not quoted."
+  }
+}

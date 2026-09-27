@@ -1,0 +1,58 @@
+{
+  "id": "src-reverent-piff-2015",
+  "title": "Awe, the small self, and prosocial behavior",
+  "creators": [
+    "Paul K. Piff",
+    "Pia Dietze",
+    "Matthew Feinberg",
+    "Daniel M. Stancato",
+    "Dacher Keltner"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Personality and Social Psychology 108(6):883-899 (American Psychological Association)",
+    "published_date": "2015",
+    "edition": null,
+    "doi": "10.1037/pspi0000018",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1037/pspi0000018",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reverent)",
+    "verification_notes": "Bibliographic record (title, authors, container, volume, pages, DOI) verified directly through the Crossref REST API on 2026-09-24. Conceptual claim (awe reduces self-emphasis - the 'small self' - and increases prosocial and collective-oriented behaviour across five studies) cross-checked against the paper's widely cited abstract."
+  },
+  "axis_ids": [
+    "tone-reverent"
+  ],
+  "claim_ids": [
+    "clm-tone-reverent-small-self"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Peer-reviewed article; analytical citation only; no passages reproduced."
+  }
+}

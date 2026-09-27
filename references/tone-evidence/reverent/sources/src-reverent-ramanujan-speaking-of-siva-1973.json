@@ -1,0 +1,62 @@
+{
+  "id": "src-reverent-ramanujan-speaking-of-siva-1973",
+  "title": "Speaking of Siva",
+  "creators": [
+    "A. K. Ramanujan"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "craft-support",
+    "indian-context"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Penguin Books",
+    "published_date": "1973",
+    "edition": "Penguin Classics; translations of 12th-century Kannada vachanas by Basava, Akka Mahadevi, Allama Prabhu and others",
+    "doi": null,
+    "isbn": "9780140442700"
+  },
+  "languages": [
+    "en",
+    "kn"
+  ],
+  "regions": [
+    "India",
+    "Karnataka"
+  ],
+  "access": {
+    "locator": "https://openlibrary.org/search?q=Speaking+of+Siva+Ramanujan",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reverent)",
+    "verification_notes": "Publication (Penguin, 1973; ISBN 9780140442700) verified via Open Library. Used for the vachana form's anubhava (direct experience), ankita (named closing invocation: 'Lord of the Meeting Rivers', 'Lord, white as jasmine'), embodied sacred, and bedagu paradox; described structurally, no passages reproduced."
+  },
+  "axis_ids": [
+    "tone-reverent",
+    "axis-vachana-poetry"
+  ],
+  "claim_ids": [
+    "clm-tone-reverent-bhakti-named-address",
+    "clm-tone-reverent-embodied-sacred",
+    "clm-tone-reverent-translation-limits"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "kn",
+    "translator": "A. K. Ramanujan",
+    "limitations": [
+      "Kannada oral cadence, occupational register, and bedagu wordplay are flattened in English; Ramanujan's renderings have themselves been critiqued as universalizing (see Niranjana 1992). Claims here are structural, not acoustic."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Translations and editorial matter copyrighted; analytical citation only; no passages reproduced."
+  }
+}

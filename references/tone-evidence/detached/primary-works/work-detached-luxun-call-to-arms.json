@@ -1,0 +1,26 @@
+{
+  "id": "work-detached-luxun-call-to-arms",
+  "title": "Call to Arms (Nahan)",
+  "creators": ["Lu Xun"],
+  "work_type": "short-story-collection",
+  "published_date": "1923",
+  "languages": ["zh", "en"],
+  "regions": ["China"],
+  "axis_ids": ["tone-detached"],
+  "period_role": "formative",
+  "source_id": "src-detached-baimiao-reference-2026",
+  "access": {
+    "edition_or_version": "Chinese original; English translations by Yang Xianyi and Gladys Yang, and by Julia Lovell",
+    "language_used": "en",
+    "translator": "multiple",
+    "access_conditions": "library"
+  },
+  "analysis_status": "limited",
+  "mechanics": {
+    "point_of_view": "Cool observational distance; narrators often withhold judgment.",
+    "style_and_devices": "Baimiao (plain line drawing): unembellished, subtractive description of scene and gesture.",
+    "emotional_progression": "Grief and indictment are carried by concrete detail and structure rather than stated emotion.",
+    "tone_mechanism": "Illustrates clm-tone-detached-cross-cultural-objectivity (Chinese baimiao).",
+    "verification_note": "Collection and baimiao tradition verified; the Chinese original was not inspected directly, so passage-level claims are marked limited."
+  }
+}

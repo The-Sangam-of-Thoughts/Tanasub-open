@@ -1,0 +1,57 @@
+{
+  "id": "src-deadpan-kharms-today-2007",
+  "title": "Today I Read Quite by Accident… (collected absurd prose)",
+  "creators": [
+    "Daniil Kharms",
+    "Anna Mohr (translator)"
+  ],
+  "source_type": "primary-work",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 3,
+  "publication": {
+    "publisher_or_container": "Glas / Pushkin House (Russian Library)",
+    "published_date": "2007",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "ru"
+  ],
+  "regions": [
+    "Russia"
+  ],
+  "access": {
+    "locator": "Library record: Today I Read Quite by Accident… (Glas/Pushkin House, 2007)",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-deadpan)",
+    "verification_notes": "English collection of Kharms's absurdist short prose, published 2007 (Glas/Pushkin House). Used as practice anchor for escalation-without-inflection (saturation claim) and clinical-bureaucratic flatness. Translation-mediated: Russian intonation and sentence rhythm are flattened in English — flagged as a transfer limitation. Translator credit (Anna Mohr) is standard bibliographic attribution for this Glas edition; page-level locators not verified this session. Russian (non-Anglophone) tradition source — see cross-cultural survey §E of dossier.md. Tier re-derived 2026-09-25 against layers/layer0-academic.md: held at 3 rather than raised to the Tier-1 direct-primary default because this record is translation-mediated and secondary-attested (passage-level close reading not performed), so the Tier-1 'verified direct primary evidence' precondition is unmet."
+  },
+  "axis_ids": [
+    "tone-deadpan"
+  ],
+  "claim_ids": [
+    "clm-tone-deadpan-saturation-dosage"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "ru",
+    "translator": "Anna Mohr",
+    "limitations": [
+      "Translation-mediated: Russian intonation and sentence rhythm are flattened in English — recorded as a transfer limitation in the verification notes."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "2007 English edition in copyright; technique described only, no text reproduced."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "src-grim-gardner-art-fiction-1984",
+  "title": "The Art of Fiction: Notes on Craft for Young Writers",
+  "creators": [
+    "John Gardner"
+  ],
+  "source_type": "craft-book",
+  "source_roles": [
+    "craft-support",
+    "definition"
+  ],
+  "reliability_tier": 4,
+  "publication": {
+    "publisher_or_container": "Alfred A. Knopf",
+    "published_date": "1984",
+    "edition": "First edition",
+    "doi": null,
+    "isbn": "978-0679734031"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://www.penguinrandomhouse.com/books/57860/the-art-of-fiction-by-john-gardner/",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "purchased"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-grim)",
+    "verification_notes": "Silo restatement of the shared coordinator-verified record src-gardner-art-fiction-1984. Used for psychic distance and for the sentimentality ceiling (emotion demanded beyond what the situation justifies); the present researcher did not re-inspect the edition."
+  },
+  "axis_ids": [
+    "tone-grim"
+  ],
+  "claim_ids": [
+    "clm-tone-grim-understatement-noir-restraint",
+    "clm-tone-grim-psychic-distance-restraint"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Craft guide; analytical citation only."
+  }
+}

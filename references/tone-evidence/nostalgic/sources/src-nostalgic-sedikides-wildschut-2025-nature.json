@@ -1,0 +1,58 @@
+{
+  "id": "src-nostalgic-sedikides-wildschut-2025-nature",
+  "title": "On the Nature of Nostalgia: A Psychological Perspective",
+  "creators": [
+    "Constantine Sedikides",
+    "Tim Wildschut"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Emotion Review",
+    "published_date": "2025",
+    "edition": "Advance online publication (volume/issue/pages not verified at access time)",
+    "doi": "10.1177/17540739241303497",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom",
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1177/17540739241303497",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-nostalgic)",
+    "verification_notes": "DOI resolves; article identity (title, authors, Emotion Review, 2025) confirmed via SAGE and indexing records on web search 2026-09-24; volume/issue/pages left null rather than asserted because only the online-first record was verified. Appraisal and feature-analysis content - nostalgia positive relative to other self-conscious emotions yet not to be equated with mourning, and none of the 18 central or 17 peripheral features referring to the present or future - characterized from indexed abstract-level content; full text not accessed."
+  },
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "claim_ids": [
+    "clm-tone-nostalgic-bittersweet-structure",
+    "clm-tone-nostalgic-dual-time-distance"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "SAGE journal article; abstract-level citation only, no reproduction."
+  }
+}

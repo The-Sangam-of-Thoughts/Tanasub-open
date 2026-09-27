@@ -1,0 +1,57 @@
+{
+  "id": "clm-tone-nostalgic-bittersweet-structure",
+  "craft_claim": "Nostalgia is structurally bittersweet: predominantly positive yet shadowed by absence and loss. A nostalgic tone must hold both valences at once; pure cheer collapses into warmth, pure grief collapses into the elegiac.",
+  "tone_ids": [
+    "tone-nostalgic"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-nostalgic-wildschut-2006-nostalgia-content",
+      "location": "Journal of Personality and Social Psychology 91(5):975-993, content analyses and trigger analyses (Studies 1-4)",
+      "evidence_expression": "paraphrase",
+      "note": "Nostalgic accounts are described in more positive than negative terms yet systematically contain negative feelings, and sad, poignant, lonely events are frequent triggers; the emotion is mixed-valence, not merely pleasant."
+    },
+    {
+      "evidence_id": "src-nostalgic-sedikides-2015-to-nostalgize",
+      "location": "Advances in Experimental Social Psychology 51:189-273, characterization and structure sections",
+      "evidence_expression": "paraphrase",
+      "note": "The chapter's controlling definition: nostalgia is a self-conscious, bittersweet but predominantly positive and fundamentally social emotion arising from fond memories mixed with yearning."
+    },
+    {
+      "evidence_id": "src-nostalgic-hepper-2014-pancultural",
+      "location": "Emotion 14(4):733-747, ratings of 35 features in 18 countries (N = 1,704)",
+      "evidence_expression": "paraphrase",
+      "note": "Lay prototypes rate nostalgia as more pleasant (happy, warm) than unpleasant (sad, regretful) in every country sampled, while the unpleasant features remain central rather than peripheral: the bitter belongs to the concept."
+    },
+    {
+      "evidence_id": "src-nostalgic-batcho-2013-bittersweet-history",
+      "location": "History of Psychology 16(3):165-176, abstract and article scope",
+      "evidence_expression": "synthesis",
+      "note": "Traces the concept from its origins as a medical disease to its contemporary psychological construct - the concept's own history holds the cherished and the pathologized in one word, the bittersweet duality written into the term itself."
+    },
+    {
+      "evidence_id": "src-nostalgic-sedikides-wildschut-2025-nature",
+      "location": "Emotion Review, appraisal section (doi 10.1177/17540739241303497)",
+      "evidence_expression": "paraphrase",
+      "note": "Recent review reports nostalgia appraised as positive relative to other self-conscious emotions while insisting it should not be equated with mourning - a predominantly positive emotion that remains distinct from pure sadness."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-nostalgic-newman-2020-daily-life",
+      "location": "Journal of Personality and Social Psychology 118(2):325-347, Studies 3-5",
+      "evidence_expression": "paraphrase",
+      "note": "When nostalgia occurs spontaneously in daily life rather than being elicited on request, it covaries negatively with well-being; the 'predominantly positive' profile is partly an artifact of experimental induction, so the writer cannot assume sweetness without the bitter."
+    }
+  ],
+  "scope": "Core shape of the tone: valence structure of nostalgic recollection; feeds card sections on core shape and boundaries.",
+  "exceptions": [
+    "Registers of pure fondness without absence belong to tone-warm; registers of present loss without the fond, idealized distance belong to tone-elegiac."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/nostalgic.md"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-deadpan-incongruity-gap",
+  "craft_claim": "Deadpan comedy is produced by the gap between absurd or loaded content and an expressionless, register-stable surface: the surface denies the joke while the content supplies it, and the reader's resolution of that mismatch is the laugh.",
+  "tone_ids": ["tone-deadpan"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-deadpan-suls-joke-model-1972",
+      "location": "ch. 4 (pages vary by catalog: 81–97 / 81–100)",
+      "evidence_expression": "synthesis",
+      "note": "Suls's two-stage joke model (perceive incongruity, then find the resolving rule) describes the deadpan read: the flat surface manufactures the incongruity and the reader supplies the rule. Tier 2. Page range conflict flagged in verification_notes; comedic silo records pp. 81–100."
+    },
+    {
+      "evidence_id": "src-deadpan-wilson-sperber-verbal-irony-1992",
+      "location": "pp. 56–74 (journal article)",
+      "evidence_expression": "synthesis",
+      "note": "Irony echoes and dissociates from an attitude; the deadpan surface is the minimal-signal way to stage that dissociation, forcing inference from content alone. Tier 2, peer-reviewed."
+    },
+    {
+      "evidence_id": "src-deadpan-modest-proposal-1729",
+      "location": "full text (Project Gutenberg eBook #1080)",
+      "evidence_expression": "paraphrase",
+      "note": "Sustained fiscal-bureaucratic cataloguing with zero tonal break across the essay; the mismatch between register and content carries the entire satire. Tier 1 primary work; PD. Practice anchor for the gap."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-deadpan-muecke-compass-irony-1969",
+      "location": "ch. on irony and the 'stable/volatile' continuum",
+      "evidence_expression": "paraphrase",
+      "note": "Muecke treats irony as a continuum where delivery varies without being the defining discriminator; a flat delivery alone does not mark irony. Supports rather than defeats the claim at fine grain: delivery is not sufficient, the content-surface gap is. Recorded so the card does not claim expressionless delivery as the sole marker."
+    }
+  ],
+  "scope": "Applies to written prose (narrative, essay, satiric reportage) where the surface is an authored narration rather than a live performer's face. Cross-linguistic instances documented in French (*pince-sans-rire*), Urdu/Hindi (Manto, Parsai), Russian (Kharms).",
+  "exceptions": "When the audience is pre-cued (saturation, claim 8) the gap collapses and the same construction reads literally. When the content is not itself absurd or loaded, no gap forms and the tone fails (claim 9).",
+  "confidence": "strong",
+  "report_locations": ["#2--why-it-works--the-mechanism", "#5--how-to-use-it--operators"],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

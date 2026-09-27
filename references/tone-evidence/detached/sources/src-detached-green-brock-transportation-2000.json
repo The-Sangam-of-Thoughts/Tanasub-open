@@ -1,0 +1,41 @@
+{
+  "id": "src-detached-green-brock-transportation-2000",
+  "title": "The Role of Transportation in the Persuasiveness of Public Narratives",
+  "creators": ["Melanie C. Green", "Timothy C. Brock"],
+  "source_type": "peer-reviewed-article",
+  "source_roles": ["recognition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Personality and Social Psychology",
+    "published_date": "2000",
+    "edition": "Vol. 79, No. 5, pp. 701-721",
+    "doi": "10.1037/0022-3514.79.5.701",
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://psycnet.apa.org/record/2000-00920-003",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-detached)",
+    "verification_notes": "Volume, issue, page range and DOI confirmed. Transportation defined as absorption entailing imagery, affect, and attentional focus; validated transportation scale."
+  },
+  "axis_ids": ["tone-detached"],
+  "claim_ids": ["clm-tone-detached-transportation-risk", "clm-tone-detached-reader-emotion-inference"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "American Psychological Association; synthesis only."
+  }
+}

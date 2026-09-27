@@ -1,0 +1,56 @@
+{
+  "id": "src-inspirational-algoe-haidt-2009",
+  "title": "Witnessing Excellence in Action: The 'Other-Praising' Emotions of Elevation, Gratitude, and Admiration",
+  "creators": [
+    "Sara B. Algoe",
+    "Jonathan Haidt"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "The Journal of Positive Psychology, vol. 4, no. 2, pp. 105-127",
+    "published_date": "2009",
+    "edition": null,
+    "doi": "10.1080/17439760802650519",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2689844/",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-inspirational)",
+    "verification_notes": "Citation, volume, pages, DOI, and PMCID confirmed. Four studies (recall, video induction, event-contingent diary, letter-writing) establish elevation as a distinct other-praising emotion motivating prosocial and emulative behaviour."
+  },
+  "axis_ids": [
+    "tone-inspirational"
+  ],
+  "claim_ids": [
+    "clm-tone-inspirational-elevation-prosocial"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "open-access",
+    "repository_copy_allowed": false,
+    "notes": "Author manuscript available via PMC; analytical citation only, no text reproduced."
+  }
+}

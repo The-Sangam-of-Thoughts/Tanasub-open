@@ -1,0 +1,45 @@
+{
+  "id": "clm-tone-nostalgic-social-cast",
+  "craft_claim": "Nostalgic recollection is social at its core: the remembered past is populated by specific others, and the feeling's psychological payoffs run through felt connectedness. Nostalgic prose that converts must populate the remembered world with people, not scenery alone.",
+  "tone_ids": [
+    "tone-nostalgic"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-nostalgic-wildschut-2006-nostalgia-content",
+      "location": "Journal of Personality and Social Psychology 91(5):975-993, Studies 5-7",
+      "evidence_expression": "paraphrase",
+      "note": "Functional analyses found nostalgia bolsters social bonds, raises positive self-regard, and generates positive affect; nostalgic content centers close others (family, friends) rather than isolated personal achievements."
+    },
+    {
+      "evidence_id": "src-nostalgic-sedikides-2015-to-nostalgize",
+      "location": "Advances in Experimental Social Psychology 51:189-273, section on narrative analysis of nostalgic accounts",
+      "evidence_expression": "paraphrase",
+      "note": "Induced nostalgic recollections, compared with ordinary recollections, contain more first-person plural pronouns and social words (mother, father, friend); the social cast is observable in the language of the memories themselves."
+    },
+    {
+      "evidence_id": "src-nostalgic-sedikides-2016-emotion-self-continuity",
+      "location": "Emotion 16(4):524-539, Experiments 1-6",
+      "evidence_expression": "paraphrase",
+      "note": "Nostalgia augments social connectedness (belongingness and acceptance) in Experiments 1-4, and connectedness is the mechanism producing self-continuity and eudaimonic vitality in Experiments 5-6 - connectedness is the pathway, not a side effect."
+    },
+    {
+      "evidence_id": "src-nostalgic-routledge-2011-existential-resource",
+      "location": "Journal of Personality and Social Psychology 101(3):638-652, Studies 1-6",
+      "evidence_expression": "paraphrase",
+      "note": "Social connectedness mediates the link between nostalgia and meaning in life both correlationally and experimentally, so the felt presence of others is what makes the remembered past meaningful."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Character and scene construction inside nostalgic passages; feeds card section 4.",
+  "exceptions": [
+    "Solitary nostalgic scenes still work when an absent other is implied - the empty chair carries the social cast by absence.",
+    "Attachment-related avoidance moderates the social payoff for real experiencers, so not every reader converts nostalgic social imagery into warmth (literature on attachment differences summarized in the To Nostalgize review)."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/nostalgic.md"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

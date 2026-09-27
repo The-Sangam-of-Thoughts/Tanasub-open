@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-comedic-density-saturation",
+  "craft_claim": "Humorous material has a workable density band; excess comic detail crowds the substantive point, and eliminating beats removes the release mechanism, so density must be tuned rather than maximised.",
+  "tone_ids": [
+    "tone-comedic"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-comedic-harp-mayer-1998",
+      "location": "Studies of seductive details",
+      "evidence_expression": "paraphrase",
+      "note": "Interesting but tangential material reduces retention and transfer of main content by priming inappropriate schemas; this is the evidence-based form of 'humour cannibalising substance'."
+    },
+    {
+      "evidence_id": "src-comedic-double-standup-2005",
+      "location": "Discussion of timing and the pause",
+      "evidence_expression": "paraphrase",
+      "note": "Practitioner account treats the pause before a punchline as load-bearing; density that removes beats removes the tension-and-release mechanism. Tier 4, scoped."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-comedic-oquin-aronoff-1981",
+      "note": "A modest, condition-dependent persuasive benefit of humour means density is not purely harmful; the claim is about balance, not prohibition."
+    }
+  ],
+  "scope": "Blog/marketing, academic prose, and long-form where a substantive takeaway is promised.",
+  "exceptions": [
+    "Pure comedy whose entire purpose is amusement may legitimately run high density.",
+    "Comic interludes in otherwise serious work follow the host form's stakes, not this band."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/comedic.md#4--when-to-show-restraint",
+    "tones/comedic.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "clm-point-of-view-psychic-distance",
+  "craft_claim": "Psychic distance can be modulated continuously within scenes to shift the reader from detached cinematic staging to intense neurological interiority.",
+  "axis_ids": [
+    "axis-bildungsroman",
+    "axis-cozy-mystery",
+    "axis-cyberpunk",
+    "axis-dastan-tradition",
+    "axis-episodic-television-script",
+    "axis-fantasy-fiction",
+    "axis-feature-screenplay",
+    "axis-flash-fiction",
+    "axis-ghazal-sequence",
+    "axis-gothic-fiction",
+    "axis-historical-fiction",
+    "axis-horror-fiction",
+    "axis-interactive-fiction",
+    "axis-katha-tradition",
+    "axis-nataka-drama",
+    "axis-pastoral-literature",
+    "axis-prakarana-drama",
+    "axis-psychological-fiction",
+    "axis-romance-fiction",
+    "axis-science-fiction",
+    "axis-solarpunk",
+    "axis-space-opera",
+    "axis-speculative-fiction",
+    "axis-thriller-fiction",
+    "axis-urban-fantasy",
+    "axis-vachana-poetry"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-gardner-art-fiction-1984",
+      "location": "Chapter 5: Technical Details, pp. 111-115",
+      "evidence_expression": "quotation",
+      "note": "Gardner maps psychic distance across five gradations, from objective geographical survey to direct unfiltered stream of thought."
+    },
+    {
+      "evidence_id": "src-wood-how-fiction-works-2008",
+      "location": "Chapter 1: Narrating, pp. 5-38",
+      "evidence_expression": "paraphrase",
+      "note": "Wood demonstrates how free indirect style merges authorial diction with character idiom to create ironic sympathy."
+    },
+    {
+      "evidence_id": "work-mrs-dalloway",
+      "location": "Opening pages in Westminster",
+      "evidence_expression": "synthesis",
+      "note": "Narrative voice moves seamlessly from external London omnibus sounds to Clarissa's intimate memories of Bourton."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Prose fiction across third-person and first-person narration.",
+  "exceptions": [
+    "Rigid camera-eye objective journalism or stage drama restricted to external actor speech."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "07-voice-style-dialogue-and-point-of-view.md#voice-style-dialogue-and-point-of-view-preferred_label",
+    "00-how-to-write.md#voice-point-of-view-and-dialogue"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-12"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "clm-tone-intimate-oversharing-saturation",
+  "craft_claim": "Sustained, unmodulated maximal disclosure saturates the reader and inverts into voyeurism or misery spectacle; the intimate tone requires graduated depth and deliberate restraint.",
+  "tone_ids": ["tone-intimate"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-intimate-altman-taylor-1973",
+      "location": "Chapters on the gradual social penetration process",
+      "evidence_expression": "synthesis",
+      "note": "Closeness develops by graduated breadth and depth; disclosing central material before relational groundwork violates the sequence that makes penetration rewarding."
+    },
+    {
+      "evidence_id": "src-intimate-yagoda-memoir-history-2009",
+      "location": "Chapters on the modern memoir and the 'Truth and Consequences' closing essay",
+      "evidence_expression": "paraphrase",
+      "note": "Yagoda documents the memoir boom and its reception, including the pejorative 'misery memoir' charge that first-person trauma writing can be read as titillation and dubious authenticity."
+    },
+    {
+      "evidence_id": "src-intimate-baldick-literary-terms-2015",
+      "location": "Entry: 'misery memoir'",
+      "evidence_expression": "paraphrase",
+      "note": "Reference-work recognition that the term is applied pejoratively to first-person trauma narratives."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Memoir, personal essay, long-form blog, and serialized first-person writing.",
+  "exceptions": [
+    "Clinical or documentary registers where the reader has contracted for unsparing detail and the disclosure is not framed as intimacy."
+  ],
+  "confidence": "moderate",
+  "report_locations": ["tones/intimate.md#4--when-to-show-restraint", "tones/intimate.md#7--failure-modes-and-revision"],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "clm-reader-promise",
+  "craft_claim": "Opening pages establish a binding implicit contract (reader promise) regarding tone, stakes, narrative distance, and emotional payoff.",
+  "axis_ids": [
+    "axis-fantasy-fiction",
+    "axis-science-fiction",
+    "axis-space-opera"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-burroway-writing-fiction-2019",
+      "location": "Chapter 7: Play It Again, Sam, pp. 201-224",
+      "evidence_expression": "paraphrase",
+      "note": "Burroway shows how beginnings establish the contract of style, subject, and form that the climax must honor."
+    },
+    {
+      "evidence_id": "work-chronicle-death-foretold",
+      "location": "Opening sentence",
+      "evidence_expression": "quotation",
+      "note": "First sentence announces death of protagonist, committing the novel to an investigative forensic structure rather than a rescue suspense."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "All written prose and scripted forms.",
+  "exceptions": [
+    "Intentional bait-and-switch structures in experimental fiction, which risk reader alienation if unearned."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "03-reader-promise-and-emotional-engine.md#reader-promise-and-emotional-engine-preferred_label",
+    "10-titles-openings-climaxes-and-endings.md#titles-openings-climaxes-and-endings-preferred_label"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-12"
+}

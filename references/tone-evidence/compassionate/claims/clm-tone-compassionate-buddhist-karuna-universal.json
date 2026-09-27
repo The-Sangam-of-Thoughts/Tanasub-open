@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-compassionate-buddhist-karuna-universal",
+  "craft_claim": "Buddhist karuna is a cultivated, impartial wish that others be free of suffering — one of the brahmaviharas — defined against pity and sentimental attachment, so the Buddhist tradition grounds a universal-scope, obligation-bearing compassionate voice.",
+  "tone_ids": [
+    "tone-compassionate"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-compassionate-buddhaghosa-visuddhimagga-1975",
+      "location": "Path of Purification, brahmavihara chapters on karuna and its near and far enemies",
+      "evidence_expression": "synthesis",
+      "note": "Buddhaghosa defines karuna as the wish that others be free of suffering, lists it among the four sublime abidings, and names its near enemy as grief/sentimental attachment and its far enemy as cruelty."
+    },
+    {
+      "evidence_id": "src-compassionate-shantideva-bodhicaryavatara-1997",
+      "location": "Chapters on equalizing self and other and exchanging self for other",
+      "evidence_expression": "synthesis",
+      "note": "Santideva reasons toward impartial compassion that extends to those who harm the practitioner, supplying the rhetoric of universal scope."
+    },
+    {
+      "evidence_id": "src-compassionate-lutz-2008",
+      "location": "PLoS ONE 3(3):e1897, compassion meditation and emotional reactivity",
+      "evidence_expression": "synthesis",
+      "note": "Compassion meditation altered emotional reactivity and was associated with prosociality, consistent with the tradition's claim that compassion is trainable."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-compassionate-sep-mencius-2024",
+      "note": "Section C lists 'whether compassion is a universal emotion or a culturally shaped virtue' as an open question, and section E warns that the Confucian analogue (ren) is a broader, role-bound virtue that must not be universalized into a generic compassion, so the universal scope here is the Buddhist text's own claim rather than an established cross-cultural result."
+    }
+  ],
+  "scope": "Universal-scope compassionate voice; Indian/regional and comparative contexts.",
+  "exceptions": [
+    "Sequestered monastic or ritual settings where the cultivation is staged as practice rather than public prose."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/compassionate.md#8--cultural-scope",
+    "tones/compassionate.md#2--why-it-works--the-mechanism"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "src-grim-burke-tmt-meta-2010",
+  "title": "Two Decades of Terror Management Theory: A Meta-Analysis of Mortality Salience Research",
+  "creators": [
+    "Brian L. Burke",
+    "Andy Martens",
+    "Erik H. Faucher"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Personality and Social Psychology Review, Vol. 14, No. 2",
+    "published_date": "2010",
+    "edition": null,
+    "doi": "10.1177/1088868309352321",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "New Zealand",
+    "Canada"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1177/1088868309352321",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-grim)",
+    "verification_notes": "Bibliographic record confirmed via Crossref (DOI 10.1177/1088868309352321); content scope taken from the published abstract, which reports meta-analytic mortality-salience effects and moderator conditions. Full text not directly inspected."
+  },
+  "axis_ids": [
+    "tone-grim"
+  ],
+  "claim_ids": [
+    "clm-tone-grim-mortality-salience"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Sage journal article; analytical citation only."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "work-woolf-death-of-the-moth",
+  "title": "The Death of the Moth",
+  "creators": [
+    "Virginia Woolf"
+  ],
+  "work_type": "essay",
+  "published_date": "1942",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "England"
+  ],
+  "axis_ids": [
+    "tone-reflective"
+  ],
+  "period_role": "modern",
+  "source_id": null,
+  "access": {
+    "edition_or_version": "Collected in The Death of the Moth and Other Essays (Hogarth Press, 1942, posthumous; collection imprint verified 2026-09-24); in copyright — describe only.",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "two-beat shape: sustained concrete watching first, then assessment — never the reverse order",
+      "abstraction ('life', 'death') enters only after the scene has earned it and stays tied to the single specimen",
+      "no thesis and no lesson: reflection ends where the observation ends",
+      "staccato present-tense observation flowing into longer meditative periods"
+    ],
+    "point_of_view": "Close observer of a watched insect, widening to mortality, then returning to the particular — distance moves out and back rather than staying abstract.",
+    "tense_and_structure": "Present-tense watching drives the scene; reflective generalization shifts to a gnomic present that never detaches from the window, the pane, the day.",
+    "rhythm_and_cadence": "Short observation clauses alternating with longer meditative periods; the sentence expands exactly where the meditation deepens.",
+    "psychic_distance": "Near (the moth) to far (mortality) and back again — the oscillation itself keeps the reflection from preaching.",
+    "style_and_devices": "Sustained metaphor of the moth as combatant/actor; 'life' dramatized through one body rather than asserted.",
+    "copyright_note": "In copyright (1942). Described by technique only; no passage reproduced."
+  }
+}

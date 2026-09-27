@@ -1,0 +1,57 @@
+{
+  "id": "src-compassionate-goetz-2010",
+  "title": "Compassion: An evolutionary analysis and empirical review",
+  "creators": [
+    "Jennifer L. Goetz",
+    "Dacher Keltner",
+    "Emiliana Simon-Thomas"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychological Bulletin, vol. 136, no. 3, pp. 351-374",
+    "published_date": "2010",
+    "edition": null,
+    "doi": "10.1037/a0018807",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1037/a0018807",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-compassionate)",
+    "verification_notes": "Crossref bibliographic query confirmed title, authors, journal, volume, issue, pages, year, and DOI. Note: an earlier recalled DOI was wrong; the confirmed DOI is 10.1037/a0018807."
+  },
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "claim_ids": [
+    "clm-tone-compassionate-distinct-from-empathy"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical citation only."
+  }
+}

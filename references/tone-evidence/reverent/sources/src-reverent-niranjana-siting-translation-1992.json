@@ -1,0 +1,56 @@
+{
+  "id": "src-reverent-niranjana-siting-translation-1992",
+  "title": "Siting Translation: History, Post-Structuralism, and the Colonial Context",
+  "creators": [
+    "Tejaswini Niranjana"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "craft-support",
+    "indian-context"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "University of California Press",
+    "published_date": "1992",
+    "edition": null,
+    "doi": null,
+    "isbn": "9780520074507"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "India",
+    "United States"
+  ],
+  "access": {
+    "locator": "https://www.ucpress.edu/book/9780520074507/siting-translation",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reverent)",
+    "verification_notes": "Author, title, publisher, and year verified via Open Library and University of California Press catalogue. Cited by the Akka Mahadevi scholarship as critiquing Ramanujan's vachana translations for rendering them into modern universalist poetry consumable by the West - grounds the translation-limits claim."
+  },
+  "axis_ids": [
+    "tone-reverent",
+    "axis-vachana-poetry"
+  ],
+  "claim_ids": [
+    "clm-tone-reverent-translation-limits"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scholarly book; analytical citation only; no passages reproduced."
+  }
+}

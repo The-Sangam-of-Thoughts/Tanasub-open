@@ -1,0 +1,34 @@
+{
+  "id": "clm-tone-intimate-free-indirect-consciousness",
+  "craft_claim": "Consonant self-narration and free indirect style collapse psychic distance so that a character's interiority reaches the reader without an omniscient intermediary.",
+  "tone_ids": ["tone-intimate"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-intimate-cohn-transparent-minds-1978",
+      "location": "Chapters 1-2 on quoted monologue and consonant versus dissonant self-narration",
+      "evidence_expression": "paraphrase",
+      "note": "Cohn classifies narrative modes for presenting consciousness and shows how consonant self-narration fuses the narrating and experiencing selves, minimizing authorial distance."
+    },
+    {
+      "evidence_id": "clm-point-of-view-psychic-distance",
+      "location": "Shared claim record (read-only cross-link)",
+      "evidence_expression": "synthesis",
+      "note": "Existing repo claim establishes that psychic distance can be modulated continuously from detached staging to intense neurological interiority."
+    },
+    {
+      "evidence_id": "src-wood-how-fiction-works-2008",
+      "location": "Chapter 1, 'Narrating' (shared source, read-only cross-link)",
+      "evidence_expression": "paraphrase",
+      "note": "Free indirect style merges authorial diction with character idiom, producing intimacy and ironic sympathy at once."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Prose fiction, especially close third and first person.",
+  "exceptions": [
+    "Camera-eye objective narration, which withholds interiority by design and belongs to tone-detached."
+  ],
+  "confidence": "strong",
+  "report_locations": ["tones/intimate.md#5--how-to-use-it--operators"],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

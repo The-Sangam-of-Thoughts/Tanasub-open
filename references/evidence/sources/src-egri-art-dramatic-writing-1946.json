@@ -1,0 +1,59 @@
+{
+  "id": "src-egri-art-dramatic-writing-1946",
+  "title": "The Art of Dramatic Writing: Its Basis in the Creative Interpretation of Human Motives",
+  "creators": [
+    "Lajos Egri"
+  ],
+  "source_type": "craft-book",
+  "source_roles": [
+    "craft-support",
+    "definition"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Simon & Schuster",
+    "published_date": "1946",
+    "edition": "First Edition",
+    "doi": null,
+    "isbn": "978-0671213329"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://www.simonandschuster.com/books/The-Art-of-Dramatic-Writing/Lajos-Egri/9780671213329",
+    "accessed_at": "2026-09-12",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-12T15:20:00Z",
+    "verified_by": "Codex S10 foundation evidence agent",
+    "verification_notes": "Directly verified premise formulation ('X leads to Y'), character tridimensionality (physiology, sociology, psychology), orchestration, and dynamic conflict."
+  },
+  "axis_ids": [
+    "axis-nataka-drama",
+    "axis-prakarana-drama",
+    "axis-feature-screenplay"
+  ],
+  "claim_ids": [
+    "clm-premise-dialectic",
+    "clm-character-desire-urgency",
+    "clm-character-orchestration",
+    "clm-passive-protagonist-defect"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Classic craft text; citation only."
+  }
+}

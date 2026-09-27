@@ -1,0 +1,35 @@
+{
+  "id": "work-notes-of-a-native-son",
+  "title": "Notes of a Native Son",
+  "creators": [
+    "James Baldwin"
+  ],
+  "work_type": "essay collection",
+  "published_date": "1955",
+  "languages": [
+    "en"
+  ],
+  "regions": [],
+  "axis_ids": [
+    "tone-lyrical"
+  ],
+  "period_role": "canonical",
+  "source_id": "src-lyrical-hubbard-sermon-1994",
+  "access": {
+    "edition_or_version": "Essay collection, 1955; the dossier does not name a consulted edition",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": null
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "parallelism: periodic parallel clauses build cumulative pressure before a turn",
+      "refrain: key phrases return, and their sound anchors the argument",
+      "sermonic cadence carrying argument rather than decorating it"
+    ],
+    "rhythm_and_cadence": "Sermonic cadence with accumulating parallel clauses and a deliberate turn; referred to by technique only (dossier section D).",
+    "scope_note": "Region is not stated in the dossier and is recorded as [] rather than inferred; no edition, publisher, or page data was added.",
+    "verification_note": "Essay collection verified; cadence corroborated by Hubbard 1994; described, not quoted (dossier section F)."
+  }
+}

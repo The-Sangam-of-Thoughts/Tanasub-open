@@ -1,0 +1,56 @@
+{
+  "id": "src-defiant-dillard-shen-2005",
+  "title": "On the Nature of Reactance and its Role in Persuasive Health Communication",
+  "creators": [
+    "James Price Dillard",
+    "Lijiang Shen"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support",
+    "definition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Communication Monographs, Vol. 72, No. 2",
+    "published_date": "2005",
+    "edition": null,
+    "doi": "10.1080/03637750500111815",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1080/03637750500111815",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-defiant)",
+    "verification_notes": "Bibliographic record and abstract confirmed via DOI and reference records; the study models reactance as intertwined cognition and affect, measurable by self-report."
+  },
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "claim_ids": [
+    "clm-tone-defiant-reactance-restoration",
+    "clm-tone-defiant-dosage-yield"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Taylor & Francis journal article; analytical citation only."
+  }
+}

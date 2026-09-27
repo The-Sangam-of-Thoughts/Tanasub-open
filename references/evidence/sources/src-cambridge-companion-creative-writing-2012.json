@@ -1,0 +1,55 @@
+{
+  "id": "src-cambridge-companion-creative-writing-2012",
+  "title": "The Cambridge Companion to Creative Writing",
+  "creators": [
+    "David Morley",
+    "Philip Neilsen"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "definition"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Cambridge University Press",
+    "published_date": "2012",
+    "edition": "1st edition",
+    "doi": "10.1017/CCOL9780521768498",
+    "isbn": "978-0521768498"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "global"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1017/CCOL9780521768498",
+    "accessed_at": "2026-09-12",
+    "access_conditions": "licensed"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-12T13:00:00Z",
+    "verified_by": "Codex S05 taxonomy harvest agent",
+    "verification_notes": "Directly verified against Cambridge Companion chapters on digital narrative, flash fiction, and new media poetics."
+  },
+  "axis_ids": [
+    "axis-interactive-fiction",
+    "axis-flash-fiction",
+    "axis-solarpunk"
+  ],
+  "claim_ids": [],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scholarly companion; metadata and taxonomy recognition citation only."
+  }
+}

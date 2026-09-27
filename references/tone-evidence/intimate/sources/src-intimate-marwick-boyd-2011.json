@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-marwick-boyd-2011",
+  "title": "I tweet honestly, I tweet passionately: Twitter users, context collapse, and the imagined audience",
+  "creators": ["Alice E. Marwick", "danah boyd"],
+  "source_type": "peer-reviewed-article",
+  "source_roles": ["recognition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "New Media & Society",
+    "published_date": "2011-02",
+    "edition": "Vol. 13, No. 1, pp. 114-133",
+    "doi": "10.1177/1461444810365313",
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://journals.sagepub.com/doi/10.1177/1461444810365313",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "SAGE record, DOI, and abstract verified; the concepts of context collapse and the imagined audience, and the associated 'performance of backstage access' literature, confirmed."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-manufactured-authenticity"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "SAGE journal article; analytical paraphrase only, no text reproduced."
+  }
+}

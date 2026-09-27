@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://creative-writing-library.local/schemas/v1/package-manifest.schema.json",
+  "title": "Axis Package Manifest",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["package_id", "axis_id", "canonical_path", "version", "taxonomy_freeze_date", "lifecycle_status", "files", "source_ids", "primary_work_ids", "claim_ids", "required_predecessors", "generated_at"],
+  "properties": {
+    "package_id": {"type": "string", "pattern": "^pkg-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+    "axis_id": {"type": "string", "pattern": "^axis-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+    "canonical_path": {"type": "string", "pattern": "^(?:04_Genres|05_Subgenres)/[a-z0-9]+(?:-[a-z0-9]+)*/$"},
+    "version": {"type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$"},
+    "taxonomy_freeze_date": {"type": ["string", "null"], "format": "date"},
+    "lifecycle_status": {"enum": ["identified", "taxonomy-verified", "researching", "evidence-incomplete", "evidence-complete", "analysis-complete", "drafted", "editorially-reviewed", "published", "revision-required"]},
+    "files": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["path", "artifact_type", "sha256", "status"],
+        "properties": {
+          "path": {"type": "string", "pattern": "^[^\\\\]+\\.md$"},
+          "artifact_type": {"enum": ["core-guide", "mandatory-analysis", "close-reading", "comparison", "reception-analysis", "package-manifest", "genre-map", "research-question-map", "source-dossier", "claim-matrix", "primary-work-analysis", "exercise", "index"]},
+          "sha256": {"type": ["string", "null"], "pattern": "^[a-f0-9]{64}$"},
+          "status": {"enum": ["shell", "in-progress", "complete", "revision-required"]}
+        }
+      },
+      "minItems": 1
+    },
+    "source_ids": {"type": "array", "items": {"type": "string", "pattern": "^src-[a-z0-9]+(?:-[a-z0-9]+)*$"}, "uniqueItems": true},
+    "primary_work_ids": {"type": "array", "items": {"type": "string", "pattern": "^work-[a-z0-9]+(?:-[a-z0-9]+)*$"}, "uniqueItems": true},
+    "claim_ids": {"type": "array", "items": {"type": "string", "pattern": "^clm-[a-z0-9]+(?:-[a-z0-9]+)*$"}, "uniqueItems": true},
+    "required_predecessors": {"type": "array", "items": {"type": "string", "pattern": "^S(?:0[0-9]|[12][0-9]|3[0-9])(?:\\.[1-3])?$"}, "uniqueItems": true},
+    "generated_at": {"type": "string", "format": "date-time"}
+  }
+}

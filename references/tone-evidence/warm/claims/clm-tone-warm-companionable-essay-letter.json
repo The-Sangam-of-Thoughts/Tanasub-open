@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-warm-companionable-essay-letter",
+  "craft_claim": "The familiar essay and familiar letter codify a conversational, direct-address, equal-standing register that is the historical home of the warm narrator.",
+  "tone_ids": [
+    "tone-warm"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-warm-montaigne-essais-1580",
+      "location": "Essais (1580), 'To the Reader'",
+      "evidence_expression": "paraphrase",
+      "note": "Montaigne addresses an unknown reader directly, presents the book as informal and unpolished, promises plainness without artifice, and closes with a friendly farewell; commentators describe the style as conversational."
+    },
+    {
+      "evidence_id": "src-warm-cicero-familiares-1928",
+      "location": "Epistulae ad Familiares, Books I-XVI (letters 62-43 BCE)",
+      "evidence_expression": "synthesis",
+      "note": "Cicero's letters to friends and family established the familiar epistle as plain, affectionate, direct address among equals, later collected and published by his freedman Tiro."
+    },
+    {
+      "evidence_id": "work-bird-by-bird",
+      "location": "Bird by Bird (1994)",
+      "evidence_expression": "synthesis",
+      "note": "A contemporary instructional book sustaining the familiar-essay voice: first-person anecdote, direct address and self-deprecation rather than expert distance."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-warm-montaigne-essais-1580",
+      "note": "Montaigne's own preface claims the essays were written privately for family and friends, complicating any reading of the familiar voice as a purely public technique."
+    }
+  ],
+  "scope": "Essay, letter, column, newsletter and instructional non-fiction.",
+  "exceptions": [
+    "Formal treatise and academic argument, where the familiar register may breach expectations of distance."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/warm.md#1--definition-and-boundaries",
+    "tones/warm.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

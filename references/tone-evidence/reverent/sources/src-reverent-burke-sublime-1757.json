@@ -1,0 +1,55 @@
+{
+  "id": "src-reverent-burke-sublime-1757",
+  "title": "A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful",
+  "creators": [
+    "Edmund Burke"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "R. and J. Dodsley, London",
+    "published_date": "1757",
+    "edition": "First edition; later revised editions 1759 and 1764",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom",
+    "Ireland"
+  ],
+  "access": {
+    "locator": "https://www.gutenberg.org/ebooks/15043",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reverent)",
+    "verification_notes": "Confirmed publication (1757) and public-domain availability via Project Gutenberg. Used for the distinction of the sublime from the beautiful and its association with terror, obscurity, and magnitude - the philosophical grounding of the grandeur mechanism."
+  },
+  "axis_ids": [
+    "tone-reverent"
+  ],
+  "claim_ids": [
+    "clm-tone-reverent-sublime-cadence"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": true,
+    "notes": "Public domain; analytical citation only in this dossier; no passages reproduced."
+  }
+}

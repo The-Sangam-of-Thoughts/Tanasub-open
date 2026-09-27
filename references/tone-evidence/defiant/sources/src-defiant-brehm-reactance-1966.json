@@ -1,0 +1,55 @@
+{
+  "id": "src-defiant-brehm-reactance-1966",
+  "title": "A Theory of Psychological Reactance",
+  "creators": [
+    "Jack W. Brehm"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Academic Press",
+    "published_date": "1966",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://en.wikipedia.org/wiki/Reactance_(psychology)",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-defiant)",
+    "verification_notes": "Foundational monograph confirmed via reference records and review literature citing Brehm 1966, Academic Press; full text not inspected directly, bibliographic identity and core theory confirmed."
+  },
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "claim_ids": [
+    "clm-tone-defiant-reactance-restoration"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Academic Press monograph; analytical citation only."
+  }
+}

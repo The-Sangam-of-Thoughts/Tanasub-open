@@ -1,0 +1,48 @@
+{
+  "id": "work-wodehouse-code-woosters",
+  "title": "The Code of the Woosters",
+  "creators": [
+    "P. G. Wodehouse"
+  ],
+  "work_type": "novel",
+  "published_date": "1938",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom"
+  ],
+  "axis_ids": [
+    "tone-comedic"
+  ],
+  "period_role": "canonical",
+  "source_id": "src-comedic-bergson-laughter-1900",
+  "access": {
+    "edition_or_version": "First edition, Herbert Jenkins, 1938 (serialised in The Saturday Evening Post, 1938)",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "Bertie Wooster is pressed by an imperious aunt to recover an object that has fallen into a country house, and intervenes in a friend's engagement, drawing him into an escalating tangle of social obligation.",
+    "reader_promise": "Effortless comic entertainment: an unpanicked narrator, elegant prose, and a farcical plot that tightens rather than merely accumulates gags.",
+    "opening": "A domestic morning interrupted by an imperious summons, establishing the narrator's wry, mock-formal register before the plot thickens.",
+    "point_of_view": "First-person narration by the amiable, under-informed Bertie; comic distance is produced by his refusal to panic and his misjudged confidence.",
+    "character_system": "Bertie (narrator and bumbler), Jeeves (competent fixer), Aunt Dahlia (imperious obligation), and a set of friends and rivals whose schemes collide.",
+    "conflict_and_stakes": "Low material stakes inflated by social dread: an aunt's displeasure, a friend's engagement, an object to retrieve. The comedy depends on the narrator treating trivia with mock gravity.",
+    "structure": "Escalating farce: each solution creates a new complication, so the plot heightens one social game rather than adding unrelated episodes.",
+    "comic_system": "Mock-formal narration, mixed-register diction, scale clashes (understatement and inflated formality), and wordplay; verbal comedy serves a plot engineered as a clockwork mechanism.",
+    "dialogue": "Characterful speech in which status, pomposity, and panic are voiced through diction; the narrator's summaries compress and misread events for comic effect.",
+    "setting": "English country house and London clubland, used as a closed social stage that concentrates farcical collisions.",
+    "style_and_devices": "Elaborate periodic sentences resolved by a short comic turn; allusive and slangy diction in tension; running comic motifs and callbacks.",
+    "emotional_progression": "Genial bafflement -> deepening entanglement -> apparent ruin -> tidy resolution, held throughout in an unpanicked register.",
+    "comic_escalation": "Heightening by complication and repetition of the same social rule, consistent with escalation/heightening and incongruity-resolution.",
+    "climax": "A confrontation in which the accumulated obligations collide and are resolved by the competent fixer.",
+    "ending": "Social order restored; the narrator's misreading is corrected with dignity intact.",
+    "conventions": "Draws on the country-house farce and the comedy of manners while keeping its target diffuse rather than a single institution.",
+    "innovation_or_subversion": "Raises prose style and narrative voice to the level of the comic machinery, making syntax itself a joke-delivery device.",
+    "critical_reception": "Widely regarded as a comic masterpiece; its prose technique is discussed in contemporary criticism (New Criterion; European Journal of English Studies).",
+    "audience_reception": "Enduring popular readership and adaptations; Jeeves and Wooster remain a cultural archetype."
+  }
+}

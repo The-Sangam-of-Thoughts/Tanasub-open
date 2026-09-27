@@ -1,0 +1,42 @@
+{
+  "id": "work-winnie-the-pooh",
+  "title": "Winnie-the-Pooh",
+  "creators": [
+    "A. A. Milne",
+    "E. H. Shepard"
+  ],
+  "work_type": "children's story collection",
+  "published_date": "1926",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom"
+  ],
+  "axis_ids": [
+    "tone-whimsical"
+  ],
+  "period_role": "formative",
+  "source_id": null,
+  "access": {
+    "edition_or_version": "First edition, Methuen (London) / E. P. Dutton (US), 14 October 1926",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "Ten self-contained stories about a teddy bear and his friends in an invented woodland, presented by a narrator telling them to a child.",
+    "point_of_view": "Third-person narrator who addresses the child reader directly and co-plays the stories.",
+    "invented_world_and_props": "A small, self-contained woodland populated by invented creatures whose behaviour is internally consistent, functioning as props the reader imagines into.",
+    "play_frame": "Each episode is framed as a story being told, so impossible or absurd events are enjoyed without being treated as falsehoods.",
+    "psychic_distance": "A mock-naive, wide-eyed stance that renders the ordinary as gently strange rather than ironic.",
+    "style_and_devices": "Light, readable prose; invented creatures and neologisms; understatement; comic misapprehension played straight.",
+    "emotional_progression": "Gentle puzzle or mishap -> comic complication -> warm resolution; the register stays affectionate throughout.",
+    "dialogue": "Domestic, childlike exchanges whose humour comes from literal-minded misunderstanding rather than punchlines.",
+    "conventions": "Established the twentieth-century children's fantasy of an isolated, habitable invented world.",
+    "innovation_or_subversion": "Sustains delight in invention with almost no appeal to danger or moral; later critics debate whether its remoteness is a humane refuge or an evasion of weight.",
+    "critical_reception": "Commercial and critical success on publication (150,000 copies that year); later readings range from Edenic Arcadia to feminist critique of its gender representation.",
+    "audience_reception": "Enduring global classic; adapted widely, including an authorized 2022 US public-domain entry."
+  }
+}

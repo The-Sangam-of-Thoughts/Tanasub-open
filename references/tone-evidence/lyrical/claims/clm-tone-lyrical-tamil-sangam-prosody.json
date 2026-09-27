@@ -1,0 +1,31 @@
+{
+  "id": "clm-tone-lyrical-tamil-sangam-prosody",
+  "craft_claim": "Tamil Sangam poetics encodes meaning in metre and in situation (akam/puram), integrating sound and sense rather than treating sound as surface.",
+  "tone_ids": [
+    "tone-lyrical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-ramanujan-interior-landscape-1967",
+      "location": "The Interior Landscape (Indiana University Press), introduction and translations (cross-link)",
+      "evidence_expression": "synthesis",
+      "note": "Ramanujan presents classical Tamil Sangam poetry organized by metre and by the akam (interior/love) and puram (exterior/public) situations, where form and situation jointly constitute meaning."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-ramanujan-interior-landscape-1967",
+      "note": "Ramanujan's English renderings privilege image and situation over Tamil sound; the prosodic dimension is largely lost, so the sound-claim is limited in translation."
+    }
+  ],
+  "scope": "Tamil classical poetry and comparative prosody.",
+  "exceptions": [
+    "Claims about Tamil sound-rhythm cannot be transferred to English-language composition."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/lyrical.md#8--cultural-scope"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

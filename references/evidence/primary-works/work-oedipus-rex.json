@@ -1,0 +1,50 @@
+{
+  "id": "work-oedipus-rex",
+  "title": "Oedipus Rex",
+  "creators": [
+    "Sophocles"
+  ],
+  "work_type": "play",
+  "published_date": null,
+  "languages": [
+    "grc"
+  ],
+  "regions": [
+    "Greece",
+    "Europe"
+  ],
+  "axis_ids": [
+    "axis-detective-and-mystery-fiction",
+    "axis-feature-screenplay"
+  ],
+  "period_role": "formative",
+  "source_id": "src-aristotle-poetics-1996",
+  "access": {
+    "edition_or_version": "Penguin Classics translated by Robert Fagles",
+    "language_used": "en",
+    "translator": "Robert Fagles",
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A ruler determined to purge plague from his city vows to uncover the prior king's murderer, only to discover he is the perpetrator.",
+    "reader_promise": "Rigorous dramatic irony where audience knowledge creates mounting suspense as the protagonist pursues his own doom.",
+    "opening": "The priest and supplicants appeal to Oedipus before the royal palace; established as benevolent and decisive protector.",
+    "point_of_view": "Dramatic external presentation with chorus reflecting civic and moral witness.",
+    "character_system": "Oedipus (relentless investigator), Creon (pragmatic foil), Tiresias (reluctant seer), Jocasta (desperate mediator).",
+    "conflict_and_stakes": "Public survival of Thebes versus catastrophic personal revelation and guilt.",
+    "structure": "Single-location, real-time escalation governed by progressive witness interrogation.",
+    "scene_movement": "Every scene pushes Oedipus closer to unmasking through reluctant testimonies.",
+    "dialogue": "Stichomythic interrogation where questions double as unintentional self-incriminations.",
+    "setting": "Thebes under metaphysical blight; exterior palace threshold holding civic boundary.",
+    "style_and_devices": "Dramatic irony, stichomythia, metaphorical blindness versus physical vision.",
+    "emotional_progression": "From confident civic authority to defensive paranoia, horrified comprehension, and blinding grief.",
+    "suspense_or_anticipation": "Audience watches Oedipus systematically dismantle every defense protecting him from truth.",
+    "climax": "The herdsman reveals the child given to the Corinthian messenger was Laius's son; Oedipus realizes total fulfillment of prophecy.",
+    "ending": "Self-blinding of Oedipus, exile from Thebes; chorus concludes that no mortal can be accounted happy until death.",
+    "conventions": "Aristotelian unity of action, time, and place; peripeteia coincident with anagnorisis.",
+    "innovation_or_subversion": "Inverts conventional hero triumphant over external riddle into hero destroyed by resolving his own mystery.",
+    "critical_reception": "Praised by Aristotle as the quintessential Greek tragedy of causal necessity and tragic recognition.",
+    "audience_reception": "Universal enduring benchmark for fatalistic causal architecture and dramatic reversal."
+  }
+}

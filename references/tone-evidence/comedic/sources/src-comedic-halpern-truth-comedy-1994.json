@@ -1,0 +1,55 @@
+{
+  "id": "src-comedic-halpern-truth-comedy-1994",
+  "title": "Truth in Comedy: The Manual of Improvisation",
+  "creators": [
+    "Charna Halpern",
+    "Del Close",
+    "Kim Howard Johnson"
+  ],
+  "source_type": "practitioner-work",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 4,
+  "publication": {
+    "publisher_or_container": "Meriwether Publishing",
+    "published_date": "1994",
+    "edition": "First edition",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "Meriwether Publishing / library record",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-comedic)",
+    "verification_notes": "Widely cited improvisation manual whose 'game' and 'heightening' concepts underlie modern comic-scene construction; existence and 1994 publication verified via publisher and catalogue listings. Used only as Tier 4 practitioner support for escalation, triangulated with incongruity theory."
+  },
+  "axis_ids": [
+    "tone-comedic"
+  ],
+  "claim_ids": [
+    "clm-tone-comedic-escalation-heightening"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Practitioner manual; citation and paraphrase only."
+  }
+}

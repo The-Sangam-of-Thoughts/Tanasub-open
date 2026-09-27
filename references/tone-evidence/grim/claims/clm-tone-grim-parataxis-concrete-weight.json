@@ -1,0 +1,43 @@
+{
+  "id": "clm-tone-grim-parataxis-concrete-weight",
+  "craft_claim": "Spare parataxis—short clauses, concrete nouns, few evaluative adjectives—transfers the burden of feeling to the reader and produces unsentimental weight; naming the emotion directly dissipates it.",
+  "tone_ids": [
+    "tone-grim"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-grim-bell-mccarthy-1988",
+      "location": "The Achievement of Cormac McCarthy, chapters on style and the border novels",
+      "evidence_expression": "synthesis",
+      "note": "Bell's study treats McCarthy's spare, declarative, image-driven prose and withheld commentary as central to the moral pressure of the work; the reader supplies the judgement the narration refuses."
+    },
+    {
+      "evidence_id": "work-blood-meridian",
+      "location": "Whole novel; desert and atrocity sequences",
+      "evidence_expression": "synthesis",
+      "note": "The prose records violence as world-fact through concrete noun catalogues and minimal evaluative language; dread and judgement are produced in the reader rather than asserted by the narrator."
+    },
+    {
+      "evidence_id": "work-the-road",
+      "location": "Whole novel; ash landscape and father-son sequences",
+      "evidence_expression": "synthesis",
+      "note": "Very short declarative sentences and stripped dialogue carry attachment and doom without stating either; tenderness survives because the surface refuses to plead."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-grim-oliver-raney-eudaimonic-2011",
+      "note": "Section G 'Tonal monotony': unrelieved grimness without contrast habituates and the voice stops signalling, so spare parataxis and concrete catalogues produce weight only while the surface is still doing signalling work; section H item 5 makes contrast, not the catalogue, what restores the register's capacity to mean."
+    }
+  ],
+  "scope": "Prose fiction, memoir, and reportage that seeks unsentimental weight.",
+  "exceptions": [
+    "Some traditions (for example high rhetorical lament) deliberately work through elaborate, patterned language; the technique is a choice, not a universal rule."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/grim.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

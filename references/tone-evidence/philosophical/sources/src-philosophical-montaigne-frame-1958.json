@@ -1,0 +1,59 @@
+{
+  "id": "src-philosophical-montaigne-frame-1958",
+  "title": "The Complete Essays of Montaigne",
+  "creators": [
+    "Michel de Montaigne",
+    "Donald M. Frame"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Stanford University Press",
+    "published_date": "1958",
+    "edition": "English translation of the Essais (1580-1595)",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "regions": [
+    "France"
+  ],
+  "access": {
+    "locator": "https://www.sup.org/books/theory-and-philosophy/complete-essays-montaigne",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-philosophical)",
+    "verification_notes": "Confirmed Montaigne's coinage of the essai as an 'attempt' or trial, the 1580-1595 publication span, and the Frame translation as a standard English edition preserving Montaigne's rhythms."
+  },
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "claim_ids": [
+    "clm-tone-philosophical-essai-provisional"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "fr",
+    "translator": "Donald M. Frame",
+    "limitations": [
+      "Claims about French rhythm and diction require the original; only structure and argumentative stance are cited here."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": false,
+    "notes": "Original Essais are public domain; Frame translation is copyrighted; no passages reproduced."
+  }
+}

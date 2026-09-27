@@ -1,0 +1,59 @@
+{
+  "id": "src-irreverent-mcgraw-warren-2010",
+  "title": "Benign Violations: Making Immoral Behavior Funny",
+  "creators": [
+    "A. Peter McGraw",
+    "Caleb Warren"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychological Science, Vol. 21, No. 8",
+    "published_date": "2010",
+    "edition": "pp. 1141-1149",
+    "doi": "10.1177/0956797610376073",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1177/0956797610376073",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "Authors, journal, volume, issue, pages, year, and DOI confirmed via Crossref on 2026-09-24; abstract confirms five experiments and the three benignity conditions (alternative norm, weak commitment to the violated norm, psychological distance). Abstract-level citation only; full text not consulted."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [
+    "clm-tone-irreverent-benign-violation-register",
+    "clm-tone-irreverent-deflation-expectation",
+    "clm-tone-irreverent-co-conspirator-distance",
+    "clm-tone-irreverent-taboo-register-breach"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "SAGE journal article; abstract paraphrased only, no text reproduced."
+  }
+}

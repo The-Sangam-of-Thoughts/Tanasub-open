@@ -1,0 +1,54 @@
+{
+  "id": "src-cynical-fein-suspicion-1996",
+  "title": "Effects of suspicion on attributional thinking and the correspondence bias",
+  "creators": [
+    "Steven Fein"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Personality and Social Psychology",
+    "published_date": "1996",
+    "edition": "Vol. 70, No. 6, pp. 1164-1184",
+    "doi": "10.1037/0022-3514.70.6.1164",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1037/0022-3514.70.6.1164",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-cynical)",
+    "verification_notes": "Metadata (author, journal, volume/issue/pagination 70(6):1164-1184, DOI) confirmed via Crossref API query, 2026-09-24. The study shows that induced suspicion prompts perceivers to consider ulterior motives and reduces the correspondence bias, i.e. suspicion is a cognitively active, motive-hunting stance rather than mere negativity. Full text not re-inspected; no passage quoted."
+  },
+  "axis_ids": [
+    "tone-cynical"
+  ],
+  "claim_ids": [
+    "clm-tone-cynical-distrust-attribution"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical citation only, no text reproduced."
+  }
+}

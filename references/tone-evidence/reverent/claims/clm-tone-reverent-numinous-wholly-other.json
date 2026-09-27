@@ -1,0 +1,33 @@
+{
+  "id": "clm-tone-reverent-numinous-wholly-other",
+  "craft_claim": "A reverent passage is aimed at an object the speaker experiences as beyond full grasp; if the narrator has fully captured, explained, or priced the object, the register is borrowed rather than reverent.",
+  "tone_ids": [
+    "tone-reverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-reverent-otto-idea-holy-1917",
+      "location": "The Idea of the Holy, chs. II-VI",
+      "evidence_expression": "paraphrase",
+      "note": "Otto names the numinous as a non-rational, non-sensory state whose object is ganz Andere ('wholly other'), analysed as mysterium tremendum et fascinans - daunting and compelling at once - and as sui generis."
+    },
+    {
+      "evidence_id": "work-four-quartets",
+      "location": "Four Quartets, recurrence of the 'still point' and imagery of fire and rose",
+      "evidence_expression": "synthesis",
+      "note": "Eliot's meditation repeatedly circles a reality it cannot state directly, letting figures approach what the poem declines to define."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Recognition criterion for distinguishing genuine sacred attention from performed solemnity; applies across devotional and secular-profound prose.",
+  "exceptions": [
+    "Teaching or exegetical passages may name and analyse the sacred without dissolving it, provided the analysis acknowledges its own limits."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/reverent.md#1--definition-and-boundaries",
+    "tones/reverent.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

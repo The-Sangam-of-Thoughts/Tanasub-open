@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-irreverent-carnival-debasement",
+  "craft_claim": "Carnivalesque irreverence works by temporarily dragging the lofty down into material, bodily, or mundane terms for the duration of a sanctioned frame, after which ordinary hierarchy resumes.",
+  "tone_ids": [
+    "tone-irreverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-irreverent-bakhtin-rabelais-1968",
+      "location": "p. 10 carnival framing paragraph (pagination verified via peer-reviewed citations; chapter-level locators unverified)",
+      "evidence_expression": "paraphrase",
+      "note": "The carnival frame is described as a temporary inversion with defined duration and place — the lofty is brought down while the festival lasts, then restored."
+    },
+    {
+      "evidence_id": "work-gargantua-pantagruel",
+      "location": "Composite text via Project Gutenberg ebook #1200; analysis rests on Bakhtin's reading, chapter locators unverified",
+      "evidence_expression": "synthesis",
+      "note": "The giant-body comic mode punctures knightly, clerical, and scholastic pomp through appetite and excess — debasement of the elevated to the physical, per the Bakhtin-mediated reading (work analysis_status: partial)."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-irreverent-bakhtin-rabelais-1968",
+      "note": "Locator limits are material: only the p. 10 paragraph was verified, and no source in this silo documents the scholarly debate over Bakhtin's singular reading of Rabelais — that reception question is recorded as evidence-incomplete rather than asserted either way."
+    }
+  ],
+  "scope": "Festival- and parody-framed prose that invokes a recognized carnival license (comic anarchy, bodily deflation of dignitaries); chiefly long-form comic fiction and festive satire-adjacent narration.",
+  "exceptions": [
+    "Outside a legible carnival license, bodily deflation of a real individual reads as insult, not carnival.",
+    "The mechanism explains the moment of debasement; it does not by itself supply the work's critique (that would be satirical-literature's engine)."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/irreverent.md#2--why-it-works--the-mechanism",
+    "tones/irreverent.md#8--cultural-scope"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

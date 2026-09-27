@@ -1,0 +1,45 @@
+{
+  "id": "work-juvenal-satires",
+  "title": "Satires (six books)",
+  "creators": [
+    "Juvenal"
+  ],
+  "work_type": "verse satire collection",
+  "published_date": "c. 100-130 CE",
+  "languages": [
+    "la"
+  ],
+  "regions": [
+    "Roman Empire",
+    "Italy"
+  ],
+  "axis_ids": [
+    "tone-cynical",
+    "axis-satirical-literature"
+  ],
+  "period_role": "canonical",
+  "source_id": "src-cynical-braund-juvenal-loeb-2004",
+  "access": {
+    "edition_or_version": "Latin text with English translation, Loeb Classical Library 91, ed. and trans. Susanna Braund (Harvard University Press, 2004); standard commentary: Braund, Satires Book 1 (CUP, 1996)",
+    "language_used": "la",
+    "translator": "Susanna Braund",
+    "access_conditions": "library"
+  },
+  "analysis_status": "partial",
+  "mechanics": {
+    "premise": "Six books of first-person verse satire cataloguing the vices of Rome — patrons and patronage, ambition, sexual commerce, urban squalor — through a speaker who measures the city against standards it keeps betraying.",
+    "point_of_view": "Sustained first-person satiric persona addressing the reader directly, staging encounters and apostrophizing targets; the speaker is a constructed voice, not a transparent author.",
+    "style_and_devices": "Catalogue and enumeration; abrupt mimetic scenes dropped into argument; grotesque exaggeration; rhetorical questions and apostrophe; moralized indignant diction throughout.",
+    "emotional_progression": "Wry setup -> accumulating outrage -> full invective -> oblique withdrawal, with the speaker repeatedly vowing to stop and returning.",
+    "dialogue": "Reported and staged confrontations; the persona argues with patrons, devotees, and fellow travellers as if cornering them in the street.",
+    "conventions": "Foundational text of the Western satiric tradition and the origin of the term Juvenalian for moral-indictment satire.",
+    "tone_mechanisms": [
+      "Juvenalian invective",
+      "moralized indignation at stated versus actual standards",
+      "grotesque inflation of vice",
+      "echoic deflation of professed ideals"
+    ],
+    "critical_reception": "Transmitted through medieval and Renaissance schools; became a school text and a standing model for English satire (Donne, Johnson, Swift).",
+    "verification_note": "Existence, authorship, and dating (first book c. 100-101; final surviving book after 127) confirmed via Wikipedia API extract (Juvenal) on 2026-09-24; edition identity via publisher and library catalog metadata; mode cross-checked against the repository's satirical-literature genre file. Technique described from standard accounts; no passage reproduced."
+  }
+}

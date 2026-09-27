@@ -1,0 +1,39 @@
+{
+  "id": "work-quit-india-speech",
+  "title": "Quit India Speech ('Do or Die')",
+  "creators": [
+    "M. K. Gandhi"
+  ],
+  "work_type": "speech",
+  "published_date": "1942-08-08",
+  "languages": [
+    "gu",
+    "hi",
+    "en"
+  ],
+  "regions": [
+    "India"
+  ],
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "period_role": "canonical",
+  "source_id": "src-urgent-gandhi-quit-india-1942",
+  "access": {
+    "edition_or_version": "Collected Works of Mahatma Gandhi (Publications Division, Government of India), 8 August 1942, Gowalia Tank Maidan, Bombay",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "Gandhi calls for immediate British withdrawal from India at the launch of the Quit India Movement.",
+    "tone_function": "The 'Do or Die' formulation is a limit-claim: the moment is framed as decisive and the choice as binary, so the audience cannot defer.",
+    "time_handling": "Present-tense collective address; the hour is asserted as decisive, but the claim is anchored in the real political conjuncture of 1942 (war, failed Cripps Mission).",
+    "direct_address": "First-person-plural summons ('we') that converts private resolve into a shared obligation.",
+    "lexical_fields": "Liberty, resolve, sacrifice, action, now; absence of hedging.",
+    "emotional_progression": "Diagnosis of colonial impasse -> moral demand -> personal risk accepted by the speaker.",
+    "translation_limits": "The documented phrase and event are Englished; sound, cadence and the original Gujarati/Hindi wording are not assessed here.",
+    "verification_note": "Speech, date and the 'Do or Die' call verified via reference summary of the Quit India Movement. No passage reproduced."
+  }
+}

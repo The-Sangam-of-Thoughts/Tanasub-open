@@ -1,0 +1,33 @@
+{
+  "id": "clm-tone-reverent-apophatic-construal",
+  "craft_claim": "Saying what the sacred is not - negation, removal of attributes, refusal to name - conveys awe more reliably than positive description, because the object is held to exceed predication.",
+  "tone_ids": [
+    "tone-reverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-reverent-otto-idea-holy-1917",
+      "location": "The Idea of the Holy, chs. IV-V",
+      "evidence_expression": "paraphrase",
+      "note": "Otto argues the numinous resists conceptual, positive description and is approached through negation and ideograms."
+    },
+    {
+      "evidence_id": "src-reverent-sundararajan-2002",
+      "location": "J. Theoretical and Philosophical Psychology 22(2):174-197",
+      "evidence_expression": "synthesis",
+      "note": "Sundararajan argues negative theology makes a substantive psychological contribution to the study of religious awe and that positive-vastness models do not exhaust religious experience."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Figuration and lexicon for an object the speaker treats as unnameable; applicable to sacred, existential, and scientific-sublime subjects.",
+  "exceptions": [
+    "Liturgical and doctrinal forms may use positive naming (titles, attributes) as an act of devotion rather than a claim to comprehension."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/reverent.md#5--how-to-use-it--operators",
+    "tones/reverent.md#8--cultural-scope"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

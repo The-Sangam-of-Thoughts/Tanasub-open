@@ -1,0 +1,57 @@
+{
+  "id": "src-philosophical-kenko-keene-1967",
+  "title": "Essays in Idleness: The Tsurezuregusa of Kenko",
+  "creators": [
+    "Yoshida Kenko",
+    "Donald Keene"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Columbia University Press",
+    "published_date": "1967",
+    "edition": "English translation of the Tsurezuregusa (c. 1330-1332)",
+    "doi": null,
+    "isbn": "9780231112550"
+  },
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "regions": [
+    "Japan"
+  ],
+  "access": {
+    "locator": "https://www.columbia.edu/itc/eacp/japanworks/at/kenko/eii01.html",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-philosophical)",
+    "verification_notes": "Confirmed the work is a zuihitsu ('follow-the-brush') collection written c. 1330-1332 by the monk Kenko, joining miscellaneous reflections into a whole through recurring concerns with impermanence and conduct."
+  },
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "claim_ids": [
+    "clm-tone-philosophical-essai-provisional"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "ja",
+    "translator": "Donald Keene",
+    "limitations": [
+      "Zuihitsu's associative effect depends on classical Japanese; only the structural principle is cited."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": false,
+    "notes": "Original public domain; Keene translation copyrighted; no passages reproduced."
+  }
+}

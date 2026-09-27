@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-warm-warmth-without-substance",
+  "craft_claim": "Warmth unaccompanied by competence or substance yields pity or contempt rather than trust, and over-politeness or surface-acted friendliness reads as insincere.",
+  "tone_ids": [
+    "tone-warm"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-warm-fiske-stereotype-content-2002",
+      "location": "Journal of Personality and Social Psychology 82(6):878-902",
+      "evidence_expression": "synthesis",
+      "note": "Mixed combinations of warmth and competence produce distinct ambivalent emotions: high warmth with low competence draws pity/sympathy, while only high warmth with high competence draws admiration and trust."
+    },
+    {
+      "evidence_id": "src-warm-leech-pragmatics-2014",
+      "location": "The Pragmatics of Politeness, sociopragmatic politeness scale",
+      "evidence_expression": "paraphrase",
+      "note": "Leech's scale registers overpoliteness as a potential sarcasm and politeness loses force when it becomes obligatory; excess courtesy can invert the intended signal."
+    },
+    {
+      "evidence_id": "src-warm-hochschild-managed-heart-1983",
+      "location": "The Managed Heart, flight-attendant emotional labour",
+      "evidence_expression": "paraphrase",
+      "note": "Workers trained to display friendliness they do not feel engage in surface acting and become estranged from their own managed friendliness; passengers are described as quick to detect strained or forced smiles."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-warm-fiske-stereotype-content-2002",
+      "note": "Warmth also has independent value: warm-but-not-competent targets are still liked and pitied rather than disliked, so the failure is a degradation of trust, not universal rejection."
+    }
+  ],
+  "scope": "Any sustained warm voice, especially marketing and brand copy where sincerity must be earned.",
+  "exceptions": [
+    "Ironised or satirical warmth that knowingly wears its performance as part of the meaning."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/warm.md#7--failure-modes-and-revision",
+    "tones/warm.md#2--why-it-works--the-mechanism"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

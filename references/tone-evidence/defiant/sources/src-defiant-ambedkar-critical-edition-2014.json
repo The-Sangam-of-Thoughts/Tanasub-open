@@ -1,0 +1,60 @@
+{
+  "id": "src-defiant-ambedkar-critical-edition-2014",
+  "title": "Annihilation of Caste: The Annotated Critical Edition (with introduction 'The Doctor and the Saint' by Arundhati Roy)",
+  "creators": [
+    "B. R. Ambedkar",
+    "Arundhati Roy (introduction)",
+    "S. Anand (ed.)"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "craft-support",
+    "indian-context"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Navayana",
+    "published_date": "2014",
+    "edition": "Annotated critical edition",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "India"
+  ],
+  "access": {
+    "locator": "https://en.wikipedia.org/wiki/Annihilation_of_Caste",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-defiant)",
+    "verification_notes": "Critical edition identity confirmed via publisher and review records (Navayana, New Delhi, 2014; introduction by Arundhati Roy). Establishes the text's origin as an undelivered 1936 speech, self-published 15 May 1936, and its reception as a manifesto."
+  },
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "claim_ids": [
+    "clm-tone-defiant-declaration-performance",
+    "clm-tone-defiant-crosscultural-warrants"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": [
+      "English-language Indian text; the rhetorical situation is Indian but the original language is English, which limits any non-Anglophone claim."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Navayana annotated edition; analytical citation only."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "src-cynical-gibbs-sarcasm-1986",
+  "title": "On the psycholinguistics of sarcasm",
+  "creators": [
+    "Raymond W. Gibbs"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Experimental Psychology: General",
+    "published_date": "1986",
+    "edition": "Vol. 115, No. 1, pp. 3-15",
+    "doi": "10.1037/0096-3445.115.1.3",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1037/0096-3445.115.1.3",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-cynical)",
+    "verification_notes": "Metadata confirmed via Crossref API; volume/issue/pagination (115(1):3-15) confirmed 2026-09-24. Gibbs showed that sarcastic utterances are understood against the situation and prior expectation rather than first being decoded literally and then reversed, supporting the craft point that ironic force depends on a recoverable prior claim. Full text not re-inspected; no passage quoted."
+  },
+  "axis_ids": [
+    "tone-cynical"
+  ],
+  "claim_ids": [
+    "clm-tone-cynical-irony-echoic"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical citation only."
+  }
+}

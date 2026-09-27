@@ -1,0 +1,59 @@
+{
+  "id": "src-grim-schindler-tmt-challenge-2022",
+  "title": "Do Salient Social Norms Moderate Mortality Salience Effects? A (Challenging) Meta-Analysis of Terror Management Studies",
+  "creators": [
+    "Simon Schindler",
+    "Joe Hilgard",
+    "Immo Fritsche",
+    "Brian Burke",
+    "Stefan Pfattheicher"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "counterevidence"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Personality and Social Psychology Review, Vol. 27, No. 2",
+    "published_date": "2022",
+    "edition": null,
+    "doi": "10.1177/10888683221107267",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Germany",
+    "United States",
+    "Denmark"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1177/10888683221107267",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-grim)",
+    "verification_notes": "Bibliographic record confirmed via Crossref (DOI 10.1177/10888683221107267, 2022/2023). Used only as qualified counterevidence to mortality-salience robustness; full text not directly inspected."
+  },
+  "axis_ids": [
+    "tone-grim"
+  ],
+  "claim_ids": [
+    "clm-tone-grim-mortality-salience"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Sage journal article; analytical citation only."
+  }
+}

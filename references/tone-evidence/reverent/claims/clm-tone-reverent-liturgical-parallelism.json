@@ -1,0 +1,32 @@
+{
+  "id": "clm-tone-reverent-liturgical-parallelism",
+  "craft_claim": "Parallelism and anaphora encode ritual cadence and make a passage choral and memorable rather than merely emphatic; each repeated line should move the meaning forward, not restate it.",
+  "tone_ids": [
+    "tone-reverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-reverent-alter-biblical-poetry-1985",
+      "location": "The Art of Biblical Poetry, chs. 1-3",
+      "evidence_expression": "synthesis",
+      "note": "Alter shows biblical parallelism is a systematic semantic movement - the second line intensifies, specifies, or complicates the first - giving ritual verse its forward pressure."
+    },
+    {
+      "evidence_id": "src-reverent-rumi-nicholson-masnavi",
+      "location": "Masnavi, recurring refrains and paired images",
+      "evidence_expression": "synthesis",
+      "note": "Rumi's didactic-sacred verse uses refrain and paired figure to build cumulative, incantatory pressure across anecdotes."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Anaphora and parallel-series operators; applies to devotional verse, liturgy, and cadenced prose.",
+  "exceptions": [
+    "Over-repetition without semantic movement produces the saturation failure described in §H rather than devotion."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/reverent.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "src-whimsical-calvino-six-memos-1988",
+  "title": "Six Memos for the Next Millennium (Lezioni americane)",
+  "creators": [
+    "Italo Calvino",
+    "Patrick Creagh"
+  ],
+  "source_type": "practitioner-work",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 4,
+  "publication": {
+    "publisher_or_container": "Harvard University Press (Charles Eliot Norton Lectures)",
+    "published_date": "1988",
+    "edition": "trans. Patrick Creagh; later trans. Geoffrey Brock (2016)",
+    "doi": null,
+    "isbn": "0674810406"
+  },
+  "languages": [
+    "en",
+    "it"
+  ],
+  "regions": [
+    "Italy",
+    "United States"
+  ],
+  "access": {
+    "locator": "https://archive.org/details/sixmemosfornextm0000calv",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-whimsical)",
+    "verification_notes": "Confirmed the 1985-86 Norton lectures, posthumous 1988 publication, the five completed memos (lightness, quickness, exactitude, visibility, multiplicity), and the explicit distinction between 'a lightness of thoughtfulness' and 'a lightness of frivolity'."
+  },
+  "axis_ids": [
+    "tone-whimsical"
+  ],
+  "claim_ids": [
+    "clm-tone-whimsical-lightness-thoughtful",
+    "clm-tone-whimsical-dosage-saturation"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "it",
+    "translator": "Patrick Creagh",
+    "limitations": [
+      "The lectures were written in Italian and delivered in English; the Creagh translation is the cited edition, and later Brock translation (2016) exists."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Harvard University Press edition; analytical citation only."
+  }
+}

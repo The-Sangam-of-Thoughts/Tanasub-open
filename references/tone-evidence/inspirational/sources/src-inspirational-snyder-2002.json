@@ -1,0 +1,54 @@
+{
+  "id": "src-inspirational-snyder-2002",
+  "title": "Hope Theory: Rainbows in the Mind",
+  "creators": [
+    "C. R. Snyder"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychological Inquiry, vol. 13, no. 4, pp. 249-275",
+    "published_date": "2002",
+    "edition": null,
+    "doi": "10.1207/S15327965PLI1304_01",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1207/S15327965PLI1304_01",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-inspirational)",
+    "verification_notes": "Citation, volume, pages, and DOI confirmed via Taylor & Francis, JSTOR, and APA PsycNet. Defines hope as pathways plus agency thinking; reports higher hope linked to better outcomes and finds no evidence for 'false' hope."
+  },
+  "axis_ids": [
+    "tone-inspirational"
+  ],
+  "claim_ids": [
+    "clm-tone-inspirational-hope-pathways-agency"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Taylor & Francis journal article; analytical citation only, no text reproduced."
+  }
+}

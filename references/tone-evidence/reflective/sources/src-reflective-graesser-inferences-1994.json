@@ -1,0 +1,52 @@
+{
+  "id": "src-reflective-graesser-inferences-1994",
+  "title": "Constructing Inferences During Narrative Text Comprehension",
+  "creators": [
+    "Arthur C. Graesser",
+    "Murray Singer",
+    "Tom Trabasso"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychological Review",
+    "published_date": "1994-07",
+    "edition": "101(3), pp. 371-395",
+    "doi": "10.1037/0033-295X.101.3.371",
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://pubmed.ncbi.nlm.nih.gov/7938337/",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reflective)",
+    "verification_notes": "Confirmed via PubMed record 7938337 (Psychol Rev. 1994 Jul;101(3):371-95) with the APA DOI, and independent citations giving pp. 371-395. The causal-explanatory inference framework is confirmed via the abstract and widespread citation."
+  },
+  "axis_ids": ["tone-reflective"],
+  "claim_ids": [
+    "clm-tone-reflective-causal-momentum",
+    "clm-tone-reflective-dosage-yield"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA article; analytical citations only."
+  }
+}

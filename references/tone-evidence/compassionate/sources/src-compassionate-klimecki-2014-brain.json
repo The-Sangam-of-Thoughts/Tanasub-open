@@ -1,0 +1,58 @@
+{
+  "id": "src-compassionate-klimecki-2014-brain",
+  "title": "Differential pattern of functional brain plasticity after compassion and empathy training",
+  "creators": [
+    "Olga M. Klimecki",
+    "Susanne Leiberg",
+    "Matthieu Ricard",
+    "Tania Singer"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Social Cognitive and Affective Neuroscience, vol. 9, no. 6, pp. 873-879",
+    "published_date": "2014",
+    "edition": null,
+    "doi": "10.1093/scan/nst060",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Germany",
+    "Switzerland"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1093/scan/nst060",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-compassionate)",
+    "verification_notes": "Crossref record confirmed title, authors, journal, volume, issue, pages, online 2013 / print 2014, and DOI. Used for the empathy-vs-compassion dissociation and trainability."
+  },
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "claim_ids": [
+    "clm-tone-compassionate-distinct-from-empathy"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "open-access",
+    "repository_copy_allowed": false,
+    "notes": "Oxford University Press open-access article (CC BY-NC); analytical citation only."
+  }
+}

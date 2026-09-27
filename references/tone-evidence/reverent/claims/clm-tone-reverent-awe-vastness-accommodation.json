@@ -1,0 +1,38 @@
+{
+  "id": "clm-tone-reverent-awe-vastness-accommodation",
+  "craft_claim": "Rendering a subject as vast enough to exceed the narrator's existing frame produces awe; a sacred object described only in comfortable, already-mastered terms will not read as holy.",
+  "tone_ids": [
+    "tone-reverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-reverent-keltner-haidt-2003",
+      "location": "Cognition and Emotion 17(2):297-314, conceptual model",
+      "evidence_expression": "synthesis",
+      "note": "Keltner and Haidt define awe as an epistemic emotion triggered by perceived vastness and a need for accommodation, and list threat, beauty, ability, virtue, and the supernatural as colouring features."
+    },
+    {
+      "evidence_id": "src-reverent-otto-idea-holy-1917",
+      "location": "The Idea of the Holy, chs. II-IV",
+      "evidence_expression": "paraphrase",
+      "note": "Otto's numinous object is 'wholly other' and exceeds the categories of the experiencing subject, matching the accommodation criterion in a religious register."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-reverent-katz-franz-2026",
+      "note": "Katz and Franz argue awe has no uncontested definition and that treating 'vastness' as necessary has neglected other awe experiences and cross-cultural variation."
+    }
+  ],
+  "scope": "Descriptive craft guidance for passages whose object is meant to exceed the speaker; applies across narrative, essay, and devotional prose.",
+  "exceptions": [
+    "Traditions that locate the sacred in domesticity or the everyday (e.g. Viraśaiva embodiment) may make smallness, not scale, the vehicle of awe."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/reverent.md#2--why-it-works--the-mechanism",
+    "tones/reverent.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

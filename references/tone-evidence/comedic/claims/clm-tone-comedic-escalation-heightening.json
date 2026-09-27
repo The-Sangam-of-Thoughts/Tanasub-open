@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-comedic-escalation-heightening",
+  "craft_claim": "Comic scenes intensify by repeating and heightening one rule or game beat by beat, rather than by adding unrelated jokes.",
+  "tone_ids": [
+    "tone-comedic"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-comedic-halpern-truth-comedy-1994",
+      "location": "Concepts of 'game' and 'heightening' in long-form improvisation",
+      "evidence_expression": "paraphrase",
+      "note": "Practitioner framework: a scene identifies a pattern or game and then heightens it by escalation, concentrating rather than dispersing the comic energy. Tier 4 practitioner support."
+    },
+    {
+      "evidence_id": "src-comedic-suls-1972",
+      "location": "Chapter 4, pp. 81-100",
+      "evidence_expression": "synthesis",
+      "note": "Escalation works because each beat re-establishes an expectation that the next turn violates, consistent with incongruity-resolution."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-comedic-harp-mayer-1998",
+      "note": "Unbroken escalation without substance can crowd out the main point; heightening must serve the piece's purpose."
+    }
+  ],
+  "scope": "Scene and section construction in fiction, screen, and long-form prose.",
+  "exceptions": [
+    "Sketch or absurdist forms may deliberately refuse escalation and hold a single static absurdity.",
+    "Comic relief passages that must stay brief should not heighten to a full comic climax."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/comedic.md#5--how-to-use-it--operators",
+    "tones/comedic.md#9--exercises"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

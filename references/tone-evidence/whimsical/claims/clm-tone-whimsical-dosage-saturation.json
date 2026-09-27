@@ -1,0 +1,38 @@
+{
+  "id": "clm-tone-whimsical-dosage-saturation",
+  "craft_claim": "Whimsy saturates when invention stops touching a base of ordinary sense; lightness must remain thoughtful rather than become continuous frivolity.",
+  "tone_ids": [
+    "tone-whimsical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-whimsical-calvino-six-memos-1988",
+      "location": "Six Memos for the Next Millennium (1988), 'Lightness'",
+      "evidence_expression": "paraphrase",
+      "note": "Calvino's distinction between a lightness of thoughtfulness and a lightness of frivolity is the load-bearing dosage rule: invention should approach something rather than merely sparkle."
+    },
+    {
+      "evidence_id": "src-whimsical-tigges-anatomy-nonsense-1988",
+      "location": "An Anatomy of Literary Nonsense (1988), pp. 47-55, 255",
+      "evidence_expression": "synthesis",
+      "note": "Because nonsense requires sense and non-sense in balance, a passage whose invented elements no longer touch an ordinary referent collapses the effect."
+    },
+    {
+      "evidence_id": "src-whimsical-proyer-smap-2012",
+      "location": "Personality and Individual Differences 53(8):989-994",
+      "evidence_expression": "synthesis",
+      "note": "Because playfulness is a disposition that varies across readers, a continuous whimsical register risks tiring lower-playfulness readers; bounded bursts are safer."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Long-form and serial content; feeds card section 4.",
+  "exceptions": [
+    "Short nonsense forms built entirely on sound-play may sustain invention without referential grounding so long as rhythm and syntax hold the base."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/whimsical.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

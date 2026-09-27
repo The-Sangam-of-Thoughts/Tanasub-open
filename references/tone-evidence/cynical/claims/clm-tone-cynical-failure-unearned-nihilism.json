@@ -1,0 +1,45 @@
+{
+  "id": "clm-tone-cynical-failure-unearned-nihilism",
+  "craft_claim": "Distrust asserted without a recoverable stated claim to deflate — or nihilism staged as decoration — reads as posturing: the stance must answer something, and hostile irony carries documented relational costs, so unconditional cynicism fails as craft and as ethics.",
+  "tone_ids": [
+    "tone-cynical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-cynical-stavrova-ehlebracht-2016",
+      "location": "Journal of Personality and Social Psychology 110(1):116-132",
+      "evidence_expression": "synthesis",
+      "note": "Cynicism is a costly disposition with correlates, not a free pose; a text that models chronic distrust without warrant imports that cost while delivering no recognition payoff."
+    },
+    {
+      "evidence_id": "src-cynical-martin-aggressive-humor-2003",
+      "location": "Journal of Research in Personality 37(1):48-75",
+      "evidence_expression": "paraphrase",
+      "note": "The Humor Styles Questionnaire classifies aggressive humor — sarcasm and ridicule — among potentially maladaptive styles associated with poorer relational outcomes, a documented cost of hostile irony aimed at persons."
+    },
+    {
+      "evidence_id": "src-cynical-fein-suspicion-1996",
+      "location": "Journal of Personality and Social Psychology 70(6):1164-1184",
+      "evidence_expression": "synthesis",
+      "note": "Because suspicion itself reallocates attribution toward ulterior causes, an unearned suspicious voice dramatizes systematic misreading: the posture generates the corruption it claims only to observe."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-cynical-martin-aggressive-humor-2003",
+      "note": "The same instrument distinguishes adaptive styles (affiliative, self-enhancing) from aggressive ones and reports personality-level associations; the documented cost attaches to hostile usage and repeated style, not to a single ironic line."
+    }
+  ],
+  "scope": "Any sustained cynical register; the tone's primary failure diagnostic (card section 7).",
+  "exceptions": [
+    "When the pose itself is the subject — a narrator whose cynicism the text goads — posturing becomes content and the failure inverts into technique.",
+    "Misanthropic accumulation is convention, not failure, in forms built for it (Menippean overload; the satirical mode's invective tradition)."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/cynical.md#7--failure-modes-and-revision",
+    "tones/cynical.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

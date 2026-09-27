@@ -1,0 +1,52 @@
+{
+  "id": "src-reflective-gerow-aklujkar-shanta-1972",
+  "title": "On Śānta Rasa in Sanskrit Poetics",
+  "creators": [
+    "Edwin Gerow",
+    "Ashok Aklujkar",
+    "J. L. Masson",
+    "M. V. Patwardhan"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "indian-context",
+    "definition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of the American Oriental Society",
+    "published_date": "1972",
+    "edition": "92(1), starting p. 80 (full page range not confirmed); the Crossref deposit for this DOI also lists an alternate title — see verification_notes",
+    "doi": "10.2307/599651",
+    "isbn": null
+  },
+  "languages": ["en", "sa"],
+  "regions": ["India", "South Asia"],
+  "access": {
+    "locator": "https://doi.org/10.2307/599651",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reflective)",
+    "verification_notes": "Journal, volume/issue, start page 80, and DOI confirmed via the Crossref deposit for 10.2307/599651 (accessed 2026-09-24). That deposit lists four creators (Edwin Gerow, Ashok Aklujkar, J. L. Masson, M. V. Patwardhan) and two distinct title strings ('On Śānta Rasa in Sanskrit Poetics' and 'Śāntarasa and Abhinavagupta's Philosophy of Aesthetics') — the widely used two-author citation may be incomplete; byline and title flagged for re-check before any byline-level citation (dossier §I). Article not read in full; used only for the existence and recognized-but-debated status of shanta rasa as an aesthetic category, paired with the shared Natyashastra record for the eight-rasa baseline. Full page range remains unconfirmed."
+  },
+  "axis_ids": ["tone-reflective"],
+  "claim_ids": ["clm-tone-reflective-shanta-rasa"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": [
+      "Discusses Sanskrit technical vocabulary (shanta, sthayi bhava, rasa) for which English equivalents are contested; the record's own claim flags the mapping as analogical."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "JAOS/JSTOR article; analytical citations only."
+  }
+}

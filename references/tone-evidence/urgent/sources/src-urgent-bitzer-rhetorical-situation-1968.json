@@ -1,0 +1,55 @@
+{
+  "id": "src-urgent-bitzer-rhetorical-situation-1968",
+  "title": "The Rhetorical Situation",
+  "creators": [
+    "Lloyd F. Bitzer"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Philosophy and Rhetoric, Vol. 1, No. 1",
+    "published_date": "1968",
+    "edition": "pp. 1-14",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "Western rhetorical tradition"
+  ],
+  "access": {
+    "locator": "Philosophy and Rhetoric 1(1): 1-14 (print); anthologized in Contemporary Rhetorical Theory (Guilford Press). No open full-text locator verified in this pass.",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-urgent)",
+    "verification_notes": "Bibliographic record (author, title, journal, year, page range) is the standard citation and was cross-checked against encyclopedic reference summaries of the rhetorical-situation model. Full text not inspected in this pass; the argument is summarized from established secondary descriptions, not quoted."
+  },
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "claim_ids": [
+    "clm-tone-urgent-exigence-reality"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Journal article; no text reproduced. Used as the canonical statement of rhetorical exigence and the situation model."
+  }
+}

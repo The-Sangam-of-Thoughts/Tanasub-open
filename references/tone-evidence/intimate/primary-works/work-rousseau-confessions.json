@@ -1,0 +1,28 @@
+{
+  "id": "work-rousseau-confessions",
+  "title": "Confessions",
+  "creators": ["Jean-Jacques Rousseau"],
+  "work_type": "autobiographical prose (confession)",
+  "published_date": "1782 (posthumous; written 1765-1770)",
+  "languages": ["fr"],
+  "regions": ["France", "Switzerland"],
+  "axis_ids": ["tone-intimate"],
+  "period_role": "formative",
+  "source_id": "src-intimate-brooks-troubling-confessions-2000",
+  "access": {
+    "edition_or_version": "Standard scholarly edition; Brooks (2000) reads the work as confessional literature",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "library"
+  },
+  "analysis_status": "identified",
+  "mechanics": {
+    "tone_relevance": "Redirects confessional address from God to the reading public, raising the stakes of exposure and making the reader the tribunal.",
+    "point_of_view": "First person, retrospective, with direct address to the reader as judge and witness.",
+    "emotional_progression": "Disclosure escalates from youthful incidents to admissions of shame, humiliation, and desire.",
+    "style_and_devices": "Direct reader address; self-justifying and self-accusing rhetoric held in tension; candid admission joined to defensive framing.",
+    "intimacy_technique": "Exposure framed as a claim to singular truthfulness, which invites the reader to evaluate sincerity.",
+    "why_it_matters": "Demonstrates both the power of addressed disclosure and its central failure mode: the reader cannot verify the confession and may read it as performance.",
+    "copyright_note": "Original French public domain. Techniques described, no text reproduced."
+  }
+}

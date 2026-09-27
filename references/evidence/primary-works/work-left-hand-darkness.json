@@ -1,0 +1,52 @@
+{
+  "id": "work-left-hand-darkness",
+  "title": "The Left Hand of Darkness",
+  "creators": [
+    "Ursula K. Le Guin"
+  ],
+  "work_type": "novel",
+  "published_date": "1969",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "Global"
+  ],
+  "axis_ids": [
+    "axis-science-fiction",
+    "axis-solarpunk",
+    "axis-space-opera",
+    "axis-speculative-fiction"
+  ],
+  "period_role": "recognized",
+  "source_id": "src-leguin-steering-craft-2015",
+  "access": {
+    "edition_or_version": "Ace Books / Library of America edition",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A human envoy from an interstellar confederation travels to a frozen planet whose ambisexual inhabitants have no fixed gender, seeking alliance amid rising political paranoia.",
+    "reader_promise": "Rigorous anthropological thought experiment exploring politics, friendship, and love unburdened by binary gender roles.",
+    "opening": "'I will write it according to the cold routine of the Ekumen... The story is not all mine, nor told by me alone.'",
+    "point_of_view": "Dual alternating first-person accounts between envoy Genly Ai and disgraced Karhidish statesman Estraven, interspersed with Gethenian folklore.",
+    "character_system": "Genly Ai (rigid, biased human observer), Estraven (subtle, loyal Gethenian prime minister), King Argaven (paranoid ruler).",
+    "conflict_and_stakes": "Diplomatic integration of Gethen into the Ekumen versus rising militaristic nationalism and death in exile.",
+    "structure": "Political court intrigue in Karhide and Orgoreyn leading to epic survival trek across the Gobrin Ice sheet.",
+    "scene_movement": "City of Erhenrang, Peth border, Mishnory labor camp, 800-mile crossing of the northern ice sheet.",
+    "dialogue": "Sparse, nuanced communication where cultural misunderstandings (shifgrethor) mask deep emerging solidarity.",
+    "setting": "Winter (Gethen), a glaciated planet of relentless blizzards, volcanoes, and perpetual frost.",
+    "style_and_devices": "Speculative anthropological worldbuilding, folkloric interludes, Taoist duality (light and dark), survival narrative.",
+    "emotional_progression": "Alienation and suspicion -> political betrayal -> arduous physical survival -> profound intimate understanding -> tragic loss.",
+    "suspense_or_anticipation": "Whether Genly Ai and Estraven can survive the 800-mile trek over crevassed glaciers before starvation.",
+    "climax": "Estraven is shot by border guards while skiing toward safety to ensure Genly's survival and message to the starship.",
+    "ending": "Ekumen starship arrives; Karhide and Orgoreyn accept diplomatic union; Genly visits Estraven's hearth and son in mourning.",
+    "conventions": "Redefined soft science fiction by foregrounding anthropology, sociology, and gender over militarism and hardware.",
+    "innovation_or_subversion": "Replaced galactic warfare tropes with an intimate story of cross-cultural communication and Taoist balance.",
+    "critical_reception": "Swept both Hugo and Nebula Awards; universally hailed as seminal milestone in feminist and speculative literature.",
+    "audience_reception": "Enduring classic continually studied across literature, gender studies, and philosophy."
+  }
+}

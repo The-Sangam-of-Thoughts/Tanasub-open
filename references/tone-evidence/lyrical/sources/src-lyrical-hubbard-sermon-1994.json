@@ -1,0 +1,50 @@
+{
+  "id": "src-lyrical-hubbard-sermon-1994",
+  "title": "Sermonic refrain",
+  "creators": [
+    "Hubbard"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": null,
+    "published_date": "1994",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [],
+  "regions": [],
+  "access": {
+    "locator": "https://openlibrary.org/works/OL3468757W (library record: Dolan Hubbard, The Sermon and the African American Literary Imagination, University of Missouri Press 1994 — identified from the dossier's surname-and-year-only Hubbard 1994 citation by year and subject)",
+    "accessed_at": "2026-09-24",
+    "access_conditions": null
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-lyrical)",
+    "verification_notes": "Record materialized from the lyrical dossier's own citation only: the source appears there as 'Hubbard 1994' (craft inventory: 'Hubbard 1994 documents sermonic refrain'; exemplar field: 'cadence corroborated by Hubbard 1994') and is declared in dossier section I. The title shown is a restatement of the dossier's own description because the dossier states no bibliographic title; the author is named by surname only, as in the dossier. reliability_tier 2 follows the claims-matrix tier for clm-tone-lyrical-exemplars-cadence; source_type scholarly-book is a disclosed inference consistent with that tier, since the dossier does not state the publication form. Every other unstated field (publisher/venue, edition, DOI/ISBN, languages, regions, access locator, translation and copyright status) is recorded as null or [] rather than guessed. No text was consulted or reproduced."
+  },
+  "axis_ids": [
+    "tone-lyrical"
+  ],
+  "claim_ids": [
+    "clm-tone-lyrical-exemplars-cadence"
+  ],
+  "translation": {
+    "is_translation": null,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": null,
+    "repository_copy_allowed": false,
+    "notes": "Copyright status not stated in the dossier; analytical citation only, no text reproduced."
+  }
+}

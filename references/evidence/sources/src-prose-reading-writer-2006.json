@@ -1,0 +1,57 @@
+{
+  "id": "src-prose-reading-writer-2006",
+  "title": "Reading Like a Writer: A Guide for People Who Love Books and for Those Who Want to Write Them",
+  "creators": [
+    "Francine Prose"
+  ],
+  "source_type": "craft-book",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "HarperCollins",
+    "published_date": "2006",
+    "edition": "First Edition",
+    "doi": null,
+    "isbn": "978-0060777050"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://www.harpercollins.com/products/reading-like-a-writer-francine-prose",
+    "accessed_at": "2026-09-12",
+    "access_conditions": "purchased"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-12T14:50:00Z",
+    "verified_by": "Codex S10 foundation evidence agent",
+    "verification_notes": "Directly verified chapters on close examination of words, sentences, paragraphs, dialogue rhythm, and character gesture."
+  },
+  "axis_ids": [
+    "axis-psychological-fiction",
+    "axis-gothic-fiction",
+    "axis-historical-fiction"
+  ],
+  "claim_ids": [
+    "clm-dialogue-subtext",
+    "clm-pacing-rhythm-syntax",
+    "clm-melodrama-unearned-emotion"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Craft book; citation and reference only."
+  }
+}

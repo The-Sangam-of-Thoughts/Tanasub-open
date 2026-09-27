@@ -1,0 +1,55 @@
+{
+  "id": "src-deadpan-booth-irony-1974",
+  "title": "A Rhetoric of Irony",
+  "creators": [
+    "Wayne C. Booth"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "counterevidence"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "University of Chicago Press",
+    "published_date": "1974",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "Library record: A Rhetoric of Irony (University of Chicago Press, 1974)",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-deadpan)",
+    "verification_notes": "Rhetorical taxonomy of irony: sustained/stable ironic voices, understatement as cue, and ironic reward on rereading. Supports the understatement-operators claim; supplies counterevidence to flatness-failure (rereadability may rescue a flat-seeming passage) — mitigating only, since prose is usually read once. Page-level locators not re-verified this session."
+  },
+  "axis_ids": [
+    "tone-deadpan"
+  ],
+  "claim_ids": [
+    "clm-tone-deadpan-understatement-operators",
+    "clm-tone-deadpan-flatness-failure"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "1974 University of Chicago Press monograph; citation and paraphrase only, no passage reproduced."
+  }
+}

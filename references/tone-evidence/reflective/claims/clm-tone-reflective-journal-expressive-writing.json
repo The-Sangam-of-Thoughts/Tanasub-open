@@ -1,0 +1,36 @@
+{
+  "id": "clm-tone-reflective-journal-expressive-writing",
+  "craft_claim": "The journal-like reflective voice borrows the diary's private, dated immediacy; writing about emotional experience in this mode has documented benefits for the writer, but no evidence was found that readers of such writing share them, so the reader-facing payoff must be sought in the companionship of a thinking voice rather than in vicarious therapy.",
+  "tone_ids": ["tone-reflective"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-reflective-pennebaker-expression-1997",
+      "location": "Psychological Science 8(3):162-166; synthesis of the expressive-writing program",
+      "evidence_expression": "paraphrase",
+      "note": "Summarizes findings that brief repeated writing about emotional or traumatic experiences yields health and cognitive benefits relative to controls, consistent with a cognitive-organization account — translating experience into words organizes and contains it — rather than with catharsis."
+    },
+    {
+      "evidence_id": "src-reflective-frattaroli-metaanalysis-2006",
+      "location": "Psychological Bulletin 132(6):823-865; abstract: 146 randomized studies, random-effects average effect, moderator analyses",
+      "evidence_expression": "paraphrase",
+      "note": "Meta-analysis of 146 randomized experimental-disclosure studies: random-effects analyses show disclosure is effective with a positive and significant average r = .075 (a small effect), with a number of moderators identified — benefits are statistically reliable on average but substantially moderated by context and outcome type; disclosure writing is not a universal remedy."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-reflective-frattaroli-metaanalysis-2006",
+      "note": "The pooled effect (random-effects average r = .075, verified from the abstract, 2026-09-24) is small, and no study was located measuring a reader's response to another person's reflective writing. The reader-benefit clause of this claim is an honest null, not a finding; r = .075 and the 146-study count are the only numbers quotable from this source — no other numeric effect may be attributed to it."
+    }
+  ],
+  "scope": "Writer-side psychology of journal practice (supports the alias 'journal-like'); reader-side benefit explicitly out of scope. Do not extend to therapeutic claims about audiences.",
+  "exceptions": [
+    "Diary forms performed for an imagined reader (the nikki tradition) are a craft matter distinct from private journaling psychology; the privacy is staged, not actual."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/reflective.md#3--when-it-works",
+    "tones/reflective.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "work-bodhicaryavatara",
+  "title": "Bodhicaryāvatāra",
+  "creators": [
+    "Śāntideva"
+  ],
+  "work_type": "Buddhist philosophical text",
+  "published_date": "8th c. CE",
+  "languages": [
+    "sa"
+  ],
+  "regions": [
+    "India"
+  ],
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "period_role": "formative",
+  "source_id": "src-compassionate-shantideva-bodhicaryavatara-1997",
+  "access": {
+    "edition_or_version": "Wallace & Wallace trans. Snow Lion 1997",
+    "language_used": "en",
+    "translator": "Wallace & Wallace",
+    "access_conditions": null
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "The text reasons toward an impartial concern that includes even those who harm the one who holds it (dossier section D).",
+    "tone_mechanisms_observed": [
+      "equalizing of self and other: the rhetorical ground on which impartial compassion is argued (dossier section E)",
+      "exchanging of self and other: the practitioner's concern relocated from self-preference to the other's freedom from suffering (dossier section E)",
+      "impartial scope with no conditionality: concern universal in scope and obligation-bearing, distinguished from pity and sentimental attachment (dossier sections A, E)"
+    ],
+    "style_and_devices": "Equalizing and exchanging of self and other as the machinery of the argument; impartial, unconditional scope rather than preferential care (dossier sections D, E).",
+    "scope_note": "Sanskrit original (dossier section F); the dossier records karuna among the Sanskrit/Pali/Chinese terms that are not exact equivalents of the English 'compassion', so the work is cited for structure and stance, not as a lexical equivalent (dossier sections E, I); region follows section E's Indian framing; no page, DOI, or quotation was added.",
+    "verification_note": "Sanskrit; Wallace & Wallace trans. Snow Lion 1997 confirmed; described, not quoted (dossier section F)."
+  }
+}

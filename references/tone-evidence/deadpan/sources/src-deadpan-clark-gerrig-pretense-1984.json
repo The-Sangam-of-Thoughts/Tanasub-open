@@ -1,0 +1,58 @@
+{
+  "id": "src-deadpan-clark-gerrig-pretense-1984",
+  "title": "On the Pretense Theory of Irony",
+  "creators": [
+    "Herbert H. Clark",
+    "Richard J. Gerrig"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "counterevidence"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Experimental Psychology: General, Vol. 113, No. 1 (American Psychological Association)",
+    "published_date": "1984",
+    "edition": "pp. 121–126",
+    "doi": "10.1037/0096-3445.113.1.121",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1037/0096-3445.113.1.121",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-deadpan)",
+    "verification_notes": "Title, journal, volume, issue, pages, and DOI verified via Crossref on 2026-09-24. Correction to an earlier working assumption: this is NOT 'Pretense and the naturalness of language' (a different Clark & Gerrig paper). Serves both as support (pretense/obviousness) and as counterevidence bounding the withheld-frame and literal-read claims."
+  },
+  "axis_ids": [
+    "tone-deadpan"
+  ],
+  "claim_ids": [
+    "clm-tone-deadpan-withheld-play-frame",
+    "clm-tone-deadpan-echoic-dissociation",
+    "clm-tone-deadpan-literal-read-failure",
+    "clm-tone-deadpan-saturation-dosage"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; citation and paraphrase only."
+  }
+}

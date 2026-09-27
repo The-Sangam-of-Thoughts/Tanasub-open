@@ -1,0 +1,56 @@
+{
+  "id": "src-irreverent-kant-critique-judgment-1790",
+  "title": "Critique of Judgment",
+  "creators": [
+    "Immanuel Kant"
+  ],
+  "source_type": "primary-work",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Project Gutenberg ebook #48433 (work first published 1790)",
+    "published_date": "1790",
+    "edition": "English translation by J. H. Bernard (public domain)",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Germany"
+  ],
+  "access": {
+    "locator": "https://www.gutenberg.org/ebooks/48433",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "Section 54 content inspected directly via Project Gutenberg ebook #48433 earlier in this research session (laughter located in the collapse of a built-up expectation into nothing); Gutenberg RDF metadata re-fetched on 2026-09-24 confirming title, author, and translator J. H. Bernard. English renderings of the section differ across translators, so no wording is quoted anywhere in this silo — §54 is paraphrased and scoped."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [
+    "clm-tone-irreverent-deflation-expectation"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "de",
+    "translator": "J. H. Bernard",
+    "limitations": [
+      "Translator-dependent phrasing of §54; paraphrase only, never quotation."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": true,
+    "notes": "Bernard translation public domain (Project Gutenberg); no text stored — locators and paraphrase only."
+  }
+}

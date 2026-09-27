@@ -1,0 +1,57 @@
+{
+  "id": "src-lyrical-miall-foregrounding-1994",
+  "title": "Foregrounding, defamiliarization, and affect: Response to literary stories",
+  "creators": [
+    "David S. Miall",
+    "Don Kuiken"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support",
+    "counterevidence"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Poetics, Vol. 22, No. 5",
+    "published_date": "1994",
+    "edition": null,
+    "doi": "10.1016/0304-422x(94)00011-5",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Canada"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1016/0304-422x(94)00011-5",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-lyrical)",
+    "verification_notes": "Bibliographic record verified via Crossref; finding confirmed: foregrounding (deviation and parallelism) predicted affective response to literary stories and was associated with slower reading and aesthetic attention."
+  },
+  "axis_ids": [
+    "tone-lyrical"
+  ],
+  "claim_ids": [
+    "clm-tone-lyrical-foregrounding-affect",
+    "clm-tone-lyrical-dosage-yield"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Peer-reviewed article; literary passages not reproduced; analytical citation only."
+  }
+}

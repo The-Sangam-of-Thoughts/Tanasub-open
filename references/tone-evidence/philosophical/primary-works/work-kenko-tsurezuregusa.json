@@ -1,0 +1,38 @@
+{
+  "id": "work-kenko-tsurezuregusa",
+  "title": "Tsurezuregusa (Essays in Idleness)",
+  "creators": [
+    "Yoshida Kenko"
+  ],
+  "work_type": "zuihitsu-essay-collection",
+  "published_date": "c. 1330-1332",
+  "languages": [
+    "ja"
+  ],
+  "regions": [
+    "Japan"
+  ],
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "period_role": "medieval",
+  "source_id": "src-philosophical-kenko-keene-1967",
+  "access": {
+    "edition_or_version": "Essays in Idleness: The Tsurezuregusa of Kenko, trans. Donald Keene (Columbia University Press, 1967)",
+    "language_used": "en",
+    "translator": "Donald Keene",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "Miscellaneous reflections on impermanence, taste and conduct, gathered without a single thesis.",
+    "argumentative_stance": "Observational and generalising: a particular custom or scene becomes a claim about how to live with transience.",
+    "point_of_view": "Essayistic observer moving between personal memory and general statement.",
+    "structure": "Zuihitsu ('follow-the-brush') sequence of short independent sections unified only by recurring preoccupations.",
+    "style_and_devices": "Aphoristic observation, contrast between the fashionable and the enduring, understatement.",
+    "imagery": "Seasonal and architectural images (blossoms, ruins, moonlight) carrying abstract claims about impermanence.",
+    "emotional_progression": "Wistful attention resolving into calm acceptance.",
+    "critical_reception": "A classic of Japanese literature and a standard example of the zuihitsu form.",
+    "failure_or_misuse_signals": "Picturesque observation without generalisation becomes tone-reflective or nostalgic, not philosophical."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "clm-tone-lyrical-arabic-metre",
+  "craft_claim": "Classical Arabic poetics systematized quantitative metre (ʿarūḍ) and studied the interaction of sound and sense, treating rhythm and phonetic pattern as meaning-bearing.",
+  "tone_ids": [
+    "tone-lyrical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-lyrical-vangelder-arabic-2012",
+      "location": "Sound and Sense in Classical Arabic Poetry (Harrassowitz), studies of metre, rhyme, and assonance",
+      "evidence_expression": "synthesis",
+      "note": "Van Gelder analyses how quantitative metre, rhyme, and sound repetition interact with meaning in classical Arabic poetry, showing that the sound-system is integral to the poem's effect."
+    },
+    {
+      "evidence_id": "src-lyrical-vangelder-arabic-2012",
+      "location": "chapters on the ʿarūḍ tradition and on sound figures",
+      "evidence_expression": "paraphrase",
+      "note": "The Arabic metrical science (ʿarūḍ) prescribes measured patterns of long and short syllables, making rhythm a rule-governed structure."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-lyrical-vangelder-arabic-2012",
+      "note": "ʿarūḍ is quantitative; stress-timed English cannot reproduce it, so the sound-claim is non-transferable across languages."
+    }
+  ],
+  "scope": "Arabic and Perso-Arabic poetic tradition.",
+  "exceptions": [
+    "Free-verse Arabic poetry deliberately abandons the classical metres."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/lyrical.md#8--cultural-scope"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

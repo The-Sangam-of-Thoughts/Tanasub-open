@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-inspirational-urgency-not-manufactured",
+  "craft_claim": "Rhetorical urgency is legitimate only when grounded in a real, modifiable exigence; inventing a deadline or looming catastrophe to intensify uplift is manipulation and is prohibited in this repository.",
+  "tone_ids": [
+    "tone-inspirational"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-inspirational-bitzer-1968",
+      "location": "Philosophy & Rhetoric 1(1):1-14, definition of exigence",
+      "evidence_expression": "paraphrase",
+      "note": "Bitzer defines a rhetorical exigence as an imperfection marked by urgency that discourse can modify, and makes the situation, not the rhetor's wish, the ground of rhetorical activity."
+    },
+    {
+      "evidence_id": "work-tryst-with-destiny",
+      "location": "Address to the Constituent Assembly, 14-15 August 1947",
+      "evidence_expression": "synthesis",
+      "note": "Nehru's forward call is grounded in an actual, documented historical occasion, not an invented deadline; the urgency is inherited from the moment."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": null,
+      "note": "No counter-evidence located in this pass: the dossier records this as a repository-level prohibition (section G 'Urgency inflation') rather than an empirical finding, and card sections 4 and 7 supply only scope conditions (a real deadline routes to tone-urgent; fiction may render a false deadline as a character's error). No source in this silo argues that manufactured urgency is legitimate or that exigence-grounding is insufficient."
+    }
+  ],
+  "scope": "All forms; a hard repository constraint rather than a stylistic preference.",
+  "exceptions": [
+    "Where a genuine deadline or crisis exists, the tone-urgent surface takes over or the two alternate under the combination rules."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/inspirational.md#1--definition-and-boundaries",
+    "tones/inspirational.md#7--failure-modes-and-revision",
+    "tones/inspirational.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

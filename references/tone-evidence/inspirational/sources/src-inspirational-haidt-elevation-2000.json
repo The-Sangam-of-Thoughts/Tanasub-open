@@ -1,0 +1,55 @@
+{
+  "id": "src-inspirational-haidt-elevation-2000",
+  "title": "The Positive Emotion of Elevation",
+  "creators": [
+    "Jonathan Haidt"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Prevention & Treatment (American Psychological Association), vol. 3, article 33c",
+    "published_date": "2000",
+    "edition": null,
+    "doi": "10.1037/1522-3736.3.1.33c",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1037/1522-3736.3.1.33c",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-inspirational)",
+    "verification_notes": "Citation, journal, volume, article number, and DOI confirmed via APA PsycNet and journal records. Introduces elevation as the emotion triggered by acts of moral beauty/virtue."
+  },
+  "axis_ids": [
+    "tone-inspirational"
+  ],
+  "claim_ids": [
+    "clm-tone-inspirational-elevation-prosocial"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical citation only, no text reproduced."
+  }
+}

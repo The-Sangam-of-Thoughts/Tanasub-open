@@ -1,0 +1,55 @@
+{
+  "id": "src-irreverent-rozin-royzman-2001",
+  "title": "Negativity Bias, Negativity Dominance, and Contagion",
+  "creators": [
+    "Paul Rozin",
+    "Edward B. Royzman"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "counterevidence"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Personality and Social Psychology Review, Vol. 5, No. 4",
+    "published_date": "2001",
+    "edition": "pp. 296-320",
+    "doi": "10.1207/s15327957pspr0504_2",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1207/s15327957pspr0504_2",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "Full title, both authors, journal, volume, issue, pages, year, DOI, and abstract confirmed via Crossref on 2026-09-24; the abstract sets out four manifestations of negativity bias (negative potency, steeper negative gradients, negativity dominance, negativity self-salience). Abstract-level citation."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [
+    "clm-tone-irreverent-benign-violation-register"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "SAGE journal article; abstract paraphrased only."
+  }
+}

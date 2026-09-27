@@ -1,0 +1,58 @@
+{
+  "id": "src-reverent-kant-judgment-1790",
+  "title": "Critique of Judgment",
+  "creators": [
+    "Immanuel Kant",
+    "Werner S. Pluhar"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "definition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Hackett Publishing",
+    "published_date": "1987",
+    "edition": "Pluhar English translation of Kritik der Urteilskraft (1790)",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "de"
+  ],
+  "regions": [
+    "Germany",
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://www.hackettpublishing.com/critique-of-judgment",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reverent)",
+    "verification_notes": "Confirmed standard Pluhar translation of the 1790 Kritik der Urteilskraft. Used only for the received distinction between the mathematical and dynamical sublime - the mind's response when imagination is overwhelmed by magnitude or power - as philosophical context for scale and cadence, not for any claim about prose acoustics."
+  },
+  "axis_ids": [
+    "tone-reverent"
+  ],
+  "claim_ids": [
+    "clm-tone-reverent-sublime-cadence"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "de",
+    "translator": "Werner S. Pluhar",
+    "limitations": [
+      "Kant's technical vocabulary (Erhabene, Einbildungskraft) is translation-sensitive; the dossier claims only the broad sublime distinction, not wording."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "1790 original public domain; Pluhar translation copyrighted; analytical citation only; no passages reproduced."
+  }
+}

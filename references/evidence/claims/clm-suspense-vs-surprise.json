@@ -1,0 +1,43 @@
+{
+  "id": "clm-suspense-vs-surprise",
+  "craft_claim": "Suspense requires granting the audience anticipation of impending crisis, whereas surprise withholds knowledge until the impact moment.",
+  "axis_ids": [
+    "axis-cozy-mystery",
+    "axis-detective-and-mystery-fiction",
+    "axis-horror-fiction",
+    "axis-psychological-thriller",
+    "axis-thriller-fiction"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-king-on-writing-2000",
+      "location": "Toolbox and Craft sections, pp. 160-190",
+      "evidence_expression": "paraphrase",
+      "note": "King argues that suspense grows from putting sympathetic characters in agonizing predicaments where readers dread what is coming."
+    },
+    {
+      "evidence_id": "src-mckee-story-1997",
+      "location": "Chapter 15: Principle of Antagonism, pp. 317-330",
+      "evidence_expression": "paraphrase",
+      "note": "McKee differentiates suspense (curiosity with emotional investment over time) from sudden shock or surprise."
+    },
+    {
+      "evidence_id": "work-oedipus-rex",
+      "location": "Tiresias confrontation",
+      "evidence_expression": "synthesis",
+      "note": "Audience knows Oedipus is the killer; suspense comes entirely from watching him dig his own grave."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Thrillers, horror, mysteries, and dramatic narrative pacing.",
+  "exceptions": [
+    "Whodunit mysteries where identity of culprit is concealed until detective's climactic gathering."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "09-emotion-tension-suspense-and-pacing.md#emotion-tension-suspense-and-pacing-preferred_label",
+    "00-how-to-write.md#conflict-stakes-pacing-and-emotion"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-12"
+}

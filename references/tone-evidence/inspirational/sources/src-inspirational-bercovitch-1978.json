@@ -1,0 +1,54 @@
+{
+  "id": "src-inspirational-bercovitch-1978",
+  "title": "The American Jeremiad",
+  "creators": [
+    "Sacvan Bercovitch"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "University of Wisconsin Press",
+    "published_date": "1978",
+    "edition": "First edition (anniversary edition 2012)",
+    "doi": null,
+    "isbn": "978-0299077641"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://uwpress.wisc.edu/Books/T/The-American-Jeremiad",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-inspirational)",
+    "verification_notes": "Author, title, publisher, and year confirmed via University of Wisconsin Press and JSTOR. Describes the jeremiad's fusion of biblical standard, named falling-short, and promised restoration; its reception also records the social-control critique."
+  },
+  "axis_ids": [
+    "tone-inspirational"
+  ],
+  "claim_ids": [
+    "clm-tone-inspirational-prophetic-civic"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "University of Wisconsin Press scholarly monograph; analytical citation only, no text reproduced."
+  }
+}

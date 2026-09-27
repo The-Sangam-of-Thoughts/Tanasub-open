@@ -1,0 +1,49 @@
+{
+  "id": "work-mrs-dalloway",
+  "title": "Mrs Dalloway",
+  "creators": [
+    "Virginia Woolf"
+  ],
+  "work_type": "novel",
+  "published_date": "1925",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom",
+    "London"
+  ],
+  "axis_ids": [
+    "axis-psychological-fiction"
+  ],
+  "period_role": "recognized",
+  "source_id": "src-wood-how-fiction-works-2008",
+  "access": {
+    "edition_or_version": "Hogarth Press / Oxford World's Classics edition",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A high-society London woman prepares to host an evening party over the course of a single day, intertwined mentally with a shell-shocked war veteran.",
+    "reader_promise": "Intimate, luminous immersion into the textures of human consciousness, memory, regret, and post-war psychological trauma.",
+    "opening": "'Mrs. Dalloway said she would buy the flowers herself.' Clarissa steps out into the bustling morning streets of Westminster.",
+    "point_of_view": "Free indirect discourse fluidly tunneling across multiple character minds.",
+    "character_system": "Clarissa Dalloway (bourgeois hostess), Septimus Warren Smith (traumatized soldier double), Peter Walsh (former suitor), Sally Seton (past love).",
+    "conflict_and_stakes": "Preservation of the private soul against institutional coercion, social conformity, and mental disintegration.",
+    "structure": "Single-day unspooling in post-WWI London structured by the chiming of Big Ben and psychological association.",
+    "scene_movement": "Westminster streets, Bond Street florists, Regent's Park, Harley Street medical offices, Clarissa's evening party.",
+    "dialogue": "Brief social exchanges charged with immense psychological subtext and unsaid interior retrospection.",
+    "setting": "London in June 1923, vibrating with modern traffic, post-war quietude, and imperial architecture.",
+    "style_and_devices": "Tunneling process, free indirect style, stream of consciousness, motif of Big Ben chiming leaden circles.",
+    "emotional_progression": "Exhilaration of morning life -> afternoon reckoning with past youth -> shock of Septimus's suicide -> transcendent clarity.",
+    "suspense_or_anticipation": "Internal tension of whether Septimus will be institutionalized and whether Clarissa's party will succeed or collapse under social falsity.",
+    "climax": "Dr. Bradshaw arrives at Clarissa's party announcing Septimus's suicide; Clarissa withdraws to a small room to contemplate death.",
+    "ending": "Clarissa recognizes kinship with Septimus's defiance of compromise, returns to her guests; Peter Walsh observes: 'For there she was.'",
+    "conventions": "Modernist psychological novel; replaces chronological plot mechanics with temporal fluidity of consciousness.",
+    "innovation_or_subversion": "Creates a profound structural double between two characters who never meet in life, making suicide an act of preserved communication.",
+    "critical_reception": "Heralded as one of the defining triumphs of modernist fiction and formal innovation.",
+    "audience_reception": "Lasting canonical text studied worldwide for narrative point of view and lyrical interiority."
+  }
+}

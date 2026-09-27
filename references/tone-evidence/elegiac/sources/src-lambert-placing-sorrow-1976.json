@@ -1,0 +1,41 @@
+{
+  "id": "src-lambert-placing-sorrow-1976",
+  "title": "Placing Sorrow: A Study of the Pastoral Elegy Convention from Theocritus to Milton",
+  "creators": ["Ellen Zetzel Lambert"],
+  "source_type": "scholarly-book",
+  "source_roles": ["definition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "University of North Carolina Press",
+    "published_date": "1976",
+    "edition": "First edition",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States", "United Kingdom"],
+  "access": {
+    "locator": "Library catalog record; cited in The Oxford Handbook of the Elegy bibliography",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-elegiac)",
+    "verification_notes": "Existence, author, title, publisher, and year verified via an independent elegy-studies bibliography (EBSCO research starter) listing the pastoral elegy convention study."
+  },
+  "axis_ids": ["tone-elegiac"],
+  "claim_ids": ["clm-tone-elegiac-apostrophe-address"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scholarly monograph; analytical paraphrase only."
+  }
+}

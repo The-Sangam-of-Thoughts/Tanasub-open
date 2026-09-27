@@ -1,0 +1,41 @@
+{
+  "id": "src-detached-gernsbacher-emotion-inference-1992",
+  "title": "Do readers mentally represent fictional characters' emotional states?",
+  "creators": ["Morton Ann Gernsbacher", "H. Hill Goldsmith", "Rachel R. W. Robertson"],
+  "source_type": "peer-reviewed-article",
+  "source_roles": ["recognition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Cognition and Emotion",
+    "published_date": "1992",
+    "edition": "Vol. 6, No. 2, pp. 89-111",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4191745/",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-detached)",
+    "verification_notes": "Journal, volume, issue and page range confirmed via the Gernsbacher Lab record and the NIH/PMC deposit. Mismatching emotion words slowed responding, indicating represented emotional states."
+  },
+  "axis_ids": ["tone-detached"],
+  "claim_ids": ["clm-tone-detached-reader-emotion-inference", "clm-tone-detached-psychic-distance"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Taylor & Francis; synthesis only."
+  }
+}

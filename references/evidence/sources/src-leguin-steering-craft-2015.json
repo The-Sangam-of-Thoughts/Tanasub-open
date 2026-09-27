@@ -1,0 +1,56 @@
+{
+  "id": "src-leguin-steering-craft-2015",
+  "title": "Steering the Craft: A Twenty-First-Century Guide to Sailing the Sea of Story",
+  "creators": [
+    "Ursula K. Le Guin"
+  ],
+  "source_type": "craft-book",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Mariner Books",
+    "published_date": "2015",
+    "edition": "Revised Edition",
+    "doi": null,
+    "isbn": "978-0544611610"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://www.harpercollins.com/products/steering-the-craft-ursula-k-le-guin",
+    "accessed_at": "2026-09-12",
+    "access_conditions": "purchased"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-12T14:40:00Z",
+    "verified_by": "Codex S10 foundation evidence agent",
+    "verification_notes": "Directly verified chapters on narrative sentence rhythm, punctuation, point of view consistency, and pacing regulation."
+  },
+  "axis_ids": [
+    "axis-speculative-fiction",
+    "axis-science-fiction",
+    "axis-fantasy-fiction"
+  ],
+  "claim_ids": [
+    "clm-pacing-rhythm-syntax",
+    "clm-worldbuilding-rules-limits"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Craft guide; citations only."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "work-inspector-matadeen-on-the-moon",
+  "title": "Inspector Matadeen on the Moon and Other Satires",
+  "creators": [
+    "Harishankar Parsai",
+    "C. M. Naim"
+  ],
+  "work_type": "short-story-collection",
+  "published_date": "1994",
+  "languages": [
+    "hi",
+    "en"
+  ],
+  "regions": [
+    "India",
+    "Madhya Pradesh"
+  ],
+  "axis_ids": [
+    "tone-cynical",
+    "axis-satirical-literature"
+  ],
+  "period_role": "modern-canonical",
+  "source_id": "src-cynical-naim-parsai-matadeen-1994",
+  "access": {
+    "edition_or_version": "Manas Books (Chennai), 1994; reissued Katha Press, 2003; 21 stories translated by C. M. Naim",
+    "language_used": "en",
+    "translator": "C. M. Naim",
+    "access_conditions": "library"
+  },
+  "analysis_status": "partial",
+  "mechanics": {
+    "premise": "Selected satirical stories in which ordinary, stolid characters are placed in bureaucratic, mystical, or supernatural situations that expose the absurdity of post-independence Indian institutions.",
+    "point_of_view": "A plain narrator who reports absurdity without surprise, holding a deadpan distance that never signals the reader where the joke sits.",
+    "style_and_devices": "Deadpan municipal register; mock-formal escalation of a single bureaucratic rule; understatement; the impossible treated as routine paperwork.",
+    "emotional_progression": "Normalcy -> literal pursuit -> absurd escalation -> dry, deflating punchline that returns to ordinary life.",
+    "dialogue": "Plain modern Hindi speech and institutional jargon, deployed sincerely by characters who never hear their own absurdity.",
+    "conventions": "Central to modern Hindi vyangya (satire); Parsai is credited with revolutionising Hindi satire by moving it from courtly targets to the bureaucratic maze.",
+    "tone_mechanisms": [
+      "deadpan bureaucratic deflation",
+      "distrust of stated institutional motives",
+      "understatement in place of authorial sneer",
+      "irony whose judgement the reader supplies"
+    ],
+    "critical_reception": "Parsai (1924-1995) won the Sahitya Akademi Award in 1982 for Viklaang Shraddha ka Daur; his stories are widely taught and anthologised.",
+    "verification_note": "Existence, translator, editions, and author facts confirmed via Wikipedia API extract (Harishankar Parsai) on 2026-09-24 and library catalog metadata; technique characterized consistent with the repository's satirical-literature genre file. Analysis is partial and translation-mediated: assessed from Naim's English renderings and documented accounts, not from the Hindi originals; no passage reproduced. ID note: the comedic silo holds a record of this same work as work-parsai-inspector-matadeen; the duplication is flagged for the coordinator at registration."
+  }
+}

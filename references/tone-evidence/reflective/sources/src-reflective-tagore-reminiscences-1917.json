@@ -1,0 +1,49 @@
+{
+  "id": "src-reflective-tagore-reminiscences-1917",
+  "title": "My Reminiscences (English edition of Jivan-smriti)",
+  "creators": [
+    "Rabindranath Tagore"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "indian-context",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Macmillan and Co., London",
+    "published_date": "1917",
+    "edition": "English translation of the Bengali Jivan-smriti (Bengali original listed 1911) by Surendranath Tagore, supervised by the author",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en", "bn"],
+  "regions": ["India", "Bengal"],
+  "access": {
+    "locator": "https://www.visvabharati.ac.in/ENGLISH.html",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reflective)",
+    "verification_notes": "Publication (London: Macmillan & Co., 1917), translator (Surendranath Tagore, under the author's supervision), and relationship to the Bengali Jivan-smriti confirmed via the Visva-Bharati official English-books listing and academic citations (Marsh 2013; India Seminar). Bengali original listed 1911 (works-list record, accessed 2026-09-24); full Bengali serialization history not pinned this pass."
+  },
+  "axis_ids": ["tone-reflective"],
+  "claim_ids": ["clm-tone-reflective-shanta-rasa"],
+  "translation": {
+    "is_translation": true,
+    "original_language": "bn",
+    "translator": "Surendranath Tagore",
+    "limitations": [
+      "Translated under the author's supervision, but Bengali rhythmic and idiomatic texture is not carried; the reflective-evaluative cadence observed in English is partly the translator's."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": true,
+    "notes": "1917 English edition is in the public domain in the United States (pre-1929); confirm local jurisdiction before copying. No passages reproduced in this silo regardless."
+  }
+}

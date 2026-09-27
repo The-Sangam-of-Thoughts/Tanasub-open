@@ -1,0 +1,40 @@
+{
+  "id": "work-letter-birmingham-jail",
+  "title": "Letter from Birmingham Jail (Letter from Birmingham City Jail)",
+  "creators": [
+    "Martin Luther King Jr."
+  ],
+  "work_type": "open-letter",
+  "published_date": "1963-04-16",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "Birmingham, Alabama"
+  ],
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "period_role": "canonical",
+  "source_id": "src-urgent-bitzer-rhetorical-situation-1968",
+  "access": {
+    "edition_or_version": "Public-domain-adjacent but estate-controlled; widely anthologized in Why We Can't Wait (1964)",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A jailed civil-rights leader answers white clergymen who called his direct-action campaign 'unwise and untimely', arguing that delay is itself a form of injustice.",
+    "tone_function": "The letter is a rebuttal to the charge of untimeliness; urgency is its organizing rhetorical problem, not decoration.",
+    "time_handling": "It directly contests the words 'too soon' and 'wait', reframing the calendar itself as the ethical battleground: the pressure of time is argued, then enacted.",
+    "syntax_and_rhythm": "Sustained periodic sentences and long catalogues of grievance, punctuated by short declarative sentences that land the moral point; deliberate shifts of pace mirror the argument's escalation.",
+    "lexical_fields": "Time and delay ('wait', 'time', 'now'); obligation ('must', 'cannot'); moral urgency; concrete place-names and dates.",
+    "direct_address": "Written to named interlocutors and answered point by point, which keeps the reader inside a live exchange rather than a reflective essay.",
+    "figurative_moves": "Extended metaphors of motion and stalled movement; comparison of injustice to a boil that must be opened rather than covered.",
+    "emotional_progression": "Controlled indignation, argumentative patience, then moral confrontation; urgency stays tethered to a stated action (negotiation, direct action, legal challenge).",
+    "efficacy_pairing": "Every escalation of stakes is paired with a concrete next step, the pattern the evidence dossier identifies as the condition for non-defensive response.",
+    "verification_note": "Work, author and date confirmed (open letter, 16 April 1963). Technique described from scholarly and reference descriptions; no passage reproduced."
+  }
+}

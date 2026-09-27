@@ -1,0 +1,48 @@
+{
+  "id": "clm-tone-irreverent-aggressive-style-drift",
+  "craft_claim": "A voice that repeatedly deflates without license drifts into an aggressive humor style, which carries poorer social consequences and measurably costs the speaker status.",
+  "tone_ids": [
+    "tone-irreverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-irreverent-martin-humor-styles-2003",
+      "location": "Journal of Research in Personality 37(1):48-75, Humor Styles Questionnaire",
+      "evidence_expression": "paraphrase",
+      "note": "The instrument distinguishes an aggressive humor style (sarcasm, ridicule, put-downs) from affiliative humor, and relates aggressive humor use to lower psychological well-being and poorer relationships — a chronic mode with correlates, not a moment."
+    },
+    {
+      "evidence_id": "src-irreverent-bitterly-status-2017",
+      "location": "Journal of Personality and Social Psychology 112(3):431-455, eight studies",
+      "evidence_expression": "paraphrase",
+      "note": "Humor that violates the audience's norms decreases the speaker's status; humor that fits the audience's norms (or expectations) increases it — so deflation out of key with the frame is punished."
+    },
+    {
+      "evidence_id": "src-irreverent-bell-failed-humor-2015",
+      "location": "Whole-book citation (open-access text read earlier in session)",
+      "evidence_expression": "synthesis",
+      "note": "Documented cases of failed humor show audiences noticing and sanctioning misfired mockery — the drift is legible to readers and costs credibility."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-irreverent-martin-humor-styles-2003",
+      "note": "The humor-style evidence is trait-level and correlational (self-report), not a manipulation of prose register — it is adjacent evidence for the chronic-drift risk, not proof that a text's tone changes its readers."
+    },
+    {
+      "evidence_id": "src-irreverent-bitterly-status-2017",
+      "note": "The same literature shows norm-CONGRUENT humor raises status — the cost comes from humor out of key with the audience and frame, not from humor as such."
+    }
+  ],
+  "scope": "Serial or sustained voice work where deflation repeats across passages; drift is a pattern risk, not a verdict on any single joke.",
+  "exceptions": [
+    "A single sharp deflation inside a strong license (satire's chosen target, an established curmudgeon persona) need not drift; drift is defined by repetition without license or fit."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/irreverent.md#7--failure-modes-and-revision",
+    "tones/irreverent.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

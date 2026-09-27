@@ -1,0 +1,44 @@
+{
+  "id": "work-knausgaard-my-struggle",
+  "title": "My Struggle (Min kamp), volumes 1-6",
+  "creators": [
+    "Karl Ove Knausgård"
+  ],
+  "work_type": "autobiographical novel cycle (autofiction)",
+  "published_date": "2009-2011",
+  "languages": [
+    "no",
+    "en"
+  ],
+  "regions": [
+    "Norway",
+    "Scandinavia"
+  ],
+  "axis_ids": [
+    "tone-reflective"
+  ],
+  "period_role": "contemporary",
+  "source_id": null,
+  "access": {
+    "edition_or_version": "Norwegian: Min kamp, 6 vols., Oslo: Oktober, 2009-2011 — six-volume scope and years verified via Wikipedia 'My Struggle (Knausgård novels)', accessed 2026-09-24. English: My Struggle, trans. Don Bartlett (Harvill Secker / Archipelago / Vintage) from 2012 — in copyright, describe only.",
+    "language_used": "en",
+    "translator": "Don Bartlett",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "hyper-specific domestic detail held in flat register; reflection reuses the same plain diction as narration, never shifting into essayistic vocabulary",
+      "very long additive sentences joined by 'and' in which reflection unfolds as continuation of event rather than commentary — reflection proceeds without halting plot",
+      "deliberate monotony as a device: even cadence sustains reflective saturation without rhetorical peaks",
+      "sparse figuration — detail itself carries the reflection; anti-symbolic"
+    ],
+    "point_of_view": "First person, close in time to the events but told with retrospective composure: near and cool at once.",
+    "tense_and_structure": "Past-tense narration dominant; reflection occurs inside the past-tense scene (thinking now, about then) rather than in a timeless essayistic present.",
+    "rhythm_and_cadence": "Even, paratactic cadence with no rhetorical peaks; the flatness is the effect and the risk.",
+    "psychic_distance": "Self-distance via retrospection: the narrating self is separated from the experiencing self by the composure of the telling.",
+    "style_and_devices": "Plain additive parataxis; metaphor rare; evaluating asides folded into narration. The work proves high reflective dosage is possible at novel scale and documents its cost — the navel-gazing objection (see dossier §G-1) made explicit by critics.",
+    "copyright_note": "In copyright. Described by technique only; no passage reproduced.",
+    "verification_note": "Publication years re-verified 2026-09-24 (six volumes, 2009-2011); publisher and translator confirmed earlier via academic citations. Volume-level English publication details remain unpinned — do not print volume-specific dates without re-checking."
+  }
+}

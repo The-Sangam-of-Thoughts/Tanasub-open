@@ -1,0 +1,51 @@
+{
+  "id": "clm-tone-nostalgic-self-continuity-frame",
+  "craft_claim": "Nostalgia's regulative job is to connect a present self to a past self. A nostalgic passage earns its keep by making the narrating self answerable to the remembered self - not by sealing the past off as a museum tableau.",
+  "tone_ids": [
+    "tone-nostalgic"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-nostalgic-wildschut-2006-nostalgia-content",
+      "location": "Journal of Personality and Social Psychology 91(5):975-993, functional analyses",
+      "evidence_expression": "paraphrase",
+      "note": "Self-continuity is named among nostalgia's key functions alongside mood repair, social connectedness, and meaning, establishing past-to-present self linkage as part of what the emotion is for."
+    },
+    {
+      "evidence_id": "src-nostalgic-sedikides-2008-past-present-future",
+      "location": "Current Directions in Psychological Science 17(5):304-307",
+      "evidence_expression": "paraphrase",
+      "note": "Reviews content, triggers, and the affective, self-regard, and social functions of nostalgia, framing the emotion as a resource that ties the experiencing self to valued history."
+    },
+    {
+      "evidence_id": "src-nostalgic-sedikides-2015-ejsp-self-continuity",
+      "location": "European Journal of Social Psychology 45(1):52-61, Studies 1-4",
+      "evidence_expression": "paraphrase",
+      "note": "A four-study causal chain: negative self-discontinuity heightens nostalgia (Studies 1-2), and experimentally induced nostalgia augments self-continuity above and beyond positive affect (Studies 3-4). Nostalgia is a regulatory answer to discontinuity."
+    },
+    {
+      "evidence_id": "src-nostalgic-sedikides-2016-emotion-self-continuity",
+      "location": "Emotion 16(4):524-539, Experiments 1-6",
+      "evidence_expression": "paraphrase",
+      "note": "Specifies the mechanism: nostalgia fosters self-continuity by augmenting social connectedness, and the resulting continuity confers subjective vitality."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-nostalgic-ward-2018-gatsby",
+      "location": "New York Times, 12 April 2018 (reading of The Great Gatsby)",
+      "evidence_expression": "synthesis",
+      "note": "Ward's reading of Gatsby is the dark mirror of the mechanism: an identity fixed at one shining moment, with no room for change. Continuity between past and present self can calcify into refusal of the present self at all - the tone's failure mode, not its function."
+    }
+  ],
+  "scope": "Narrative framing of remembered scenes against the narrating present; feeds card sections 3-5.",
+  "exceptions": [
+    "Static, tableau-like nostalgic passages are legitimate as brief saturation peaks (a litany of remembered objects) but cannot carry a whole narration without the present self answering back."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/nostalgic.md"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

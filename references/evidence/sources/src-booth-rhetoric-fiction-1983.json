@@ -1,0 +1,57 @@
+{
+  "id": "src-booth-rhetoric-fiction-1983",
+  "title": "The Rhetoric of Fiction",
+  "creators": [
+    "Wayne C. Booth"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "University of Chicago Press",
+    "published_date": "1983",
+    "edition": "Second Edition",
+    "doi": "10.7208/chicago/9780226065595.001.0001",
+    "isbn": "978-0226065588"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://press.uchicago.edu/ucp/books/book/chicago/R/bo3618776.html",
+    "accessed_at": "2026-09-12",
+    "access_conditions": "purchased"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-12T14:20:00Z",
+    "verified_by": "Codex S10 foundation evidence agent",
+    "verification_notes": "Directly verified concepts of implied author, reliable and unreliable narrators, and aesthetic distance."
+  },
+  "axis_ids": [
+    "axis-psychological-fiction",
+    "axis-picaresque-literature",
+    "axis-epistolary-fiction"
+  ],
+  "claim_ids": [
+    "clm-unreliable-narration",
+    "clm-point-of-view-psychic-distance"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scholarly monograph; quotation and synthesis citation only."
+  }
+}

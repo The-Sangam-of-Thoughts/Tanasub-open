@@ -1,0 +1,56 @@
+{
+  "id": "src-lyrical-jakobson-poetics-1960",
+  "title": "Linguistics and Poetics",
+  "creators": [
+    "Roman Jakobson"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Style in Language (Thomas A. Sebeok, ed.), MIT Press",
+    "published_date": "1960",
+    "edition": "chapter in edited volume",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "Russia"
+  ],
+  "access": {
+    "locator": "https://openlibrary.org/works/OL11091927W",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-lyrical)",
+    "verification_notes": "Chapter and 1960 edited volume verified via Open Library; definition confirmed: the poetic function projects the principle of equivalence from the axis of selection onto the axis of combination."
+  },
+  "axis_ids": [
+    "tone-lyrical"
+  ],
+  "claim_ids": [
+    "clm-tone-lyrical-jakobson-poetic-function"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Edited-volume chapter; analytical citation only; no text reproduced."
+  }
+}

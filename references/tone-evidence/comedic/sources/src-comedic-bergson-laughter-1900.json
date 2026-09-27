@@ -1,0 +1,62 @@
+{
+  "id": "src-comedic-bergson-laughter-1900",
+  "title": "Laughter: An Essay on the Meaning of the Comic",
+  "creators": [
+    "Henri Bergson",
+    "Cloudesley Brereton",
+    "Fred Rothwell"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Macmillan and Co. (English translation); Project Gutenberg eBook 4352",
+    "published_date": "1900",
+    "edition": "English translation 1911 (Brereton & Rothwell)",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "regions": [
+    "France",
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://www.gutenberg.org/files/4352/4352-h/4352-h.htm",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-comedic)",
+    "verification_notes": "Public-domain English translation inspected directly. Verified the essay's account of laughter's social function and its requirement of 'absence of feeling' (indifference), and of 'mechanical inelasticity' as a source of the comic."
+  },
+  "axis_ids": [
+    "tone-comedic"
+  ],
+  "claim_ids": [
+    "clm-tone-comedic-comic-distance",
+    "clm-tone-comedic-figurative-register"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "fr",
+    "translator": "Cloudesley Brereton and Fred Rothwell",
+    "limitations": [
+      "Claims about French rhythm and period-specific idiom are scoped to the translated text."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": true,
+    "notes": "Original (1900) and 1911 translation are in the public domain."
+  }
+}

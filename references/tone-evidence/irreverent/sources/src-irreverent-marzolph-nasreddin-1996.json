@@ -1,0 +1,58 @@
+{
+  "id": "src-irreverent-marzolph-nasreddin-1996",
+  "title": "Timur's Humorous Antagonist, Nasreddin Ḥoca",
+  "creators": [
+    "Ulrich Marzolph"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Oriente Moderno, Vol. 76, No. 2",
+    "published_date": "1996",
+    "edition": "pp. 485-498",
+    "doi": "10.1163/22138617-07602031",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Turkey",
+    "Middle East"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1163/22138617-07602031",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "Full title, author, journal, volume, issue, pages, year, and DOI confirmed via Crossref on 2026-09-24. The article's full text was not consulted (Brill paywall returned 403 on direct fetch), so this source is cited at title/metadata level: it documents the scholarly framing of Nasreddin as the humorous antagonist of the powerful ruler Timur. Article language not confirmed beyond the English title."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [
+    "clm-tone-irreverent-hierarchy-leveling",
+    "clm-tone-irreverent-no-sustained-target"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": [
+      "Cited at metadata/title level only; no findings from the article body are claimed."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Brill journal article; title-level citation only, no text reproduced."
+  }
+}

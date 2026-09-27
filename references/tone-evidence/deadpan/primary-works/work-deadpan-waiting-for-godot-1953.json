@@ -1,0 +1,17 @@
+{
+  "id": "work-deadpan-waiting-for-godot-1953",
+  "axis_ids": ["tone-deadpan"],
+  "source_type": "primary-work",
+  "title": "Waiting for Godot",
+  "creators": ["Samuel Beckett"],
+  "publication": {
+    "publication_year": 1953
+  },
+  "identifiers": {},
+  "tier": 1,
+  "analysis_status": "translation-mediated",
+  "tone_mechanism": "Bleak existential content delivered through vaudeville double-act mechanics: the stage face and timing carry the joke while the content stays null (waiting, hunger, rope, boot). In performance the expressionless/pantomimic delivery is the flat surface; on the page the same effect must be rebuilt from clipped declaratives and withheld reaction — the canonical transfer case (claim 7). French original (1952) → English (Beckett's own revision, 1955); dates vary by language, 1953 = first French publication/performance.",
+  "verification_note": "Standard bibliographic identity; no passage quoted (copyright). Dates disambiguated rather than silently picked. Existence cross-checked against the repo's genre references to absurdist drama; no sibling silo owns a Godot record (checked 2026-09-24).",
+  "copyright_note": "In copyright. Technique described only; no text reproduced.",
+  "used_by_claims": ["clm-tone-deadpan-performance-transfer"]
+}

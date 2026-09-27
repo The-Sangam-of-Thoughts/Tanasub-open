@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-warm-dosage-yield",
+  "craft_claim": "Warmth saturates: continuous direct address or affirmation with no new substance loses affiliative force and curdles into smarm, so the voice must yield at stakes peaks and at direct address of suffering.",
+  "tone_ids": [
+    "tone-warm"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-warm-hochschild-managed-heart-1983",
+      "location": "The Managed Heart, surface acting and estrangement",
+      "evidence_expression": "synthesis",
+      "note": "Sustained managed friendliness produces surface acting and estrangement, and recipients detect forced affect, supporting the claim that continuous performed warmth degrades."
+    },
+    {
+      "evidence_id": "src-warm-aaker-brand-personality-1997",
+      "location": "Journal of Marketing Research 34(3):347-356",
+      "evidence_expression": "paraphrase",
+      "note": "Sincerity is one of five brand-personality dimensions (down-to-earth, honest, wholesome, cheerful); as a perceived trait it must be earned by content rather than asserted by tone alone."
+    },
+    {
+      "evidence_id": "src-warm-brown-levinson-1987",
+      "location": "Politeness: Some Universals, positive-politeness strategies",
+      "evidence_expression": "synthesis",
+      "note": "Positive-politeness forms presuppose a plausible common ground; when repeated without new relational information they become conventional and lose their redressive force."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-warm-horton-wohl-1956",
+      "note": "Parasocial relationships can be sustained long term and take on aspects of friendship, so duration alone is not the problem; the saturation boundary is substance, not length."
+    }
+  ],
+  "scope": "Long-form and serial content; openings, transition and closing frames.",
+  "exceptions": [
+    "Deliberate persona comedy that makes the over-familiarity the joke."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/warm.md#4--when-to-show-restraint",
+    "tones/warm.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

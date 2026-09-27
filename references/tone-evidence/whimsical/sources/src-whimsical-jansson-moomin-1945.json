@@ -1,0 +1,56 @@
+{
+  "id": "src-whimsical-jansson-moomin-1945",
+  "title": "The Moomins and the Great Flood (Småtrollen och den stora översvämningen)",
+  "creators": [
+    "Tove Jansson"
+  ],
+  "source_type": "primary-work",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Söderström & Co (first Swedish edition)",
+    "published_date": "1945",
+    "edition": "First Moomin book",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "sv"
+  ],
+  "regions": [
+    "Finland"
+  ],
+  "access": {
+    "locator": "https://www.britannica.com/biography/Tove-Jansson",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-whimsical)",
+    "verification_notes": "Confirmed Jansson was a Finland-Swedish author writing in Swedish, the 1945 first Moomin book title and year, and Britannica's characterization of 'individualistic characters, complicated plots, and sophisticated humor' via Britannica and Jansson estate records."
+  },
+  "axis_ids": [
+    "tone-whimsical"
+  ],
+  "claim_ids": [
+    "clm-tone-whimsical-crosscultural-invented-worlds"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "sv",
+    "translator": "various",
+    "limitations": [
+      "Analysis uses English translations; the composing language is Swedish."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "In copyright; analytical citation only, no text reproduced."
+  }
+}

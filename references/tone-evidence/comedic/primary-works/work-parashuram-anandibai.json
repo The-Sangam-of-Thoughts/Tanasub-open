@@ -1,0 +1,51 @@
+{
+  "id": "work-parashuram-anandibai",
+  "title": "Anandibai Ityadi Galpa (Anandibai and Other Stories)",
+  "creators": [
+    "Rajshekhar Basu (Parashuram)"
+  ],
+  "work_type": "short-story-collection",
+  "published_date": "1957",
+  "languages": [
+    "bn"
+  ],
+  "regions": [
+    "India",
+    "Bengal",
+    "West Bengal"
+  ],
+  "axis_ids": [
+    "tone-comedic"
+  ],
+  "period_role": "canonical",
+  "source_id": "src-comedic-morreall-sep-2012",
+  "access": {
+    "edition_or_version": "First edition, 1957 (Bengali); Sahitya Akademi Award for Bengali, 1958",
+    "language_used": "en",
+    "translator": "Various English translations; collection read through English renderings",
+    "access_conditions": "library"
+  },
+  "analysis_status": "translation-mediated",
+  "mechanics": {
+    "premise": "Fifteen comic and satirical stories on love, courtship, family, and politics, in which ordinary situations are pursued with mock-serious logic.",
+    "reader_promise": "Dry, intelligent Bengali comedy: absurd premises handled with a straight, learned narrator.",
+    "opening": "Stories typically open with a plausible domestic or social situation that is then pushed into absurdity by literal-mindedness.",
+    "point_of_view": "A learned, mock-serious narrator who reports absurdity as if it were unremarkable, producing the comic distance identified by Bergson.",
+    "character_system": "Frequently types rather than deep individuals: pedants, clerks, schemers, and eccentrics whose logic is followed to its comic conclusion.",
+    "conflict_and_stakes": "Low external stakes raised by the narrator's gravity; the comedy lies in following a small rule to an absurd limit.",
+    "structure": "The comic short story: a single absurd premise escalated, with a turn or reversal at the close.",
+    "comic_system": "Mock-serious narration, absurd literal-mindedness, understatement, and parody of learned or official registers.",
+    "dialogue": "Period Bengali registers; translation limits claims about idiom and wordplay.",
+    "setting": "Bengali domestic, professional, and small-town life of the early-to-mid twentieth century.",
+    "style_and_devices": "Understatement (D4) and mock-formal inflation (D5); parody of scholarly and bureaucratic discourse.",
+    "emotional_progression": "Plausibility -> absurd escalation -> reversal -> wry close.",
+    "comic_escalation": "Heightens one absurd rule rather than stacking unrelated jokes.",
+    "climax": "The story's logical extreme or reversal.",
+    "ending": "A dry comic turn that exposes the absurdity without moralising.",
+    "conventions": "Draws on Bengali comic and satirical short fiction and on the personal essay tradition.",
+    "innovation_or_subversion": "Brings scientific and lexicographic precision to comedy of logic, making pedantry itself comic material.",
+    "critical_reception": "Basu is widely regarded as the outstanding Bengali humourist of the twentieth century; the collection won a Sahitya Akademi Award (1958).",
+    "audience_reception": "Adapted for film by Satyajit Ray and others; a continuing classroom and popular presence.",
+    "translation_note": "Technique is assessed from English renderings; sound-based wordplay and idiom are not claimed."
+  }
+}

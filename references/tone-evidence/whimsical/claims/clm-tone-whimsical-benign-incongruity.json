@@ -1,0 +1,37 @@
+{
+  "id": "clm-tone-whimsical-benign-incongruity",
+  "craft_claim": "Amusement rises when a violation of expectation is simultaneously appraised benign; whimsy works by keeping its incongruities mild and safely framed, producing delight without setup-and-payoff joke machinery.",
+  "tone_ids": [
+    "tone-whimsical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-whimsical-mcgraw-warren-2010",
+      "location": "Psychological Science 21(8):1141-1149, five experiments",
+      "evidence_expression": "paraphrase",
+      "note": "McGraw and Warren find amusement follows violations that are simultaneously seen as benign, made benign by an alternative norm, weak commitment to the violated norm, or psychological distance from the violation."
+    },
+    {
+      "evidence_id": "src-whimsical-bateson-play-fantasy-1972",
+      "location": "Steps to an Ecology of Mind (1972), pp. 177-193",
+      "evidence_expression": "synthesis",
+      "note": "The play frame is the mechanism that supplies benignity: by bracketing consequence, it lets mild incongruities stay safe and therefore amusing."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-whimsical-mcgraw-warren-2010",
+      "note": "The benign violation account is a general theory of humor, not a study of whimsical prose; it is adjacent evidence and the claim is scoped accordingly."
+    }
+  ],
+  "scope": "Odd, absurd, or impossible-seeming invention that the reader appraises as safe.",
+  "exceptions": [
+    "When the incongruity is appraised as a real threat it becomes aversive or frightening, not amusing; that is the failure mode covered in the stakes-clash claim."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/whimsical.md#2--why-it-works--the-mechanism"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

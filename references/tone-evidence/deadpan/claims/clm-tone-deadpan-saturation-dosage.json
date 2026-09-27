@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-deadpan-saturation-dosage",
+  "craft_claim": "Deadpan decays under repetition: each recurrence of the same flat-surface move reduces novelty and invites the reader to pre-cue the joke, after which the construction lands literally — so a piece should escalate rather than repeat, and re-arm the surprise sparingly.",
+  "tone_ids": ["tone-deadpan"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-deadpan-berlyne-aesthetics-1971",
+      "location": "book-level only (Appleton-Century-Crofts, 1971; xiv+336 pp.; page locator not verified)",
+      "evidence_expression": "synthesis",
+      "note": "Berlyne's collative-variable account (novelty, surprise, complexity drive arousal; repetition habituates) predicts decay of the deadpan surprise when the same cue recurs unchanged. Tier 2; page-level locator evidence-incomplete. The inverted-U arousal curve is unevenly replicated in later work."
+    },
+    {
+      "evidence_id": "src-deadpan-clark-gerrig-pretense-1984",
+      "location": "pp. 121–126 (obviousness/pre-cueing discussion)",
+      "evidence_expression": "synthesis",
+      "note": "Pre-cued audiences cannot be pretensed at: once the reader knows the voice is ironic, the pretense that produced the effect is transparent and inert. Tier 2; the stronger of the two supports for reader-cue budget."
+    },
+    {
+      "evidence_id": "src-deadpan-kharms-today-2007",
+      "location": "short prose pieces (structural escalation)",
+      "evidence_expression": "paraphrase",
+      "note": "Kharms keeps sentence mechanics constant while escalating stakes — variation lives in content, not in surface, which is the documented method for sustaining the tone without repetition collapse. Tier 3/4 practice anchor; translation-mediated."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-deadpan-berlyne-aesthetics-1971",
+      "location": "inverted-U curve (whole-book context)",
+      "evidence_expression": "synthesis",
+      "note": "The inverted-U relation between arousal and collative variables has had uneven empirical replication; the precise 'dose' cannot be fixed numerically. Bounds the claim: direction of decay is supported, exact thresholds are not."
+    }
+  ],
+  "scope": "Sustained pieces (essay, story, chapter) using deadpan as the dominant tone. In single-sentence or headline uses saturation is not a concern. Thresholds in the card's dosage section are bounded writer-inference, not measured constants (evidence-incomplete: no deadpan-specific numeric study located).",
+  "exceptions": "Deadpan held *unchanged* across an entire short work can succeed as a stylistic monoculture (the 'one register' essay) when the container promises it; the failure appears when the piece tries to *surprise* repeatedly from the same position.",
+  "confidence": "moderate",
+  "report_locations": ["#4--when-to-show-restraint"],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

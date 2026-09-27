@@ -1,0 +1,57 @@
+{
+  "id": "src-whimsical-mukherjee-ray-humor-2022",
+  "title": "To Laugh or Not to Laugh: An Analysis of Humor in Sukumar Ray's Abol Tabol",
+  "creators": [
+    "Ashmita Mukherjee"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "indian-context",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "South Asian Review, Vol. 43, No. 3-4",
+    "published_date": "2022",
+    "edition": "pp. 281-294; published online 8 September 2021",
+    "doi": "10.1080/02759527.2021.1957607",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "India",
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1080/02759527.2021.1957607",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-whimsical)",
+    "verification_notes": "Confirmed author (Ashmita Mukherjee, University of Connecticut), journal, volume, issue, pages, year and DOI via Crossref and the publisher abstract. The abstract uses 'the spirit of whimsy' and lists the poem's mechanisms."
+  },
+  "axis_ids": [
+    "tone-whimsical"
+  ],
+  "claim_ids": [
+    "clm-tone-whimsical-sukumar-ray-nonsense",
+    "clm-tone-whimsical-crosscultural-invented-worlds"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Taylor & Francis journal article; abstract-level citation only."
+  }
+}

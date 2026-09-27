@@ -1,0 +1,52 @@
+{
+  "id": "src-reflective-treynor-nolenhoeksema-2003",
+  "title": "Rumination Reconsidered: A Psychometric Analysis",
+  "creators": [
+    "Wendy Treynor",
+    "Richard Gonzalez",
+    "Susan Nolen-Hoeksema"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Cognitive Therapy and Research",
+    "published_date": "2003-06",
+    "edition": "27(3), pp. 247-259",
+    "doi": "10.1023/A:1023910315561",
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://link.springer.com/article/10.1023/A:1023910315561",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reflective)",
+    "verification_notes": "Confirmed via Springer article record (Cognitive Therapy and Research, June 2003, vol. 27, pp. 247-259, DOI) and multiple citing works; the brooding-predicts-increase / reflection-predicts-decrease longitudinal result confirmed via citing literature (e.g., Miranda et al. 2007)."
+  },
+  "axis_ids": ["tone-reflective"],
+  "claim_ids": [
+    "clm-tone-reflective-reflection-vs-rumination",
+    "clm-tone-reflective-dosage-yield"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Springer article; analytical citations only."
+  }
+}

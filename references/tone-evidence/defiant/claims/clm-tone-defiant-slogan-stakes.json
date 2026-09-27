@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-defiant-slogan-stakes",
+  "craft_claim": "Defiance without a named addressee, stake, or route collapses into sloganeering, because injustice-only framing omits the efficacy and identity terms collective action requires and confrontation that never confronts becomes ritual venting.",
+  "tone_ids": [
+    "tone-defiant"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-defiant-vanzomeren-simca-2008",
+      "location": "Psychological Bulletin 134(4):504-535",
+      "evidence_expression": "synthesis",
+      "note": "Injustice alone yields group-based anger, while action additionally requires efficacy and social identity; a text with only the wrong supplies no route and no 'we'."
+    },
+    {
+      "evidence_id": "src-defiant-scott-smith-1969",
+      "location": "Quarterly Journal of Speech 55(1):1-8",
+      "evidence_expression": "paraphrase",
+      "note": "Confrontation is defined by actually refusing specific terms of a specific opponent; when there is no specific opponent or term, the rhetoric is not confrontation but performance."
+    },
+    {
+      "evidence_id": "src-defiant-skitka-mullen-2002",
+      "location": "Analyses of Social Issues and Public Policy 2(1):35-41",
+      "evidence_expression": "synthesis",
+      "note": "Moral mandates supply action potential, but high-potential moral language detached from a concrete object reads as ungrounded assertion."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "work-hum-dekhenge",
+      "note": "Faiz's nazm moves through short, end-stopped declaratives with a collective, chant-adjacent rhythm rather than a stated stake-and-route argument, so concise defiant forms can work by compression and are not reducible to this claim's checklist; the claim governs prose that aims to move an audience, not refrain-based forms."
+    }
+  ],
+  "scope": "Copy, social posts, chant-like prose, and any sustained defiant passage.",
+  "exceptions": [
+    "Deliberate compression in poetry and slogan is a legitimate separate form; the defect named here is sloganeering masquerading as argument."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/defiant.md#7--failure-modes-and-revision",
+    "tones/defiant.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-schug-relational-mobility-2010",
+  "title": "Relational mobility explains between- and within-culture differences in self-disclosure to close friends",
+  "creators": ["Joanna Schug", "Masaki Yuki", "William W. Maddux"],
+  "source_type": "peer-reviewed-article",
+  "source_roles": ["recognition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychological Science",
+    "published_date": "2010-10",
+    "edition": "Vol. 21, No. 10, pp. 1471-1478",
+    "doi": "10.1177/0956797610382786",
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["Japan", "United States"],
+  "access": {
+    "locator": "https://pubmed.ncbi.nlm.nih.gov/20817913",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "PubMed Central record, DOI, and abstract verified; the mediation of cross-cultural disclosure differences by relational mobility confirmed."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-crosscultural-norms"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "SAGE journal article; analytical paraphrase only, no text reproduced."
+  }
+}

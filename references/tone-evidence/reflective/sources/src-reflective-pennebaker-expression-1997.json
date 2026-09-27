@@ -1,0 +1,46 @@
+{
+  "id": "src-reflective-pennebaker-expression-1997",
+  "title": "Writing About Emotional Experiences as a Therapeutic Process",
+  "creators": [
+    "James W. Pennebaker"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychological Science",
+    "published_date": "1997-05",
+    "edition": "8(3), pp. 162-166",
+    "doi": "10.1111/j.1467-9280.1997.tb00403.x",
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://journals.sagepub.com/doi/10.1111/j.1467-9280.1997.tb00403.x",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reflective)",
+    "verification_notes": "Confirmed via SAGE first-published record (May 1997), DOI, and multiple citations giving Psychological Science 8(3):162-166; author-hosted PDF mirrors confirm the article's synthesis-of-program scope. Reader-side effects were not addressed by this literature — see claim's honest null."
+  },
+  "axis_ids": ["tone-reflective"],
+  "claim_ids": ["clm-tone-reflective-journal-expressive-writing"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "SAGE article; analytical citations only."
+  }
+}

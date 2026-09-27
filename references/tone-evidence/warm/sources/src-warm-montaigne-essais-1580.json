@@ -1,0 +1,58 @@
+{
+  "id": "src-warm-montaigne-essais-1580",
+  "title": "Essais",
+  "creators": [
+    "Michel de Montaigne"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Simon Millanges / Jean Richer (Bordeaux/Paris); modern editions widely available",
+    "published_date": "1580",
+    "edition": "First edition; 'Au lecteur' / 'To the Reader' front matter",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "regions": [
+    "France"
+  ],
+  "access": {
+    "locator": "https://en.wikipedia.org/wiki/Essays_(Montaigne)",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-warm)",
+    "verification_notes": "Confirmed first publication March 1580 and the 'To the Reader' preface. Verified the conversational/informal style (learned vocabulary mixed with popular sayings) and direct reader address. Public domain; only the technique is described, no text reproduced."
+  },
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "claim_ids": [
+    "clm-tone-warm-warmth-primacy",
+    "clm-tone-warm-companionable-essay-letter"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "fr",
+    "translator": "Various (Florio 1603; Cotton 1686; Frame 1958; modern editions)",
+    "limitations": [
+      "Individual English translations vary in register; warmth is partly carried by the Middle French 'Au lecteur' whose intimacy is approximated in translation."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": true,
+    "notes": "Original 1580 text is public domain; modern translations may be copyrighted and are not reproduced."
+  }
+}

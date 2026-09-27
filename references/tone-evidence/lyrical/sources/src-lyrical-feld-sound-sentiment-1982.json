@@ -1,0 +1,52 @@
+{
+  "id": "src-lyrical-feld-sound-sentiment-1982",
+  "title": "Sound and Sentiment",
+  "creators": [
+    "Feld"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": null,
+    "published_date": "1982",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [],
+  "regions": [
+    "Pacific"
+  ],
+  "access": {
+    "locator": "https://openlibrary.org/works/OL4799571W",
+    "accessed_at": "2026-09-24",
+    "access_conditions": null
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-lyrical)",
+    "verification_notes": "Record materialized from the lyrical dossier's own citation only: the source appears there as 'Feld's ethnography of Kaluli sound-as-sentiment' (section E) and as 'Feld 1982' in the claims matrix for clm-tone-lyrical-crosscultural-sound-sense, and is declared in dossier section I. The title shown follows the record ID declared in section I; the dossier states no full bibliographic title and names the author by surname only. Region is recorded as 'Pacific' from the dossier's 'Japanese and Pacific' grouping; the Kaluli are named without a country, so no country was added. reliability_tier 2 follows the dossier's claims-matrix tier; source_type scholarly-book follows the dossier's description of the work as an ethnography. Every other unstated field is null or [] rather than guessed. No text was consulted or reproduced."
+  },
+  "axis_ids": [
+    "tone-lyrical"
+  ],
+  "claim_ids": [
+    "clm-tone-lyrical-crosscultural-sound-sense"
+  ],
+  "translation": {
+    "is_translation": null,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": null,
+    "repository_copy_allowed": false,
+    "notes": "Copyright status not stated in the dossier; analytical citation only, no text reproduced."
+  }
+}

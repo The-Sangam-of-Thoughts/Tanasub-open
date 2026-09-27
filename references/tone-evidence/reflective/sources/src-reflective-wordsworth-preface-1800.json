@@ -1,0 +1,47 @@
+{
+  "id": "src-reflective-wordsworth-preface-1800",
+  "title": "Preface to Lyrical Ballads (1800)",
+  "creators": [
+    "William Wordsworth"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Lyrical Ballads, with Other Poems (2 vols.), Longman & Rees, London",
+    "published_date": "1800",
+    "edition": "1800 Preface (expanded 1802); public-domain text",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["England"],
+  "access": {
+    "locator": "https://viscomi.sites.oasis.unc.edu/viscomi/coursepack/wordsworth/Wordsworth-1800_LB_Preface.pdf",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reflective)",
+    "verification_notes": "Full public-domain text retrieved; the definition of poetry as spontaneous overflow whose origin is emotion recollected in tranquillity confirmed in situ, and publication as the 1800 Preface (expanded 1802) confirmed against multiple independent records."
+  },
+  "axis_ids": ["tone-reflective"],
+  "claim_ids": ["clm-tone-reflective-recollected-tranquillity"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": true,
+    "notes": "1800 text in the public domain; open coursepack copy available. Short definitional phrase used under PD; no modern edition text copied."
+  }
+}

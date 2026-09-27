@@ -1,0 +1,59 @@
+{
+  "id": "src-urgent-mullainathan-shafir-scarcity-2013",
+  "title": "Scarcity: Why Having Too Little Means So Much",
+  "creators": [
+    "Sendhil Mullainathan",
+    "Eldar Shafir"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "craft-support",
+    "counterevidence"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Times Books / Henry Holt and Company",
+    "published_date": "2013",
+    "edition": "First edition",
+    "doi": null,
+    "isbn": "978-0805092646"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "behavioral economics",
+    "psychology"
+  ],
+  "access": {
+    "locator": "Times Books/Henry Holt, 2013; ISBN 978-0805092646",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-urgent)",
+    "verification_notes": "Publication facts (authors, title, year, publisher) confirmed against the encyclopedic record of the book. The 'scarcity captures attention / tunnelling' synthesis is drawn from the book's established thesis; no pages inspected and no text reproduced."
+  },
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "claim_ids": [
+    "clm-tone-urgent-time-pressure-narrows-cognition",
+    "clm-tone-urgent-manufactured-urgency-line"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Trade/scholarly book; no text reproduced."
+  }
+}

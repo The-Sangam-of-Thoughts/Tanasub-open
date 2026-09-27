@@ -1,0 +1,56 @@
+{
+  "id": "src-cynical-navia-diogenes-2005",
+  "title": "Diogenes the Cynic: The War Against the World",
+  "creators": [
+    "Luis E. Navia"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "history"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Humanity Books",
+    "published_date": "2005",
+    "edition": "Includes ch. 5, 'The Presence of Diogenes', on the ancient-modern distinction",
+    "doi": null,
+    "isbn": "9781591023203"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Greece",
+    "United States"
+  ],
+  "access": {
+    "locator": "ISBN 9781591023203 (publisher and library catalogs)",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-cynical)",
+    "verification_notes": "Book identity (Navia, Humanity Books 2005, ISBN 9781591023203; ch. 5 titled 'The Presence of Diogenes') confirmed via publisher and library catalog metadata on 2026-09-24; full text not inspected. Used for the ancient-modern distinction: the historical Diogenes practiced the philosophy he proclaimed, and the scholarly reception separates that practice from later, purely verbal cynicism. No passage quoted."
+  },
+  "axis_ids": [
+    "tone-cynical"
+  ],
+  "claim_ids": [
+    "clm-tone-cynical-cynic-philosophy-lineage"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Humanity Books; analytical citation only."
+  }
+}

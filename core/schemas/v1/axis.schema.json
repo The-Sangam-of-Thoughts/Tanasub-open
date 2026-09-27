@@ -1,0 +1,79 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://creative-writing-library.local/schemas/v1/axis.schema.json",
+  "title": "Creative-Writing Axis",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id", "preferred_label", "axis_type", "aliases", "parent_ids", "child_ids", "related_ids",
+    "hybrid_parent_ids", "forms", "modes", "audiences", "regions", "languages", "recognition_sources",
+    "definition_status", "research_status", "evidence_status", "draft_status", "review_status", "version",
+    "taxonomy_freeze_date", "last_reviewed", "primary_work_ids", "source_ids", "analysis_files",
+    "indian_examples", "translation_notes", "evidence_limitations", "content_warnings"
+  ],
+  "properties": {
+    "id": {"type": "string", "pattern": "^axis-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+    "preferred_label": {"type": "string", "minLength": 1},
+    "axis_type": {"enum": ["form", "genre", "subgenre", "mode", "structure", "audience", "medium", "tradition", "hybrid"]},
+    "aliases": {"type": "array", "items": {"type": "string", "minLength": 1}, "uniqueItems": true},
+    "parent_ids": {"$ref": "#/definitions/axisIdArray"},
+    "child_ids": {"$ref": "#/definitions/axisIdArray"},
+    "related_ids": {"$ref": "#/definitions/axisIdArray"},
+    "hybrid_parent_ids": {"$ref": "#/definitions/axisIdArray"},
+    "forms": {"$ref": "#/definitions/nonEmptyStringArray"},
+    "modes": {"$ref": "#/definitions/nonEmptyStringArray"},
+    "audiences": {"$ref": "#/definitions/nonEmptyStringArray"},
+    "regions": {"$ref": "#/definitions/nonEmptyStringArray"},
+    "languages": {"type": "array", "items": {"type": "string", "pattern": "^[a-z]{2,3}(?:-[A-Za-z0-9]{2,8})*$"}, "uniqueItems": true},
+    "recognition_sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["source_id", "authority_type", "independent_group", "recognition_claim", "accessed_at"],
+        "properties": {
+          "source_id": {"$ref": "#/definitions/sourceId"},
+          "authority_type": {"enum": ["authoritative", "credible-independent"]},
+          "independent_group": {"type": "string", "minLength": 1},
+          "recognition_claim": {"type": "string", "minLength": 1},
+          "accessed_at": {"type": "string", "format": "date"}
+        }
+      }
+    },
+    "definition_status": {"$ref": "#/definitions/lifecycleStatus"},
+    "research_status": {"$ref": "#/definitions/lifecycleStatus"},
+    "evidence_status": {"$ref": "#/definitions/lifecycleStatus"},
+    "draft_status": {"$ref": "#/definitions/lifecycleStatus"},
+    "review_status": {"$ref": "#/definitions/lifecycleStatus"},
+    "version": {"type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$"},
+    "taxonomy_freeze_date": {"type": ["string", "null"], "format": "date"},
+    "last_reviewed": {"type": ["string", "null"], "format": "date"},
+    "primary_work_ids": {"type": "array", "items": {"$ref": "#/definitions/workId"}, "uniqueItems": true},
+    "source_ids": {"type": "array", "items": {"$ref": "#/definitions/sourceId"}, "uniqueItems": true},
+    "analysis_files": {"type": "array", "items": {"type": "string", "pattern": "^[^\\\\]+\\.md$"}, "uniqueItems": true},
+    "indian_examples": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["work_id", "note", "evidence_source_ids"],
+        "properties": {
+          "work_id": {"$ref": "#/definitions/workId"},
+          "note": {"type": "string", "minLength": 1},
+          "evidence_source_ids": {"type": "array", "items": {"$ref": "#/definitions/sourceId"}, "minItems": 1, "uniqueItems": true}
+        }
+      }
+    },
+    "translation_notes": {"type": "array", "items": {"type": "string", "minLength": 1}},
+    "evidence_limitations": {"type": "array", "items": {"type": "string", "minLength": 1}},
+    "content_warnings": {"type": "array", "items": {"type": "string", "minLength": 1}, "uniqueItems": true}
+  },
+  "definitions": {
+    "axisId": {"type": "string", "pattern": "^axis-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+    "sourceId": {"type": "string", "pattern": "^src-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+    "workId": {"type": "string", "pattern": "^work-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+    "axisIdArray": {"type": "array", "items": {"$ref": "#/definitions/axisId"}, "uniqueItems": true},
+    "nonEmptyStringArray": {"type": "array", "items": {"type": "string", "minLength": 1}, "uniqueItems": true},
+    "lifecycleStatus": {"enum": ["identified", "taxonomy-verified", "researching", "evidence-incomplete", "evidence-complete", "analysis-complete", "drafted", "editorially-reviewed", "published", "revision-required"]}
+  }
+}

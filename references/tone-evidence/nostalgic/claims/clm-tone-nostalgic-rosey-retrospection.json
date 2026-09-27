@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-nostalgic-rosey-retrospection",
+  "craft_claim": "Memory revises upward: recollections become rosier than the lived experience within days. Rosy retrospection is the tone's default distortion - licensable when the text marks whose eye idealizes, but invisible idealization is the mechanism drifting into propaganda.",
+  "tone_ids": [
+    "tone-nostalgic"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-nostalgic-mitchell-1997-rosy-view",
+      "location": "Journal of Experimental Social Psychology 33(4):421-448, three investigations (European trip, Thanksgiving vacation, California bicycle trip)",
+      "evidence_expression": "paraphrase",
+      "note": "Across three event studies, expectations were more positive than in-event experience and subsequent recollection was more positive than the experience itself; negative in-event thoughts (distractions, disappointment) fade within days as evaluations brighten."
+    },
+    {
+      "evidence_id": "src-nostalgic-sedikides-2015-to-nostalgize",
+      "location": "Advances in Experimental Social Psychology 51:189-273, self-positivity section",
+      "evidence_expression": "paraphrase",
+      "note": "The review reports that nostalgia increases self-esteem partly by prompting a return to an idealized past, lending lustre to past selves that may not have seemed lustrous at the time - idealization is built into the emotion's self-service."
+    },
+    {
+      "evidence_id": "src-nostalgic-batcho-1995-psychological-perspective",
+      "location": "Perceptual and Motor Skills 80(1):131-143, survey design",
+      "evidence_expression": "synthesis",
+      "note": "Batcho's instrument assesses nostalgia for 20 aspects of experience alongside relative judgments of the world past, present, and future - operationalizing nostalgia partly as a comparative evaluation of eras, the same structure behind golden-age thinking (section G)."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Idealization mechanics and reliability of remembered scenes; feeds card sections 4-5 and failure analysis.",
+  "exceptions": [
+    "Rosy distortion is a licensed device when focalized (a character's eye, an acknowledged unreliable memory); it fails when the narration presents the idealized past as unqualified fact.",
+    "The mirror case - a memory harsher than the truth - signals trauma or grief registers that belong to other tones."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/nostalgic.md"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

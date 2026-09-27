@@ -1,0 +1,38 @@
+{
+  "id": "clm-tone-reverent-yugen-suggestion",
+  "craft_claim": "Profundity can be suggested rather than stated: leaving the sacred unsaid and trusting restraint and omission produces a reverent register that explanation would dispel.",
+  "tone_ids": [
+    "tone-reverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-reverent-zeami-rimer-yamazaki-1984",
+      "location": "On the Art of the No Drama, Kadensho and related treatises",
+      "evidence_expression": "synthesis",
+      "note": "Zeami theorizes yugen as profound grace and subtlety, the beauty of what is only suggested; his images (a boat vanishing behind islands, shadows of bamboo on bamboo) trust omission and gesture over statement."
+    },
+    {
+      "evidence_id": "work-four-quartets",
+      "location": "Four Quartets, the 'still point' and negative imagery",
+      "evidence_expression": "synthesis",
+      "note": "Eliot approaches his unnameable centre by withholding definition, matching the aesthetics of suggestion."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-reverent-katz-franz-2026",
+      "note": "The value placed on silence and suggestion is culturally variable; the claim is scoped to Japanese and analogous contemplative traditions, not universalized."
+    }
+  ],
+  "scope": "Silence, brevity, and aposiopesis operators; second non-Anglophone anchor.",
+  "exceptions": [
+    "Creedal, prophetic, and didactic forms may state the sacred plainly; omission is a register choice, not a requirement."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/reverent.md#5--how-to-use-it--operators",
+    "tones/reverent.md#8--cultural-scope"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

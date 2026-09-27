@@ -1,0 +1,33 @@
+{
+  "id": "clm-static-scene-diagnosis",
+  "craft_claim": "A scene that enters and exits at the identical emotional or narrative charge is static and must be cut, combined, or given a value reversal.",
+  "axis_ids": [
+    "axis-flash-fiction",
+    "axis-interactive-fiction"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-mckee-story-1997",
+      "location": "Chapter 10: Scene Analysis, pp. 233-252",
+      "evidence_expression": "paraphrase",
+      "note": "McKee's diagnostic asks what value changes between the scene's entry and its exit; if the value is identical at both ends, the scene must be cut, combined, or given a reversal. Paraphrased, not quoted — src-mckee-story-1997 is copyrighted with repository_copy_allowed false, so no passage is reproduced here."
+    },
+    {
+      "evidence_id": "src-burroway-writing-fiction-2019",
+      "location": "Chapter 8: Revision and Editing, pp. 245-270",
+      "evidence_expression": "paraphrase",
+      "note": "Burroway shows how scene revision requires finding the beat where the balance of power shifts."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Dramatic narrative editing across all media.",
+  "exceptions": [
+    "Contemplative musical interludes in screenwriting or deliberate static tableaux in experimental theatre."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "13-failure-modes-and-revision.md#failure-modes-and-revision-preferred_label"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-12"
+}

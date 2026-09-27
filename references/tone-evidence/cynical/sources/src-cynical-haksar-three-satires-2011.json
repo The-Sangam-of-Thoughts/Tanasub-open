@@ -1,0 +1,61 @@
+{
+  "id": "src-cynical-haksar-three-satires-2011",
+  "title": "Three Satires from Ancient Kashmir (Narmamala, Kalavilasa, Desopadesa)",
+  "creators": [
+    "Kshemendra",
+    "A. N. D. Haksar"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "craft-support",
+    "indian-context"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Penguin Books India",
+    "published_date": "2011",
+    "edition": "English translation (based on the Osmania University Sanskrit edition, 1961)",
+    "doi": null,
+    "isbn": "9780143063230"
+  },
+  "languages": [
+    "en",
+    "sa"
+  ],
+  "regions": [
+    "India",
+    "South Asia",
+    "Kashmir"
+  ],
+  "access": {
+    "locator": "ISBN 9780143063230 (Penguin Random House India catalog)",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-cynical)",
+    "verification_notes": "Edition identity (Haksar trans., Penguin Books India 2011, ISBN 9780143063230; volume containing Narmamala, Kalavilasa, Desopadesa) confirmed via publisher catalog metadata on 2026-09-24; full text not inspected. Used as the English access point for Kshemendra's 11th-century Sanskrit satire of greedy officials, load-bearing for this silo's Indian/regional evidence. No passage quoted."
+  },
+  "axis_ids": [
+    "tone-cynical"
+  ],
+  "claim_ids": [
+    "clm-tone-cynical-crosscultural-deflation"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "sa",
+    "translator": "A. N. D. Haksar",
+    "limitations": [
+      "Sanskrit kavya ornament, courtly bureaucratic diction, and puns resist translation; claims about Narmamala are limited to structure, scenario, and register as rendered in English."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Penguin Books India translation of an ancient Sanskrit text; original in public domain, translation copyrighted; techniques described, no passage reproduced."
+  }
+}

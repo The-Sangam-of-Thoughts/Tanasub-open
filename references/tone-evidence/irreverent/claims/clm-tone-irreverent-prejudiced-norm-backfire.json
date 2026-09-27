@@ -1,0 +1,35 @@
+{
+  "id": "clm-tone-irreverent-prejudiced-norm-backfire",
+  "craft_claim": "When irreverence is aimed at a group rather than a register, it communicates a norm of tolerance for disparagement that releases prejudice in audiences already high in hostility.",
+  "tone_ids": [
+    "tone-irreverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-irreverent-ford-ferguson-2004",
+      "location": "Personality and Social Psychology Review 8(1):79-94, prejudiced norm theory (abstract)",
+      "evidence_expression": "paraphrase",
+      "note": "Disparagement humor implies a norm tolerating discrimination against its targets; that norm serves as self-regulation for people high in prejudice, shaping their response to later discriminatory events."
+    },
+    {
+      "evidence_id": "src-irreverent-ford-sexist-humor-2008",
+      "location": "Personality and Social Psychology Bulletin 34(2):159-170, two experiments (abstract)",
+      "evidence_expression": "paraphrase",
+      "note": "After sexist jokes and skits (but not after nonhumorous sexist statements or neutral jokes), hostile sexism predicted smaller donations to a women's organization — humor, specifically, released the behavior."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Exposure to humor that disparages a group as such; the documented effects concern sexist humor paradigms with high-hostility participants in laboratory exposure.",
+  "exceptions": [
+    "The two experiments establish the effect for sexist humor; extension to other group-targeted humor follows the theory but was not directly tested in the sources cited here.",
+    "Register-directed mockery (pomp, office, piety-as-performance) is not group-directed disparagement — the claim does not forbid irreverence, it forbids aiming it at people.",
+    "Laboratory exposure effects do not by themselves establish long-term attitude change."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/irreverent.md#7--failure-modes-and-revision",
+    "tones/irreverent.md#1--definition-and-boundaries"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

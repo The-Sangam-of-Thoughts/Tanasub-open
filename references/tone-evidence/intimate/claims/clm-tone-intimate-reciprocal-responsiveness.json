@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-intimate-reciprocal-responsiveness",
+  "craft_claim": "Unidirectional self-disclosure alone does not produce durable intimacy; the effect depends on perceived responsiveness and reciprocity, which a text must simulate through second-person address and acknowledged reader standing.",
+  "tone_ids": ["tone-intimate"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-intimate-laurenceau-intimacy-1998",
+      "location": "Journal of Personality and Social Psychology 74(5): 1238-1251, results on perceived partner responsiveness",
+      "evidence_expression": "paraphrase",
+      "note": "Perceived partner responsiveness is a partial mediator between disclosure and intimacy; intimacy is a combination of self-disclosure and partner disclosure, not disclosure alone."
+    },
+    {
+      "evidence_id": "src-intimate-altman-taylor-1973",
+      "location": "Sections on reciprocity of exchange and reward-cost outcomes",
+      "evidence_expression": "synthesis",
+      "note": "Social penetration predicts reciprocity: disclosure at a given depth invites comparable disclosure and is regulated by expected rewards and costs."
+    },
+    {
+      "evidence_id": "src-intimate-horton-wohl-1956",
+      "location": "Psychiatry 19(3): 215-229, discussion of the one-sidedness of the para-social tie",
+      "evidence_expression": "paraphrase",
+      "note": "Para-social closeness is structurally unilateral; the persona performs responsiveness rather than actually responding."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-intimate-horton-wohl-1956",
+      "note": "Audiences do experience para-social bonds as genuinely intimate despite their one-sidedness, so the reciprocity requirement is a durability constraint rather than a prohibition on unilateral address."
+    }
+  ],
+  "scope": "Text-simulated reader address in essay, blog, fiction, and copy.",
+  "exceptions": [
+    "Forms that deliberately exploit one-sided address (e.g., the dramatic monologue) may not need simulated responsiveness."
+  ],
+  "confidence": "strong",
+  "report_locations": ["tones/intimate.md#2--why-it-works--the-mechanism", "tones/intimate.md#5--how-to-use-it--operators"],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

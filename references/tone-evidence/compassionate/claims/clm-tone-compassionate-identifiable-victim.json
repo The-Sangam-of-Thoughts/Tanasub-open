@@ -1,0 +1,38 @@
+{
+  "id": "clm-tone-compassionate-identifiable-victim",
+  "craft_claim": "A named, individuated sufferer evokes more helping than an abstract aggregate, and affect does not scale with magnitude, so the compassionate passage should individuate one sufferer and never rely on mass figures alone.",
+  "tone_ids": [
+    "tone-compassionate"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-compassionate-small-loewenstein-2003",
+      "location": "Journal of Risk and Uncertainty 26(1):5-16, identifiability experiments",
+      "evidence_expression": "synthesis",
+      "note": "Participants gave more to an identified individual than to a statistical victim with identical need, establishing the identifiable-victim effect."
+    },
+    {
+      "evidence_id": "src-compassionate-slovic-2007",
+      "location": "Judgment and Decision Making 2(2):79-95",
+      "evidence_expression": "synthesis",
+      "note": "Slovic argues psychic numbing means feeling flattens as the number of victims rises, so mass statistics can suppress rather than amplify compassion."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-compassionate-kogut-ritov-2005",
+      "note": "Kogut and Ritov found the effect tracked singular identification rather than group identification; an identified group did not reliably evoke more than a statistical group, so individuation is a boundary condition."
+    }
+  ],
+  "scope": "Testimony, reportage, advocacy prose, and narrative scenes of suffering.",
+  "exceptions": [
+    "Policy or audit writing where aggregate figures are the genre requirement; there the single case supplements, not replaces, the data."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/compassionate.md#5--how-to-use-it--operators",
+    "tones/compassionate.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

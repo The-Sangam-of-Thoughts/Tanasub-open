@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-yagoda-memoir-history-2009",
+  "title": "Memoir: A History",
+  "creators": ["Ben Yagoda"],
+  "source_type": "practitioner-work",
+  "source_roles": ["recognition", "craft-support"],
+  "reliability_tier": 4,
+  "publication": {
+    "publisher_or_container": "Riverhead Books",
+    "published_date": "2009",
+    "edition": "First edition, 291 pp.",
+    "doi": null,
+    "isbn": "9781594488863"
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://archive.org/details/memoirhistory0000yago",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "Internet Archive record, publisher metadata, and multiple reviews verified the book, its historical scope, and its treatment of the memoir boom, authenticity fraud, and the pejorative 'misery memoir' charge (scoped, Tier 4)."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-oversharing-saturation"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Trade history/criticism; analytical paraphrase only, no text reproduced."
+  }
+}

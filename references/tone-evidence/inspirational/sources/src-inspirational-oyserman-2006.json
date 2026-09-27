@@ -1,0 +1,58 @@
+{
+  "id": "src-inspirational-oyserman-2006",
+  "title": "Possible Selves and Academic Outcomes: How and When Possible Selves Impel Action",
+  "creators": [
+    "Daphna Oyserman",
+    "Deborah Bybee",
+    "Kathy Terry"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support",
+    "definition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Personality and Social Psychology, vol. 91, no. 1, pp. 188-204",
+    "published_date": "2006",
+    "edition": null,
+    "doi": "10.1037/0022-3514.91.1.188",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://dornsife.usc.edu/daphna-oyserman/wp-content/uploads/sites/232/2023/12/oyserman__bybee___terry_2006.pdf",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-inspirational)",
+    "verification_notes": "Citation, volume, pages, and DOI confirmed; author-hosted full PDF confirms randomized intervention with low-income eighth graders (n=141 experimental, n=123 control) and two-year follow-up mediated by possible-self change and strategy linkage."
+  },
+  "axis_ids": [
+    "tone-inspirational"
+  ],
+  "claim_ids": [
+    "clm-tone-inspirational-possible-selves",
+    "clm-tone-inspirational-hope-pathways-agency",
+    "clm-tone-inspirational-dosage-yield"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; author-hosted copy used for verification; analytical citation only, no text reproduced."
+  }
+}

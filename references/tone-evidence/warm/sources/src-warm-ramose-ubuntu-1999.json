@@ -1,0 +1,57 @@
+{
+  "id": "src-warm-ramose-ubuntu-1999",
+  "title": "African Philosophy Through Ubuntu",
+  "creators": [
+    "Mogobe B. Ramose"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Mond Books (Harare)",
+    "published_date": "1999",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "South Africa",
+    "Zimbabwe",
+    "Southern Africa"
+  ],
+  "access": {
+    "locator": "https://philpapers.org/rec/RAMAPT",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-warm)",
+    "verification_notes": "Confirmed author, title, publisher and 1999 date. Verified the ubuntu concept and the maxim umuntu ngumuntu ngabantu (a person is a person through other persons) as an account of humaneness/affiliation. Used as a conceptual anchor, not a technique claim."
+  },
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "claim_ids": [
+    "clm-tone-warm-crosscultural-affiliation"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Mond Books publication; analytical citation only."
+  }
+}

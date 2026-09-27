@@ -1,0 +1,54 @@
+{
+  "id": "src-warm-lamott-bird-by-bird-1994",
+  "title": "Bird by Bird: Some Instructions on Writing and Life",
+  "creators": [
+    "Anne Lamott"
+  ],
+  "source_type": "practitioner-work",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 4,
+  "publication": {
+    "publisher_or_container": "Pantheon Books (Knopf Doubleday)",
+    "published_date": "1994",
+    "edition": "First edition",
+    "doi": null,
+    "isbn": "978-0-679-43520-4"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://www.penguinrandomhouse.com/books/97395/bird-by-bird-by-anne-lamott/9780385480017",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-warm)",
+    "verification_notes": "Confirmed author, publisher, 1994 date and ISBN. Verified the book's sustained companionable craft voice (reviewers call it a 'warm, generous' guide; 'big-hearted, homespun advice'). Used as a practitioner exemplar only; no consequential claim rests on it alone."
+  },
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "claim_ids": [
+    "clm-tone-warm-affiliation-belonging",
+    "clm-tone-warm-companionable-essay-letter"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Knopf Doubleday book; analytical citation only; no text reproduced."
+  }
+}

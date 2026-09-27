@@ -1,0 +1,58 @@
+{
+  "id": "src-urgent-mileti-sorensen-warnings-1990",
+  "title": "Communication of Emergency Public Warnings: A Social Science Perspective and State-of-the-Art Assessment",
+  "creators": [
+    "Dennis S. Mileti",
+    "John H. Sorensen"
+  ],
+  "source_type": "technical-report",
+  "source_roles": [
+    "recognition",
+    "craft-support",
+    "dosage"
+  ],
+  "reliability_tier": 3,
+  "publication": {
+    "publisher_or_container": "Oak Ridge National Laboratory (ORNL-6609), prepared for the Federal Emergency Management Agency",
+    "published_date": "1990",
+    "edition": "ORNL-6609",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "emergency management"
+  ],
+  "access": {
+    "locator": "Oak Ridge National Laboratory report ORNL-6609 (OSTI technical-report record).",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-urgent)",
+    "verification_notes": "Authoritative government technical report widely cited in warning-response research. Bibliographic record given as the standard citation. Findings summarized at model level (message content, source credibility, confirmation, and repetition shape protective action); the report was not page-inspected in this pass."
+  },
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "claim_ids": [
+    "clm-tone-urgent-warning-response-determinants",
+    "clm-tone-urgent-saturation-decay"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "open-access",
+    "repository_copy_allowed": false,
+    "notes": "U.S. government technical report; public domain in the United States. No text reproduced."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "version": "1.0.0",
+  "initial_status": "identified",
+  "terminal_release_status": "published",
+  "transitions": [
+    {"from": "identified", "to": "taxonomy-verified", "requires": ["recognition-decision", "canonical-id"]},
+    {"from": "taxonomy-verified", "to": "researching", "requires": ["taxonomy-freeze", "research-question-map"]},
+    {"from": "researching", "to": "evidence-incomplete", "requires": ["documented-search", "evidence-gap"]},
+    {"from": "researching", "to": "evidence-complete", "requires": ["evidence-floor-pass", "g4-approval"]},
+    {"from": "evidence-incomplete", "to": "researching", "requires": ["remediation-opened"]},
+    {"from": "evidence-incomplete", "to": "evidence-complete", "requires": ["evidence-floor-pass", "g4-approval"]},
+    {"from": "evidence-complete", "to": "analysis-complete", "requires": ["mandatory-analysis-pass", "case-study-pass"]},
+    {"from": "analysis-complete", "to": "drafted", "requires": ["main-guide-pass", "exercise-pass", "annotated-sources-pass"]},
+    {"from": "drafted", "to": "editorially-reviewed", "requires": ["independent-editorial-review", "g5-approval"]},
+    {"from": "editorially-reviewed", "to": "published", "requires": ["family-complete", "g6-approval", "release-audit-pass"]},
+    {"from": "taxonomy-verified", "to": "revision-required", "requires": ["recorded-defect"]},
+    {"from": "researching", "to": "revision-required", "requires": ["recorded-defect"]},
+    {"from": "evidence-incomplete", "to": "revision-required", "requires": ["recorded-defect"]},
+    {"from": "evidence-complete", "to": "revision-required", "requires": ["recorded-defect"]},
+    {"from": "analysis-complete", "to": "revision-required", "requires": ["recorded-defect"]},
+    {"from": "drafted", "to": "revision-required", "requires": ["recorded-defect"]},
+    {"from": "editorially-reviewed", "to": "revision-required", "requires": ["recorded-defect"]},
+    {"from": "published", "to": "revision-required", "requires": ["recorded-defect", "release-impact-assessed"]},
+    {"from": "revision-required", "to": "researching", "requires": ["remediation-scope-approved"]}
+  ]
+}

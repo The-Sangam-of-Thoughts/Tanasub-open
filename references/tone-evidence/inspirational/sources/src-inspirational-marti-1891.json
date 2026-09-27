@@ -1,0 +1,57 @@
+{
+  "id": "src-inspirational-marti-1891",
+  "title": "Nuestra America (essay)",
+  "creators": [
+    "Jose Marti"
+  ],
+  "source_type": "primary-source",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "La Revista Ilustrada de Nueva York (first publication); later El Partido Liberal (Mexico)",
+    "published_date": "1891",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "es"
+  ],
+  "regions": [
+    "Cuba",
+    "Latin America",
+    "United States"
+  ],
+  "access": {
+    "locator": "https://icaa.mfah.org/s/en/item/839109",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-inspirational)",
+    "verification_notes": "First published 10 January 1891 in La Revista Ilustrada de Nueva York and 30 January 1891 in El Partido Liberal; authorship, date, and rhetorical situation confirmed via the ICAA/MFAH document record and open Spanish-language editions. No passage reproduced."
+  },
+  "axis_ids": [
+    "tone-inspirational"
+  ],
+  "claim_ids": [
+    "clm-tone-inspirational-crosscultural-civic-uplift",
+    "clm-tone-inspirational-possible-selves"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": false,
+    "notes": "Marti died 1895; the 1891 essay is in the public domain. No text reproduced regardless."
+  }
+}

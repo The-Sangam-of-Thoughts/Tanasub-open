@@ -1,0 +1,39 @@
+{
+  "id": "work-bharati-patriotic-poems",
+  "title": "Patriotic / anti-caste poems",
+  "creators": [
+    "Subramania Bharati"
+  ],
+  "work_type": "poetry",
+  "published_date": "c. 1907-1918",
+  "languages": [
+    "ta"
+  ],
+  "regions": [
+    "India",
+    "Pondicherry"
+  ],
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "period_role": "canonical",
+  "source_id": "src-defiant-bharati-sahitya-akademi-1992",
+  "access": {
+    "edition_or_version": "Corpus of Tamil poems written c. 1907-1918 from French Pondicherry exile; Tamil journals banned in British India in 1909; the dossier does not name a consulted edition",
+    "language_used": "en (secondary description in English; original-language prosody analysis not performed)",
+    "translator": null,
+    "access_conditions": null
+  },
+  "analysis_status": "secondary-attested",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "first-person-plural constitution of a 'we' that includes the listener",
+      "refrain-driven metres (Nondi Chindu) giving a collective, chant-adjacent rhythm",
+      "direct address to a present 'we' rather than narration at a distance",
+      "simple diction"
+    ],
+    "context_note": "Poet, journalist, and independence activist; arrested warrant in 1908, about ten years' exile in French Pondicherry; his Tamil journals were banned in British India in 1909 (dossier section E).",
+    "translation_limit": "Prosody claims rest on secondary description of Tamil metre, not on original-language analysis (dossier section E).",
+    "verification_note": "Tamil; journals banned 1909; verified via Sahitya Akademi reference and Tamil Virtual University; description only, no text reproduced (dossier section F)."
+  }
+}

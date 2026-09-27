@@ -1,0 +1,43 @@
+{
+  "id": "src-detached-genette-narrative-discourse-1980",
+  "title": "Narrative Discourse: An Essay in Method",
+  "creators": ["Gérard Genette", "Jane E. Lewin"],
+  "source_type": "scholarly-book",
+  "source_roles": ["definition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Cornell University Press",
+    "published_date": "1980",
+    "edition": "English translation of 'Discours du récit' (1972)",
+    "doi": null,
+    "isbn": "978-0801492594"
+  },
+  "languages": ["en", "fr"],
+  "regions": ["France", "United States"],
+  "access": {
+    "locator": "https://www.jstor.org/stable/10.7591/j.ctt21c4vmr",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-detached)",
+    "verification_notes": "External focalization (narrator reports externally observable actions and speech, without access to thoughts) confirmed across multiple authoritative narratology references to Genette's 'Mood' chapter."
+  },
+  "axis_ids": ["tone-detached"],
+  "claim_ids": ["clm-tone-detached-psychic-distance"],
+  "translation": {
+    "is_translation": true,
+    "original_language": "fr",
+    "translator": "Jane E. Lewin",
+    "limitations": [
+      "Focalization terminology is contested in later narratology (Mieke Bal, etc.); the record uses Genette's original distinction."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Cornell University Press; synthesis only."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "work-abhijnanasakuntalam",
+  "title": "Abhijnanasakuntalam (The Recognition of Sakuntala)",
+  "creators": [
+    "Kalidasa"
+  ],
+  "work_type": "play",
+  "published_date": null,
+  "languages": [
+    "sa"
+  ],
+  "regions": [
+    "India",
+    "South Asia"
+  ],
+  "axis_ids": [
+    "axis-nataka-drama",
+    "axis-pastoral-literature",
+    "axis-romance-fiction"
+  ],
+  "period_role": "formative",
+  "source_id": "src-natyashastra-ghosh-1951",
+  "access": {
+    "edition_or_version": "Clay Sanskrit Library edition translated by Somadeva Vasudeva",
+    "language_used": "en",
+    "translator": "Somadeva Vasudeva",
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A king weds an ascetic maiden in secret, forgets her under an ascetic curse, and can only remember her upon recovering a lost signet ring.",
+    "reader_promise": "Exquisite progression of romantic longing, painful separation, and cosmic reconciliation governed by Sringara rasa.",
+    "opening": "King Dusyanta pursues a deer into Kanva's sacred hermitage; dramatic intrusion of regal desire into ascetic sanctuary.",
+    "point_of_view": "Classical multi-tier dramatic staging alternating between Sanskrit royal speech and Prakrit feminine dialogue.",
+    "character_system": "Dusyanta (hero/nayaka), Sakuntala (heroine/nayika), Anasuya and Priyamvada (intimate companions), Durvasas (curse catalyst).",
+    "conflict_and_stakes": "Sacred duty (dharma) versus emotional passion (kama); catastrophic loss of memory and legitimacy.",
+    "structure": "Seven-act nataka architecture progressing from hermitage desire to court repudiation to celestial reconciliation.",
+    "scene_movement": "Shifts between idyllic forest, royal court, and heavenly realm (Marica's hermitage).",
+    "dialogue": "Lyrical verse stanzas interspersed with realistic comedic and dramatic prose.",
+    "setting": "Malini riverbanks, Hastinapura royal court, celestial ashram on Hemakuta mountain.",
+    "style_and_devices": "Dhvani (suggestion), ring-composition motif, token of recognition (abhijnana), pathetic fallacy.",
+    "emotional_progression": "Sambhogasringara (love in union) -> vipralambhasringara (love in separation) -> karuna (sorrow) -> shanta/ananda (peace).",
+    "suspense_or_anticipation": "Audience knows of the curse and the lost ring while Sakuntala and Dusyanta remain trapped by forgetfulness.",
+    "climax": "Act V court rejection where Dusyanta denies knowing pregnant Sakuntala because the ring was lost in Sachi pilgrimage pool.",
+    "ending": "Reunion in Act VII when Dusyanta discovers his son Sarvadamana playing with a lion cub; recognition confirmed by unyielding amulet.",
+    "conventions": "Conforms strictly to Natyashastra nataka rules: royal hero, noble heroine, supernatural curse, auspicious denouement.",
+    "innovation_or_subversion": "Softens Mahabharata original by introducing the curse of Durvasas to protect both lovers' moral integrity.",
+    "critical_reception": "Acclaimed globally by Goethe, William Jones, and centuries of Indian aesthetic theorists as masterwork of classical Sanskrit drama.",
+    "audience_reception": "Definitive cultural emblem of romantic longing, separation, and divine reunification."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "src-urgent-poulakos-sophistic-rhetoric-1983",
+  "title": "Toward a Sophistic Definition of Rhetoric",
+  "creators": [
+    "John Poulakos"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Philosophy and Rhetoric, Vol. 16, No. 1",
+    "published_date": "1983",
+    "edition": "pp. 35-48",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "grc"
+  ],
+  "regions": [
+    "Ancient Greece",
+    "Western rhetorical tradition"
+  ],
+  "access": {
+    "locator": "Philosophy and Rhetoric 16(1): 35-48 (print).",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-urgent)",
+    "verification_notes": "Page range and journal confirmed via the reference apparatus of the Kairos entry (Poulakos 1983, 35-48). Content summary (kairos as the opportune moment tied to prepon and dynaton) rests on established secondary description, not direct page inspection."
+  },
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "claim_ids": [
+    "clm-tone-urgent-exigence-reality",
+    "clm-tone-urgent-deadline-framing"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Journal article; no text reproduced. Used for the Sophistic definition of kairos as the opportune moment."
+  }
+}

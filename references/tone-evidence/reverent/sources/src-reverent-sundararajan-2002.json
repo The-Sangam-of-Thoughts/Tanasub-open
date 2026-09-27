@@ -1,0 +1,55 @@
+{
+  "id": "src-reverent-sundararajan-2002",
+  "title": "Religious awe: Potential contributions of negative theology to psychology, \"positive\" or otherwise",
+  "creators": [
+    "Louise Sundararajan"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support",
+    "indian-context"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Theoretical and Philosophical Psychology 22(2):174-197 (American Psychological Association)",
+    "published_date": "2002",
+    "edition": null,
+    "doi": "10.1037/h0091221",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "India"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1037/h0091221",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reverent)",
+    "verification_notes": "Bibliographic details (journal, volume, pages, DOI) cross-checked via the Wikipedia 'Awe' reference list on 2026-09-24. Used for the argument that negative theology is a substantive psychological resource for theorizing religious awe, and that the Keltner-Haidt vastness model does not exhaust religious experience."
+  },
+  "axis_ids": [
+    "tone-reverent"
+  ],
+  "claim_ids": [
+    "clm-tone-reverent-apophatic-construal"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Peer-reviewed article; analytical citation only; no passages reproduced."
+  }
+}

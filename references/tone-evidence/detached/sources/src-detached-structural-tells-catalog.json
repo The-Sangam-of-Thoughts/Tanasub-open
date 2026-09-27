@@ -1,0 +1,41 @@
+{
+  "id": "src-detached-structural-tells-catalog",
+  "title": "Structural pattern reflection catalog",
+  "creators": ["Tanasub Open project"],
+  "source_type": "reference-work",
+  "source_roles": ["craft-support"],
+  "reliability_tier": 3,
+  "publication": {
+    "publisher_or_container": "Tanasub Open repository (references/structural-tells-catalog.md)",
+    "published_date": "2026-09-14",
+    "edition": "Project-authored adaptation of WikiProject AI Cleanup materials (CC BY-SA 4.0)",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["project-internal"],
+  "access": {
+    "locator": "references/structural-tells-catalog.md",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-detached)",
+    "verification_notes": "Read directly. Rows used: Uniform sentence length; Uniform sentence frame; Committee voice; Generic significance. The catalog states a match is a question to investigate, not proof of AI authorship."
+  },
+  "axis_ids": ["tone-detached"],
+  "claim_ids": ["clm-tone-detached-ai-slop-flatline"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "open-access",
+    "repository_copy_allowed": true,
+    "notes": "Project-authored adaptation; CC BY-SA 4.0; reference only."
+  }
+}

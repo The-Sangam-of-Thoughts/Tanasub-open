@@ -1,0 +1,54 @@
+{
+  "id": "src-irreverent-hobbes-leviathan-1651",
+  "title": "Leviathan",
+  "creators": [
+    "Thomas Hobbes"
+  ],
+  "source_type": "primary-work",
+  "source_roles": [
+    "definition",
+    "counterevidence"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Project Gutenberg ebook #3207 (work first published 1651)",
+    "published_date": "1651",
+    "edition": "Digital record verified via Project Gutenberg",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://www.gutenberg.org/files/3207/3207-h/3207-h.htm",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "Gutenberg RDF metadata (title, author, public-domain status) and the Part I, chapter VI 'sudden glory' discussion of laughter were inspected directly earlier in this research session; the RDF record was re-fetched on 2026-09-24. Cited for what the chapter itself states about laughter's superiority structure."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [
+    "clm-tone-irreverent-hierarchy-leveling"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": true,
+    "notes": "Public domain in the USA (Project Gutenberg); no text stored in this repository — locators and paraphrase only."
+  }
+}

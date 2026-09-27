@@ -1,0 +1,38 @@
+{
+  "id": "clm-tone-comedic-crosscultural-oral",
+  "craft_claim": "Non-Anglophone oral comic traditions (Japanese rakugo, Chinese xiangsheng) carry humour through performed timing, character voice, and patterned sound, not only verbal content.",
+  "tone_ids": [
+    "tone-comedic"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-comedic-shores-rakugo-2021",
+      "location": "Chapters on Kamigata rakugo history and technique",
+      "evidence_expression": "synthesis",
+      "note": "Rakugo is a centuries-old solo comic-storytelling form in which a seated performer voices all characters and builds humour through pacing, character voice, and patterned repetition."
+    },
+    {
+      "evidence_id": "src-comedic-lawson-xiangsheng-2020",
+      "location": "Analysis of hidden musicality in xiangsheng",
+      "evidence_expression": "paraphrase",
+      "note": "Shows that Chinese xiangsheng speech carries patterned rhythm and sound features that are central to its comic effect, so verbal comedy is also sonic and sequential."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-comedic-shores-rakugo-2021",
+      "note": "Section E transfer limit: the performance features (pause, vocal contrast) cannot be fully transferred to prose modelling from a monograph, so timing and character voice are documented as cross-cultural levers in performance rather than as recoverable prose operators."
+    }
+  ],
+  "scope": "Cross-cultural validity of comic craft levers; performance traditions as evidence that timing and voice are not Anglophone inventions.",
+  "exceptions": [
+    "Performance features (pause, vocal contrast) are not fully transferable to prose modelling.",
+    "Translation mediation limits claims about original-language wordplay and prosody."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/comedic.md#8--cultural-scope"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "clm-tone-philosophical-construal-distance",
+  "craft_claim": "Abstraction in the narrator's voice raises the reader's level of mental construal, producing the reflective distance that defines the philosophical attitude.",
+  "tone_ids": [
+    "tone-philosophical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-philosophical-trope-liberman-2010",
+      "location": "Psychological Review 117(2), pp. 440-463",
+      "evidence_expression": "paraphrase",
+      "note": "Construal-level theory establishes that as psychological distance (in time, space, social relation, or hypotheticality) increases, mental representations become more abstract and schematic, and that abstract construal in turn is read as more distant."
+    },
+    {
+      "evidence_id": "src-philosophical-alter-oppenheimer-2008",
+      "location": "Psychological Science 19(3)",
+      "evidence_expression": "paraphrase",
+      "note": "Across three fluency manipulations, experienced disfluency shifted interpretation toward abstract, higher-level construal, giving a causal path from hard/abstract language to abstract processing."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Prose, poetry and copy where the narrator steps back from a specific scene to a general claim; strongest in reflective and expository non-fiction.",
+  "exceptions": [
+    "Sustained abstraction with no concrete anchor depresses comprehension and retention (see clm-tone-philosophical-concreteness-grounding).",
+    "CLT is a broad framework; not every abstraction manipulation produces reflective distance."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/philosophical.md#2--why-it-works--the-mechanism",
+    "tones/philosophical.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

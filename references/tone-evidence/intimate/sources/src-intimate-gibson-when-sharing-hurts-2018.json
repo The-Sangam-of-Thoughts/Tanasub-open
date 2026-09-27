@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-gibson-when-sharing-hurts-2018",
+  "title": "When sharing hurts: How and why self-disclosing weakness undermines the task-oriented relationships of higher status disclosers",
+  "creators": ["K. R. Gibson"],
+  "source_type": "peer-reviewed-article",
+  "source_roles": ["craft-support", "recognition"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Organizational Behavior and Human Decision Processes",
+    "published_date": "2018",
+    "edition": "Vol. 144, pp. 25-43",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://www.sciencedirect.com/science/article/pii/S0749597815302521",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "ScienceDirect record and abstract verified; three laboratory experiments showing a status penalty for higher-status weakness disclosers confirmed. Only the lead author initials and volume/pages were directly confirmed in retrieval; remaining author names and DOI were not verified and are deliberately omitted."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-disclosure-risk-boundaries"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Elsevier journal article; analytical paraphrase only, no text reproduced."
+  }
+}

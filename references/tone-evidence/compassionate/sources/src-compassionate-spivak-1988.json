@@ -1,0 +1,52 @@
+{
+  "id": "src-compassionate-spivak-1988",
+  "title": "Can the Subaltern Speak?",
+  "creators": [
+    "Spivak"
+  ],
+  "source_type": "scholarly-book-chapter",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": null,
+    "published_date": "1988",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [],
+  "access": {
+    "locator": null,
+    "accessed_at": "2026-09-24",
+    "access_conditions": null
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": null,
+    "verified_by": "Tone Layer researcher (tone-compassionate)",
+    "verification_notes": "Citation recorded from the dossier claims matrix and section G: Spivak documents the epistemic harm of representing marginalised others from a position that cannot hear them (also recorded as counterevidence against a paralysing essentialism). The dossier states only the title and year - no venue, publisher, author given name, region, or verification - so container and DOI are null; source_type classifies the work as a scholarly chapter/essay without asserting an unstated venue."
+  },
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "claim_ids": [
+    "clm-tone-compassionate-saviorism-witness-ethics"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scholarly work; analytical citation only; no text reproduced."
+  }
+}

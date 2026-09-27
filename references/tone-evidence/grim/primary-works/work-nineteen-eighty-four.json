@@ -1,0 +1,46 @@
+{
+  "id": "work-nineteen-eighty-four",
+  "title": "Nineteen Eighty-Four",
+  "creators": [
+    "George Orwell"
+  ],
+  "work_type": "novel",
+  "published_date": "1949",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom"
+  ],
+  "axis_ids": [
+    "tone-grim",
+    "axis-science-fiction",
+    "axis-speculative-fiction"
+  ],
+  "period_role": "formative",
+  "source_id": "src-grim-park-meaning-making-2010",
+  "access": {
+    "edition_or_version": "Penguin Modern Classics edition",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "In the totalitarian superstate Oceania, a minor Party functionary begins a forbidden private life and is broken by surveillance, torture, and re-education.",
+    "point_of_view": "Third person limited, largely aligned with the protagonist's consciousness, interspersed with invented ideological documents.",
+    "style_and_devices": "Bleak institutional vocabulary (Newspeak), grim environmental imagery and ruined domestic scenes, and a plot engineered to withhold every consolation; the dread is systemic rather than incidental.",
+    "emotional_progression": "Low-grade oppression -> furtive hope -> terror of exposure -> total defeat and inward capitulation.",
+    "dialogue": "Flat, watchful, and evasive; intimacy is always already compromised by surveillance.",
+    "setting": "A bombed, rationed London under permanent war and surveillance.",
+    "tone_mechanisms": [
+      "bleak world-rule",
+      "grim imagery",
+      "systemic dread",
+      "defeat without consolation",
+      "interrogation scene"
+    ],
+    "critical_reception": "Regarded as a classic of dystopian and political fiction; its terms have entered common usage. Warnings against totalitarianism are the standard reading.",
+    "verification_note": "Existence, date (8 June 1949), publisher (Secker & Warburg), and premise confirmed via Wikipedia 'Nineteen Eighty-Four' API extract. No text reproduced."
+  }
+}

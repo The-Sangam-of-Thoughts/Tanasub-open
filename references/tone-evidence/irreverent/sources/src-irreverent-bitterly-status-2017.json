@@ -1,0 +1,56 @@
+{
+  "id": "src-irreverent-bitterly-status-2017",
+  "title": "Risky Business: When Humor Increases and Decreases Status",
+  "creators": [
+    "T. Bradford Bitterly",
+    "Alison Wood Brooks",
+    "Maurice E. Schweitzer"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Personality and Social Psychology, Vol. 112, No. 3",
+    "published_date": "2017",
+    "edition": "pp. 431-455",
+    "doi": "10.1037/pspi0000079",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1037/pspi0000079",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "Title, three authors, journal, volume, issue, pages, year, and DOI confirmed via Crossref on 2026-09-24; eight-study program established earlier in the research session: humor that violates audience norms lowers the speaker's status, while status-consistent humor raises it. Abstract/metadata-level citation."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [
+    "clm-tone-irreverent-aggressive-style-drift",
+    "clm-tone-irreverent-hierarchy-leveling"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; paraphrased at finding level only."
+  }
+}

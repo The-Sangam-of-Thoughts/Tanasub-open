@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-elegiac-karuna-rasa",
+  "craft_claim": "Indian poetics theorizes grief as karuna rasa, generated from shoka (sorrow) through determinants, expressions, and transitory states, so that sorrow is made relishable rather than merely reported.",
+  "tone_ids": ["tone-elegiac"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-natyashastra-ghosh-1951",
+      "location": "Chapter 6: The Sentiments (Rasa); karuna section, pp. 100-118",
+      "evidence_expression": "paraphrase",
+      "note": "Bharata treats karuna as one of the primary rasas whose stable emotion is shoka, sorrow, evoked through vibhava (determinants such as separation and distress), anubhava (tears, lamentation, pallor), and vyabhicaribhava (transitory states). Shared source."
+    },
+    {
+      "evidence_id": "src-anandavardhana-dhvanyaloka-1990",
+      "location": "Uddyota 1, verses on rasa-dhvani",
+      "evidence_expression": "paraphrase",
+      "note": "Anandavardhana establishes suggested emotion (rasa-dhvani) as the highest poetic resonance, meaning grief in poetry works by suggestion rather than statement. Shared source."
+    },
+    {
+      "evidence_id": "clm-rasa-emotional-aesthetic",
+      "location": "Craft claim and evidence chain",
+      "evidence_expression": "synthesis",
+      "note": "The shared foundation claim that sustained absorption relies on a dominant aesthetic emotion into which transient states resolve; karuna is the grief-coded instance. Cross-linked, not duplicated."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-natyashastra-ghosh-1951",
+      "note": "Section E translation limit: Sanskrit technical terms have no clean English equivalents, and both 'compassion' and 'sorrow' flatten karuna, which is closer to aestheticized grief, so the claim's gloss of the rasa is necessarily a translated one."
+    }
+  ],
+  "scope": "Indian drama and poetry by origin; used by analogy for any writing that converts grief into aesthetic experience.",
+  "exceptions": [
+    "Documentary or testimonial writing that refuses aestheticization of real suffering is not governed by rasa."
+  ],
+  "confidence": "strong",
+  "report_locations": ["tones/elegiac.md#8--cultural-scope"],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "src-defiant-drury-reicher-2005",
+  "title": "Explaining Enduring Empowerment: A Comparative Study of Collective Action and Psychological Outcomes",
+  "creators": [
+    "John Drury",
+    "Steve Reicher"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "European Journal of Social Psychology, Vol. 35, No. 1",
+    "published_date": "2005",
+    "edition": null,
+    "doi": "10.1002/ejsp.231",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1002/ejsp.231",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-defiant)",
+    "verification_notes": "Bibliographic record (35(1):35-58) and abstract confirmed via Wiley, APA PsycNet, and the University of St Andrews repository; ethnographic comparison found empowerment was a function of action being understood as expressing social identity."
+  },
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "claim_ids": [
+    "clm-tone-defiant-empowerment-identity",
+    "clm-tone-defiant-moral-conviction-collective",
+    "clm-tone-defiant-dosage-yield"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Wiley journal article; analytical citation only."
+  }
+}

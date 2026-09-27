@@ -1,0 +1,54 @@
+{
+  "id": "src-irreverent-butler-guilty-2001",
+  "title": "Terry Pratchett: Guilty of Literature",
+  "creators": [
+    "Andrew M. Butler",
+    "Edward James",
+    "Farah Mendlesohn",
+    "David Langford"
+  ],
+  "source_type": "scholarly-anthology",
+  "source_roles": [
+    "recognition"
+  ],
+  "reliability_tier": 3,
+  "publication": {
+    "publisher_or_container": "Science Fiction Foundation (2001); Old Earth Books reprint (2004)",
+    "published_date": "2001",
+    "edition": "SF Foundation ISBN 0903007010; Old Earth ISBN 188296831X; Open Library work OL20793932W",
+    "doi": null,
+    "isbn": "0903007010"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://openlibrary.org/works/OL20793932W",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "Open Library work record fetched on 2026-09-24: the four author records (Andrew M. Butler, Edward James, Farah Mendlesohn, David Langford) were resolved by author-ID lookups; earlier in this session the SF Foundation 2001 and Old Earth 2004 ISBNs were verified. Bibliographic and critical-context support for the Pratchett exemplar only; individual essays were not inspected and no claim rests on this source."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "In copyright; bibliographic record only, no essays reproduced."
+  }
+}

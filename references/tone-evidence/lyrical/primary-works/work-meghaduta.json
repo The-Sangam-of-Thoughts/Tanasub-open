@@ -1,0 +1,37 @@
+{
+  "id": "work-meghaduta",
+  "title": "Meghaduta",
+  "creators": [
+    "Kālidāsa"
+  ],
+  "work_type": "poem",
+  "published_date": "c. 4th-5th century CE",
+  "languages": [
+    "sa"
+  ],
+  "regions": [
+    "India"
+  ],
+  "axis_ids": [
+    "tone-lyrical"
+  ],
+  "period_role": "classical",
+  "source_id": null,
+  "access": {
+    "edition_or_version": "Sanskrit lyric, c. 4th-5th century CE; the dossier does not name a consulted edition",
+    "language_used": null,
+    "translator": null,
+    "access_conditions": null
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "a single quantitative metre sustained across the whole poem, binding image to cadence",
+      "realization in verse of the Sanskrit sound-and-sense system (suggestion and rasa co-produced with rhythm)"
+    ],
+    "rhythm_and_cadence": "Sustained quantitative metre across the entire poem (dossier section D).",
+    "role_note": "Presented in the dossier as the realized instance of the dhvani/rasa account of sound and sense in Sanskrit poetics (section E).",
+    "translation_limit": "The technical vocabulary (sabda/artha/dhvani/rasa) is not fully portable, and the sound dimension of Sanskrit is largely lost in English (dossier section E).",
+    "verification_note": "Sanskrit lyric verified; sound-claim limited by translation (dossier section F, cross-reference section E); described, not quoted."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "work-basavanna-vachanas",
+  "title": "Vachanas (in Speaking of Siva)",
+  "creators": ["Basavanna", "A. K. Ramanujan"],
+  "work_type": "devotional verse (vachana)",
+  "published_date": "12th century CE (Ramanujan translation 1973)",
+  "languages": ["kn"],
+  "regions": ["India", "South Asia", "Karnataka"],
+  "axis_ids": ["tone-intimate"],
+  "period_role": "formative",
+  "source_id": "src-intimate-ramanujan-speaking-siva-1973",
+  "access": {
+    "edition_or_version": "Speaking of Siva, trans. A. K. Ramanujan (Penguin Classics, 1973)",
+    "language_used": "en",
+    "translator": "A. K. Ramanujan",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_relevance": "Non-Anglophone anchor for intimate address in a plainspoken register: the speaker addresses Siva by a personal local name ('lord of the meeting rivers').",
+    "point_of_view": "First person, addressed to a named deity; the 'I-thou' frame is sustained across short free-verse sayings.",
+    "style_and_devices": "Free verse, concrete workaday imagery (the body as shrine, the moving and the standing), proverbial plainness, signature address at the close.",
+    "dialogue": "Devotional address functions as intimate conversation with a named lord rather than formal praise.",
+    "register": "Anti-formal, anti-courtly colloquial Kannada; intimacy is produced by plainness and direct naming.",
+    "intimacy_technique": "Intimate address without mystification; the deity is spoken to as a familiar local presence.",
+    "translation_note": "Medieval Kannada free verse into English; oral cadence and the signature address are approximated, not reproduced.",
+    "copyright_note": "Translation copyrighted; source poems traditional. Techniques described, no text reproduced."
+  }
+}

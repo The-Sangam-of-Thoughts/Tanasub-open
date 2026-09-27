@@ -1,0 +1,33 @@
+{
+  "id": "clm-tone-reverent-bhakti-named-address",
+  "craft_claim": "Devotional attention is directed and personal: naming the specific object of devotion (the ankita or its equivalent) makes the address structural rather than decorative, while abstract adoration leaves the tone inert.",
+  "tone_ids": [
+    "tone-reverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-reverent-ramanujan-speaking-of-siva-1973",
+      "location": "Vachanas of Basava, Akka Mahadevi, Allama Prabhu",
+      "evidence_expression": "synthesis",
+      "note": "The vachana closes on a named ankita (e.g. 'Lord of the Meeting Rivers'; 'Lord, white as jasmine'), which resolves the poem's built tension and marks a personal relation, not a generic salute."
+    },
+    {
+      "evidence_id": "src-reverent-rupa-goswami-brs",
+      "location": "Bhaktirasamrtasindhu, treatment of bhakti-rasa and its object",
+      "evidence_expression": "synthesis",
+      "note": "Rupa Goswami systematizes devotion as an aesthetic-devotional relish whose object is a specific deity, intensifying rather than dissolving personal relation."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Vocative operator; Indian/regional anchor (Kannada Viraśaiva and Sanskrit Gaudiya traditions).",
+  "exceptions": [
+    "Some traditions address an unnamed or formless absolute; the named-ankita test applies only where the form itself includes a specific invocation."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/reverent.md#5--how-to-use-it--operators",
+    "tones/reverent.md#8--cultural-scope"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

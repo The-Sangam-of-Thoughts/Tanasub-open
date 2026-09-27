@@ -1,0 +1,42 @@
+{
+  "id": "work-lives-eminent-philosophers",
+  "title": "Lives and Opinions of Eminent Philosophers",
+  "creators": [
+    "Diogenes Laertius"
+  ],
+  "work_type": "philosophical biography",
+  "published_date": "c. 3rd century CE",
+  "languages": [
+    "grc"
+  ],
+  "regions": [
+    "Greece",
+    "Roman Empire"
+  ],
+  "axis_ids": [
+    "tone-cynical"
+  ],
+  "period_role": "canonical",
+  "source_id": "src-cynical-diogenes-laertius-lives-1925",
+  "access": {
+    "edition_or_version": "Public-domain Greek text at ToposText (work 221), Book VI consulted at section 6.103ff; English: trans. R. D. Hicks, Loeb Classical Library, 2 vols. (1925)",
+    "language_used": "grc",
+    "translator": "R. D. Hicks",
+    "access_conditions": "open"
+  },
+  "analysis_status": "partial",
+  "mechanics": {
+    "premise": "A compilation of the lives, sayings, and doctrines of the philosophers of Greece; Book VI transmits the Cynics, above all Diogenes of Sinope.",
+    "point_of_view": "Doxographic compiler reporting sayings and anecdotes from earlier sources without sustained critical evaluation; the reader receives acts and quips, not commentary on them.",
+    "style_and_devices": "Anecdote and chreia (saying) as the unit of philosophy; biographical sequence; juxtaposition of doctrine with conduct; the stance shown through what the philosopher does in public.",
+    "emotional_progression": "Reported life -> escalating provocation -> the stance hardened into legend; the reader's discomfort is the point of the anecdotes.",
+    "conventions": "The foremost surviving source for ancient Greek philosophy; the textual vehicle through which the Cynic school reached the modern world.",
+    "tone_mechanisms": [
+      "practiced contempt for stated convention",
+      "conduct rather than commentary as the unit of critique",
+      "anecdote that deflates social dignity by situation"
+    ],
+    "critical_reception": "Ancient compilation whose reliability is debated (it repeats sources without consistent evaluation) yet remains primary because so much else is lost.",
+    "verification_note": "Work identity and status as the foremost surviving source confirmed via Wikipedia API extract (Diogenes Laertius) on 2026-09-24; Book VI locator (ToposText section 6.103) consulted; Hicks Loeb edition identified from catalog metadata. Analysis is partial: lineage claims rest on Book VI's transmission of Cynic practice, not on a full reading; no passage reproduced."
+  }
+}

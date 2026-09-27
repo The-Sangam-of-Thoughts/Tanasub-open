@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-comedic-incongruity-resolution",
+  "craft_claim": "Comic effect peaks when a violated expectation is resolved into a second, compatible frame; unmotivated surprise without resolution reads as randomness rather than humour.",
+  "tone_ids": [
+    "tone-comedic"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-comedic-suls-1972",
+      "location": "Chapter 4, pp. 81-100",
+      "evidence_expression": "paraphrase",
+      "note": "Suls's two-stage model: a joke first disconfirms an expectation, then the hearer finds a rule that makes the punchline fit; appreciation depends on resolution, not surprise alone."
+    },
+    {
+      "evidence_id": "src-comedic-morreall-sep-2012",
+      "location": "Section on incongruity theory",
+      "evidence_expression": "synthesis",
+      "note": "Locates incongruity theories within the three-family survey and notes their explanatory range and limits."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-comedic-morreall-sep-2012",
+      "note": "Incongruity alone is not a complete theory of humour; absurdist and nonsense humour often resist resolution, so the claim is scoped to resolution-friendly joke forms."
+    }
+  ],
+  "scope": "Jokes, comic anecdotes, and short comic structures in prose, copy, and speech.",
+  "exceptions": [
+    "Absurdist or nonsense humour that deliberately withholds a resolving frame.",
+    "Culturally specific references where the hearer lacks the second frame entirely."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/comedic.md#2--why-it-works--the-mechanism",
+    "tones/comedic.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

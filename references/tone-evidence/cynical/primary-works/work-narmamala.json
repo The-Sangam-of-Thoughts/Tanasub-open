@@ -1,0 +1,45 @@
+{
+  "id": "work-narmamala",
+  "title": "Narmamala",
+  "creators": [
+    "Kshemendra"
+  ],
+  "work_type": "verse satire",
+  "published_date": "11th century CE",
+  "languages": [
+    "sa",
+    "en"
+  ],
+  "regions": [
+    "India",
+    "Kashmir"
+  ],
+  "axis_ids": [
+    "tone-cynical",
+    "axis-satirical-literature"
+  ],
+  "period_role": "canonical",
+  "source_id": "src-cynical-haksar-three-satires-2011",
+  "access": {
+    "edition_or_version": "English in Three Satires from Ancient Kashmir, trans. A. N. D. Haksar (Penguin Books India, 2011); text based on the Osmania University Sanskrit edition (1961)",
+    "language_used": "en",
+    "translator": "A. N. D. Haksar",
+    "access_conditions": "library"
+  },
+  "analysis_status": "partial",
+  "mechanics": {
+    "premise": "A sustained catalogue of clerical greed in 11th-century Kashmir: the appetites of the bureaucratic class are inflated through grotesque exaggeration until the office's stated dignity collapses under the weight of what its holders actually want.",
+    "point_of_view": "Comic-inflating narrator who reports each escalation with straight-faced precision; the derision is carried by accumulation rather than by comment.",
+    "style_and_devices": "Grotesque exaggeration; escalation and accumulation; parody of official self-importance; judgement arranged to be inferred rather than stated.",
+    "emotional_progression": "Amusement at excess -> recognition of systemic greed -> laughter that curdles into exposure.",
+    "conventions": "Classical Sanskrit satire in kavya form; part of Kshemendra's satirical corpus alongside Desopadesa and Kalavilasa; systematic institutional satire in India predating comparable Western canon examples by centuries.",
+    "tone_mechanisms": [
+      "deflation by inflation",
+      "grotesque exaggeration of appetite",
+      "accumulative escalation",
+      "suggested rather than announced judgement"
+    ],
+    "critical_reception": "Kshemendra is recognized as a major Sanskrit satirist (11th-century Kashmir); the work is a standing reference point for pre-modern Indian institutional satire.",
+    "verification_note": "Existence, author, date (11th-century Kashmir), and satirical character confirmed via Wikipedia API extract (Kshemendra) on 2026-09-24 and the repository's satirical-literature genre file, which analyzes the work's method and its translation limits; Haksar edition identity via publisher catalog metadata. Premise and technique described from these accounts; no passage reproduced. Translation limit: Sanskrit kavya wordplay and courtly bureaucratic diction are only partly carried into English."
+  }
+}

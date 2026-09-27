@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-defiant-confrontation-tradition",
+  "craft_claim": "Confrontation is a distinct rhetorical genre founded on a deliberate refusal of the opponent's terms and procedures, not on anger or volume, so defiant voice is defined by what it declines to accept.",
+  "tone_ids": [
+    "tone-defiant"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-defiant-scott-smith-1969",
+      "location": "Quarterly Journal of Speech 55(1):1-8",
+      "evidence_expression": "paraphrase",
+      "note": "Scott and Smith characterize confrontation as a rhetoric that deliberately rejects the established rhetorical situation and the opponent's decorum rather than arguing within them; the refusal is the organizing act."
+    },
+    {
+      "evidence_id": "work-civil-disobedience",
+      "location": "Resistance to Civil Government, 1849",
+      "evidence_expression": "synthesis",
+      "note": "Thoreau refuses the terms of a government he deems unjust, arguing that conscience outranks compliance and that withdrawal of support is a duty rather than a petition."
+    },
+    {
+      "evidence_id": "work-power-of-the-powerless",
+      "location": "Samizdat essay, 1978",
+      "evidence_expression": "synthesis",
+      "note": "Havel refuses to contest the regime on its own ideological terms, arguing instead from 'living in truth', an exemplary instance of declining the opponent's frame."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-defiant-lucas-declaration-1990",
+      "note": "The declaration tradition shows that defiance can also work inside a formal, argument-like structure of indictment and pledge; refusal of terms is not the only grammar of the attitude."
+    }
+  ],
+  "scope": "Speech, essay, manifesto, and public letter.",
+  "exceptions": [
+    "Confrontation that refuses all shared ground risks reading as mere opposition and losing any audience outside the already-convinced."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/defiant.md#1--definition-and-boundaries",
+    "tones/defiant.md#2--why-it-works--the-mechanism"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "clm-tone-warm-parasocial-address",
+  "craft_claim": "Direct verbal (and bodily) address intensifies parasocial interaction, so second-person address and conversational turn-taking make a written voice read as a companion.",
+  "tone_ids": [
+    "tone-warm"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-warm-horton-wohl-1956",
+      "location": "Psychiatry 19(3):215-229",
+      "evidence_expression": "paraphrase",
+      "note": "Introduces para-social interaction: the perceived face-to-face relationship with a performer, sustained across repeated contact as a one-sided bond."
+    },
+    {
+      "evidence_id": "src-warm-hartmann-goldhoorn-2011",
+      "location": "Journal of Communication 61(6):1104-1121, 2x2 experiment, N=198",
+      "evidence_expression": "paraphrase",
+      "note": "Viewers reported more intense parasocial experience when addressed on both bodily and verbal levels; perspective-taking and perceived attractiveness strengthened the effect."
+    },
+    {
+      "evidence_id": "work-narrow-road-to-the-deep-north",
+      "location": "Oku no Hosomichi (1689), travel narration",
+      "evidence_expression": "synthesis",
+      "note": "Basho writes a companionable travel account addressed to readers as fellow travellers, sustaining intimacy at a distance without face-to-face contact."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-warm-hartmann-goldhoorn-2011",
+      "note": "The effect is per-contact and enhanced by perceived attractiveness; repeated or unearned address is not guaranteed to deepen the parasocial bond."
+    }
+  ],
+  "scope": "Blog, essay, broadcast, newsletter, epistolary and marketing copy where a speaking persona is present.",
+  "exceptions": [
+    "Imp personal or academic registers where direct address would breach expected distance.",
+    "Forms with no persona (reference works, legal text)."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/warm.md#2--why-it-works--the-mechanism",
+    "tones/warm.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "work-augustine-confessions",
+  "title": "Confessions",
+  "creators": ["Augustine of Hippo"],
+  "work_type": "autobiographical prose (confession)",
+  "published_date": "c. 397-400",
+  "languages": ["la"],
+  "regions": ["Roman North Africa", "Western Europe"],
+  "axis_ids": ["tone-intimate"],
+  "period_role": "formative",
+  "source_id": "src-intimate-augustine-confessions-1991",
+  "access": {
+    "edition_or_version": "Oxford World's Classics, trans. Henry Chadwick (1991)",
+    "language_used": "en",
+    "translator": "Henry Chadwick",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_relevance": "Founds the addressed first-person confession: the narrating self is examined and disclosed to a witness (God), with the reader positioned as an overhearer.",
+    "point_of_view": "First person, retrospective narrator addressing a 'you' throughout; the address constitutes the intimacy.",
+    "emotional_progression": "Restless desire and error, recalled shame, and eventual submission; disclosure escalates from childhood mischief to adult spiritual crisis.",
+    "style_and_devices": "Direct address and apostrophe; scriptural quotation woven into personal narration; self-interrogation and rhetorical questioning.",
+    "dialogue": "Frequent quoted address to God and to the reader's understanding, converting narration into a two-sided exchange.",
+    "imagery": "Concrete sensory memories (the pear theft, the garden) used to anchor abstract self-examination.",
+    "intimacy_technique": "Self-accusation performed before a witness; the disclosure is offered as truth about the self rather than as information.",
+    "duration_and_dosage": "Long-form, graduated exposure across books rather than a single maximal disclosure.",
+    "critical_reception": "Canonical origin point of the Western confessional tradition.",
+    "copyright_note": "Original Latin public domain; English translation copyrighted. Techniques described, no text reproduced."
+  }
+}

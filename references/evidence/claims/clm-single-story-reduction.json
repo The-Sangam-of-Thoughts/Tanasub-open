@@ -1,0 +1,40 @@
+{
+  "id": "clm-single-story-reduction",
+  "craft_claim": "Flattening cultural or regional traditions into monolithic formulas produces stereotypical tropes that impair narrative authenticity and craft resonance.",
+  "axis_ids": [
+    "axis-bildungsroman",
+    "axis-historical-fiction"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-adichie-single-story-2009",
+      "location": "Entire lecture, mins 02:15-18:45",
+      "evidence_expression": "paraphrase",
+      "note": "Adichie's argument, paraphrased: stereotypes are objectionable less because they are false than because they are partial — one account hardens into the whole account. No wording from the lecture is reproduced."
+    },
+    {
+      "evidence_id": "src-ramanujan-interior-landscape-1967",
+      "location": "Afterword on Sangam poetics, pp. 97-115",
+      "evidence_expression": "paraphrase",
+      "note": "Ramanujan demonstrates that regional Indian literary traditions possess sophisticated indigenous aesthetic systems that cannot be reduced to Western tropes."
+    },
+    {
+      "evidence_id": "work-things-fall-apart",
+      "location": "District Commissioner's final thought",
+      "evidence_expression": "synthesis",
+      "note": "The commissioner reduces Okonkwo's rich life and clan tragedy to a mere paragraph in a colonial pacification book."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Universal storytelling, cross-cultural representation, and historical fiction.",
+  "exceptions": [
+    "None."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "12-conventions-cliches-and-innovation.md#conventions-cliches-and-innovation-preferred_label",
+    "00-how-to-write.md#indian-regional-and-tradition-contexts"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-12"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-defiant-empowerment-identity",
+  "craft_claim": "Enduring empowerment is a function of the extent to which one's action is understood as expressing social identity, so defiance written as solitary bravado produces no collective empowerment while defiance written as identity-in-action does.",
+  "tone_ids": [
+    "tone-defiant"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-defiant-drury-reicher-2005",
+      "location": "European Journal of Social Psychology 35(1):35-58; ethnographic comparison of an anti-roads occupation and a mass eviction",
+      "evidence_expression": "paraphrase",
+      "note": "Empowerment as an outcome of collective action is a function of the extent to which one's own action is understood as expressing social identity, a process the authors develop within the elaborated social identity model of crowd behaviour."
+    },
+    {
+      "evidence_id": "work-power-of-the-powerless",
+      "location": "Samizdat essay, 1978",
+      "evidence_expression": "synthesis",
+      "note": "Havel locates the power of the powerless in a shared practice of 'living in truth' rather than in individual heroism, tying resistance to a collective way of life."
+    },
+    {
+      "evidence_id": "src-defiant-vanzomeren-simca-2008",
+      "location": "Psychological Bulletin 134(4):504-535",
+      "evidence_expression": "synthesis",
+      "note": "Social identity is the bridge term that makes both efficacy and injustice actionable, corroborating the identity-to-empowerment pathway."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-defiant-scott-smith-1969",
+      "note": "The confrontation tradition also includes deliberately individual witnesses whose refusal models a stance; individual defiance can seed identity rather than presuppose it, so the identity claim is not a strict precondition."
+    }
+  ],
+  "scope": "Collective protest voice, testimonial, and movement writing.",
+  "exceptions": [
+    "Confessional or solitary defiance is legitimate as a different register; it simply should not be expected to produce collective empowerment."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/defiant.md#2--why-it-works--the-mechanism",
+    "tones/defiant.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

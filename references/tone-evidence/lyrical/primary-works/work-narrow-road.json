@@ -1,0 +1,36 @@
+{
+  "id": "work-narrow-road",
+  "title": "Oku no Hosomichi",
+  "creators": [
+    "Matsuo Bashō"
+  ],
+  "work_type": "travel prose",
+  "published_date": "c. 1689",
+  "languages": [
+    "ja"
+  ],
+  "regions": [
+    "Japan"
+  ],
+  "axis_ids": [
+    "tone-lyrical"
+  ],
+  "period_role": "formative",
+  "source_id": "src-lyrical-shirane-basho-1998",
+  "access": {
+    "edition_or_version": "Travel prose, c. 1689; the dossier does not name a consulted edition",
+    "language_used": null,
+    "translator": null,
+    "access_conditions": null
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "a single precise image paired with a rhythmic halt",
+      "one prose-poem unit per image: concrete sensory image plus cadential stop"
+    ],
+    "rhythm_and_cadence": "Rhythmic halt closing each unit; the pause carries as much as the image (dossier section D).",
+    "scope_note": "The dossier states no translation limit for this work; edition, translator, publisher, and page data were not stated and are recorded as null.",
+    "verification_note": "Travel prose verified; poetics corroborated by Shirane 1998; described, not quoted (dossier section F)."
+  }
+}

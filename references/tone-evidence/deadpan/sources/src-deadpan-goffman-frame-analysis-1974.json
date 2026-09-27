@@ -1,0 +1,53 @@
+{
+  "id": "src-deadpan-goffman-frame-analysis-1974",
+  "title": "Frame Analysis: An Essay on the Organization of Experience",
+  "creators": [
+    "Erving Goffman"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Prentice-Hall",
+    "published_date": "1974",
+    "edition": "ch. 3; part VI",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "Library record: Frame Analysis (Prentice-Hall, 1974), ch. 3 and part VI",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-deadpan)",
+    "verification_notes": "Frame theory used to explain the reader's re-framing work when a neutral surface must be reclassified as play/satire. Chapter-level locator (ch. 3, part VI) rather than page-level; page numbers vary by imprint. Supports the withheld-play-frame claim."
+  },
+  "axis_ids": [
+    "tone-deadpan"
+  ],
+  "claim_ids": [
+    "clm-tone-deadpan-withheld-play-frame"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "1974 Prentice-Hall monograph; citation and paraphrase only."
+  }
+}

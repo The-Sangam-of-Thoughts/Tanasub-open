@@ -1,0 +1,58 @@
+{
+  "id": "src-warm-horton-wohl-1956",
+  "title": "Mass Communication and Para-Social Interaction: Observations on Intimacy at a Distance",
+  "creators": [
+    "Donald Horton",
+    "R. Richard Wohl"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychiatry: Interpersonal and Biological Processes, Vol. 19, No. 3",
+    "published_date": "1956",
+    "edition": null,
+    "doi": "10.1080/00332747.1956.11023049",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://www.tandfonline.com/doi/abs/10.1080/00332747.1956.11023049",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-warm)",
+    "verification_notes": "Confirmed authorship, journal, volume, issue and pages (19(3):215-229). Verified the foundational concepts of para-social interaction and para-social relationship, and the 'illusion of face-to-face relationship' that can take on aspects of friendship."
+  },
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "claim_ids": [
+    "clm-tone-warm-affiliation-belonging",
+    "clm-tone-warm-parasocial-address",
+    "clm-tone-warm-dosage-yield"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Taylor & Francis journal article; analytical citation only."
+  }
+}

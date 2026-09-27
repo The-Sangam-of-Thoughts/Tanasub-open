@@ -1,0 +1,43 @@
+{
+  "id": "src-detached-shklovsky-art-technique-1965",
+  "title": "Art as Technique (in Russian Formalist Criticism: Four Essays)",
+  "creators": ["Viktor Shklovsky", "Lee T. Lemon", "Marion J. Reis"],
+  "source_type": "critical-edition",
+  "source_roles": ["recognition", "definition", "craft-support"],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "University of Nebraska Press",
+    "published_date": "1965",
+    "edition": "Translated edition (essay first published 1917)",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en", "ru"],
+  "regions": ["Russia", "Soviet Union", "United States"],
+  "access": {
+    "locator": "https://muratgermen.files.wordpress.com/2009/11/viktor-shklovsky-art-as-technique.pdf",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-detached)",
+    "verification_notes": "Translation of the 1917 essay 'Art as Device/Technique' confirmed; ostranenie (defamiliarization) and the automatization argument confirmed in the translated text."
+  },
+  "axis_ids": ["tone-detached"],
+  "claim_ids": ["clm-tone-detached-defamiliarization", "clm-tone-detached-restraint-vs-absence", "clm-tone-detached-ai-slop-flatline"],
+  "translation": {
+    "is_translation": true,
+    "original_language": "ru",
+    "translator": "Lee T. Lemon and Marion J. Reis",
+    "limitations": [
+      "Ostranenie is rendered variously as defamiliarization, estrangement, or making strange; the term's ambiguity is a known translation problem."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "University of Nebraska Press; paraphrase and synthesis only."
+  }
+}

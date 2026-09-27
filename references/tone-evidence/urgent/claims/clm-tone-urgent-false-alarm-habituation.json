@@ -1,0 +1,41 @@
+{
+  "id": "clm-tone-urgent-false-alarm-habituation",
+  "craft_claim": "Repeated false or exaggerated alarms desensitize audiences, so later genuine warnings draw weaker response (crying wolf / alarm fatigue).",
+  "tone_ids": [
+    "tone-urgent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-urgent-breznitz-cry-wolf-1984",
+      "location": "Cry Wolf: The Psychology of False Alarms, book thesis",
+      "evidence_expression": "paraphrase",
+      "note": "Breznitz's study of false alarms argues that erroneous warnings impose psychological costs and degrade response to subsequent true warnings; the cost is not only wasted attention but reduced credibility."
+    },
+    {
+      "evidence_id": "src-urgent-joint-commission-alarm-2013",
+      "location": "Sentinel Event Alert, Issue 50 (medical device alarm safety)",
+      "evidence_expression": "synthesis",
+      "note": "Institutional recognition that staff become desensitized to frequent alarms, including false ones, and may ignore or fail to respond to critical signals. This is the operational form of crying wolf."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-urgent-mileti-sorensen-warnings-1990",
+      "location": "ORNL-6609 (repetition and warning response)",
+      "evidence_expression": "synthesis",
+      "note": "Repetition and confirmation are not uniformly harmful: repeated accurate warnings can strengthen response. The damage is done specifically by false or exaggerated alarms, not by repetition as such."
+    }
+  ],
+  "scope": "Any channel that issues warnings or urgency claims repeatedly to the same audience.",
+  "exceptions": [
+    "The false-alarm penalty is smaller when audiences understand the uncertainty and the cost of missed warnings.",
+    "Effect sizes and mechanisms vary by domain and are not uniform across all warning systems."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/urgent.md#7--failure-modes-and-revision",
+    "tones/urgent.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

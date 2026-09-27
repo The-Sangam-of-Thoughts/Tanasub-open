@@ -1,0 +1,49 @@
+{
+  "id": "clm-tone-irreverent-indian-anticlerical-hasya",
+  "craft_claim": "Indian literary traditions carry a distinctly licensed, register-directed irreverence — hasya energy aimed at clerical pretension and ritual display from within devotion — so the tone is neither Anglophone-specific nor secular-only.",
+  "tone_ids": [
+    "tone-irreverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-irreverent-kabir-tagore-1915",
+      "location": "Introduction p. xvi; Poem XXI pp. 28-29; Poems LXV-LXVII pp. 68-71; Poem LXIX pp. 72-73",
+      "evidence_expression": "paraphrase",
+      "note": "The Tagore-Underhill introduction frames Kabir as denouncing the apparatus of piety surrounding his tradition; the poems mock priestly garb, rosary, ceremonial thread, idol-worship, and ritual bathing, and stage a wonder-working friar's piety turned ironic — anticlerical ridicule voiced by a devotee, not a skeptic."
+    },
+    {
+      "evidence_id": "work-kabir-hundred-poems-1915",
+      "location": "Work record (analysis_status: complete; locators verified this session)",
+      "evidence_expression": "synthesis",
+      "note": "The verse collection demonstrates the register machinery end to end: fervor held steady while the targets are religious professionals and outward observance — irreverence coexisting with devotion."
+    },
+    {
+      "evidence_id": "src-irreverent-burton-vikram-1870",
+      "location": "Frame verified via Project Gutenberg ebook #2400 record; tales not inspected",
+      "evidence_expression": "researcher-inference",
+      "note": "The riddle-cycle frame (twenty-five attempts, sanctioned impertinence toward a king) corroborates a South Asian tradition of rule-governed licensed mockery — frame-level, partial support only."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-irreverent-kabir-tagore-1915",
+      "note": "All evidence is translation-mediated (1915 English verse; source language behind the mediation unverified); locators refer to that edition, and the reception of Kabir's register in Hindi/Bhakti performance was not examined."
+    },
+    {
+      "evidence_id": "src-irreverent-nohgaku-kyogen-guide",
+      "note": "The Natyashastra's hasya (comic sentiment) chapter locator — commonly cited as chapter 6 — was NOT verified in this research session, so no classical taxonomic claim about hasya is made here; the shared record clm-rasa-emotional-aesthetic / src-natyashastra-ghosh-1951 is cross-linked read-only instead. Recorded as evidence-incomplete, alongside two further unfound anchors: a peer-reviewed source for Mulla-Nasruddin-in-India, and any scholarly source for the Birbal anecdote tradition."
+    }
+  ],
+  "scope": "Indian/regional traditions speaking from inside a devotional or traditional frame while ridiculing religious professionals and outward piety; the license derives from the tradition's own prophetic or comic idiom.",
+  "exceptions": [
+    "The claim is about tradition-level practice, not a universal Indian sensibility — it is grounded in the Kabir evidence specifically, not in a civilizational generalization.",
+    "Where the satire turns from clerical pretension to a program of reform against named institutions, it crosses into satirical-literature."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/irreverent.md#8--cultural-scope",
+    "tones/irreverent.md#1--definition-and-boundaries"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

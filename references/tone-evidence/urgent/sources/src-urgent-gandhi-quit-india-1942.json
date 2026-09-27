@@ -1,0 +1,60 @@
+{
+  "id": "src-urgent-gandhi-quit-india-1942",
+  "title": "Quit India Speech ('Do or Die'), Bombay, 8 August 1942",
+  "creators": [
+    "M. K. Gandhi"
+  ],
+  "source_type": "primary-document",
+  "source_roles": [
+    "recognition",
+    "craft-support",
+    "indian-context"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Collected Works of Mahatma Gandhi (Publications Division, Government of India); delivered at Gowalia Tank Maidan, Bombay",
+    "published_date": "1942-08-08",
+    "edition": "Collected Works of Mahatma Gandhi (multi-volume)",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "gu",
+    "hi"
+  ],
+  "regions": [
+    "India",
+    "South Asia"
+  ],
+  "access": {
+    "locator": "Collected Works of Mahatma Gandhi, Publications Division, Government of India; Gandhi Heritage Portal (gandhiheritageportal.org).",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-urgent)",
+    "verification_notes": "Historic fact of the speech, its date (8 August 1942) and the 'Do or Die' call were verified against a reference summary of the Quit India Movement. The full text was not inspected in this pass; the speech is cited as a documented exemplar of time-pressed anti-colonial address, not quoted."
+  },
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "claim_ids": [
+    "clm-tone-urgent-indian-energetic-style"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "gu",
+    "translator": "Collected Works editors (English rendering)",
+    "limitations": [
+      "The event and phrase are documented; exact wording and delivery nuance in the original Gujarati/Hindi are not verified here."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": false,
+    "notes": "Jurisdiction-scoped, not blanket: Gandhi's works are public domain in India, and that is the only jurisdiction verified in this pass; the term elsewhere was not determined, so no repository-wide copy permission is asserted. Cited as a documented exemplar; no passage reproduced."
+  }
+}

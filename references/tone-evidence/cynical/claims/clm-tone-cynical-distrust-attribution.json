@@ -1,0 +1,45 @@
+{
+  "id": "clm-tone-cynical-distrust-attribution",
+  "craft_claim": "Distrust is an active attributional stance, not passive negativity: suspicion prompts motive-hunting, distrust coexists with trust as a separate vigilance construct, and audiences spontaneously monitor persuasive intent — so the cynical voice dramatizes the reading of stated motives.",
+  "tone_ids": [
+    "tone-cynical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-cynical-fein-suspicion-1996",
+      "location": "Journal of Personality and Social Psychology 70(6):1164-1184",
+      "evidence_expression": "paraphrase",
+      "note": "Induced suspicion led perceivers to search for ulterior and situational causes and reduced the correspondence bias; suspicion changes what causes people attribute, not merely how they feel."
+    },
+    {
+      "evidence_id": "src-cynical-lewicki-trust-distrust-1998",
+      "location": "Academy of Management Review 23(3):438-458",
+      "evidence_expression": "paraphrase",
+      "note": "Trust and distrust are argued to be related but separate constructs that can coexist; distrust is a confident orientation toward untrustworthy conduct — a vigilance posture the cynical voice performs."
+    },
+    {
+      "evidence_id": "src-cynical-friestad-wright-pkm-1994",
+      "location": "Journal of Consumer Research 21(1):1-31",
+      "evidence_expression": "paraphrase",
+      "note": "The Persuasion Knowledge Model holds that people monitor messages and agents for persuasive intent and cope with a learned repertoire that can include resistance; readers already arrive suspicious of being worked on."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-cynical-fein-suspicion-1996",
+      "note": "Section G 'The cynic as unreliable reasoner': because suspicion reallocates attribution, a cynically reasoning narrator can be systematically wrong and see ulterior motives where none exist; without a built-in gap between the narrator's deflations and reality the voice simply teaches the reader to distrust the narrator."
+    }
+  ],
+  "scope": "Narrator or viewpoint speech in which stated motives are foregrounded: institutional narration, character interiority, essay and copy addressed to a skeptical reader.",
+  "exceptions": [
+    "Suspicion is fallible and costly: over-attribution of ulterior motives distorts judgment, so a cynical reasoner can be an unreliable one (cross-link clm-unreliable-narration).",
+    "Naive or trust-first narration remains the default for most protagonists; the stance must be earned by the text's world."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/cynical.md#2--why-it-works--the-mechanism",
+    "tones/cynical.md#3--when-it-works"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

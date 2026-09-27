@@ -1,0 +1,38 @@
+{
+  "id": "clm-tone-cynical-dispositional-costs",
+  "craft_claim": "Dispositional cynicism is a measurable worldview with longitudinal and cross-national correlates, sustained by avoid-cooperation and over-monitoring tendencies — so a voice that models chronic distrust imports a costly disposition and cannot pose as cost-free realism.",
+  "tone_ids": [
+    "tone-cynical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-cynical-stavrova-ehlebracht-2016",
+      "location": "Journal of Personality and Social Psychology 110(1):116-132",
+      "evidence_expression": "paraphrase",
+      "note": "Across two US longitudinal waves, a German panel, a Big Five-independent replication, and a 41-country analysis, cynical beliefs about human nature predicted lower income partly through tendencies to avoid cooperation and over-invest in monitoring others."
+    },
+    {
+      "evidence_id": "src-cynical-dean-organizational-cynicism-1998",
+      "location": "Academy of Management Review 23(2):341-352",
+      "evidence_expression": "paraphrase",
+      "note": "Organizational cynicism is modeled as a structured composite — distrust of stated integrity, negative affect, and disparaging behavior — establishing cynicism as a coherent attitude with behavioral consequences rather than a mood or a style."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-cynical-stavrova-ehlebracht-2016",
+      "note": "The costs of cynicism were attenuated where cynicism matched the context (high harm experience, high societal cynicism); the disposition is not uniformly maladaptive, and situational distrust can be calibrated."
+    }
+  ],
+  "scope": "Characterization of chronic distrust in a narrator or viewpoint; audience-effect claims are analogical to prose, not measured on readers.",
+  "exceptions": [
+    "Situational or institutional cynicism — warranted by an observable gap between an institution's stated and actual conduct — is not the dispositional stance this claim covers."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/cynical.md#2--why-it-works--the-mechanism",
+    "tones/cynical.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

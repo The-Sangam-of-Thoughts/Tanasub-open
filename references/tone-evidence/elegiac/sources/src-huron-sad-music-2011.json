@@ -1,0 +1,41 @@
+{
+  "id": "src-huron-sad-music-2011",
+  "title": "Why Is Sad Music Pleasurable? A Possible Role for Prolactin",
+  "creators": ["David Huron"],
+  "source_type": "peer-reviewed-article",
+  "source_roles": ["craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Musicae Scientiae, vol. 15, no. 2, pp. 146-158",
+    "published_date": "2011",
+    "edition": null,
+    "doi": "10.1177/1029864911401171",
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://journals.sagepub.com/doi/10.1177/1029864911401171",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-elegiac)",
+    "verification_notes": "Author, journal, volume, issue, pages, year, and DOI verified via SAGE and APA PsycInfo. The prolactin-consolation conjecture and the report that roughly a quarter of listeners describe genuine sadness verified via the abstract and multiple citing syntheses."
+  },
+  "axis_ids": ["tone-elegiac"],
+  "claim_ids": ["clm-tone-elegiac-negative-emotion-reward"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Peer-reviewed article; conjecture paraphrased only, with the replication failure recorded as counterevidence."
+  }
+}

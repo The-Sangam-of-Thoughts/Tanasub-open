@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-eakin-ethics-life-writing-2004",
+  "title": "The Ethics of Life Writing",
+  "creators": ["Paul John Eakin"],
+  "source_type": "scholarly-book",
+  "source_roles": ["definition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Cornell University Press",
+    "published_date": "2004",
+    "edition": "Edited volume, viii + 271 pp.",
+    "doi": null,
+    "isbn": "9780801488337"
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://cornellpress.cornell.edu/book/9780801488337/the-ethics-of-life-writing",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "Cornell University Press page, WorldCat, and a scholarly review verified the volume, its editor, and its framing of a 'culture of confession' and the ethics of exposing real people."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-ethics-of-others", "clm-tone-intimate-oversharing-saturation"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Edited scholarly volume; analytical paraphrase only, no text reproduced."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "work-power-of-the-powerless",
+  "title": "The Power of the Powerless",
+  "creators": [
+    "Václav Havel"
+  ],
+  "work_type": "essay",
+  "published_date": "1978",
+  "languages": [
+    "cs",
+    "en"
+  ],
+  "regions": [
+    "Central Europe"
+  ],
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "period_role": "modern",
+  "source_id": "src-defiant-keane-havel-2000",
+  "access": {
+    "edition_or_version": "Czech Moc bezmocných, written October 1978, circulated as samizdat; English translation by Paul Wilson, 1985",
+    "language_used": "en (Wilson translation; Czech idiom not inspected)",
+    "translator": "Paul Wilson",
+    "access_conditions": null
+  },
+  "analysis_status": "translation-mediated",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "refusal of the opponent's terms: the regime's vocabulary is declined and the argument runs from 'living in truth' instead of contesting official claims on their terms",
+      "moral vocabulary without moral hectoring: persuasion by describing a greengrocer's daily complicity, leaving the moral verdict to the reader",
+      "concrete everyday instance (the displayed slogan) carrying an abstract warrant"
+    ],
+    "warrant_note": "The warrant is ethical-existential, not national (dossier section E).",
+    "translation_limit": "Read in English (Wilson); Czech idiom not inspected (dossier section E).",
+    "scope_note": "Region follows the dossier's 'Czech / Central European' heading; no publisher, page, or DOI data was added.",
+    "verification_note": "Czech samizdat essay; English trans. Paul Wilson 1985; description only, no text reproduced (dossier section F)."
+  }
+}

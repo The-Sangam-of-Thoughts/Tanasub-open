@@ -1,0 +1,55 @@
+{
+  "id": "src-grim-bell-mccarthy-1988",
+  "title": "The Achievement of Cormac McCarthy",
+  "creators": [
+    "Vereen Bell"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "craft-support",
+    "recognition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Louisiana State University Press",
+    "published_date": "1988",
+    "edition": "First edition",
+    "doi": null,
+    "isbn": "978-0807114089"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://lsupress.org/9780807114089/the-achievement-of-cormac-mccarthy/",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-grim)",
+    "verification_notes": "Bibliographic identity confirmed via the Journal of American Studies review by Richard Gray (DOI 10.1017/s002187580003379x). Cited as the earliest book-length study of McCarthy's style, useful for the parataxis/withheld-judgement reading. Full text not directly inspected."
+  },
+  "axis_ids": [
+    "tone-grim"
+  ],
+  "claim_ids": [
+    "clm-tone-grim-parataxis-concrete-weight",
+    "clm-tone-grim-psychic-distance-restraint"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scholarly monograph; analytical citation only."
+  }
+}

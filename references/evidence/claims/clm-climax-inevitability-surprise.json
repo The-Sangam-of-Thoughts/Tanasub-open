@@ -1,0 +1,65 @@
+{
+  "id": "clm-climax-inevitability-surprise",
+  "craft_claim": "A masterly narrative climax achieves simultaneous surprise in execution and inevitability in retrospective causal logic.",
+  "axis_ids": [
+    "axis-bildungsroman",
+    "axis-cozy-mystery",
+    "axis-cyberpunk",
+    "axis-dastan-tradition",
+    "axis-detective-and-mystery-fiction",
+    "axis-episodic-television-script",
+    "axis-epistolary-fiction",
+    "axis-fantasy-fiction",
+    "axis-feature-screenplay",
+    "axis-flash-fiction",
+    "axis-frame-narrative",
+    "axis-gothic-fiction",
+    "axis-historical-fiction",
+    "axis-horror-fiction",
+    "axis-interactive-fiction",
+    "axis-pastoral-literature",
+    "axis-picaresque-literature",
+    "axis-psychological-fiction",
+    "axis-psychological-thriller",
+    "axis-romance-fiction",
+    "axis-satirical-literature",
+    "axis-science-fiction",
+    "axis-solarpunk",
+    "axis-space-opera",
+    "axis-speculative-fiction",
+    "axis-thriller-fiction",
+    "axis-urban-fantasy"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-aristotle-poetics-1996",
+      "location": "Chapter 9: The Tragic Event",
+      "evidence_expression": "quotation",
+      "note": "Aristotle states that tragic events have the greatest effect on the mind when they occur unexpectedly and at the same time in consequence of one another."
+    },
+    {
+      "evidence_id": "src-mckee-story-1997",
+      "location": "Chapter 14: Climax, pp. 303-316",
+      "evidence_expression": "quotation",
+      "note": "McKee insists that the climax must satisfy the audience by delivering what was promised while surprising them with how it occurs."
+    },
+    {
+      "evidence_id": "work-oedipus-rex",
+      "location": "Herdsman revelation",
+      "evidence_expression": "synthesis",
+      "note": "The revelation fulfills all causal clues established since opening while delivering devastating shock."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Structured narrative fiction and screenplays.",
+  "exceptions": [
+    "Anticlimactic or post-structuralist narratives designed to frustrate causal closure."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "10-titles-openings-climaxes-and-endings.md#titles-openings-climaxes-and-endings-preferred_label",
+    "00-how-to-write.md#climax-and-resolution"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-12"
+}

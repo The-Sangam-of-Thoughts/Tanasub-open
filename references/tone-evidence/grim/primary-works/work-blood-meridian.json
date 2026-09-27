@@ -1,0 +1,47 @@
+{
+  "id": "work-blood-meridian",
+  "title": "Blood Meridian; or, The Evening Redness in the West",
+  "creators": [
+    "Cormac McCarthy"
+  ],
+  "work_type": "novel",
+  "published_date": "1985",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "Mexico"
+  ],
+  "axis_ids": [
+    "tone-grim",
+    "axis-gothic-fiction",
+    "axis-historical-fiction"
+  ],
+  "period_role": "canonical",
+  "source_id": "src-grim-bell-mccarthy-1988",
+  "access": {
+    "edition_or_version": "Vintage Books edition",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A nameless teenager joins the Glanton gang of scalp hunters across the U.S.-Mexico borderlands (c. 1849-1850); the novel follows escalating atrocity and the ascent of the antagonist Judge Holden.",
+    "point_of_view": "Third person, middle-to-far psychic distance; the prose records violence as world-fact rather than as narratorial outrage.",
+    "style_and_devices": "Spare parataxis, biblical cadence, concrete noun-heavy catalogues, minimal evaluative adjectives, and withheld moral commentary; landscape treated as a sublime, indifferent force.",
+    "emotional_progression": "Appetite for violence -> normalized atrocity -> metaphysical dread -> implied judgement that the reader must supply.",
+    "dialogue": "Terse, aphoristic exchanges; the antagonist's oratory supplies philosophic justification that the narration never endorses.",
+    "setting": "Arid borderlands, desert, and burning settlements rendered as indifferent space.",
+    "tone_mechanisms": [
+      "parataxis",
+      "concrete-noun catalogues",
+      "withheld judgement",
+      "sublime landscape",
+      "far psychic distance"
+    ],
+    "critical_reception": "Initially lukewarm, later recognised as McCarthy's magnum opus and a central American novel; cited here for style, not for any reproduced passage.",
+    "verification_note": "Existence, date, publisher, and premise confirmed via Wikipedia 'Blood Meridian' and the Wikipedia API extract; stylistic reading attributed to Vereen Bell (1988) and general critical consensus. No text reproduced."
+  }
+}

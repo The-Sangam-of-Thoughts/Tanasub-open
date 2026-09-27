@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-intimate-manufactured-authenticity",
+  "craft_claim": "Strategic intimate self-disclosure can be manufactured to simulate authenticity and increase persuasion, making the intimate tone a recurring vehicle for manipulation rather than candour.",
+  "tone_ids": ["tone-intimate"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-intimate-nah-parasocial-2022",
+      "location": "Computers in Human Behavior 134: 107330, serial mediation results",
+      "evidence_expression": "paraphrase",
+      "note": "Intimate self-disclosure increased perceived authenticity, which increased liking and ultimately message acceptance, demonstrating that disclosure can be used instrumentally to persuade."
+    },
+    {
+      "evidence_id": "src-intimate-marwick-boyd-2011",
+      "location": "New Media & Society 13(1): 114-133, on context collapse and the imagined audience",
+      "evidence_expression": "paraphrase",
+      "note": "Social media collapse multiple audiences into one context, so a private-seeming register is broadcast; producers strategically convey authenticity while managing an imagined audience."
+    },
+    {
+      "evidence_id": "src-intimate-horton-wohl-1956",
+      "location": "Psychiatry 19(3): 215-229",
+      "evidence_expression": "synthesis",
+      "note": "The para-social frame explains why a mediated speaker can appear intimate while the relationship remains commercially or rhetorically one-sided."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-intimate-marwick-boyd-2011",
+      "note": "Audiences are not passive; they read authenticity as a performance and game it, so manufactured intimacy is unstable and easily detected."
+    }
+  ],
+  "scope": "Marketing copy, influencer and brand address, political and advocacy messaging, and any first-person voice with a commercial or persuasive goal.",
+  "exceptions": [
+    "Disclosure that imposes a real cost on the speaker and makes no request of the reader."
+  ],
+  "confidence": "strong",
+  "report_locations": ["tones/intimate.md#7--failure-modes-and-revision"],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

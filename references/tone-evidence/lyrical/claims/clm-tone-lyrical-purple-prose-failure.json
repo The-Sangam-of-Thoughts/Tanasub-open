@@ -1,0 +1,32 @@
+{
+  "id": "clm-tone-lyrical-purple-prose-failure",
+  "craft_claim": "Ornament detached from meaning (the 'purple patch' or purple prose) draws attention to style and diminishes the whole, which is the tone's canonical failure mode.",
+  "tone_ids": [
+    "tone-lyrical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-lyrical-horace-ars-poetica-1926",
+      "location": "Ars Poetica, lines 14-23, the 'purple patch'",
+      "evidence_expression": "paraphrase",
+      "note": "Horace warns against a few brilliant passages sewn into a work for display that clash with the surrounding whole, establishing the canonical critique of ornament without function."
+    },
+    {
+      "evidence_id": "src-lyrical-reber-fluency-2004",
+      "location": "Personality and Social Psychology Review 8(4):364-382, on disfluency costs",
+      "evidence_expression": "synthesis",
+      "note": "Because aesthetic pleasure rises with processing ease under default conditions, piled-on ornament that impedes processing defeats the tone's own effect."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "All forms; most acute in long-form prose and in academic or informational writing.",
+  "exceptions": [
+    "Deliberate pastiche or parody of ornamental styles, where the excess is the point."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/lyrical.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

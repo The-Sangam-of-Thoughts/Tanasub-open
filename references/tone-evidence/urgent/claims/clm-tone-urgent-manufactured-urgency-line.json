@@ -1,0 +1,47 @@
+{
+  "id": "clm-tone-urgent-manufactured-urgency-line",
+  "craft_claim": "Manufactured urgency is defined by fabricated deadlines or scarcity, inflated or unverifiable consequences, and pressure with no real action; it is detectable by asking whether the deadline resets and whether the stated cost is verifiable.",
+  "tone_ids": [
+    "tone-urgent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-urgent-cialdini-influence-2007",
+      "location": "Influence (scarcity principle, revised edition)",
+      "evidence_expression": "paraphrase",
+      "note": "Scarcity is catalogued as a persuasion lever, which is exactly why its use must be tethered to a real constraint; the lever works whether or not the scarcity is genuine."
+    },
+    {
+      "evidence_id": "src-urgent-lynn-scarcity-value-1991",
+      "location": "Psychology & Marketing 8(1), pp. 43-57 (scarcity effects on value)",
+      "evidence_expression": "synthesis",
+      "note": "The meta-analytic review supports the claim that perceived scarcity raises value; this establishes the mechanism that fake scarcity exploits, and therefore the ethical line the repository draws."
+    },
+    {
+      "evidence_id": "src-urgent-mullainathan-shafir-scarcity-2013",
+      "location": "Book thesis (scarcity narrows attention)",
+      "evidence_expression": "synthesis",
+      "note": "Because scarcity narrows judgment, fabricated scarcity is not a neutral stylistic choice; it degrades the reader's ability to evaluate the claim."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-urgent-vatz-myth-rhetorical-situation-1973",
+      "location": "The Myth of the Rhetorical Situation, pp. 154-161",
+      "evidence_expression": "paraphrase",
+      "note": "Vatz's constructivism can be read as licensing the rhetor to create salience. The repository's rule rejects that license for urgency: constructed salience without a real exigence is the failure case, not the method."
+    }
+  ],
+  "scope": "All forms, and especially marketing/copy where scarcity and countdowns are conventionally used.",
+  "exceptions": [
+    "A real, verifiable constraint may be stated as scarcity.",
+    "Fiction and satire may stage manufactured urgency visibly, with the staging as the point."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/urgent.md#4--when-to-show-restraint",
+    "tones/urgent.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

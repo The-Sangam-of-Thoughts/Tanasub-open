@@ -1,0 +1,45 @@
+{
+  "id": "clm-tone-urgent-indian-energetic-style",
+  "craft_claim": "Indian dramatic and reform traditions locate urgency in an energetic register and in the ethics of timing and propriety, and they demonstrate urgency carried by moral responsibility rather than commercial scarcity.",
+  "tone_ids": [
+    "tone-urgent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-urgent-natyashastra-ghosh-1951",
+      "location": "Natyasastra, chapters on the vritti (styles of dramatic presentation)",
+      "evidence_expression": "paraphrase",
+      "note": "Classical Sanskrit dramaturgy distinguishes styles of presentation, including an energetic, action- and conflict-oriented style (arabhati vritti) suited to vehemence, struggle and unrest. This is a named, non-Anglophone register of dramatic urgency."
+    },
+    {
+      "evidence_id": "src-urgent-anandavardhana-dhvanyaloka-1990",
+      "location": "Dhvanyaloka (suggested meaning and aesthetic propriety)",
+      "evidence_expression": "paraphrase",
+      "note": "Kashmiri poetics judges aesthetic effect by propriety and suggested meaning rather than by surface intensity; the appropriateness of the moment and the fit of the register are part of the effect, not decoration."
+    },
+    {
+      "evidence_id": "src-urgent-gandhi-quit-india-1942",
+      "location": "Quit India Speech, 8 August 1942 (Do or Die)",
+      "evidence_expression": "synthesis",
+      "note": "Anti-colonial address fuses urgency with accepted personal risk and a shared obligation, an ethical structure distinct from consumer scarcity pressure."
+    },
+    {
+      "evidence_id": "src-urgent-ambedkar-annihilation-caste-1936",
+      "location": "Annihilation of Caste, 1936 (reform refuses gradualism)",
+      "evidence_expression": "synthesis",
+      "note": "Social-reform urgency is argued publicly and tied to concrete proposals, and the document's own suppressed-delivery history enacts its claim that reform is being deferred."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Cross-cultural evidence for the tone; specifically classical Sanskrit dramaturgy and modern Indian reform and anti-colonial address.",
+  "exceptions": [
+    "The functional overlap between arabhati vritti, kairos and modern urgency is analogical; the traditions are not asserted to be equivalent.",
+    "aucitya (propriety) is most developed in Kshemendra's later poetics, which was not page-verified in this pass."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/urgent.md#8--cultural-scope"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

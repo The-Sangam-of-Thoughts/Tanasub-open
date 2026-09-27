@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-grim-meaning-making-negative-affect",
+  "craft_claim": "Grim weight becomes art rather than mere misery only when the text gives the reader a frame through which violation and loss can be appraised; negative affect with no meaning-frame reads as noise, not tragedy.",
+  "tone_ids": [
+    "tone-grim"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-grim-park-meaning-making-2010",
+      "location": "Psychological Bulletin 136(2):257-301, global-vs-situational meaning model",
+      "evidence_expression": "synthesis",
+      "note": "Park's integrative review distinguishes global meaning (beliefs, goals, sense of coherence) from situational meaning, and models meaning-making as the attempt to reconcile the two after a stressful event; adjustment depends on whether some meanings are made. This is the basis for saying grim material must be appraisable, not merely awful."
+    },
+    {
+      "evidence_id": "src-grim-schwarz-feelings-information-2012",
+      "location": "Handbook of Theories of Social Psychology, Vol. 1, pp. 289-308",
+      "evidence_expression": "synthesis",
+      "note": "Feelings-as-information theory holds that affective states inform appraisal and processing style. Negative affect signals a problematic situation and tends to elicit more systematic, vigilant processing, which is why a grim register can command careful attention rather than mere aversion."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-grim-park-meaning-making-2010",
+      "note": "Section B's honest null states that no study isolates grim tone and that Park's model is drawn from stress-adjustment research, so the extension from post-event meaning-making to reader response in a sustained grim register is writer-inference, and the claim's exceptions allow refusal of meaning to function as the appraisable frame."
+    }
+  ],
+  "scope": "Fiction, memoir, essay, and any long-form prose that sustains a negative register.",
+  "exceptions": [
+    "Deliberately absurdist or nihilist art may stage the refusal of meaning as its frame; the refusal itself is the appraisable gesture.",
+    "Reportage or witness testimony may owe fidelity to meaninglessness and should not be forced into consolation."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/grim.md#2--why-it-works--the-mechanism",
+    "tones/grim.md#3--when-it-works"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

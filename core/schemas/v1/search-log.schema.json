@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://creative-writing-library.local/schemas/v1/search-log.schema.json",
+  "title": "Research Search Log",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "axis_ids", "search_stream", "database_or_site", "query", "executed_at", "operator", "languages", "regions", "inclusion_criteria", "exclusion_criteria", "results_reviewed", "included_source_ids", "excluded_results", "dead_ends", "access_constraints", "notes"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^search-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+    "axis_ids": {"type": "array", "items": {"type": "string", "pattern": "^axis-[a-z0-9]+(?:-[a-z0-9]+)*$"}, "minItems": 1, "uniqueItems": true},
+    "search_stream": {"enum": ["primary-works", "historical-criticism", "contemporary-scholarship", "craft-practitioner", "interviews", "professional-reviews", "audience-reception", "indian-regional", "translation-studies", "screen-adaptation", "contrary-revisionist", "taxonomy-authoritative", "taxonomy-cultural-industry"]},
+    "database_or_site": {"type": "string", "minLength": 1},
+    "query": {"type": "string", "minLength": 1},
+    "executed_at": {"type": "string", "format": "date-time"},
+    "operator": {"type": "string", "minLength": 1},
+    "languages": {"type": "array", "items": {"type": "string", "pattern": "^[a-z]{2,3}(?:-[A-Za-z0-9]{2,8})*$"}, "minItems": 1, "uniqueItems": true},
+    "regions": {"type": "array", "items": {"type": "string", "minLength": 1}, "uniqueItems": true},
+    "inclusion_criteria": {"type": "array", "items": {"type": "string", "minLength": 1}, "minItems": 1},
+    "exclusion_criteria": {"type": "array", "items": {"type": "string", "minLength": 1}, "minItems": 1},
+    "results_reviewed": {"type": "integer", "minimum": 0},
+    "included_source_ids": {"type": "array", "items": {"type": "string", "pattern": "^src-[a-z0-9]+(?:-[a-z0-9]+)*$"}, "uniqueItems": true},
+    "excluded_results": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["citation_or_locator", "reason"],
+        "properties": {
+          "citation_or_locator": {"type": "string", "minLength": 1},
+          "reason": {"type": "string", "minLength": 1}
+        }
+      }
+    },
+    "dead_ends": {"type": "array", "items": {"type": "string", "minLength": 1}},
+    "access_constraints": {"type": "array", "items": {"type": "string", "minLength": 1}},
+    "notes": {"type": "string"}
+  }
+}

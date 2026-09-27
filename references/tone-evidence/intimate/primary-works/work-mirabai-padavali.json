@@ -1,0 +1,29 @@
+{
+  "id": "work-mirabai-padavali",
+  "title": "Devotional Poems (Padavali) of Mirabai",
+  "creators": ["Mirabai"],
+  "work_type": "devotional lyric (bhakti pada)",
+  "published_date": "16th century (c. 1498-1546)",
+  "languages": ["hi"],
+  "regions": ["India", "South Asia", "Rajasthan", "Braj"],
+  "axis_ids": ["tone-intimate"],
+  "period_role": "formative",
+  "source_id": "src-intimate-alston-mirabai-1980",
+  "access": {
+    "edition_or_version": "The Devotional Poems of Mirabai, trans. A. J. Alston (Motilal Banarsidass, 1980)",
+    "language_used": "en",
+    "translator": "A. J. Alston",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_relevance": "Non-Anglophone anchor for intimate address: the devotional first person addresses Krishna with the intimacy of a lover or companion.",
+    "point_of_view": "First person, addressed to a named beloved deity (Giridhar / the Mountain-lifter); refrain repeats the invocation.",
+    "emotional_progression": "Longing, jealousy, anger at absence, and ecstatic union succeed one another across the songs.",
+    "style_and_devices": "Everyday domestic imagery; sung refrain; internal signature naming the devotee; direct appeal and complaint.",
+    "intimacy_technique": "Intimacy is carried by address and by plain, concrete images of love rather than by literal autobiography.",
+    "boundary_caveat": "The intimate voice is often voiced through a devotional persona (gopi/Radha); this demonstrates addressed interiority and register, not literal self-disclosure.",
+    "translation_note": "Braj Bhasa verse loses musical refrain and idiomatic texture in English; attribution is uncertain because the songs survive orally.",
+    "copyright_note": "Translation copyrighted; poem texts are traditional. Techniques described, no text reproduced."
+  }
+}

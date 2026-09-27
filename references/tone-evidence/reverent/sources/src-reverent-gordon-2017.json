@@ -1,0 +1,59 @@
+{
+  "id": "src-reverent-gordon-2017",
+  "title": "The dark side of the sublime: Distinguishing a threat-based variant of awe",
+  "creators": [
+    "Amie M. Gordon",
+    "Jennifer E. Stellar",
+    "Craig L. Anderson",
+    "Galen D. McNeil",
+    "Daniel Loew",
+    "Dacher Keltner"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Personality and Social Psychology (American Psychological Association)",
+    "published_date": "2017",
+    "edition": null,
+    "doi": "10.1037/pspp0000120",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1037/pspp0000120",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reverent)",
+    "verification_notes": "Bibliographic record (title, authors, container, year, DOI) verified through the Crossref REST API on 2026-09-24. Used to distinguish threat-based awe (fear, reduced control, submission) from positive awe and to ground the boundary between reverent and grim/horror."
+  },
+  "axis_ids": [
+    "tone-reverent"
+  ],
+  "claim_ids": [
+    "clm-tone-reverent-sacred-vs-threat-awe",
+    "clm-tone-reverent-dosage-yield"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Peer-reviewed article; analytical citation only; no passages reproduced."
+  }
+}

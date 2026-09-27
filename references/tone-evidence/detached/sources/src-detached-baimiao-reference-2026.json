@@ -1,0 +1,43 @@
+{
+  "id": "src-detached-baimiao-reference-2026",
+  "title": "Baimiao (Plain Line Drawing in Traditional Ink and Brush Style)",
+  "creators": ["Springer reference-work contributors"],
+  "source_type": "reference-work",
+  "source_roles": ["recognition", "definition"],
+  "reliability_tier": 3,
+  "publication": {
+    "publisher_or_container": "Springer",
+    "published_date": "2026",
+    "edition": "Reference work entry (first online 2026)",
+    "doi": "10.1007/978-981-99-5009-6_10949",
+    "isbn": null
+  },
+  "languages": ["en", "zh"],
+  "regions": ["China", "East Asia"],
+  "access": {
+    "locator": "https://link.springer.com/rwe/10.1007/978-981-99-5009-6_10949",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-detached)",
+    "verification_notes": "Reference-work entry confirms baimiao as an unembellished plain-line descriptive register in Chinese art and narrative; appraised via further scholarly and technical sources that group it with gongbi, xieyi, and mogu. Treated as a concept-level source, not a passage-level authority."
+  },
+  "axis_ids": ["tone-detached"],
+  "claim_ids": ["clm-tone-detached-cross-cultural-objectivity"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": [
+      "Best verified in Chinese primary and critical sources; passage-level claims in English translation are not made."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Springer; synthesis only."
+  }
+}

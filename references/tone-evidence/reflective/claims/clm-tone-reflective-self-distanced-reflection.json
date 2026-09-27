@@ -1,0 +1,37 @@
+{
+  "id": "clm-tone-reflective-self-distanced-reflection",
+  "craft_claim": "A reflective voice that observes the self from a slight distance — distanced self-talk, a shifted vantage, or the essayist's generalizing 'one' — produces more causal, adaptive analysis of personal experience than an immersed voice that re-feels the event in the telling.",
+  "tone_ids": ["tone-reflective"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-reflective-kross-ayduk-selfdistancing-2017",
+      "location": "Advances in Experimental Social Psychology vol. 55, pp. 81-136; theory summary and research review",
+      "evidence_expression": "paraphrase",
+      "note": "Kross and Ayduk's review establishes that adopting a distanced perspective on one's own emotionally hot experiences (second-person or own-name self-talk, observer visual perspective, distanced retelling) improves emotion regulation and increases causal analysis and insight relative to immersed first-person reliving, which tends to sustain raw affect."
+    },
+    {
+      "evidence_id": "src-reflective-grossmann-kross-solomon-2014",
+      "location": "Psychological Science 25(8), 2014; abstract and studies",
+      "evidence_expression": "paraphrase",
+      "note": "Demonstrates Solomon's paradox — people reason more wisely about others' close-interpersonal problems than their own — and shows brief self-distancing instructions eliminate the self-other asymmetry in both younger and older adults."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-reflective-kross-ayduk-selfdistancing-2017",
+      "note": "Effects are documented for short laboratory and field windows on autobiographical events, with moderators (ruminative tendencies, culture, retrieval mode); distance is a tool that improves analysis on average, not a guarantee of wisdom."
+    }
+  ],
+  "scope": "Retrospective reflective narration of emotionally charged personal events in essays, memoir, diary-form, and first-person fiction; also governs pronoun and vantage choices inside reflective passages.",
+  "exceptions": [
+    "Immersed first-person immediacy is correct where a scene must be re-experienced (dramatic present, in-the-moment suspense); the distanced analysis belongs after or between scenes.",
+    "The underlying effects are established for thinkers and writers under study; the extension to third-party readers of prose is a writer-inference."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/reflective.md#2--why-it-works--the-mechanism",
+    "tones/reflective.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

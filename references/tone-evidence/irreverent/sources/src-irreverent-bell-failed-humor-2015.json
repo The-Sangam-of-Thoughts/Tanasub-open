@@ -1,0 +1,54 @@
+{
+  "id": "src-irreverent-bell-failed-humor-2015",
+  "title": "We Are Not Amused",
+  "creators": [
+    "Nancy Bell"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "De Gruyter Mouton",
+    "published_date": "2015",
+    "edition": "Electronic edition ISBN 9781501501586",
+    "doi": "10.1515/9781501501586",
+    "isbn": "9781501501586"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://library.oapen.org/handle/20.500.12657/25216",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "Book identity (title, author Nancy Bell, De Gruyter Mouton, 2015, DOI, electronic ISBN) confirmed via Crossref earlier in this research session, and the open-access text at the OAPEN handle was read earlier in the session; the subtitle was not captured and is therefore not recorded. An OAPEN re-fetch on 2026-09-24 presented an anti-bot challenge, so the text was not re-inspected. Cited for its documented study of failed humour and audience policing of joke failure."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [
+    "clm-tone-irreverent-licensed-frame"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "open-access",
+    "repository_copy_allowed": false,
+    "notes": "Open access (CC BY-NC-ND per Crossref license); still paraphrased only — no passages reproduced."
+  }
+}

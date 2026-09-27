@@ -1,0 +1,31 @@
+{
+  "id": "clm-tone-comedic-hasya-rasa",
+  "craft_claim": "Classical Indian poetics names the comic as a primary rasa (hasya) with its own causes, expressions, and graded laughter, and institutionalizes it in the Vidushaka clown of Sanskrit drama.",
+  "tone_ids": [
+    "tone-comedic"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-natyashastra-ghosh-1951",
+      "location": "Chapter 6: The Sentiments (Rasa)",
+      "evidence_expression": "paraphrase",
+      "note": "The Natyashastra treats hasya (the comic) as one of the primary rasas, arising from determinants such as unseemly dress or awkwardness, with laughter (hasa) as its stable state, and it distinguishes types or gradations of laughter."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-natyashastra-ghosh-1951",
+      "note": "Section E translation limit: the precise Sanskrit taxonomy of laughter and its technical terms are accessed only through Ghosh's edition, so the graded-laughter detail and the rasa classification are claims about the translation rather than the unmediated text."
+    }
+  ],
+  "scope": "Indian aesthetic tradition and cross-cultural validity of comedy as a first-class aesthetic engine.",
+  "exceptions": [
+    "Translation mediation: the precise Sanskrit taxonomy of laughter and its terms are accessed through Ghosh's edition."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/comedic.md#8--cultural-scope"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "src-philosophical-aurelius-hard-2011",
+  "title": "Meditations: with Selected Correspondence",
+  "creators": [
+    "Marcus Aurelius",
+    "Robin Hard",
+    "Christopher Gill"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Oxford University Press (Oxford World's Classics)",
+    "published_date": "2011",
+    "edition": "English translation with introduction and notes",
+    "doi": null,
+    "isbn": "9780199573202"
+  },
+  "languages": [
+    "en",
+    "grc"
+  ],
+  "regions": [
+    "Roman Empire"
+  ],
+  "access": {
+    "locator": "https://global.oup.com/academic/product/meditations-9780199573202",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-philosophical)",
+    "verification_notes": "Confirmed the edition (Hard trans., Gill intro/notes) and that the Meditations are private philosophical exercises in Greek, characterised by short self-addressed reflections on principle and mortality rather than narrative."
+  },
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "claim_ids": [
+    "clm-tone-philosophical-self-distanced-thought"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "grc",
+    "translator": "Robin Hard",
+    "limitations": [
+      "Marcus' Greek is described by the translator as 'harsh, crabbed, odd or awkward'; stylistic specifics are not claimed from translation alone."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": false,
+    "notes": "Greek text public domain; translation copyrighted; no passages reproduced."
+  }
+}

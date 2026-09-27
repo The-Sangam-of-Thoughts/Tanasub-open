@@ -1,0 +1,62 @@
+{
+  "id": "src-sahitya-akademi-forms-2015",
+  "title": "Indian Poetics and Literary Traditions: Forms and Movements across Languages",
+  "creators": [
+    "K. Satchidanandan",
+    "G. N. Devy"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "definition"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Sahitya Akademi",
+    "published_date": "2015",
+    "edition": "1st edition",
+    "doi": null,
+    "isbn": "978-8126048120"
+  },
+  "languages": [
+    "en",
+    "hi",
+    "ur",
+    "kn"
+  ],
+  "regions": [
+    "India",
+    "South Asia"
+  ],
+  "access": {
+    "locator": "National Library of India, Call No. 891.209 Sa19i",
+    "accessed_at": "2026-09-12",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-12T12:15:00Z",
+    "verified_by": "Codex S05 taxonomy harvest agent",
+    "verification_notes": "Directly verified against Sahitya Akademi critical survey volume on regional and classical Indian forms."
+  },
+  "axis_ids": [
+    "axis-dastan-tradition",
+    "axis-katha-tradition",
+    "axis-vachana-poetry",
+    "axis-ghazal-sequence"
+  ],
+  "claim_ids": [],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": [
+      "Analysis is published in English with cited terminology in original Indic and Perso-Arabic scripts and standard transliteration."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Published by Sahitya Akademi (India's National Academy of Letters); citation and category metadata only."
+  }
+}

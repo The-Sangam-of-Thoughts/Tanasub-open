@@ -1,0 +1,77 @@
+{
+  "id": "src-nostalgic-hepper-2014-pancultural",
+  "title": "Pancultural nostalgia: Prototypical conceptions across cultures",
+  "creators": [
+    "E. G. Hepper",
+    "T. Wildschut",
+    "C. Sedikides",
+    "T. D. Ritchie",
+    "Y.-F. Yung",
+    "N. Hansen",
+    "G. Abakoumkin",
+    "G. Arikan",
+    "S. Z. Cisek",
+    "D. B. Demassosso",
+    "J. E. Gebauer",
+    "J. P. Gerber",
+    "R. Gonzalez",
+    "T. Kusumi",
+    "G. Misra",
+    "M. Rusu",
+    "O. Ryan",
+    "E. Stephan",
+    "A. J. J. M. Vingerhoets",
+    "X. Zhou"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Emotion, Vol. 14, No. 4",
+    "published_date": "2014",
+    "edition": "pp. 733-747",
+    "doi": "10.1037/a0036790",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom",
+    "multi-country (18 samples across 5 continents)"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1037/a0036790",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-nostalgic)",
+    "verification_notes": "Citation and full abstract verified via PubMed (PMID 24866530, free article) and University of Surrey open-access record on web search 2026-09-24: 18 countries, 5 continents, N = 1,704; rank-order agreement on 35 features; central features more prototypical everywhere; cluster analyses show subtle country-group variation; all except African country samples showed the same factor structure. Author list rendered from the PubMed byline (initials as published); full text not read end-to-end."
+  },
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "claim_ids": [
+    "clm-tone-nostalgic-bittersweet-structure",
+    "clm-tone-nostalgic-dual-time-distance",
+    "clm-tone-nostalgic-crosscultural-nonuniform"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article with open PubMed deposit; analytical citation only."
+  }
+}

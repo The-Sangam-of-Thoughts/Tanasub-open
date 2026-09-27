@@ -1,0 +1,33 @@
+{
+  "id": "clm-tone-grim-mortality-salience",
+  "craft_claim": "Reminders of mortality tend to intensify defence of a reader's worldview and self-esteem, so unflinching death-facing prose can raise defensiveness unless the loss is also made intelligible, shared, or ritually contained.",
+  "tone_ids": [
+    "tone-grim"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-grim-burke-tmt-meta-2010",
+      "location": "Personality and Social Psychology Review 14(2):155-195",
+      "evidence_expression": "synthesis",
+      "note": "The meta-analysis of two decades of mortality-salience research reports reliable effects of death reminders on worldview and self-esteem defence, with moderation by delay and other conditions."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-grim-schindler-tmt-challenge-2022",
+      "note": "A later meta-analysis (Personality and Social Psychology Review 27(2):195-225) challenges the robustness and generality of mortality-salience effects. The dossier therefore treats the defensive-backfire risk as a real but qualified caution, not a settled law."
+    }
+  ],
+  "scope": "Death-facing narrative, elegy, and any sustained confrontation with mortality.",
+  "exceptions": [
+    "Ritual, communal, or religious frames that supply an accepted meaning for death may neutralise defensive backfire.",
+    "Readers who already hold the text's worldview are less likely to be threatened by it."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/grim.md#2--why-it-works--the-mechanism",
+    "tones/grim.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

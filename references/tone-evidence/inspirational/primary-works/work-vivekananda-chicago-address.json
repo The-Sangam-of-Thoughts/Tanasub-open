@@ -1,0 +1,38 @@
+{
+  "id": "work-vivekananda-chicago-address",
+  "title": "Response to Welcome (World's Parliament of Religions, Chicago)",
+  "creators": [
+    "Swami Vivekananda"
+  ],
+  "work_type": "speech",
+  "published_date": "1893-09-11",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "India",
+    "United States"
+  ],
+  "axis_ids": [
+    "tone-inspirational"
+  ],
+  "period_role": "formative",
+  "source_id": "src-inspirational-vivekananda-1893",
+  "access": {
+    "edition_or_version": "The Complete Works of Swami Vivekananda, vol. 1; contemporary newspaper reports",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "Addressing an international assembly of religions, the speaker reframes a history of sectarian violence as a forward call for tolerance and mutual recognition.",
+    "emotional_progression": "Warm greeting and gratitude give way to plain naming of sectarian harm and then to a forward hope for its end.",
+    "style_and_devices": "Direct address that converts strangers into kin, anaphora of gratitude and of identity, embedded hymn and scriptural reference, antithesis of past fanaticism and future fellowship.",
+    "dialogue": "Spoken to a live multi-faith audience, with the rhetoric of a welcome returned.",
+    "point_of_view": "First-person singular representing a collective ('millions of Hindu people').",
+    "tone_relevant_techniques": "Verbal persuasion of collective capability (self-efficacy); civic-prophetic indictment-then-promise; performative direct address; Indian civic uplift on an international stage.",
+    "critical_reception": "Treated as a landmark of interreligious dialogue and a defining moment of modern Indian public rhetoric.",
+    "copyright_note": "Public domain; no passage reproduced."
+  }
+}

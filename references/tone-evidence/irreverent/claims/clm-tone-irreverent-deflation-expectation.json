@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-irreverent-deflation-expectation",
+  "craft_claim": "Irreverent comedy builds a solemn or pompous expectation and then lets it collapse into nothing; the collapse itself — not a counter-argument — produces the laugh.",
+  "tone_ids": [
+    "tone-irreverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-irreverent-kant-critique-judgment-1790",
+      "location": "Critique of Judgment §54 (Gutenberg #48433; English renderings vary, no wording reproduced)",
+      "evidence_expression": "paraphrase",
+      "note": "Kant locates laughter in the sudden collapse of an expectation built up about an object into nothing — the escalated promise dissolves rather than being answered."
+    },
+    {
+      "evidence_id": "src-irreverent-mcgraw-warren-2010",
+      "location": "Psychological Science 21(8):1141-1149",
+      "evidence_expression": "synthesis",
+      "note": "The collapse is the violation; it stays funny only while appraised benign — solemnity deflated inside a sanctioned frame."
+    },
+    {
+      "evidence_id": "work-hitchhikers-guide-1979",
+      "location": "Verified via SFE 'Adams, Douglas' entry fetched 2026-09-24",
+      "evidence_expression": "synthesis",
+      "note": "Cosmic and scientific pomposity (planetary engineering, bureaucratic procedure) is repeatedly built up and deflated by mundane register — secondary-confirmed exemplar of expectation-collapse."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-irreverent-kant-critique-judgment-1790",
+      "note": "Kant's account is philosophical and pre-experimental, and translator renderings of §54 differ — it is a Tier 1 primary statement of the mechanism, not empirical confirmation of it."
+    }
+  ],
+  "scope": "Any passage that deliberately escalates solemn diction, ceremonial buildup, or self-important framing before dropping it; narration and dialogue alike.",
+  "exceptions": [
+    "The mechanism explains the laugh, not the aim: where the collapse is aimed at a group rather than a register, clm-tone-irreverent-prejudiced-norm-backfire governs.",
+    "If the buildup is not felt (no real solemnity crossed), the collapse produces nothing — ties to clm-tone-irreverent-taboo-register-breach."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/irreverent.md#2--why-it-works--the-mechanism"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

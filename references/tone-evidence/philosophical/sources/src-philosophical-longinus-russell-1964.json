@@ -1,0 +1,60 @@
+{
+  "id": "src-philosophical-longinus-russell-1964",
+  "title": "Longinus: On the Sublime",
+  "creators": [
+    "Pseudo-Longinus",
+    "D. A. Russell"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Clarendon Press, Oxford",
+    "published_date": "1964",
+    "edition": "Greek text with introduction and commentary",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "grc"
+  ],
+  "regions": [
+    "Greece",
+    "Roman Empire"
+  ],
+  "access": {
+    "locator": "https://archive.org/details/longinusonsublim0000daru",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-philosophical)",
+    "verification_notes": "Confirmed the treatise is a Roman-era Greek work conventionally dated to the 1st century CE, author uncertain ('Pseudo-Longinus'); Russell 1964 is the standard Anglophone commentary. Used for the theory of elevated thought and figured composition that underlies the philosophical voice's grandeur."
+  },
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "claim_ids": [
+    "clm-tone-philosophical-periodic-cadence"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "grc",
+    "translator": "D. A. Russell (edition and commentary)",
+    "limitations": [
+      "Claims about Greek rhythm and figures rest on the Greek; the tone card must not assert acoustic specifics from translation alone."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": false,
+    "notes": "Treatise public domain; Russell edition copyrighted; no passages reproduced."
+  }
+}

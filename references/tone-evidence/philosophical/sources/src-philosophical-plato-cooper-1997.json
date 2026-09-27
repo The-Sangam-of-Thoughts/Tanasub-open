@@ -1,0 +1,60 @@
+{
+  "id": "src-philosophical-plato-cooper-1997",
+  "title": "Plato: Complete Works",
+  "creators": [
+    "Plato",
+    "John M. Cooper",
+    "D. S. Hutchinson"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Hackett Publishing Company",
+    "published_date": "1997",
+    "edition": "Complete English edition with introduction; dialogues c. 4th century BCE",
+    "doi": null,
+    "isbn": "9780872203495"
+  },
+  "languages": [
+    "en",
+    "grc"
+  ],
+  "regions": [
+    "Greece"
+  ],
+  "access": {
+    "locator": "https://hackettpublishing.com/philosophy/complete-works",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-philosophical)",
+    "verification_notes": "Confirmed the edition and Cooper's introductory discussion of the dialogue form; used as the canonical record of Socratic question-and-answer as a philosophical writing practice."
+  },
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "claim_ids": [
+    "clm-tone-philosophical-dialectic-question"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "grc",
+    "translator": "multiple translators, ed. John M. Cooper",
+    "limitations": [
+      "Claims concern the dialogue form, not Greek diction."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": false,
+    "notes": "Original public domain; Hackett translations copyrighted; no passages reproduced."
+  }
+}

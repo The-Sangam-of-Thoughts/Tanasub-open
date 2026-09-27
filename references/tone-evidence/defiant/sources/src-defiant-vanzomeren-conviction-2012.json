@@ -1,0 +1,58 @@
+{
+  "id": "src-defiant-vanzomeren-conviction-2012",
+  "title": "On Conviction's Collective Consequences: Integrating Moral Conviction with the Social Identity Model of Collective Action",
+  "creators": [
+    "Martijn van Zomeren",
+    "Tom Postmes",
+    "Russell Spears"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support",
+    "recognition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "British Journal of Social Psychology, Vol. 51, No. 1",
+    "published_date": "2012",
+    "edition": null,
+    "doi": "10.1111/j.2044-8309.2010.02000.x",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Netherlands",
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1111/j.2044-8309.2010.02000.x",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-defiant)",
+    "verification_notes": "Bibliographic record (51(1):52-71) and abstract confirmed via publisher DOI and citation records; integrates moral conviction with SIMCA and reports conviction strengthens collective action via identification with a moral cause."
+  },
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "claim_ids": [
+    "clm-tone-defiant-collective-injustice-efficacy",
+    "clm-tone-defiant-moral-conviction-collective"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Wiley/BPS journal article; analytical citation only."
+  }
+}

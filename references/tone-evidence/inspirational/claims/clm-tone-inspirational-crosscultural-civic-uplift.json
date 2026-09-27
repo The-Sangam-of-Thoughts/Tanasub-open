@@ -1,0 +1,49 @@
+{
+  "id": "clm-tone-inspirational-crosscultural-civic-uplift",
+  "craft_claim": "Non-Anglophone civic and devotional traditions practice forward-facing uplift with distinct warrants and proofs, so the inspirational voice cannot be defined by Anglophone convention alone.",
+  "tone_ids": [
+    "tone-inspirational"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "work-gitanjali",
+      "location": "Gitanjali (Bengali 1910; English prose translation 1912/1913)",
+      "evidence_expression": "synthesis",
+      "note": "Tagore's song offerings carry devotional longing with a forward, world-facing hope; the collection's English form is the author's own radical rewriting, and won the 1913 Nobel Prize in Literature."
+    },
+    {
+      "evidence_id": "work-tryst-with-destiny",
+      "location": "Address to the Constituent Assembly, 14-15 August 1947",
+      "evidence_expression": "synthesis",
+      "note": "Nehru's canonical Indian civic-uplift address names past struggle and poses the future as labour and collective pledge rather than triumph alone."
+    },
+    {
+      "evidence_id": "work-nuestra-america",
+      "location": "Essay, first published 10 January 1891",
+      "evidence_expression": "synthesis",
+      "note": "Marti's Spanish-language civic essay fuses anti-colonial diagnosis with a forward ideal for a continental readership, a formal rhetorical situation rather than a translated Anglophone template."
+    },
+    {
+      "evidence_id": "work-vivekananda-chicago-address",
+      "location": "Opening address, World's Parliament of Religions, 11 September 1893",
+      "evidence_expression": "synthesis",
+      "note": "Vivekananda reframes sectarian history into a forward interreligious call, an Indian civic-prophetic uplift performed on an international stage."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-inspirational-tagore-gitanjali-1912",
+      "note": "Section E translation limit: the English Gitanjali is Tagore's own radical rewriting (reordering, omission, fusion) rather than a rendering of the Bengali, and its uplift is not fully recoverable in English; section E also declines a single universal technique because warrants and accepted proofs differ."
+    }
+  ],
+  "scope": "Cross-cultural study of the tone; the dossier treats Indian and Latin American cases as load-bearing analysis.",
+  "exceptions": [
+    "The shared family resemblance should not be inflated into a universal formula: warrants differ (sacred, civic, developmental) and so do accepted proofs."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/inspirational.md#8--cultural-scope"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

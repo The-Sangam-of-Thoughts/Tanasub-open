@@ -1,0 +1,56 @@
+{
+  "id": "src-nostalgic-yano-2002-tears-of-longing",
+  "title": "Tears of Longing: Nostalgia and the Nation in Japanese Popular Song",
+  "creators": [
+    "Christine R. Yano"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Harvard University Press (Harvard East Asian Monographs 206)",
+    "published_date": "2002",
+    "edition": "ISBN 0-674-01276-3",
+    "doi": null,
+    "isbn": "0674012763"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Japan",
+    "United States"
+  ],
+  "access": {
+    "locator": "https://www.hup.harvard.edu/books/9780674012769",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-nostalgic)",
+    "verification_notes": "Bibliographic identity (title, author, publisher, series, year, ISBN) verified via the Harvard University Press catalog page on web search 2026-09-24. Monograph not accessed directly: the characterizations of enka's longing imaginary and the commercial forces shaping enka's consumption of the past since the 1970s are scoped to the publisher's description and secondary scholarly summaries; chapter-level page locators are not asserted."
+  },
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "claim_ids": [
+    "clm-tone-nostalgic-restorative-reflective",
+    "clm-tone-nostalgic-consumption-ethics"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "University-press monograph; analytical citation only, no passages reproduced."
+  }
+}

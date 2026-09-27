@@ -1,0 +1,48 @@
+{
+  "id": "work-speaking-of-siva",
+  "title": "Speaking of Siva",
+  "creators": [
+    "A. K. Ramanujan",
+    "Basava",
+    "Akka Mahadevi",
+    "Allama Prabhu"
+  ],
+  "work_type": "translated-anthology",
+  "published_date": "1973",
+  "languages": [
+    "en",
+    "kn"
+  ],
+  "regions": [
+    "India",
+    "Karnataka"
+  ],
+  "axis_ids": [
+    "tone-reverent",
+    "axis-vachana-poetry"
+  ],
+  "period_role": "formative",
+  "source_id": "src-reverent-ramanujan-speaking-of-siva-1973",
+  "access": {
+    "edition_or_version": "Penguin Classics, ISBN 9780140442700",
+    "language_used": "en",
+    "translator": "A. K. Ramanujan",
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "Selections from the 12th-century Kannada vachanas of the Viraśaiva (Sharana) movement, in which a speaker addresses a personally named god directly.",
+    "reader_promise": "Immediate, embodied devotional intensity rather than polite or abstract reverence.",
+    "point_of_view": "First-person speech to a named deity; the speaker can plead, scold, bargain, and love.",
+    "style_and_devices": "Ankita (named closing invocation); bedagu (unsolvable paradoxical images); occupational metaphor drawn from farming, weaving, and ferrying.",
+    "emotional_progression": "Earthly paradox or grievance -> mounting pressure -> resolution only in the named ankita.",
+    "sacred_or_profound_object": "A specific, named Shiva (e.g. 'Lord of the Meeting Rivers'; 'Lord, white as jasmine').",
+    "devotional_or_apophatic_mode": "Embodied and confrontational devotion (anubhava); the sacred is located in the body and daily labour, not a hushed elsewhere.",
+    "cadence_and_form": "Unrhymed rhythmic prose-verse built on spoken Kannada cadence; no formal titles; sharp structural break at the ankita.",
+    "figuration": "Extended trade analogies and impossible bedagu images designed to defeat paraphrase.",
+    "vocative_address": "The form's spine: direct second-person address to the deity.",
+    "cultural_scope": "Viraśaiva anti-caste and anti-ritual protest in 12th-century Karnataka; not generic mysticism.",
+    "translation_notes": "Kannada cadence, occupational register, and wordplay are flattened in English; Niranjana (1992) critiques the universalizing tendency of such renderings. Claims here are structural.",
+    "copyright_note": "Techniques described, never quoted; translations and editorial matter copyrighted."
+  }
+}

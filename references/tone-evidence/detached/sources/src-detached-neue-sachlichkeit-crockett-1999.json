@@ -1,0 +1,41 @@
+{
+  "id": "src-detached-neue-sachlichkeit-crockett-1999",
+  "title": "German Post-Expressionism: The Art of the Great Disorder 1918-1924",
+  "creators": ["Dennis Crockett"],
+  "source_type": "scholarly-book",
+  "source_roles": ["recognition", "definition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Pennsylvania State University Press",
+    "published_date": "1999",
+    "edition": "First edition",
+    "doi": null,
+    "isbn": "978-0-271-01796-9"
+  },
+  "languages": ["en"],
+  "regions": ["Germany", "United States"],
+  "access": {
+    "locator": "Library record; corroborated by the New Objectivity reference entry citing Crockett 1999",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-detached)",
+    "verification_notes": "Term Neue Sachlichkeit coined by Gustav Friedrich Hartlaub (1925); literature characterized by non-sentimental, emotionless reporting style, precise detail, and veneration for 'the fact' (Crockett 1999; Midgley, Writing Weimar, 2000)."
+  },
+  "axis_ids": ["tone-detached"],
+  "claim_ids": ["clm-tone-detached-cross-cultural-objectivity"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Penn State University Press; synthesis only."
+  }
+}

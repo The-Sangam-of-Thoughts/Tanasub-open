@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-augustine-confessions-1991",
+  "title": "Confessions",
+  "creators": ["Augustine of Hippo", "Henry Chadwick"],
+  "source_type": "critical-edition",
+  "source_roles": ["recognition", "definition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Oxford University Press (Oxford World's Classics)",
+    "published_date": "1991",
+    "edition": "Chadwick translation, xxix + 311 pp. (reissued 2008)",
+    "doi": null,
+    "isbn": "9780199537822"
+  },
+  "languages": ["en", "la"],
+  "regions": ["Roman North Africa", "Western Europe"],
+  "access": {
+    "locator": "https://global.oup.com/academic/product/st-augustines-confessions-9780199537822",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "OUP and multiple review records verified the Chadwick translation, publication date, and critical apparatus; the addressed, self-examining first-person form is the recognised convention of the work."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-confession-truth-mode"],
+  "translation": {
+    "is_translation": true,
+    "original_language": "la",
+    "translator": "Henry Chadwick",
+    "limitations": ["English diction and syntax differ from the Latin; theological vocabulary and rhetorical structure are partly flattened in translation."]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": false,
+    "notes": "The Latin original is public domain; the Chadwick translation is copyrighted. No text reproduced."
+  }
+}

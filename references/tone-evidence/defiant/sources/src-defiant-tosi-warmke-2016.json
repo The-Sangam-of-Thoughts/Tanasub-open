@@ -1,0 +1,55 @@
+{
+  "id": "src-defiant-tosi-warmke-2016",
+  "title": "Moral Grandstanding",
+  "creators": [
+    "Justin Tosi",
+    "Brandon Warmke"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support",
+    "recognition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Philosophy & Public Affairs, Vol. 44, No. 3",
+    "published_date": "2016",
+    "edition": null,
+    "doi": "10.1111/papa.12075",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1111/papa.12075",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-defiant)",
+    "verification_notes": "Bibliographic record (44(3):197-217) confirmed via Wiley, PhilArchive, and JSTOR; account of moral grandstanding as the use of public moral discourse for moral self-promotion."
+  },
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "claim_ids": [
+    "clm-tone-defiant-grandstanding-backfire"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Wiley journal article; analytical citation only."
+  }
+}

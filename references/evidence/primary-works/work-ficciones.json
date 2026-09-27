@@ -1,0 +1,51 @@
+{
+  "id": "work-ficciones",
+  "title": "Ficciones",
+  "creators": [
+    "Jorge Luis Borges"
+  ],
+  "work_type": "short-story",
+  "published_date": "1944",
+  "languages": [
+    "es"
+  ],
+  "regions": [
+    "Argentina",
+    "Latin America"
+  ],
+  "axis_ids": [
+    "axis-flash-fiction",
+    "axis-interactive-fiction",
+    "axis-speculative-fiction"
+  ],
+  "period_role": "recognized",
+  "source_id": "src-cambridge-companion-creative-writing-2012",
+  "access": {
+    "edition_or_version": "Translated by Anthony Kerrigan et al., Grove Press",
+    "language_used": "en",
+    "translator": "Anthony Kerrigan",
+    "access_conditions": "licensed"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A collection of philosophical conceptual fables exploring infinite libraries, labyrinthine branching time, invented encyclopedias, and treacherous memory.",
+    "reader_promise": "Intellectually dazzling, highly concentrated metafictional puzzles that reconfigure how readers conceptualize infinity, narrative, and reality.",
+    "opening": "Presents scholarly prefaces, pseudo-bibliographies, and sober academic reviews of non-existent books.",
+    "point_of_view": "Erudite, detached intellectual narrator blending scholarly commentary with metaphysical intrigue.",
+    "character_system": "Philosophers, librarians, detectives, encyclopedists, and literary scholars navigating metaphysical labyrinths.",
+    "conflict_and_stakes": "Human cognitive limits against infinite informational architectures and ontological paradoxes.",
+    "structure": "Short, dense parables and mock-academic essays ('The Garden of Forking Paths', 'The Library of Babel', 'Funes the Memorious').",
+    "scene_movement": "English country garden, infinite hexagonal galleries of Babel, suburban Buenos Aires study.",
+    "dialogue": "Brief philosophical exchanges framed as dialectical inquiries into time, chance, and destiny.",
+    "setting": "Universal metaphysical spaces, mock-historical archives, and labyrinthine geometry.",
+    "style_and_devices": "Metafiction, mise en abyme, pseudo-scholarship, branching narrative geometry, ironic erudition.",
+    "emotional_progression": "Intellectual curiosity -> vertigo -> existential awe -> quiet melancholic wonder.",
+    "suspense_or_anticipation": "Philosophical suspense: discovering the underlying metaphysical axiom that solves the riddle.",
+    "climax": "In 'Forking Paths', Yu Tsun murders Dr. Albert to telegraph a military code word, realizing Albert has unlocked Ts'ui Pen's infinite time novel.",
+    "ending": "Infinite hexagonal rooms of the Library repeat in cyclical order; Yu Tsun sits in British prison filled with 'unending contrition'.",
+    "conventions": "Foundational text of postmodernism, magical realism, and interactive/hypertext narrative theory.",
+    "innovation_or_subversion": "Replaced conventional psychological character drama with philosophical thought-experiments masquerading as literary reviews.",
+    "critical_reception": "Monumental international influence across world literature, philosophy, computer science, and semiotics.",
+    "audience_reception": "Enduring cult and canonical stature as the ultimate writer's writer."
+  }
+}

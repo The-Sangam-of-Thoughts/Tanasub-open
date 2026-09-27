@@ -1,0 +1,56 @@
+{
+  "id": "src-nostalgic-proust-swanns-way-1913",
+  "title": "Du cote de chez Swann (Swann's Way)",
+  "creators": [
+    "Marcel Proust"
+  ],
+  "source_type": "primary-work",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Bernard Grasset, Paris",
+    "published_date": "1913",
+    "edition": "First edition, November 1913; English translation by C. K. Scott-Moncrieff (Project Gutenberg eBook #7178); French original eBook #2650",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "fr"
+  ],
+  "regions": [
+    "France"
+  ],
+  "access": {
+    "locator": "https://www.gutenberg.org/ebooks/7178",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-nostalgic)",
+    "verification_notes": "Bibliographic identity (title, author, publisher, November 1913 first publication; Project Gutenberg English #7178 and French #2650) confirmed via publisher, Project Gutenberg, and reference records on web search 2026-09-24. The madeleine-and-tea sensory-trigger episode is confirmed at reference/summary level; described only, no passage text accessed or reproduced."
+  },
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "claim_ids": [
+    "clm-tone-nostalgic-dual-time-distance"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "fr",
+    "translator": "C. K. Scott-Moncrieff (reference English)",
+    "limitations": [
+      "English renderings of the sensory-trigger episode differ across translations (Scott-Moncrieff, Grieve, Davis); analysis here is at episode level and does not rely on any single translation's wording."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": false,
+    "notes": "Original French text (1913) and the Scott-Moncrieff translation are public domain in the United States; analytical citation only, no text reproduced."
+  }
+}

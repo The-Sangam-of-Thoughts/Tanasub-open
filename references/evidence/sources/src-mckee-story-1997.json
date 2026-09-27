@@ -1,0 +1,60 @@
+{
+  "id": "src-mckee-story-1997",
+  "title": "Story: Substance, Structure, Style and the Principles of Screenwriting",
+  "creators": [
+    "Robert McKee"
+  ],
+  "source_type": "craft-book",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "ReganBooks / HarperCollins",
+    "published_date": "1997",
+    "edition": "First Edition",
+    "doi": null,
+    "isbn": "978-0060391683"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://www.harpercollins.com/products/story-robert-mckee",
+    "accessed_at": "2026-09-12",
+    "access_conditions": "purchased"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-12T15:10:00Z",
+    "verified_by": "Codex S10 foundation evidence agent",
+    "verification_notes": "Directly verified scene value turning points, the gap between expectation and reality, controlling ideas, and climax."
+  },
+  "axis_ids": [
+    "axis-feature-screenplay",
+    "axis-thriller-fiction",
+    "axis-detective-and-mystery-fiction"
+  ],
+  "claim_ids": [
+    "clm-controlling-idea",
+    "clm-scene-turning-points",
+    "clm-suspense-vs-surprise",
+    "clm-climax-inevitability-surprise",
+    "clm-static-scene-diagnosis",
+    "clm-passive-protagonist-defect"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Craft guide; citations only."
+  }
+}

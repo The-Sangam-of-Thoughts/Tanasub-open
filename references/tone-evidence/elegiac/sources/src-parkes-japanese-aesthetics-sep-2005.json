@@ -1,0 +1,41 @@
+{
+  "id": "src-parkes-japanese-aesthetics-sep-2005",
+  "title": "Japanese Aesthetics",
+  "creators": ["Graham Parkes"],
+  "source_type": "reference-work",
+  "source_roles": ["definition", "recognition"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Stanford Encyclopedia of Philosophy (Metaphysics Research Lab, Stanford University)",
+    "published_date": "2005",
+    "edition": "First published 2005; substantive revisions (e.g. 2011, 2020)",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States", "Japan"],
+  "access": {
+    "locator": "https://plato.stanford.edu/entries/japanese-aesthetics/",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-elegiac)",
+    "verification_notes": "Author (Graham Parkes), publisher (Stanford Encyclopedia of Philosophy), first-publication year (2005), and the mono no aware section (pathos of things deriving from transience; Genji and the Heike opening; Norinaga bringing it to the centre of literary theory) verified via the SEP archive pages and PhilPapers linked bibliography."
+  },
+  "axis_ids": ["tone-elegiac"],
+  "claim_ids": ["clm-tone-elegiac-mono-no-aware"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "open-access",
+    "repository_copy_allowed": false,
+    "notes": "SEP entry is freely readable (open access), but free-to-read is not a copy permission: the entry's text is copyrighted, and this silo's permitted mode is analytical paraphrase only, cited by section. No repository copy of the text."
+  }
+}

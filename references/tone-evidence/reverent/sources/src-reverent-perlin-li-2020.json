@@ -1,0 +1,55 @@
+{
+  "id": "src-reverent-perlin-li-2020",
+  "title": "Why Does Awe Have Prosocial Effects? New Perspectives on Awe and the Small Self",
+  "creators": [
+    "Joshua D. Perlin",
+    "Leon Li"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Perspectives on Psychological Science 15(2):291-308 (SAGE)",
+    "published_date": "2020",
+    "edition": null,
+    "doi": "10.1177/1745691619886006",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1177/1745691619886006",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reverent)",
+    "verification_notes": "Bibliographic record verified through the Crossref REST API on 2026-09-24 (title, authors, container, volume, pages, DOI). Used as a critical review complicating the 'small self' as the sole mediator of awe's prosocial effects."
+  },
+  "axis_ids": [
+    "tone-reverent"
+  ],
+  "claim_ids": [
+    "clm-tone-reverent-small-self",
+    "clm-tone-reverent-dosage-yield"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Peer-reviewed review article; analytical citation only; no passages reproduced."
+  }
+}

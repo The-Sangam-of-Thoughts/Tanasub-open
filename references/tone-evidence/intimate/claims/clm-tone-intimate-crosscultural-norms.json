@@ -1,0 +1,40 @@
+{
+  "id": "clm-tone-intimate-crosscultural-norms",
+  "craft_claim": "Self-disclosure norms and preferred disclosure depth are culturally variable; the appetite for intimate disclosure must not be assumed to be universal across readerships.",
+  "tone_ids": ["tone-intimate"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-intimate-kito-self-disclosure-2005",
+      "location": "The Journal of Social Psychology 145(2): 127-140, results across four relationship types",
+      "evidence_expression": "paraphrase",
+      "note": "Japanese college students reported significantly lower self-disclosure than American students across all four relationship types, indicating culturally patterned norms rather than a universal optimum."
+    },
+    {
+      "evidence_id": "src-intimate-schug-relational-mobility-2010",
+      "location": "Psychological Science 21(10): 1471-1478, Studies 1 and 2",
+      "evidence_expression": "paraphrase",
+      "note": "Cross-cultural differences in disclosure are mediated by relational mobility; disclosure functions as a social-commitment device where relationships are freely chosen, so its value is context-dependent."
+    },
+    {
+      "evidence_id": "src-intimate-russell-ghalib-2003",
+      "location": "Life and Letters sections on Ghalib's correspondence",
+      "evidence_expression": "synthesis",
+      "note": "Ghalib's epistolary intimacy is real but historically and culturally specific: it emerges by breaking a Persianate formal convention, which presupposes that convention."
+    },
+    {
+      "evidence_id": "src-intimate-alston-mirabai-1980",
+      "location": "Introductory essays and translated padas",
+      "evidence_expression": "synthesis",
+      "note": "Bhakti intimate address is frequently voiced through a devotional persona, showing that intimate register and literal self-disclosure are not the same cross-cultural operation."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Cross-cultural and translated readerships; marketing and personal writing intended for mixed audiences.",
+  "exceptions": [
+    "Contexts where the audience has explicitly contracted for confessional writing and shares its norms."
+  ],
+  "confidence": "strong",
+  "report_locations": ["tones/intimate.md#8--cultural-scope"],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "src-lyrical-longinus-sublime-1927",
+  "title": "On the Sublime (Peri Hypsous)",
+  "creators": [
+    "Longinus",
+    "W. Hamilton Fyfe"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Harvard University Press / Loeb Classical Library",
+    "published_date": "1927",
+    "edition": "Loeb Classical Library; combined with Aristotle, Poetics and Demetrius, On Style",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "grc"
+  ],
+  "regions": [
+    "Greece",
+    "Roman Empire"
+  ],
+  "access": {
+    "locator": "https://archive.org/details/longinusonsublim0000wham",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-lyrical)",
+    "verification_notes": "Translation and edition verified via Internet Archive and Open Library (Fyfe, Harvard/Loeb, 1927). Argument confirmed: rhythm, euphony, and word-arrangement are treated as sources of sublimity."
+  },
+  "axis_ids": [
+    "tone-lyrical"
+  ],
+  "claim_ids": [
+    "clm-tone-lyrical-music-of-prose-tradition"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "grc",
+    "translator": "W. Hamilton Fyfe",
+    "limitations": [
+      "Ancient Greek sound-effects cannot be reproduced in English; the treatise's claims about Greek rhythm are not transferable to English prose."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": false,
+    "notes": "Translation in the public domain; no text reproduced."
+  }
+}

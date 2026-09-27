@@ -1,0 +1,37 @@
+{
+  "id": "work-tryst-with-destiny",
+  "title": "A Tryst with Destiny (address to the Constituent Assembly of India)",
+  "creators": [
+    "Jawaharlal Nehru"
+  ],
+  "work_type": "speech",
+  "published_date": "1947-08-14",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "India"
+  ],
+  "axis_ids": [
+    "tone-inspirational"
+  ],
+  "period_role": "canonical",
+  "source_id": "src-inspirational-nehru-1947",
+  "access": {
+    "edition_or_version": "Constituent Assembly Debates; Selected Works of Jawaharlal Nehru, Second Series, vol. 3, pp. 135-136",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "On the eve of Indian independence, the speaker frames the moment as the redemption of a long-held pledge and a summons to unending collective labour.",
+    "emotional_progression": "Recollection of suffering and struggle moves to sober responsibility and then to a pledged, future-facing commitment.",
+    "style_and_devices": "Future-tense pathway clauses, balanced antithesis (past/future, sleep/awakening), collective first-person plural, accumulation that resolves into a formal pledge; peroration placed at the close.",
+    "dialogue": "Direct address to the Assembly and, through it, to the people of India.",
+    "point_of_view": "Collective 'we' grounded in a national subject, with the speaker as mover of a resolution.",
+    "tone_relevant_techniques": "Names the labour required rather than triumph alone (pathways + agency); refuses ease as the endpoint; pairs vision with concrete social goals (poverty, ignorance, disease); grounds urgency in an actual historical occasion.",
+    "critical_reception": "Regarded as a landmark twentieth-century oration and the canonical statement of Indian civic aspiration.",
+    "copyright_note": "Speech text is under copyright; described analytically only, no passage reproduced."
+  }
+}

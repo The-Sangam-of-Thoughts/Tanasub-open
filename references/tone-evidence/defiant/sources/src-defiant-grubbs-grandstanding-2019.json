@@ -1,0 +1,58 @@
+{
+  "id": "src-defiant-grubbs-grandstanding-2019",
+  "title": "Moral Grandstanding in Public Discourse: Status-Seeking Motives as a Potential Explanatory Mechanism in Predicting Conflict",
+  "creators": [
+    "Joshua B. Grubbs",
+    "Brandon Warmke",
+    "Justin Tosi",
+    "A. Shanti James",
+    "W. Keith Campbell"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support",
+    "recognition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "PLoS ONE, Vol. 14, No. 10",
+    "published_date": "2019",
+    "edition": "e0223749",
+    "doi": "10.1371/journal.pone.0223749",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223749",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-defiant)",
+    "verification_notes": "Open-access article; abstract and citation confirmed via PLOS and DOAJ. Across studies, moral grandstanding motivation was associated with status-seeking traits and greater moral and political conflict in daily life."
+  },
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "claim_ids": [
+    "clm-tone-defiant-grandstanding-backfire"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "open-access",
+    "repository_copy_allowed": false,
+    "notes": "PLoS ONE open-access article; analytical citation only, no text reproduced."
+  }
+}

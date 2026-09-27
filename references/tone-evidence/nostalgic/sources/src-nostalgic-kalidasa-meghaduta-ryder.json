@@ -1,0 +1,61 @@
+{
+  "id": "src-nostalgic-kalidasa-meghaduta-ryder",
+  "title": "Meghaduta (Cloud-Messenger), in Translations of Shakuntala and Other Works",
+  "creators": [
+    "Kalidasa",
+    "Arthur W. Ryder"
+  ],
+  "source_type": "primary-work",
+  "source_roles": [
+    "recognition",
+    "craft-support",
+    "indian-context"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "J. M. Dent (Everyman's Library), London",
+    "published_date": "1912",
+    "edition": "Ryder translation in Translations of Shakuntala and Other Works; some library catalogues date the same translation 1914; Sanskrit original c. 4th-5th century CE; poem runs about 111-119 verses depending on recension (commonly cited as 111)",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "sa",
+    "en"
+  ],
+  "regions": [
+    "India",
+    "South Asia"
+  ],
+  "access": {
+    "locator": "https://www.gutenberg.org/ebooks/16659",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-nostalgic)",
+    "verification_notes": "Bibliographic identity (Ryder translation, Dent Everyman's 1912, with 1914 appearing in some library catalogues; Project Gutenberg #16659) and structural facts (an exiled yaksha asks a passing cloud to carry his message to his beloved; verse count varies by recension, approximately 110-121, commonly 111) confirmed via library catalogues, Project Gutenberg, and reference records on web search 2026-09-24. Described only; no verse text reproduced."
+  },
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "claim_ids": [
+    "clm-tone-nostalgic-dual-time-distance",
+    "clm-tone-nostalgic-crosscultural-nonuniform"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "sa",
+    "translator": "Arthur W. Ryder",
+    "limitations": [
+      "Verse count and lineation vary across recensions and English translations; no single rendering's stanza numbering is relied on."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": false,
+    "notes": "Sanskrit original ancient; 1912 Dent/Ryder translation public domain; analytical citation only, no verse text reproduced."
+  }
+}

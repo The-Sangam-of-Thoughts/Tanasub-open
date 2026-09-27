@@ -1,0 +1,51 @@
+{
+  "id": "clm-tone-warm-warmth-primacy",
+  "craft_claim": "Warmth (perceived friendly intent) is judged first and weighted heavily in person perception, shaping how every other trait of a narrator is read.",
+  "tone_ids": [
+    "tone-warm"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-warm-asch-impressions-1946",
+      "location": "Journal of Abnormal and Social Psychology 41(3):258-290, Experiment I and following",
+      "evidence_expression": "paraphrase",
+      "note": "Replacing the single trait 'warm' with 'cold' in an otherwise identical trait list transformed judges' whole impressions and changed the interpretation of peripheral traits; warmth behaved as a central quality."
+    },
+    {
+      "evidence_id": "src-warm-fiske-warmth-competence-2007",
+      "location": "Trends in Cognitive Sciences 11(2):77-83, abstract and 'warmth, then competence' argument",
+      "evidence_expression": "synthesis",
+      "note": "Fiske, Cuddy and Glick argue social animals must first determine whether the other intends good or ill (warmth) and only then whether they can enact it (competence), making warmth the prioritized dimension."
+    },
+    {
+      "evidence_id": "src-warm-eisenbruch-krasnow-2022",
+      "location": "Perspectives on Psychological Science 17(6):1604-1623",
+      "evidence_expression": "synthesis",
+      "note": "Evolutionary account of why warmth is prioritized over competence, grounded in cooperative partner choice and variance in partners' warmth."
+    },
+    {
+      "evidence_id": "work-montaigne-essais",
+      "location": "Essais (1580), 'To the Reader' front matter",
+      "evidence_expression": "synthesis",
+      "note": "Montaigne opens by establishing friendly, unpolished intent toward an unknown reader before making any claim, an observable instance of leading with affiliative intent."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-warm-fiske-warmth-competence-2007",
+      "note": "The priority is probabilistic and context-dependent: when the task is judged to require ability (e.g., negotiation skill), competence traits take precedence in judgment."
+    }
+  ],
+  "scope": "Applies to the narrator-reader relationship wherever a persona is perceived as an agent with intent; weakest in purely data-driven or impersonal registers.",
+  "exceptions": [
+    "Genres that deliberately withhold a persona (tone-detached, clinical reporting) suppress the warmth-first effect.",
+    "An audience primed to assess expertise may weight competence first."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/warm.md#2--why-it-works--the-mechanism",
+    "tones/warm.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

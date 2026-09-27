@@ -1,0 +1,38 @@
+{
+  "id": "clm-tone-inspirational-hope-pathways-agency",
+  "craft_claim": "Forward-facing motivational prose persuades when it couples a desired goal (pathways thinking) with articulable agency, rather than asserting a wish or an outcome alone.",
+  "tone_ids": [
+    "tone-inspirational"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-inspirational-snyder-2002",
+      "location": "Psychological Inquiry 13(4):249-275, definition and theory sections",
+      "evidence_expression": "synthesis",
+      "note": "Snyder defines hope as the perceived capability to derive pathways to desired goals and to motivate oneself via agency thinking to use them; high hope is consistently linked to better outcomes across domains."
+    },
+    {
+      "evidence_id": "work-tryst-with-destiny",
+      "location": "Address to the Constituent Assembly, 14-15 August 1947",
+      "evidence_expression": "synthesis",
+      "note": "Nehru's address repeatedly names a desired future together with the labour required to reach it, refusing ease as the endpoint and pairing vision with route."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-inspirational-oyserman-2006",
+      "note": "Goal imagery is not sufficient on its own: possible selves moved academic behaviour only when linked with concrete strategies and congruent identity."
+    }
+  ],
+  "scope": "Goal-directed motivational prose across speech, essay, blog, and copy.",
+  "exceptions": [
+    "Purely poetic or devotional uplift (e.g., bhakti-adjacent song) may foreground longing rather than a route and still cohere as tone-lyrical or tone-reverent, not this tone."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/inspirational.md#2--why-it-works--the-mechanism",
+    "tones/inspirational.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

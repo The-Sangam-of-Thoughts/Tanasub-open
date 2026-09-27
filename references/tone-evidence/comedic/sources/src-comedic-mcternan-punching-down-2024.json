@@ -1,0 +1,54 @@
+{
+  "id": "src-comedic-mcternan-punching-down-2024",
+  "title": "The Ethics of Offensive Comedy: Punching Down and the Duties of Comedians",
+  "creators": [
+    "Emily McTernan"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support",
+    "recognition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Royal Institute of Philosophy Supplement, Cambridge University Press",
+    "published_date": "2024",
+    "edition": "Supplement volume",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://www.cambridge.org/core/journals/royal-institute-of-philosophy-supplements/article/ethics-of-offensive-comedy-punching-down-and-the-duties-of-comedians/A5B6FAAD512460544CB5A4D3127DE96A",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-comedic)",
+    "verification_notes": "Philosophical analysis of the 'don't punch down' ethic; argues for two revisions tracking which jokes punch down. Abstract and bibliographic details verified via Cambridge Core."
+  },
+  "axis_ids": [
+    "tone-comedic"
+  ],
+  "claim_ids": [
+    "clm-tone-comedic-disparagement-harm"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Peer-reviewed article; citation and paraphrase only."
+  }
+}

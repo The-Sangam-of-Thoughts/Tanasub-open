@@ -1,0 +1,65 @@
+{
+  "id": "clm-pacing-rhythm-syntax",
+  "craft_claim": "Narrative pacing is directly regulated at the micro level by clause length, syntax complexity, and grammatical rhythm.",
+  "axis_ids": [
+    "axis-bildungsroman",
+    "axis-cyberpunk",
+    "axis-dastan-tradition",
+    "axis-episodic-television-script",
+    "axis-epistolary-fiction",
+    "axis-fantasy-fiction",
+    "axis-feature-screenplay",
+    "axis-flash-fiction",
+    "axis-frame-narrative",
+    "axis-ghazal-sequence",
+    "axis-gothic-fiction",
+    "axis-historical-fiction",
+    "axis-interactive-fiction",
+    "axis-katha-tradition",
+    "axis-nataka-drama",
+    "axis-pastoral-literature",
+    "axis-picaresque-literature",
+    "axis-prakarana-drama",
+    "axis-psychological-fiction",
+    "axis-romance-fiction",
+    "axis-satirical-literature",
+    "axis-science-fiction",
+    "axis-solarpunk",
+    "axis-space-opera",
+    "axis-speculative-fiction",
+    "axis-urban-fantasy",
+    "axis-vachana-poetry"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-leguin-steering-craft-2015",
+      "location": "Chapter 2: Punctuation and Grammar, pp. 13-25",
+      "evidence_expression": "quotation",
+      "note": "Le Guin demonstrates how sentence length and syntactic variation speed up or slow down narrative velocity."
+    },
+    {
+      "evidence_id": "src-prose-reading-writer-2006",
+      "location": "Chapter 3: Sentences, pp. 43-70",
+      "evidence_expression": "paraphrase",
+      "note": "Prose shows how clause arrangement creates urgency, breathlessness, or contemplative pause."
+    },
+    {
+      "evidence_id": "work-beloved",
+      "location": "Sethe's shed escape memory sequence",
+      "evidence_expression": "synthesis",
+      "note": "Short, rapid, unpunctuated clauses simulate trauma and panic during the arrival of schoolteacher."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Prose style across all fiction genres.",
+  "exceptions": [
+    "Rigid translated works where target language syntax cannot replicate source sentence dynamics."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "09-emotion-tension-suspense-and-pacing.md#emotion-tension-suspense-and-pacing-preferred_label",
+    "11-literary-devices-and-language-techniques.md#literary-devices-and-language-techniques-preferred_label"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-12"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "src-nostalgic-hobart-2020-natsukashii",
+  "title": "A uniquely Japanese take on nostalgia",
+  "creators": [
+    "Erika Hobart"
+  ],
+  "source_type": "journalism",
+  "source_roles": [
+    "recognition",
+    "definition"
+  ],
+  "reliability_tier": 5,
+  "publication": {
+    "publisher_or_container": "BBC Travel",
+    "published_date": "2020-01-20",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Japan",
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://www.bbc.com/travel/article/20200119-a-uniquely-japanese-take-on-nostalgia",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-nostalgic)",
+    "verification_notes": "Full article text fetched and read 2026-09-24: byline Erika Hobart, publication date 20 January 2020, and the natsukashii description (derivation from the verb natsuku — holding something close until fondness grows; joy and gratitude for the past rather than a desire to return to it; bittersweet but positively framed reminiscence) confirmed directly. Tier-5 journalism: corroborating only, never sole support for a claim."
+  },
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "claim_ids": [
+    "clm-tone-nostalgic-crosscultural-nonuniform"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "BBC article; paraphrased only, no passage reproduced."
+  }
+}

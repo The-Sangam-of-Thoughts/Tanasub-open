@@ -1,0 +1,55 @@
+{
+  "id": "src-urgent-vatz-myth-rhetorical-situation-1973",
+  "title": "The Myth of the Rhetorical Situation",
+  "creators": [
+    "Richard E. Vatz"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "counterevidence",
+    "definition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Philosophy and Rhetoric, Vol. 6, No. 3",
+    "published_date": "1973",
+    "edition": "pp. 154-161",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "Western rhetorical tradition"
+  ],
+  "access": {
+    "locator": "Philosophy and Rhetoric 6(3): 154-161 (print). No open full-text locator verified in this pass.",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-urgent)",
+    "verification_notes": "Bibliographic record cross-checked against reference summaries describing Vatz's constructivist reply to Bitzer (rhetoric makes situations salient rather than being determined by them). Page range not independently confirmed; treat as bibliographic-level verification."
+  },
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "claim_ids": [
+    "clm-tone-urgent-exigence-reality"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Journal article; no text reproduced. Used as the counter-position that urgency can be fabricated by making an issue salient."
+  }
+}

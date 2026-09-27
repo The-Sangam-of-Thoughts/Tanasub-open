@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-elegiac-continuing-bonds",
+  "craft_claim": "Continued connection to the dead, through address, memory, and keeping objects, reads as tender rather than pathological, and is a core elegiac resource for keeping loss present.",
+  "tone_ids": ["tone-elegiac"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-klass-continuing-bonds-1996",
+      "location": "Introduction and cross-cultural chapters",
+      "evidence_expression": "paraphrase",
+      "note": "Klass, Silverman, and Nickman document that continued connections with the deceased provide comfort and ease transition, against the older prescription to sever bonds and move on."
+    },
+    {
+      "evidence_id": "src-stetkevych-mute-immortals-1993",
+      "location": "Introduction and the chapters on the ritha'",
+      "evidence_expression": "paraphrase",
+      "note": "Arabic elegy's formulaic address to the dead and repeated instruction to weep enact a durable public bond rather than private detachment."
+    },
+    {
+      "evidence_id": "work-alkhansa-diwan",
+      "location": "Elegies for Mu'awiyah and Sakhr",
+      "evidence_expression": "synthesis",
+      "note": "Al-Khansa's sustained elegies over years keep her brothers present through repeated address and ritual mourning."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-stroebe-schut-dual-process-1999",
+      "note": "Section G item 4 and section H: with Stroebe and Schut's restoration-oriented attention absent, the same continued connection models frozen, maladaptive melancholy and a draft that stays loss-oriented without oscillation will exhaust the reader, so keeping the dead present must alternate with recession or the reading tips toward tone-grim."
+    }
+  ],
+  "scope": "Memoir, elegiac lyric, and fiction that represents bereavement; the claim is about how readers read the bond, not a clinical prescription.",
+  "exceptions": [
+    "Obsessive or self-harming fixation on the dead is outside the consoling range and may tip into tone-grim."
+  ],
+  "confidence": "strong",
+  "report_locations": ["tones/elegiac.md#2--why-it-works--the-mechanism"],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

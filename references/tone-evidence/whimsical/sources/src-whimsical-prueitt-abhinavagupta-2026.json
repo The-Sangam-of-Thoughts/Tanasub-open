@@ -1,0 +1,58 @@
+{
+  "id": "src-whimsical-prueitt-abhinavagupta-2026",
+  "title": "Divine and human agency as art: Abhinavagupta on aesthetics and world carving",
+  "creators": [
+    "Catherine Prueitt"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support",
+    "indian-context"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Religious Studies (Cambridge University Press), First View",
+    "published_date": "2026",
+    "edition": "pp. 1-16; published online 2 June 2026",
+    "doi": "10.1017/S0034412526101656",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "India",
+    "Canada"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1017/S0034412526101656",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-whimsical)",
+    "verification_notes": "Confirmed author (Catherine Prueitt, UBC), journal, First View pagination, 2026 date, DOI, and Open Access CC-BY status via the Cambridge Core article page. The article explains commonization and camatkara as 'unobstructed awareness' in Abhinavagupta's aesthetics."
+  },
+  "axis_ids": [
+    "tone-whimsical"
+  ],
+  "claim_ids": [
+    "clm-tone-whimsical-hasya-camatkara",
+    "clm-tone-whimsical-play-frame-metacommunication"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "open-access",
+    "repository_copy_allowed": false,
+    "notes": "Open Access CC-BY; analytical citation only."
+  }
+}

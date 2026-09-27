@@ -1,0 +1,44 @@
+{
+  "id": "work-ashoka-kalinga-edict",
+  "title": "Kalinga Edict (Major Rock Edict XIII)",
+  "creators": [
+    "Ashoka"
+  ],
+  "work_type": "royal edict / epigraphic inscription",
+  "published_date": "3rd c. BCE (Kalinga campaign in Ashoka's 8th regnal year, c. 262-261 BCE)",
+  "languages": [
+    "pra",
+    "en"
+  ],
+  "regions": [
+    "India",
+    "South Asia"
+  ],
+  "axis_ids": [
+    "tone-reflective"
+  ],
+  "period_role": "classical",
+  "source_id": "src-reflective-thapar-ashoka-2015",
+  "access": {
+    "edition_or_version": "E. Hultzsch, Inscriptions of Asoka, Major Rock Edicts (1925 ed. and trans.), Edict XIII at p. 43 — public domain (verified 2026-09-24). Inscriptions name the king 'Devanampiya Priyadasi'. Thapar's study (OUP) supplies the historical analysis.",
+    "language_used": "en",
+    "translator": "E. Hultzsch",
+    "access_conditions": "open"
+  },
+  "analysis_status": "secondary-attested",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "public first-person evaluation of the ruler's own earlier conduct: conquest-mindedness, its human cost, remorse, policy revision",
+      "enumerative, additive clauses: reflection unfolds as catalogued accountability rather than lyric outburst",
+      "past-tense report of the war followed by present-tense declarations of policy — the same past-to-present structure as recollected-tranquillity reflection",
+      "reflection issues in concrete resolutions: here reflection produces action, countering 'reflection that halts plot'"
+    ],
+    "point_of_view": "Public first-person of the ruler judging his own past from the standpoint of its victims — the ruler as second party to his own judgment.",
+    "tense_and_structure": "Past-tense narrative of war and aftermath opening into present-tense declarations of intent; the turn from then to now is the edict's rhetorical engine.",
+    "rhythm_and_cadence": "Solemn, measured cadence of inscriptional prose; no lyric acceleration.",
+    "psychic_distance": "Maximal self-distance by perspective-shift: an emperor recounts his war from the victims' side. (Comparable to Kross's self-distancing frame as an analytic analogy only — not historical influence.)",
+    "style_and_devices": "Sparse; the moral vocabulary of Dhamma frames reflection as obligation rather than feeling; the single dominant figure is the ruler submitted to his own reckoning.",
+    "copyright_note": "Ancient inscription public domain; Hultzsch 1925 translation public domain; Thapar's study in copyright. Paraphrased only; no inscription text reproduced.",
+    "verification_note": "The eighth-regnal-year date for the Kalinga campaign (c. 262-261 BCE) was web-verified 2026-09-24; the edict's own erection date is not firmly pinned — do not print a single firm inscription date without an epigraphic citation."
+  }
+}

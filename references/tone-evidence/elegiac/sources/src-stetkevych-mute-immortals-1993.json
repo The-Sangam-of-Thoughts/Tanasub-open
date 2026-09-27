@@ -1,0 +1,45 @@
+{
+  "id": "src-stetkevych-mute-immortals-1993",
+  "title": "The Mute Immortals Speak: Pre-Islamic Poetry and the Poetics of Ritual",
+  "creators": ["Suzanne Pinckney Stetkevych"],
+  "source_type": "scholarly-book",
+  "source_roles": ["recognition", "definition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Cornell University Press (Myth and Poetics series)",
+    "published_date": "1993",
+    "edition": "First edition",
+    "doi": null,
+    "isbn": "9780801427640"
+  },
+  "languages": ["en", "ar"],
+  "regions": ["Egypt", "United States", "Arabian Peninsula"],
+  "access": {
+    "locator": "https://cornellpress.cornell.edu/book/9780801427640/the-mute-immortals-speak",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-elegiac)",
+    "verification_notes": "Author, title, publisher, year, ISBN, and the thesis that qasidah poetry is ritualized in form and function verified via Cornell University Press, library catalogs, and a Cambridge review. The ritha' material and the descent of elegiac repetition/address from wailing-women's nawh verified via the Cambridge review and a peer-reviewed article on the Arabic elegy that cites Stetkevych and Goldziher."
+  },
+  "axis_ids": ["tone-elegiac"],
+  "claim_ids": [
+    "clm-tone-elegiac-ritha-ritual",
+    "clm-tone-elegiac-apostrophe-address",
+    "clm-tone-elegiac-continuing-bonds"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scholarly monograph containing the author's own translations; analytical paraphrase only, no reproduced translations."
+  }
+}

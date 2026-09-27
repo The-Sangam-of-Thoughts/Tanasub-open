@@ -1,0 +1,37 @@
+{
+  "id": "clm-tone-reflective-recollected-tranquillity",
+  "craft_claim": "Reflective writing stages emotion at a remove in time and attention — the event is past, the thinking is present — so the then-scene/now-reflection tense split is the tone's audible signature and its chief structural defense against both immersion and nostalgia.",
+  "tone_ids": ["tone-reflective"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-reflective-wordsworth-preface-1800",
+      "location": "1800 Preface to Lyrical Ballads, definition of poetry and the account of composition",
+      "evidence_expression": "quotation",
+      "note": "Wordsworth defines poetic composition as emotion whose origin is being 'recollected in tranquillity' — distance in time and attentional calm presented as the mechanism by which experience becomes art, not as its ornament. (Public-domain phrase, 1800 text.)"
+    },
+    {
+      "evidence_id": "work-wordsworth-tintern-abbey",
+      "location": "Whole poem: the dated revisits and the narration of what each visit gave the poet then versus now",
+      "evidence_expression": "synthesis",
+      "note": "The poem builds on an explicit then/now structure (a first visit in youth, a return years later) and tracks the changed meaning of each — the reflective tense-split in its canonical poetic form, with earlier selves corrected rather than idealized."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "work-wordsworth-tintern-abbey",
+      "note": "The same distance-in-time structure can slide into idealization of the earlier self or era — the nostalgic use. Distance is necessary for reflection but does not guarantee non-idealization; the boundary against tone-nostalgic is held by present-tense evaluation, not by the pastness of the material."
+    }
+  ],
+  "scope": "Reflective passages in poetry, essay, memoir, and fiction; the tense signature is cross-form, with acknowledged variants below.",
+  "exceptions": [
+    "Diary and journal entries stage reflection in the same 'now' as the entry's day; distance is supplied by address and evaluation instead of elapsed time.",
+    "Present-tense stream-of-consciousness can reflect in-scene; then the distance is psychic rather than temporal."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/reflective.md#1--definition-and-boundaries",
+    "tones/reflective.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "src-deadpan-manto-selected-stories-2008",
+  "title": "Manto: Selected Stories",
+  "creators": [
+    "Saadat Hasan Manto",
+    "Ayesha Jalal (editor/introduction)"
+  ],
+  "source_type": "primary-work",
+  "source_roles": [
+    "craft-support",
+    "indian-context"
+  ],
+  "reliability_tier": 3,
+  "publication": {
+    "publisher_or_container": "Vintage India (Random House India)",
+    "published_date": "2008",
+    "edition": null,
+    "doi": null,
+    "isbn": "81-8400-144-4"
+  },
+  "languages": [
+    "en",
+    "ur"
+  ],
+  "regions": [
+    "India",
+    "Pakistan",
+    "South Asia"
+  ],
+  "access": {
+    "locator": "Library record: Manto: Selected Stories (Vintage India 2008, ISBN 81-8400-144-4)",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-deadpan)",
+    "verification_notes": "IMPRINT DISCREPANCY (unresolved, declared): two English editions of 'Manto: Selected Stories' circulate — this record documents the Vintage India 2008 printing, ISBN 81-8400-144-4, with Ayesha Jalal's editorial framing; the sibling detached silo records a Penguin edition, ISBN 9780143102182 (src-detached-manto-selected-stories-2008). Both are tied to the Jalal-framed translation lineage, but the exact translator/imprint relationship was not resolved this session. Clinical-reportage attestation rests on the repo genre file (genres/satirical-literature.md lines 115, 321, 371, 385, 499), not on fresh passage-level close reading — evidence-incomplete item 3 in dossier.md §I. This deadpan-prefixed ID exists to avoid a collision with the shared/detached records. Tier re-derived 2026-09-25 against layers/layer0-academic.md: held at 3 rather than raised to the Tier-1 direct-primary default because this record is translation-mediated and secondary-attested (passage-level close reading not performed), so the Tier-1 'verified direct primary evidence' precondition is unmet."
+  },
+  "axis_ids": [
+    "tone-deadpan"
+  ],
+  "claim_ids": [
+    "clm-tone-deadpan-clinical-reportage"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "ur",
+    "translator": null,
+    "limitations": [
+      "Translator/imprint lineage not resolved in this record: the Vintage India 2008 printing carries Ayesha Jalal's editorial framing while the sibling detached silo's Penguin record names Aatish Taseer (imprint discrepancy declared in the verification notes).",
+      "genres/satirical-literature.md line 499: the older Ralph Russell translations are serviceable but occasionally formalize Manto's deliberately colloquial Urdu."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "2008 Vintage India printing in copyright; technique described only, no passage reproduced."
+  }
+}

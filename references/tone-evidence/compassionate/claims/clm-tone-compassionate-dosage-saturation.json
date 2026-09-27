@@ -1,0 +1,43 @@
+{
+  "id": "clm-tone-compassionate-dosage-saturation",
+  "craft_claim": "A continuous compassionate register de-sensitizes through psychic numbing, compassion fatigue, and melodrama, so the tone must yield at stakes peaks and after one sustained passage.",
+  "tone_ids": [
+    "tone-compassionate"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-compassionate-slovic-2007",
+      "location": "Judgment and Decision Making 2(2):79-95, psychic numbing",
+      "evidence_expression": "synthesis",
+      "note": "Feeling does not scale with magnitude; repeated or aggregate suffering produces numbing, so more suffering text does not mean more compassion."
+    },
+    {
+      "evidence_id": "src-compassionate-sinclair-2017",
+      "location": "International Journal of Nursing Studies 69:9-24, compassion fatigue and burnout",
+      "evidence_expression": "synthesis",
+      "note": "Sustained exposure to suffering is associated with fatigue and withdrawal, so the register must be relieved."
+    },
+    {
+      "evidence_id": "src-gardner-art-fiction-1984",
+      "location": "The Art of Fiction, Ch. 7, sentimentality as emotion exceeding the stakes (shared)",
+      "evidence_expression": "synthesis",
+      "note": "Emotion that exceeds the established stakes reads as the narrator's self-indulgence, capping the compassionate register."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-compassionate-sinclair-2017",
+      "note": "Sections G and H record the depletion construct as contested: Sinclair et al. show 'compassion fatigue' is often burnout or vicarious trauma rather than a clean depletion mechanism, so the sustained-passage threshold is a practical card rule rather than a measured reader-saturation point."
+    }
+  ],
+  "scope": "Long-form prose and any content containing several suffering episodes.",
+  "exceptions": [
+    "Elegy, memorial, or ritual lament where sustained mourning is the genre's own engine."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/compassionate.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

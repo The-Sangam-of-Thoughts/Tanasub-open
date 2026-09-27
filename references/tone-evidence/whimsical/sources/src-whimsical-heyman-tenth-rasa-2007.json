@@ -1,0 +1,59 @@
+{
+  "id": "src-whimsical-heyman-tenth-rasa-2007",
+  "title": "The Tenth Rasa: An Anthology of Indian Nonsense",
+  "creators": [
+    "Michael Heyman",
+    "Sumanyu Satpathy",
+    "Anushka Ravishankar"
+  ],
+  "source_type": "scholarly-anthology",
+  "source_roles": [
+    "recognition",
+    "indian-context",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Penguin Books, New Delhi",
+    "published_date": "2007",
+    "edition": null,
+    "doi": null,
+    "isbn": "0143100866"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "India"
+  ],
+  "access": {
+    "locator": "https://archive.org/details/tenthrasa00mich",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-whimsical)",
+    "verification_notes": "Confirmed editors, publisher, year and ISBN via Internet Archive and the International Research Society for Children's Literature record. The volume frames Indian nonsense as its own aesthetic category and includes Ray translations."
+  },
+  "axis_ids": [
+    "tone-whimsical"
+  ],
+  "claim_ids": [
+    "clm-tone-whimsical-sukumar-ray-nonsense"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "multiple Indic languages",
+    "translator": "various translators",
+    "limitations": [
+      "An anthology of translations; sound-play in the source languages is partially lost in English."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Penguin anthology; analytical citation only."
+  }
+}

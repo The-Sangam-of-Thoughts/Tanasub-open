@@ -1,0 +1,38 @@
+{
+  "id": "clm-tone-compassionate-perspective-taking",
+  "craft_claim": "Perspective-taking — adopting a specific sufferer's viewpoint — is the reliable lever for compassion, and trait perspective-taking is empirically distinct from empathic concern and personal distress, so the voice should grant interior access to one sufferer rather than describe suffering from outside.",
+  "tone_ids": [
+    "tone-compassionate"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-compassionate-davis-1983",
+      "location": "Journal of Personality and Social Psychology 44(1):113-126, factor structure",
+      "evidence_expression": "synthesis",
+      "note": "Davis's multidimensional measure separates perspective-taking, empathic concern, fantasy, and personal distress; the four constructs show different correlates, so 'feeling for' a sufferer is not the same as 'feeling as' them."
+    },
+    {
+      "evidence_id": "src-compassionate-batson-1991",
+      "location": "The Altruism Question, empathy-altruism program, studies of instructed perspective-taking",
+      "evidence_expression": "synthesis",
+      "note": "Batson's program finds that instructed perspective-taking toward a specific person raises empathic concern and helping, whereas the personal-distress route motivates escape."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-compassionate-spivak-1988",
+      "note": "Section G 'Condescension and speaking over' records Spivak's account of the epistemic harm of representing others from a position that cannot hear them, so granting a sufferer interior access is itself a ventriloquism risk: the operator must let the sufferer hold and voice the perspective, not merely be rendered from inside."
+    }
+  ],
+  "scope": "Narrative and expository prose that presents a sufferer other than the narrator.",
+  "exceptions": [
+    "Reportage that deliberately withholds interiority for ethical reasons (the sufferer's privacy)."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/compassionate.md#5--how-to-use-it--operators",
+    "tones/compassionate.md#2--why-it-works--the-mechanism"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

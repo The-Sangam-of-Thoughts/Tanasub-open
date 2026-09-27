@@ -1,0 +1,38 @@
+{
+  "id": "clm-tone-inspirational-self-efficacy-models",
+  "craft_claim": "The inspirational voice raises perceived self-efficacy mainly through vicarious models and specific verbal persuasion about capability, since enactive mastery cannot be supplied by text.",
+  "tone_ids": [
+    "tone-inspirational"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-inspirational-bandura-1977",
+      "location": "Psychological Review 84(2):191-215, 'Sources of Efficacy Expectations'",
+      "evidence_expression": "paraphrase",
+      "note": "Bandura derives efficacy expectations from four sources: performance accomplishments, vicarious experience, verbal persuasion, and physiological states; enactive mastery is most dependable, vicarious/modelled experience next."
+    },
+    {
+      "evidence_id": "work-vivekananda-chicago-address",
+      "location": "Opening address, World's Parliament of Religions, 11 September 1893",
+      "evidence_expression": "synthesis",
+      "note": "Vivekananda's direct address converts a stranger-audience into kin and frames a shared forward project, functioning as verbal persuasion of collective capability."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-inspirational-wood-2009",
+      "note": "Verbal persuasion in the form of repeated positive self-statements backfired for low-self-esteem participants, so persuasion is not uniformly beneficial."
+    }
+  ],
+  "scope": "Instructional, aspirational, and copy prose; strongest when a concrete model is available.",
+  "exceptions": [
+    "Audiences with low domain self-esteem may resist vicarious comparison; compressing the model's distance or changing to compassionate register is required."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/inspirational.md#2--why-it-works--the-mechanism",
+    "tones/inspirational.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "src-nostalgic-batcho-2013-bittersweet-history",
+  "title": "Nostalgia: The bittersweet history of a psychological concept",
+  "creators": [
+    "Krystine I. Batcho"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "recognition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "History of Psychology, Vol. 16, No. 3",
+    "published_date": "2013",
+    "edition": "pp. 165-176",
+    "doi": "10.1037/a0032427",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1037/a0032427",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-nostalgic)",
+    "verification_notes": "Citation (title, journal, volume, issue, pages, DOI) verified via APA PsycNet record and independent catalog (Zotero Crossref entry) on web search 2026-09-24; abstract scope confirmed: traces the concept from its origins as a medical disease (Hofer, 1688) to its contemporary psychological construct. Full text not accessed."
+  },
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "claim_ids": [
+    "clm-tone-nostalgic-bittersweet-structure"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical citation only, no reproduction."
+  }
+}

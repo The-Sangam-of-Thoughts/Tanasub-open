@@ -1,0 +1,34 @@
+{
+  "id": "clm-tone-intimate-self-disclosure-closeness",
+  "craft_claim": "A narrator's deliberate disclosure of private emotional interiority (not mere factual report) increases reader liking and felt closeness toward the narrator.",
+  "tone_ids": ["tone-intimate"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-intimate-collins-miller-1994",
+      "location": "Psychological Bulletin 116(3): 457-475, abstract and meta-analytic results",
+      "evidence_expression": "paraphrase",
+      "note": "Meta-analysis finds that people who engage in intimate disclosures are liked more than people who disclose at lower levels, and that people come to like others as a result of having disclosed to them."
+    },
+    {
+      "evidence_id": "src-intimate-laurenceau-intimacy-1998",
+      "location": "Journal of Personality and Social Psychology 74(5): 1238-1251, Study 2",
+      "evidence_expression": "paraphrase",
+      "note": "Self-disclosure of emotion predicts experienced intimacy more strongly than self-disclosure of facts and information."
+    },
+    {
+      "evidence_id": "src-intimate-altman-taylor-1973",
+      "location": "Chapters on breadth and depth of exchange and the social penetration process",
+      "evidence_expression": "synthesis",
+      "note": "Closeness develops through graduated increases in the breadth and depth of self-disclosure; disclosure is the mechanism of relational penetration."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Narrator-to-reader address in prose, memoir, essay, and copy where interiority is disclosed rather than described from outside.",
+  "exceptions": [
+    "Disclosure that violates audience or role expectations can reduce liking rather than increase it; see clm-tone-intimate-disclosure-risk-boundaries."
+  ],
+  "confidence": "strong",
+  "report_locations": ["tones/intimate.md#2--why-it-works--the-mechanism"],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

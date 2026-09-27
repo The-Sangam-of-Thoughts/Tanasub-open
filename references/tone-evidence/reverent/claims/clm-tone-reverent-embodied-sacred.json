@@ -1,0 +1,33 @@
+{
+  "id": "clm-tone-reverent-embodied-sacred",
+  "craft_claim": "Grounding the sacred in a concrete body, labour, or named place produces piercing devotion; the ethereal 'hushed' register is a Western default, not a universal of reverent writing.",
+  "tone_ids": [
+    "tone-reverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-reverent-ramanujan-speaking-of-siva-1973",
+      "location": "Vachanas of Basava and Allama Prabhu",
+      "evidence_expression": "synthesis",
+      "note": "The Viraśaiva vachanas locate the divine in the living body (legs as pillars, head as cupola) and in daily trade; Allama Prabhu's bedagu images defy paraphrase to force non-literal apprehension."
+    },
+    {
+      "evidence_id": "work-speaking-of-siva",
+      "location": "Selection across Basava, Akka Mahadevi, Allama Prabhu",
+      "evidence_expression": "synthesis",
+      "note": "Devotion is confrontational and embodied - the speaker scolds, bargains with, and loves a specific deity, refusing passive adoration."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Concrete-image operator; Indian/regional anchor; cross-links axis-vachana-poetry and genres/vachana-poetry.md.",
+  "exceptions": [
+    "Apophatic and contemplative traditions may deliberately abstract the sacred; the two moves are complementary, not mutually exclusive."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/reverent.md#5--how-to-use-it--operators",
+    "tones/reverent.md#8--cultural-scope"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

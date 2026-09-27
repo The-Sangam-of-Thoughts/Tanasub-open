@@ -1,0 +1,34 @@
+{
+  "id": "clm-dhvani-suggestion-theory",
+  "craft_claim": "Sublime poetic resonance emerges from suggested meaning (dhvani) that resonates beyond literal expression (abhidha) and metaphorical transfer (laksana).",
+  "axis_ids": [
+    "axis-ghazal-sequence",
+    "axis-vachana-poetry"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-anandavardhana-dhvanyaloka-1990",
+      "location": "Uddyota 1, pp. 2-55",
+      "evidence_expression": "quotation",
+      "note": "Anandavardhana establishes dhvani as the soul of poetry (kavyasyatma dhvanih), wherein the suggested meaning outshines literal words."
+    },
+    {
+      "evidence_id": "work-charulata",
+      "location": "Opera glass sequence",
+      "evidence_expression": "synthesis",
+      "note": "Ray uses visual gaze and opera glasses to suggest Charulata's domestic entrapment and artistic hunger without dialogue."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Poetic, literary prose, and visual screenwriting craft.",
+  "exceptions": [
+    "Technical instruction manuals or didactic legal texts where ambiguity is harmful."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "11-literary-devices-and-language-techniques.md#literary-devices-and-language-techniques-preferred_label",
+    "00-how-to-write.md#devices-conventions-and-innovation"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-12"
+}

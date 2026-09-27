@@ -1,0 +1,64 @@
+{
+  "id": "src-ramanujan-interior-landscape-1967",
+  "title": "The Interior Landscape: Love Poems from a Classical Tamil Anthology",
+  "creators": [
+    "A.K. Ramanujan"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support",
+    "indian-context"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Indiana University Press",
+    "published_date": "1967",
+    "edition": "First Edition",
+    "doi": null,
+    "isbn": "978-0253330468"
+  },
+  "languages": [
+    "en",
+    "ta"
+  ],
+  "regions": [
+    "India",
+    "Tamil Nadu",
+    "South Asia"
+  ],
+  "access": {
+    "locator": "https://iupress.org/9780253330468/the-interior-landscape/",
+    "accessed_at": "2026-09-12",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-12T16:20:00Z",
+    "verified_by": "Codex S10 foundation evidence agent",
+    "verification_notes": "Directly verified the Sangam poetics of tinai (landscape as emotional objective correlative, interior vs exterior akam/puram poetics)."
+  },
+  "axis_ids": [
+    "axis-pastoral-literature",
+    "axis-romance-fiction",
+    "axis-vachana-poetry"
+  ],
+  "claim_ids": [
+    "clm-rasa-emotional-aesthetic",
+    "clm-single-story-reduction"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "ta",
+    "translator": "A.K. Ramanujan",
+    "limitations": [
+      "Classical Old Tamil poetic syntax differs radically from modern Dravidian and Indo-Aryan languages."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Academic translation; citation and analytical reference only."
+  }
+}

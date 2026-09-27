@@ -1,0 +1,53 @@
+{
+  "id": "src-deadpan-bateson-play-frame-1955",
+  "title": "A Theory of Play and Fantasy (contributions to 'The Message of Play')",
+  "creators": [
+    "Gregory Bateson"
+  ],
+  "source_type": "scholarly-book-chapter",
+  "source_roles": [
+    "definition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "A Theory of Play and Fantasy (Doubleday)",
+    "published_date": "1955",
+    "edition": "pp. 31–56",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "Library record: A Theory of Play and Fantasy (Doubleday, 1955), pp. 31–56",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-deadpan)",
+    "verification_notes": "Foundational play-frame/signal theory: 'these are not the signals that they would be' — deadpan is the removal of the play signal. Presented as a 1955 volume; the essay circulated earlier (1954 Macy proceedings), which is why catalogs vary. Used as theoretical support for the withheld-play-frame claim."
+  },
+  "axis_ids": [
+    "tone-deadpan"
+  ],
+  "claim_ids": [
+    "clm-tone-deadpan-withheld-play-frame"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "1955 Doubleday volume; citation and paraphrase only, no passage reproduced."
+  }
+}

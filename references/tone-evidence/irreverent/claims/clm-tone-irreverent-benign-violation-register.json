@@ -1,0 +1,42 @@
+{
+  "id": "clm-tone-irreverent-benign-violation-register",
+  "craft_claim": "Irreverent prose amuses only when its violation of a sacred or self-important register is appraised as safe; the same gesture reads as offense when the violation appraises as real harm or genuine contempt.",
+  "tone_ids": [
+    "tone-irreverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-irreverent-mcgraw-warren-2010",
+      "location": "Psychological Science 21(8):1141-1149, five experiments",
+      "evidence_expression": "paraphrase",
+      "note": "Amusement follows violations that are simultaneously seen as benign; the three benignity conditions are an alternative norm suggesting acceptability, weak commitment to the violated norm, and psychological distance from the violation."
+    },
+    {
+      "evidence_id": "src-irreverent-raskin-ssth-1985",
+      "location": "Whole-work citation (chapter locators unverified)",
+      "evidence_expression": "synthesis",
+      "note": "The Semantic-Script Theory of Humor explains how a single situation can be read through two incompatible scripts at once — the formal counterpart of a violation landing inside a recognized comic reading rather than a hostile one."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-irreverent-mcgraw-warren-2010",
+      "note": "The benign-violation account is a general humor theory tested in the moral domain, not a study of irreverent prose; it is adjacent evidence and the claim is scoped to reader appraisal of register-violation."
+    },
+    {
+      "evidence_id": "src-irreverent-rozin-royzman-2001",
+      "note": "Negativity bias (negative potency, negativity dominance) means a failed appraisal weighs more than the comic gain: once the violation reads as genuinely harmful, that reading dominates the amusement."
+    }
+  ],
+  "scope": "Deflation of pomp, ceremony, and piety-as-performance inside frames readers treat as sanctioned or low-stakes (parody, deadpan narration, established comic personas).",
+  "exceptions": [
+    "When the target is a real person or vulnerable group, audiences appraise the same machinery as harm rather than safety — that boundary is covered by clm-tone-irreverent-prejudiced-norm-backfire.",
+    "Appraisals are audience-relative: what one readership holds weakly (or distances from) another holds as sacred."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/irreverent.md#2--why-it-works--the-mechanism"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

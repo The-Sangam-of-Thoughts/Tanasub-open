@@ -1,0 +1,59 @@
+{
+  "id": "src-warm-sadi-gulistan-1258",
+  "title": "Gulistan (The Rose Garden)",
+  "creators": [
+    "Sa'di Shirazi"
+  ],
+  "source_type": "reference-work",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Composed 1258 CE; public-domain English translations include James Ross (1900, Project Gutenberg) and Edward Eastwick",
+    "published_date": "1258",
+    "edition": "Persian prose and verse; multiple translations",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "fa",
+    "en"
+  ],
+  "regions": [
+    "Persia",
+    "Iran"
+  ],
+  "access": {
+    "locator": "https://www.gutenberg.org/cache/epub/13060/pg13060.html",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-warm)",
+    "verification_notes": "Confirmed composition year 1258, the prose-and-verse structure, and Sa'di's own framing that bitter advice is mixed with the honey of wit. Library of Congress and Wikipedia records corroborate. Technique described, no copyrighted translation reproduced."
+  },
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "claim_ids": [
+    "clm-tone-warm-crosscultural-affiliation",
+    "clm-tone-warm-positive-politeness"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "fa",
+    "translator": "James Ross (1900); Edward Eastwick; Burton",
+    "limitations": [
+      "Persian wordplay and the alternating prose/verse structure are only partially recoverable; 'seventy-two meanings' tradition signals dense ambiguity lost in translation."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": true,
+    "notes": "1258 Persian text public domain; nineteenth-century English translations also public domain; only paraphrase used."
+  }
+}

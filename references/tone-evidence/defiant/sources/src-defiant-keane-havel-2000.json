@@ -1,0 +1,59 @@
+{
+  "id": "src-defiant-keane-havel-2000",
+  "title": "Václav Havel: A Political Tragedy in Six Acts",
+  "creators": [
+    "John Keane"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Basic Books",
+    "published_date": "2000",
+    "edition": null,
+    "doi": null,
+    "isbn": "978-0-465-03720-9"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Czech Republic",
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://en.wikipedia.org/wiki/The_Power_of_the_Powerless",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-defiant)",
+    "verification_notes": "Authorized biography confirmed via bibliographic records; provides the account of Havel's 'post-totalitarian' analysis and the greengrocer motif, corroborating the primary essay's context and warrant."
+  },
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "claim_ids": [
+    "clm-tone-defiant-crosscultural-warrants",
+    "clm-tone-defiant-confrontation-tradition",
+    "clm-tone-defiant-empowerment-identity"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": [
+      "Biography in English; the primary essay was read in translation, so Czech idiom and wordplay are not directly evidenced."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Basic Books biography; analytical citation only."
+  }
+}

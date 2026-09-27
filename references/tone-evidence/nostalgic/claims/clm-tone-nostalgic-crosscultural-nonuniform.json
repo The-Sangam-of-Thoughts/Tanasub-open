@@ -1,0 +1,57 @@
+{
+  "id": "clm-tone-nostalgic-crosscultural-nonuniform",
+  "craft_claim": "Nostalgia has a widely shared prototypical core (past-oriented, social, self-relevant, bittersweet) but no uniform voice: local lexicons weight the mixture differently - Japanese natsukashii foregrounds gratitude, Portuguese saudade carries its own time-structure, furusato can harden into politics. The card must not assert a universal nostalgic idiom.",
+  "tone_ids": [
+    "tone-nostalgic"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-nostalgic-hepper-2014-pancultural",
+      "location": "Emotion 14(4):733-747, prototype ratings in 18 countries (N = 1,704)",
+      "evidence_expression": "paraphrase",
+      "note": "Samples agreed on the rank-order of 35 nostalgia features and rated previously identified central features as more prototypical everywhere - a shared core. But cluster analyses revealed subtle variation among country groups, and all except the African country samples manifested the same factor structure: shared, not identical."
+    },
+    {
+      "evidence_id": "src-nostalgic-silva-2012-saudade",
+      "location": "Emotion Review 4(2):203-211",
+      "evidence_expression": "paraphrase",
+      "note": "Saudade's prototypical object is something good from the past, yet it can also target the future (saudades do futuro); it is overwhelming, long-lasting, built on ambiguous thoughts of separation from a beloved person or place, and positively evaluated - a longing whose time-structure and social meaning exceed the English word."
+    },
+    {
+      "evidence_id": "src-nostalgic-neto-mullet-2014-saudade",
+      "location": "Journal of Cross-Cultural Psychology 45(4):660-670",
+      "evidence_expression": "paraphrase",
+      "note": "Prototype analysis of how laypersons in Portugal conceptualize saudade documents a locally structured emotion concept rather than a translation of Anglo 'nostalgia'."
+    },
+    {
+      "evidence_id": "src-nostalgic-hobart-2020-natsukashii",
+      "location": "BBC Travel, 20 January 2020 (described; journalism tier)",
+      "evidence_expression": "synthesis",
+      "note": "Natsukashii derives from the verb natsuku — holding something close until fondness grows — and indicates joy and gratitude for the past rather than a desire to return to it; the article's expert sources describe it as a bittersweet but positively framed reminiscence confirming shared togetherness."
+    },
+    {
+      "evidence_id": "src-nostalgic-robertson-1988-furusato",
+      "location": "International Journal of Politics, Culture, and Society 1(4):494-518",
+      "evidence_expression": "synthesis",
+      "note": "The Japanese case shows a culture's nostalgia vocabulary can be institutionally steered (furusato-zukuri), so the local weighting is not only linguistic but political."
+    },
+    {
+      "evidence_id": "src-nostalgic-kalidasa-meghaduta-ryder",
+      "location": "The Cloud-Messenger (Meghaduta), c. 4th-5th century CE (described)",
+      "evidence_expression": "paraphrase",
+      "note": "A classical Sanskrit lyric of sustained separation-longing, carried across distance by a messenger - demonstrating an Indian literary practice of longing-at-a-distance more than a millennium before the European word 'nostalgia' existed."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Cross-cultural warrant and its limits; feeds card sections on cross-cultural examples and boundaries.",
+  "exceptions": [
+    "The repository holds no verified source mapping this tone onto a codified Indian rasa; that mapping is recorded as evidence-incomplete (see dossier section E) rather than asserted.",
+    "Shared core features support family-resemblance claims only; no sample warrants claiming one universal nostalgic voice."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/nostalgic.md"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

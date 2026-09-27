@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-elegiac-ritha-ritual",
+  "craft_claim": "The Arabic ritha' mourns through ritual, formulaic repetition and direct address, publicly and repeatedly, rather than privately resolving the loss.",
+  "tone_ids": ["tone-elegiac"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-stetkevych-mute-immortals-1993",
+      "location": "Introduction and the chapters on the ritha' and pre-Islamic qasidah",
+      "evidence_expression": "paraphrase",
+      "note": "Stetkevych argues pre-Islamic qasidah poetry is ritualized in both form and function, and that the elegy's formulaic repetitions and address motifs descend from the wailing-women's nawh."
+    },
+    {
+      "evidence_id": "src-britannica-al-khansa",
+      "location": "Entry 'al-Khansa''",
+      "evidence_expression": "paraphrase",
+      "note": "Britannica records that al-Khansa (Tumadir bint 'Amr, d. after 630) became the celebrated poet of her time through elegies for her brothers, that the poems are generally short and marked by a strong traditional sense of despair at irretrievable loss, and that a Diwan English translation was published by Arthur Wormhoudt in 1973."
+    },
+    {
+      "evidence_id": "work-alkhansa-diwan",
+      "location": "Laments for Sakhr and Mu'awiyah",
+      "evidence_expression": "synthesis",
+      "note": "The elegies return repeatedly to the same dead and the same formulas across a long mourning, enacting ritual rather than closure."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-stetkevych-mute-immortals-1993",
+      "note": "Section E translation limit: formulaic repetition that sounds redundant in English is functional ritual in Arabic, so the public, repeated reading the claim describes is documented at the functional level in translation rather than in the sounded text."
+    }
+  ],
+  "scope": "Pre-Islamic and early-Islamic Arabic elegy; a documented non-Anglophone tradition.",
+  "exceptions": [
+    "The genre also served tribal vengeance and praise, so not every ritha' is purely elegiac in the modern sense."
+  ],
+  "confidence": "strong",
+  "report_locations": ["tones/elegiac.md#8--cultural-scope"],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

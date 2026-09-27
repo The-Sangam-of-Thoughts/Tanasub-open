@@ -1,0 +1,54 @@
+{
+  "id": "src-nostalgic-boym-2001-future-of-nostalgia",
+  "title": "The Future of Nostalgia",
+  "creators": [
+    "Svetlana Boym"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Basic Books",
+    "published_date": "2001",
+    "edition": "Hardcover, ISBN 0-465-00707-4",
+    "doi": null,
+    "isbn": "0465007074"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://www.basicbooks.com/titles/svetlana-boym/the-future-of-nostalgia/9780465007073/",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-nostalgic)",
+    "verification_notes": "Bibliographic identity (title, author, publisher, year, ISBN) verified via publisher and library records on web search 2026-09-24. Book not accessed directly: the restorative/reflective distinction is known through secondary citation in Batcho (2013) and Neto & Mullet (2014), both of which cite Boym, so page-level locators for specific passages are not asserted."
+  },
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "claim_ids": [
+    "clm-tone-nostalgic-restorative-reflective"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Monograph; analytical citation only, no passages reproduced."
+  }
+}

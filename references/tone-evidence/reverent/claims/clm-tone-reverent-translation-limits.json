@@ -1,0 +1,38 @@
+{
+  "id": "clm-tone-reverent-translation-limits",
+  "craft_claim": "Claims about sacred lexicon, vocables, and cadence do not survive translation intact; a translator's universalizing choices can neutralize the devotional specificity that gave the original its force.",
+  "tone_ids": [
+    "tone-reverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-reverent-niranjana-siting-translation-1992",
+      "location": "Siting Translation, on Ramanujan's vachana renderings",
+      "evidence_expression": "synthesis",
+      "note": "Niranjana critiques English translations of Kannada vachanas for producing a modern universalist poetry consumable by the West, detaching the texts from their specific devotional and socio-political context."
+    },
+    {
+      "evidence_id": "src-reverent-ramanujan-speaking-of-siva-1973",
+      "location": "Translator's introduction and renderings",
+      "evidence_expression": "synthesis",
+      "note": "The English necessarily flattens Kannada oral cadence, occupational register, and bedagu wordplay - limits the translator himself acknowledges."
+    },
+    {
+      "evidence_id": "src-reverent-zeami-rimer-yamazaki-1984",
+      "location": "On the Art of the No Drama, yugen analysis",
+      "evidence_expression": "synthesis",
+      "note": "Yugen's acoustic and imagistic texture is not fully recoverable in English; mechanism claims are scoped to the aesthetics of suggestion."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Scope limit governing every cross-cultural mechanism claim in this dossier and the card's §8.",
+  "exceptions": [
+    "Structural features (ankita placement, parallelism, apophatic sequence) survive translation better than acoustic features and may be claimed from translated texts."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/reverent.md#8--cultural-scope"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

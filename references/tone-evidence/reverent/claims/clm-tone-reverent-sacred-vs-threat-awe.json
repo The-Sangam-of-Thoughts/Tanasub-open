@@ -1,0 +1,33 @@
+{
+  "id": "clm-tone-reverent-sacred-vs-threat-awe",
+  "craft_claim": "Reverent awe requires the compelling (fascinans) alongside the daunting; when the object is rendered as pure power that subjugates, threat-based awe dominates and the voice becomes grim or horrific, not reverent.",
+  "tone_ids": [
+    "tone-reverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-reverent-gordon-2017",
+      "location": "JPSP, DOI 10.1037/pspp0000120, studies distinguishing threat-based awe",
+      "evidence_expression": "synthesis",
+      "note": "Gordon et al. distinguish a threat-based variant of awe associated with fear, reduced sense of control, and submission, and show it is not reliably prosocial - unlike positive awe."
+    },
+    {
+      "evidence_id": "src-reverent-otto-idea-holy-1917",
+      "location": "The Idea of the Holy, chs. III-IV (mysterium tremendum et fascinans)",
+      "evidence_expression": "paraphrase",
+      "note": "Otto holds tremendum and fascinans together; reverence is the dual response, so terror without attraction is a deformation."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Boundary rule against tone-grim and horror engines; applies wherever a narrator faces overwhelming power.",
+  "exceptions": [
+    "Horror and tragic forms may deliberately stage threat-awe as a temporary state before or without the reverent resolution."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/reverent.md#1--definition-and-boundaries",
+    "tones/reverent.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

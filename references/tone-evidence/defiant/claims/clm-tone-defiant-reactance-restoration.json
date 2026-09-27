@@ -1,0 +1,51 @@
+{
+  "id": "clm-tone-defiant-reactance-restoration",
+  "craft_claim": "A threatened behavioral freedom produces reactance, a motivational arousal whose magnitude scales with the freedom's importance, so defiant voice persuades when it voices and restores a freedom the reader already holds rather than issuing commands.",
+  "tone_ids": [
+    "tone-defiant"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-defiant-brehm-reactance-1966",
+      "location": "A Theory of Psychological Reactance, chs. 1-2",
+      "evidence_expression": "paraphrase",
+      "note": "Brehm establishes reactance as a motivational state aroused when a behavioral freedom is threatened or eliminated, directed at restoring the freedom; magnitude rises with the importance of the freedom."
+    },
+    {
+      "evidence_id": "src-defiant-brehm-brehm-1981",
+      "location": "Psychological Reactance: A Theory of Freedom and Control, ch. 2",
+      "evidence_expression": "synthesis",
+      "note": "The Brehms consolidate the four elements (perceived freedom, threat to freedom, reactance, restoration) and show that the proportion of freedoms threatened increases total reactance."
+    },
+    {
+      "evidence_id": "src-defiant-steindl-reactance-2015",
+      "location": "Zeitschrift für Psychologie 223(4):205-214",
+      "evidence_expression": "paraphrase",
+      "note": "The review defines reactance as unpleasant motivational arousal at threat or loss of free behaviors and notes it can be elicited by messages and recommendations, not only by rules."
+    },
+    {
+      "evidence_id": "work-grammar-of-anarchy",
+      "location": "Constituent Assembly address, 25 November 1949",
+      "evidence_expression": "synthesis",
+      "note": "Ambedkar frames constitutional guarantees as freedoms the citizen already holds, positioning the audience as owners of rights rather than recipients of permission."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-defiant-dillard-shen-2005",
+      "note": "Reactance is intertwined cognition and affect directed partly at the message source, so a defiant text that commands its own audience can trigger reactance against the writer rather than the opponent."
+    }
+  ],
+  "scope": "Direct-address, second-person, manifesto, and civic prose where the audience perceives the contested freedom as already theirs.",
+  "exceptions": [
+    "Audiences that do not perceive the freedom as theirs (for example, a reader who identifies with the power being resisted) will not experience the same reactance restoration.",
+    "When legitimate reasons for the restriction are supplied, the threat narrows and reactance magnitude falls."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/defiant.md#2--why-it-works--the-mechanism",
+    "tones/defiant.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

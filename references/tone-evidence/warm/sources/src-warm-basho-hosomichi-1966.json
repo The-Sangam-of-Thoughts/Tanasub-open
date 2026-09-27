@@ -1,0 +1,59 @@
+{
+  "id": "src-warm-basho-hosomichi-1966",
+  "title": "The Narrow Road to the Deep North and Other Travel Sketches (Oku no Hosomichi)",
+  "creators": [
+    "Matsuo Basho",
+    "Nobuyuki Yuasa (translator)"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Penguin Classics (Penguin Books)",
+    "published_date": "1966",
+    "edition": "Penguin Classics; original haibun composed after the 1689 journey",
+    "doi": null,
+    "isbn": "978-0-14-044185-7"
+  },
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "regions": [
+    "Japan"
+  ],
+  "access": {
+    "locator": "https://thehaikufoundation.org/omeka/items/show/214",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-warm)",
+    "verification_notes": "Confirmed Basho's authorship, the 1689 journey (with companion Kawai Sora), the haibun form of prose and haiku, and the Yuasa Penguin Classics 1966 translation with ISBN. Companionable travel-narration technique described, no text reproduced."
+  },
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "claim_ids": [
+    "clm-tone-warm-parasocial-address",
+    "clm-tone-warm-crosscultural-affiliation"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "ja",
+    "translator": "Nobuyuki Yuasa",
+    "limitations": [
+      "Haibun rhythm, seasonal kigo and allusion depend on Japanese prosody and cannot be fully recovered in English; warmth is partly carried by untranslatable register."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Penguin Classics translation copyrighted; analytical citation only, no text reproduced."
+  }
+}

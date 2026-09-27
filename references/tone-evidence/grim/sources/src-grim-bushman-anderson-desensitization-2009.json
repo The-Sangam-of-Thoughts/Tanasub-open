@@ -1,0 +1,56 @@
+{
+  "id": "src-grim-bushman-anderson-desensitization-2009",
+  "title": "Comfortably Numb: Desensitizing Effects of Violent Media on Helping Others",
+  "creators": [
+    "Brad J. Bushman",
+    "Craig A. Anderson"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "counterevidence",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychological Science, Vol. 20, No. 3",
+    "published_date": "2009",
+    "edition": null,
+    "doi": "10.1111/j.1467-9280.2009.02287.x",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "Netherlands"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1111/j.1467-9280.2009.02287.x",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-grim)",
+    "verification_notes": "Bibliographic record confirmed via Crossref (DOI 10.1111/j.1467-9280.2009.02287.x). Used to support a desensitization caution, not to diagnose grim prose directly; full text not directly inspected."
+  },
+  "axis_ids": [
+    "tone-grim"
+  ],
+  "claim_ids": [
+    "clm-tone-grim-dosage-desensitization"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Sage journal article; analytical citation only."
+  }
+}

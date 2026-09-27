@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-grim-rasa-karuna-bhayanaka",
+  "craft_claim": "Indian poetics theorises the grim register as karuna (grief/compassion) and bhayanaka (terror), relished as rasa when suggested (dhvani) rather than stated, so bleakness need not be affectless to be art.",
+  "tone_ids": [
+    "tone-grim"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-grim-natyashastra-ghosh-1951",
+      "location": "Chapter 6: The Sentiments (Rasa), pp. 100-118",
+      "evidence_expression": "paraphrase",
+      "note": "Bharata's taxonomy enumerates karuna (the pathetic/grief-laden) and bhayanaka (the terrible/fearful) among the rasas, alongside vibhatsa (the odious); no meaning is held to proceed without rasa."
+    },
+    {
+      "evidence_id": "src-grim-dhvanyaloka-1990",
+      "location": "Uddyota 1 (dhvani as the soul of poetry)",
+      "evidence_expression": "paraphrase",
+      "note": "Anandavardhana holds that suggested meaning (dhvani) outranks literal statement; in the grim register, sorrow and dread land hardest when evoked rather than announced."
+    },
+    {
+      "evidence_id": "work-ghashiram-kotwal",
+      "location": "Whole play",
+      "evidence_expression": "synthesis",
+      "note": "Tendulkar's political tragedy stages caste violence and instrumentality without redemption, working through karuna and a chorus that frames rather than consoles."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-grim-natyashastra-ghosh-1951",
+      "note": "Section E translation limit: karuna and bhayanaka do not map one-to-one onto 'grief' and 'horror' in Ghosh's rendering, so the mapping of the rasas onto a modern grim register is analogical and translation-mediated."
+    }
+  ],
+  "scope": "Indian dramatic and poetic traditions; transferable to any tradition that distinguishes evoked from stated emotion.",
+  "exceptions": [
+    "Classical rasa is a spectator-relished aesthetic emotion; it is not identical to modern realist 'grit', and the mapping is analogical."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/grim.md#8--cultural-scope",
+    "tones/grim.md#2--why-it-works--the-mechanism"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

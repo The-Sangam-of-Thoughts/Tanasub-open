@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-warm-indian-sakhya-conversational",
+  "craft_claim": "Indian traditions carry warmth as both an aesthetic-religious mode (sakhya/visrambha, affectionate equality) and a conversational prose style (Ghalib's letters; Narayan's Malgudi).",
+  "tone_ids": [
+    "tone-warm"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-warm-rupa-goswami-brs-2003",
+      "location": "Bhaktirasamrtasindhu, 'sakhya-rasa' definition (visrambha)",
+      "evidence_expression": "paraphrase",
+      "note": "Rupa Gosvamin defines sakhya-rasa as affectionate exchange between equals, devoid of reverence and deference, full of love, trust and confidence; visrambha is the admission of complete equality between the two."
+    },
+    {
+      "evidence_id": "src-warm-ghalib-letters-2022",
+      "location": "Letters of Ghalib, Urdu correspondence (19th c.)",
+      "evidence_expression": "synthesis",
+      "note": "Ghalib is credited with replacing the formal mursala convention with conversational, humorous, informal Urdu prose that 'makes the letter talk' and seeks the reader's enjoyment."
+    },
+    {
+      "evidence_id": "work-malgudi-days",
+      "location": "Malgudi Days (1943)",
+      "evidence_expression": "synthesis",
+      "note": "Narayan's narrators extend gentle, ironic, companionable attention to ordinary South Indian lives, described in criticism as humour with compassionate humanism."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-warm-rupa-goswami-brs-2003",
+      "note": "sakhya is a devotional-aesthetic category (a rasa toward the divine), not a theory of prose address; mapping it onto literary narrator warmth is an analytical extension."
+    }
+  ],
+  "scope": "Indian and South Asian literature and prose; load-bearing cross-cultural evidence, not decoration.",
+  "exceptions": [
+    "Registers of reverence or formal address within the same traditions that deliberately suppress sakhya-style equality."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/warm.md#8--cultural-scope",
+    "tones/warm.md#2--why-it-works--the-mechanism"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

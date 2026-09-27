@@ -1,0 +1,33 @@
+{
+  "id": "clm-tone-whimsical-nonsense-sense-tension",
+  "craft_claim": "Literary nonsense balances meaningful elements against nonsense elements; unmotivated absurdity without a base of sense is not the genre and reads as noise.",
+  "tone_ids": [
+    "tone-whimsical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-whimsical-tigges-anatomy-nonsense-1988",
+      "location": "An Anatomy of Literary Nonsense (Rodopi, 1988), pp. 47-55, 166-167, 255",
+      "evidence_expression": "paraphrase",
+      "note": "Tigges defines literary nonsense as balancing elements that make sense with elements that do not, and catalogues its devices: faulty cause and effect, portmanteau, neologism, reversals, imprecision, simultaneity, picture/text incongruity, arbitrariness, infinite repetition, mirroring, and misappropriation."
+    },
+    {
+      "evidence_id": "work-abol-tabol",
+      "location": "Collection of 53 quatrains, Bengali 1923",
+      "evidence_expression": "synthesis",
+      "note": "Ray keeps metre, rhyme, and syntax intact even as the content is absurd, so the nonsense reads as a rule-governed game rather than chaos."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Invented language, portmanteau, and rule-governed absurdity in verse and prose.",
+  "exceptions": [
+    "Dada and surrealist automatic writing pursue a different programme that deliberately voids sense; they should not be cited as evidence for this tone."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/whimsical.md#2--why-it-works--the-mechanism",
+    "tones/whimsical.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

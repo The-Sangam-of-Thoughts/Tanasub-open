@@ -1,0 +1,57 @@
+{
+  "id": "src-philosophical-trope-liberman-2010",
+  "title": "Construal-Level Theory of Psychological Distance",
+  "creators": [
+    "Yaacov Trope",
+    "Nira Liberman"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychological Review, Vol. 117, No. 2",
+    "published_date": "2010",
+    "edition": "author manuscript; final pagination pp. 440-463",
+    "doi": "10.1037/a0018963",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "Israel"
+  ],
+  "access": {
+    "locator": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3152826",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-philosophical)",
+    "verification_notes": "Confirmed authorship, journal, volume, issue, pagination and the core claim that psychological distance (temporal, spatial, social, hypothetical) raises the level of mental construal toward abstraction."
+  },
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "claim_ids": [
+    "clm-tone-philosophical-construal-distance"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical citation only."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "src-inspirational-nehru-1947",
+  "title": "A Tryst with Destiny (Address to the Constituent Assembly of India)",
+  "creators": [
+    "Jawaharlal Nehru"
+  ],
+  "source_type": "primary-source",
+  "source_roles": [
+    "recognition",
+    "indian-context",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Constituent Assembly Debates; Selected Works of Jawaharlal Nehru, Second Series, vol. 3, pp. 135-136",
+    "published_date": "1947",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "India"
+  ],
+  "access": {
+    "locator": "https://nehruarchive.in/documents/a-tryst-with-destiny-aug-14-15-1947-j9le4z",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-inspirational)",
+    "verification_notes": "Delivered to the Constituent Assembly towards midnight on 14 August 1947; date, occasion, and text provenance confirmed via the Nehru Archive, Wikisource (Constituent Assembly Debates, Book 1, Government of India, 1950), and The Guardian's great-speeches archive. No passage reproduced."
+  },
+  "axis_ids": [
+    "tone-inspirational"
+  ],
+  "claim_ids": [
+    "clm-tone-inspirational-crosscultural-civic-uplift",
+    "clm-tone-inspirational-peroration-late-climax",
+    "clm-tone-inspirational-hope-pathways-agency",
+    "clm-tone-inspirational-urgency-not-manufactured"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Speech text is under copyright; verified via archival transcriptions and described analytically only. No passage reproduced."
+  }
+}

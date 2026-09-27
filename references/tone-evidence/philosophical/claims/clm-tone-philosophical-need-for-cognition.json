@@ -1,0 +1,27 @@
+{
+  "id": "clm-tone-philosophical-need-for-cognition",
+  "craft_claim": "Reception of the philosophical tone depends on the audience's need for cognition: readers high in the trait enjoy and persist with effortful abstraction, while low-NC readers disengage.",
+  "tone_ids": [
+    "tone-philosophical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-philosophical-cacioppo-petty-1982",
+      "location": "Journal of Personality and Social Psychology 42(1), pp. 116-131",
+      "evidence_expression": "paraphrase",
+      "note": "Establishes need for cognition as a stable individual difference in the tendency to engage in and enjoy effortful cognitive activity, with a validated scale."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Audience-fit decisions for essay, blog, academic and copy writing; calibration of abstraction dose.",
+  "exceptions": [
+    "Need for cognition is a trait distribution, not a binary audience type; a general audience still contains high-NC readers, so the fix is grounding, not removing the idea."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/philosophical.md#3--when-it-works",
+    "tones/philosophical.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

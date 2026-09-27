@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://creative-writing-library.local/schemas/v1/status.schema.json",
+  "title": "Lifecycle Status Transition",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["transition_id", "subject_type", "subject_id", "from_status", "to_status", "changed_at", "changed_by", "reason", "requirement_evidence", "remediation_id"],
+  "properties": {
+    "transition_id": {"type": "string", "pattern": "^transition-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+    "subject_type": {"enum": ["axis", "package", "artifact", "family", "release"]},
+    "subject_id": {"type": "string", "minLength": 1},
+    "from_status": {"oneOf": [{"$ref": "#/definitions/lifecycleStatus"}, {"type": "null"}]},
+    "to_status": {"$ref": "#/definitions/lifecycleStatus"},
+    "changed_at": {"type": "string", "format": "date-time"},
+    "changed_by": {"type": "string", "minLength": 1},
+    "reason": {"type": "string", "minLength": 1},
+    "requirement_evidence": {"type": "array", "items": {"type": "string", "minLength": 1}, "uniqueItems": true},
+    "remediation_id": {"type": ["string", "null"], "pattern": "^remediation-[a-z0-9]+(?:-[a-z0-9]+)*$"}
+  },
+  "definitions": {
+    "lifecycleStatus": {"enum": ["identified", "taxonomy-verified", "researching", "evidence-incomplete", "evidence-complete", "analysis-complete", "drafted", "editorially-reviewed", "published", "revision-required"]}
+  }
+}

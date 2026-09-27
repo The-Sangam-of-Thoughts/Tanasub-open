@@ -1,0 +1,61 @@
+{
+  "id": "src-defiant-scott-smith-1969",
+  "title": "The Rhetoric of Confrontation",
+  "creators": [
+    "Robert L. Scott",
+    "Donald K. Smith"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Quarterly Journal of Speech, Vol. 55, No. 1",
+    "published_date": "1969",
+    "edition": null,
+    "doi": "10.1080/00335636909382922",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1080/00335636909382922",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-defiant)",
+    "verification_notes": "Bibliographic record (55(1):1-8) confirmed via Taylor & Francis and NCA award records; widely cited founding treatment of confrontation rhetoric, characterized as a refusal of the established rhetorical situation."
+  },
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "claim_ids": [
+    "clm-tone-defiant-confrontation-tradition",
+    "clm-tone-defiant-declaration-performance",
+    "clm-tone-defiant-slogan-stakes",
+    "clm-tone-defiant-grandstanding-backfire",
+    "clm-tone-defiant-collective-injustice-efficacy",
+    "clm-tone-defiant-empowerment-identity"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Taylor & Francis journal article; analytical citation only."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-rosenthal-poetry-confession-1959",
+  "title": "Poetry as Confession (review of Robert Lowell's Life Studies)",
+  "creators": ["M. L. Rosenthal"],
+  "source_type": "practitioner-work",
+  "source_roles": ["recognition", "craft-support"],
+  "reliability_tier": 4,
+  "publication": {
+    "publisher_or_container": "The Nation (collected in Our Life in Poetry, 1991)",
+    "published_date": "1959-09-19",
+    "edition": "Review essay",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://www.britannica.com/biography/M-L-Rosenthal",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "Britannica and the Poetry Foundation confirm that Rosenthal coined 'confessional poetry' in this 19 September 1959 Nation review of Lowell's Life Studies and characterised it as personal confidences the reader is honour-bound not to reveal. The review itself was not read directly; only its provenance and characterisation were verified."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-confession-truth-mode", "clm-tone-intimate-oversharing-saturation"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Review essay; analytical paraphrase only, no text reproduced."
+  }
+}

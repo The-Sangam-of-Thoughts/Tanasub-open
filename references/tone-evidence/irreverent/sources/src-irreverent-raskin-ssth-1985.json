@@ -1,0 +1,55 @@
+{
+  "id": "src-irreverent-raskin-ssth-1985",
+  "title": "Semantic Mechanisms of Humor",
+  "creators": [
+    "Victor Raskin"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "D. Reidel Publishing Company",
+    "published_date": "1985",
+    "edition": "Whole-work citation",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Netherlands",
+    "United States"
+  ],
+  "access": {
+    "locator": "Library catalog record (URL not verified this session)",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "Bibliographic identity (title, author, publisher, year) verified earlier in the research session. Chapter- and page-level locators were NOT verified; the source is cited at whole-work level only for the Semantic-Script Theory of Humor's script-opposition mechanism (two incompatible scripts overlapped on one situation). DOI and ISBN were not verified and are left null rather than guessed."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [
+    "clm-tone-irreverent-benign-violation-register"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "In copyright; theory paraphrased at whole-work level only."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "src-nostalgic-newman-2020-daily-life",
+  "title": "Nostalgia and Well-Being in Daily Life: An Experiential Approach",
+  "creators": [
+    "Daniel B. Newman",
+    "Constantine Sedikides",
+    "Tim Wildschut"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Personality and Social Psychology, Vol. 118, No. 2",
+    "published_date": "2020",
+    "edition": "pp. 325-347",
+    "doi": "10.1037/pspp0000236",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom",
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1037/pspp0000236",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-nostalgic)",
+    "verification_notes": "Citation (journal, volume, issue, pages, year, DOI) and abstract-level findings - daily-diary state nostalgia negatively related to well-being, next-day rumination and sadness, and Study 5's reconciliation of induced versus naturally occurring nostalgia - verified via APA PsycNET and PubMed/PMC records (PMC7513922) on web search 2026-09-24. Full text not accessed."
+  },
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "claim_ids": [
+    "clm-tone-nostalgic-bittersweet-structure",
+    "clm-tone-nostalgic-mixed-valence-dailylife"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; abstract-level citation only, no reproduction."
+  }
+}

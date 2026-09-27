@@ -1,0 +1,37 @@
+{
+  "id": "work-hum-dekhenge",
+  "title": "Hum Dekhenge",
+  "creators": [
+    "Faiz Ahmed Faiz"
+  ],
+  "work_type": "poem (Urdu nazm)",
+  "published_date": "written 1979; published 1981",
+  "languages": [
+    "ur"
+  ],
+  "regions": [],
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "period_role": "modern",
+  "source_id": "src-defiant-kantor-faiz-2016",
+  "access": {
+    "edition_or_version": "Written 1979; published 1981 in Mere Dil Mere Musafir; carried into public protest by Iqbal Bano's 1986 rendition at Alhamra",
+    "language_used": "en (English-language descriptions only; the Urdu text was not inspected)",
+    "translator": null,
+    "access_conditions": null
+  },
+  "analysis_status": "translation-mediated",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "antithesis and negation: the coming reckoning is set against present power, with the negation of existing authority as the hinge",
+      "short, end-stopped declaratives giving a collective, chant-adjacent rhythm",
+      "closing vow as anticipated vindication rather than a request"
+    ],
+    "emotional_progression": "Present power named and negated, then an anticipated vindication that closes the poem without asking anything (dossier section D).",
+    "contested_reading": "Attributed reading contested: scholars such as Rauf Parekh dispute the common reading that it targeted Zia-ul-Haq, arguing it honoured the 1979 Iranian revolution (dossier section E).",
+    "translation_limit": "Urdu nazm; this dossier inspected English-language descriptions, not the Urdu text, so claims about its sound, rhyme, and register are bounded (dossier section E).",
+    "scope_note": "Region is not stated in the dossier and is recorded as [] rather than inferred; no publisher, page, or DOI data was added.",
+    "verification_note": "Urdu nazm; attributed reading contested (Parekh); description only, no text reproduced (dossier section F)."
+  }
+}

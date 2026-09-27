@@ -1,0 +1,48 @@
+{
+  "id": "clm-tone-reflective-nonanglophone-analogues",
+  "craft_claim": "Major non-Anglophone traditions practise the reflective attitude in forms structurally unlike the English personal essay — Japanese zuihitsu and nikki (juxtaposed notings and diary) and Chinese rhapsodic self-reflection (Su Shi's Red Cliff) — establishing cross-cultural validity of the attitude without implying one universal form.",
+  "tone_ids": ["tone-reflective"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-reflective-morris-pillow-book-1967",
+      "location": "translation and scholarly apparatus, Columbia University Press 1967",
+      "evidence_expression": "paraphrase",
+      "note": "The Pillow Book compiles first-person notings — lists, observations, and judgments of the elegant and the hateful — in an associational, evaluatively present voice; the edition documents the work as the founding Japanese instance of personal associative prose (zuihitsu)."
+    },
+    {
+      "evidence_id": "src-reflective-cambridge-japanese-literature-2016",
+      "location": "ch. 14 (Shirane), 'The Pillow Book of Sei Shonagon'; ch. 15 (Arntzen), 'Heian literary diaries: from Tosa nikki to Sarashina nikki'",
+      "evidence_expression": "paraphrase",
+      "note": "The Cambridge History treats the Pillow Book and the Heian nikki diary tradition as named, distinct canons of first-person writing (from Tosa nikki, c. 935, to Sarashina nikki), establishing a substantial non-Anglophone body of personal, reflective prose in Japanese literary history."
+    },
+    {
+      "evidence_id": "work-su-shi-red-cliffs",
+      "location": "Whole composition: guest raises impermanence, host re-derives the vantage; 1082 Huangzhou exile",
+      "evidence_expression": "synthesis",
+      "note": "Su Shi's rhapsody turns a landscape visit inward through a dramatized question-and-answer — reflection as dialogue anchored in place rather than soliloquy — a Chinese instance of the reflective turn with different machinery from the essay."
+    },
+    {
+      "evidence_id": "src-reflective-watson-sutungpo-1965",
+      "location": "Su Tung-p'o: Selections from a Sung Dynasty Poet, Columbia University Press 1965",
+      "evidence_expression": "paraphrase",
+      "note": "Watson's scholarly translation collection provides the verified English-language anchor for Su Shi's prose-poem and its reflective-exile context."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-reflective-morris-pillow-book-1967",
+      "note": "Translation limit: Japanese parataxis and juxtaposition do not carry the analytic connectives (therefore / then I realized) that the English reflective voice relies on, and zuihitsu frequently notes without analyzing one experience inwardly — the mapping is analogue, not identity."
+    }
+  ],
+  "scope": "Comparative support for cross-cultural validity of the attitude (inclusion criterion 5); feeds card section 8. Not a claim that any form is interchangeable with the Anglophone personal essay.",
+  "exceptions": [
+    "Where a brief needs sustained Montaignean single-experience self-examination, zuihitsu is a cousin, not a template; Su Shi's resolution tips toward the philosophical neighbor."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/reflective.md#8--cultural-scope",
+    "tones/reflective.md#10--cross-links"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

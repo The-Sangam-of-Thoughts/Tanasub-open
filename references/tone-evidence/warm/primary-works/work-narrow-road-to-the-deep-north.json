@@ -1,0 +1,40 @@
+{
+  "id": "work-narrow-road-to-the-deep-north",
+  "title": "Oku no Hosomichi (The Narrow Road to the Deep North)",
+  "creators": [
+    "Matsuo Basho",
+    "Kawai Sora (travel companion)",
+    "Nobuyuki Yuasa (translator)"
+  ],
+  "work_type": "haibun-travel-diary",
+  "published_date": "1689",
+  "languages": [
+    "ja"
+  ],
+  "regions": [
+    "Japan",
+    "Edo",
+    "Tohoku",
+    "Hokuriku"
+  ],
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "period_role": "formative",
+  "source_id": "src-warm-basho-hosomichi-1966",
+  "access": {
+    "edition_or_version": "Penguin Classics translation by Nobuyuki Yuasa, 1966 (ISBN 978-0-14-044185-7)",
+    "language_used": "en",
+    "translator": "Nobuyuki Yuasa",
+    "access_conditions": "open"
+  },
+  "analysis_status": "partial",
+  "mechanics": {
+    "reader_promise": "Companionship on a long, unhurried journey; the reader is invited along as a fellow traveller.",
+    "point_of_view": "First-person travel narration in prose punctuated by haiku, moving place by place.",
+    "psychic_distance": "Close but unconfiding: the narrator shares attention, not confession, keeping the reader alongside.",
+    "style_and_devices": "Haibun (alternating prose and verse); humility and understatement; attention to ordinary way-stations, horses and inns; seasonal allusion.",
+    "emotional_progression": "Wandering without climax; each stop accrues small companionship and quiet reflection.",
+    "tone_markers": "Shared journey with a named companion, conversational travel address, ordinary concrete detail, absence of superiority."
+  }
+}

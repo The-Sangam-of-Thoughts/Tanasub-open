@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-whimsical-sukumar-ray-nonsense",
+  "craft_claim": "Sukumar Ray's Bengali nonsense verse is a load-bearing non-Anglophone practice whose whimsy is a positive aesthetic value, not merely a cover for its colonial satire.",
+  "tone_ids": [
+    "tone-whimsical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-whimsical-mukherjee-ray-humor-2022",
+      "location": "South Asian Review 43(3-4):281-294, abstract and analysis",
+      "evidence_expression": "paraphrase",
+      "note": "Mukherjee argues that Ray's 'spirit of whimsy' works through inconclusiveness, rejection of grammatical and lexical convention, aural suggestiveness, dialectic conciliation of contraries, and linguistic play, and that colonial-satire readings do not exhaust the poems' comicality."
+    },
+    {
+      "evidence_id": "src-whimsical-heyman-tenth-rasa-2007",
+      "location": "The Tenth Rasa: An Anthology of Indian Nonsense (Penguin, 2007), editorial framing",
+      "evidence_expression": "paraphrase",
+      "note": "The anthology presents Indian nonsense as an aesthetic category in its own right across Indian languages, implying a 'tenth rasa' beyond the classical nine."
+    },
+    {
+      "evidence_id": "src-whimsical-ray-aboltabol-1923",
+      "location": "Abol Tabol, U. Ray and Sons, 19 September 1923; 53 quatrains",
+      "evidence_expression": "synthesis",
+      "note": "The collection's compound creature-names and rule-governed absurdity are the verbal practice; its first and last poems share the title 'Abol Tabol', framing the book as a self-aware nonsense game."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Indian/regional evidence; load-bearing for card section 8.",
+  "exceptions": [
+    "Ray's nonsense is largely untranslatable in its sound-play; the card must not claim the effect survives English rendering."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/whimsical.md#8--cultural-scope",
+    "tones/whimsical.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

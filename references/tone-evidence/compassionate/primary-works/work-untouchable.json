@@ -1,0 +1,35 @@
+{
+  "id": "work-untouchable",
+  "title": "Untouchable",
+  "creators": [
+    "Mulk Raj Anand"
+  ],
+  "work_type": "novel",
+  "published_date": "1935",
+  "languages": [],
+  "regions": [],
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "period_role": "recognized",
+  "source_id": null,
+  "access": {
+    "edition_or_version": "1935 first publication (confirmed in Open Library)",
+    "language_used": "en (English-language critical reception only; the work's language is not stated in the dossier)",
+    "translator": null,
+    "access_conditions": null
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "One day's humiliations are rendered from inside the protagonist's senses and thoughts rather than through narratorial comment (dossier section D).",
+    "tone_mechanisms_observed": [
+      "perspective-taking interiority: the day is carried by the protagonist's own senses and thoughts (dossier section D)",
+      "individuation: one named sufferer rather than an aggregate (dossier sections D, F)",
+      "no narratorial condescension: the voice does not speak down to or over the protagonist (dossier section F)"
+    ],
+    "point_of_view": "Interior access to a single protagonist; no narratorial comment standing above the sufferer (dossier sections D, F).",
+    "structure": "Single-day structure: one day's humiliations (dossier section D).",
+    "scope_note": "The dossier states neither the work's language nor its region; both are recorded as [] rather than inferred. source_id is null because the dossier declares no source record for this work (dossier sections F, I). No publisher, page, or DOI was added.",
+    "verification_note": "Novel confirmed in Open Library (1935 first publication); technique described from critical reception, no text reproduced (dossier section F)."
+  }
+}

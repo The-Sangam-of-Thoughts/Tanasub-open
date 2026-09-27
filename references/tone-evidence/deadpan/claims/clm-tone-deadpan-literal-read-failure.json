@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-deadpan-literal-read-failure",
+  "craft_claim": "Because the literal reading is accessed first, a deadpan passage with no key reads as sincere statement or as incompetence before it reads as comedy; the writer must plant at least one unmistakable incongruity so the reader can reframe.",
+  "tone_ids": ["tone-deadpan"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-deadpan-giora-graded-salience-1997",
+      "location": "pp. 183–206",
+      "evidence_expression": "synthesis",
+      "note": "The most salient meaning — typically the literal one — is accessed first regardless of context, so the deadpan reader arrives at sincerity before irony and needs a salient non-literal target to redirect to. Tier 2; the load-bearing cognitive mechanism for this claim."
+    },
+    {
+      "evidence_id": "src-deadpan-winner-point-of-words-1988",
+      "location": "ch. 4, pp. 104–142",
+      "evidence_expression": "paraphrase",
+      "note": "Recognition of nonliteral intent is developmentally learned; readers without the competence accept the flat surface at face value. Tier 2; explains why unprepared audiences fail deadpan."
+    },
+    {
+      "evidence_id": "src-deadpan-deadpan-lexicon-2026",
+      "location": "entries: deadpan, pince-sans-rire, understatement, litotes",
+      "evidence_expression": "paraphrase",
+      "note": "Lexical records show the term's meaning (expressionless delivery, 'pinch without laughing') is conventional but not self-executing — dictionary knowledge does not cue the reader mid-text. Tier 5; recognition only, never sole support."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-deadpan-clark-gerrig-pretense-1984",
+      "location": "pp. 121–126",
+      "evidence_expression": "paraphrase",
+      "note": "Clark and Gerrig's obviousness spectrum implies cue strength varies by audience: what is unmistakable to a practiced reader may be invisible to a naive one. Bounds the claim: the 'unmistakable tell' must be calibrated to the audience, not absolute."
+    }
+  ],
+  "scope": "Written prose addressed to a general readership; strongest in generated or unfamiliar writing where the reader has no author-level prior. Cross-linguistically consistent with Giora's literal-first finding.",
+  "exceptions": "When the passage is framed by an unmistakably satiric container (a known satirist, a satire venue, an explicit genre label) the key is supplied externally and may be omitted inside the passage.",
+  "confidence": "strong",
+  "report_locations": ["#7--failure-modes-and-revision"],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "src-cynical-lewicki-trust-distrust-1998",
+  "title": "Trust and Distrust: New Relationships and Realities",
+  "creators": [
+    "Roy J. Lewicki",
+    "Daniel J. McAllister",
+    "Robert J. Bies"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "The Academy of Management Review",
+    "published_date": "1998-07",
+    "edition": "Vol. 23, No. 3, pp. 438-458",
+    "doi": "10.2307/259288",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.2307/259288",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-cynical)",
+    "verification_notes": "Metadata confirmed via Crossref API; volume/issue/start page (23(3):438) confirmed via Crossref and OpenAlex 2026-09-24, end page 458 per standard journal citations and the article's 21-page length. The paper argues trust and distrust are separate, co-existing constructs rather than opposite ends of one scale; distrust is a vigilance posture oriented to untrustworthy conduct, which is the cognitive stance the cynical voice dramatizes. Full text not re-inspected; no passage quoted."
+  },
+  "axis_ids": [
+    "tone-cynical"
+  ],
+  "claim_ids": [
+    "clm-tone-cynical-distrust-attribution"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Academy of Management Review; analytical citation only."
+  }
+}

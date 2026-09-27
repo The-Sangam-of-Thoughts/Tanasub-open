@@ -1,0 +1,56 @@
+{
+  "id": "src-compassionate-singer-klimecki-2014",
+  "title": "Empathy and compassion",
+  "creators": [
+    "Tania Singer",
+    "Olga M. Klimecki"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Current Biology, vol. 24, no. 18, pp. R875-R878",
+    "published_date": "2014",
+    "edition": null,
+    "doi": "10.1016/j.cub.2014.06.054",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Germany",
+    "Switzerland"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1016/j.cub.2014.06.054",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-compassionate)",
+    "verification_notes": "DOI resolved to the exact citation (Current Biology 24(18):R875-R878); distinction between empathy/distress and compassion confirmed in the abstract and review framing."
+  },
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "claim_ids": [
+    "clm-tone-compassionate-distinct-from-empathy"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Elsevier journal review; analytical citation only."
+  }
+}

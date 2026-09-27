@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-irreverent-dosage-habituation",
+  "craft_claim": "Repeated deflation habituates — each replay of the same irreverence loses arousal value — so the register must pause or move rather than escalate the same gesture.",
+  "tone_ids": [
+    "tone-irreverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-irreverent-berlyne-aesthetics-1971",
+      "location": "Whole-work citation (chapter locators unverified)",
+      "evidence_expression": "synthesis",
+      "note": "Berlyne's arousal-potential framework holds that collative stimuli (novelty, complexity, surprise) lose their arousing power through repeated exposure — satiation — which is why the second identical deflation provokes less than the first."
+    },
+    {
+      "evidence_id": "src-irreverent-bitterly-status-2017",
+      "location": "Journal of Personality and Social Psychology 112(3):431-455",
+      "evidence_expression": "synthesis",
+      "note": "Audiences punish humor that violates their norms — repeated out-of-key deflation compounds the status cost rather than being forgiven as a running gag."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-irreverent-berlyne-aesthetics-1971",
+      "note": "HONEST NULL: no experimental study of irreverent-prose saturation was found in this research pass. The mechanism rests entirely on adjacent arousal/satiation literature cited at whole-work level; the claim is therefore scoped as limited confidence."
+    }
+  ],
+  "scope": "Long-form and serial work where the same move (same target type, same deflation cadence) recurs; also guides beat spacing within a single piece.",
+  "exceptions": [
+    "Running gags that vary the setup (escalating variants, changing targets) can defeat simple habituation — but that is variation, not repetition.",
+    "Where a reader's appetite for the register is low from the start (individual differences in tolerating irreverence were not studied here), even first use can tire."
+  ],
+  "confidence": "limited",
+  "report_locations": [
+    "tones/irreverent.md#4--when-to-show-restraint",
+    "tones/irreverent.md#3--when-it-works"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

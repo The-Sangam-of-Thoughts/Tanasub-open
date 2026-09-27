@@ -1,0 +1,43 @@
+{
+  "id": "clm-tone-lyrical-fluency-pleasure",
+  "craft_claim": "Fluent sound- and rhythm-patterning produces positive aesthetic affect because processing ease is misattributed to the language itself, which is the felt engine of the lyrical tone.",
+  "tone_ids": [
+    "tone-lyrical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-lyrical-reber-fluency-2004",
+      "location": "Personality and Social Psychology Review 8(4):364-382, theoretical synthesis and aesthetic-pleasure model",
+      "evidence_expression": "synthesis",
+      "note": "Reber, Schwarz and Winkielman argue that the ease of processing a stimulus is experienced as positive affect and misattributed to the stimulus; fluency is raised by repetition, prototypicality, symmetry, and clarity of form."
+    },
+    {
+      "evidence_id": "src-lyrical-mcglone-rhyme-2000",
+      "location": "Psychological Science 11(5):424-428, Studies 1-2",
+      "evidence_expression": "paraphrase",
+      "note": "Rhyming statements were rated more truthful and apt than matched non-rhyming paraphrases, showing that phonetic fluency is read as a property of the statement."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-lyrical-reber-fluency-2004",
+      "note": "Fluency effects depend on context and expectation; high disfluency can lower liking, and the authors caution against treating fluency as a universal cause of pleasure."
+    },
+    {
+      "evidence_id": "src-lyrical-miall-foregrounding-1994",
+      "note": "Deviation and foregrounding also produce positive affect, so novel difficulty is not uniformly disliked; the fluency account is one mechanism among several."
+    }
+  ],
+  "scope": "All lyrical prose and verse; strongest where lexical content is already understood and the reader is attending to form.",
+  "exceptions": [
+    "Texts whose purpose requires maximal disfluency or estrangement (some experimental and political poetics).",
+    "Audiences reading in a second language, where the fluency signal is unreliable."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/lyrical.md#2--why-it-works--the-mechanism",
+    "tones/lyrical.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

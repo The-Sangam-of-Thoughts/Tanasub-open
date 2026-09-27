@@ -1,0 +1,56 @@
+{
+  "id": "src-king-on-writing-2000",
+  "title": "On Writing: A Memoir of the Craft",
+  "creators": [
+    "Stephen King"
+  ],
+  "source_type": "craft-book",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Scribner",
+    "published_date": "2000",
+    "edition": "First Edition",
+    "doi": null,
+    "isbn": "978-0684853529"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://www.simonandschuster.com/books/On-Writing/Stephen-King/9781982159375",
+    "accessed_at": "2026-09-12",
+    "access_conditions": "purchased"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-12T16:00:00Z",
+    "verified_by": "Codex S10 foundation evidence agent",
+    "verification_notes": "Directly verified situation-led narrative development over rigid plot plotting, dialogue staging, and description precision."
+  },
+  "axis_ids": [
+    "axis-horror-fiction",
+    "axis-thriller-fiction",
+    "axis-detective-and-mystery-fiction"
+  ],
+  "claim_ids": [
+    "clm-suspense-vs-surprise",
+    "clm-talking-heads-syndrome"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Practitioner memoir; analytical citation only."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "src-urgent-witte-eppm-1992",
+  "title": "Putting the Fear Back into Fear Appeals: The Extended Parallel Process Model",
+  "creators": [
+    "Kim Witte"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support",
+    "counterevidence"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Communication Monographs, Vol. 59, No. 4",
+    "published_date": "1992",
+    "edition": "pp. 329-349",
+    "doi": "10.1080/03637759209376276",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "risk and health communication"
+  ],
+  "access": {
+    "locator": "Communication Monographs 59(4): 329-349; DOI 10.1080/03637759209376276",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-urgent)",
+    "verification_notes": "Journal confirmed via the EPPM reference summary (Witte published the model's initial test in Communication Monographs). The core distinction (threat appraisal vs efficacy appraisal; danger control vs fear control) is summarized from established secondary description; full text not inspected."
+  },
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "claim_ids": [
+    "clm-tone-urgent-efficacy-gate"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Journal article; no text reproduced."
+  }
+}

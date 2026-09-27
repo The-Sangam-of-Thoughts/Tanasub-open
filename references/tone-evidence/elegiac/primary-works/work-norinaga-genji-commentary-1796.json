@@ -1,0 +1,34 @@
+{
+  "id": "work-norinaga-genji-commentary-1796",
+  "title": "Genji monogatari tama no ogushi (The Jeweled Comb of The Tale of Genji)",
+  "creators": ["Motoori Norinaga"],
+  "work_type": "literary-commentary",
+  "published_date": "completed late 1790s (1796/1797); modern edition 1969",
+  "languages": ["ja"],
+  "regions": ["Japan"],
+  "axis_ids": ["tone-elegiac"],
+  "period_role": "formative",
+  "source_id": "src-norinaga-genji-tama-ogushi",
+  "access": {
+    "edition_or_version": "Motoori Norinaga zenshu vol. 4, ed. Ono Susumu, Chikuma Shobo, 1969",
+    "language_used": "ja (via scholarly quotation and English translation)",
+    "translator": null,
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "theorizes mono no aware as the emotional core of literature",
+      "locates the profoundest aware in the emotion that arises when events do not go as one desires",
+      "treats sensitivity to transience as a virtue, not a weakness",
+      "criticizes Confucian suppression of feeling",
+      "models a tender, non-despairing relation to impermanence"
+    ],
+    "emotional_progression": "Not a narrative work; the commentary's argument moves from definition of aware to its centrality in Genji to a defense of feeling.",
+    "point_of_view": "Critical/theoretical voice, part of the kokugaku (national learning) movement.",
+    "rhythm_and_cadence": "Prose commentary; not directly a stylistic exemplar, but the source of the concept.",
+    "psychic_distance": "Advocates neither indulgence nor suppression but a moved attention to things.",
+    "style_and_devices": "Nativist literary theory grounded in Buddhist impermanence. Verified indirectly through peer-reviewed scholarship and SEP; direct inspection of the Japanese edition is an open verification gap.",
+    "copyright_note": "Modern collected-works edition copyrighted; analytical paraphrase only."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "src-urgent-frederick-loewenstein-odonoghue-2002",
+  "title": "Time Discounting and Time Preference: A Critical Review",
+  "creators": [
+    "Shane Frederick",
+    "George Loewenstein",
+    "Ted O'Donoghue"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Economic Literature, Vol. 40, No. 2",
+    "published_date": "2002",
+    "edition": "pp. 351-401",
+    "doi": "10.1257/jel.40.2.351",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "behavioral economics"
+  ],
+  "access": {
+    "locator": "Journal of Economic Literature 40(2): 351-401; DOI 10.1257/jel.40.2.351",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-urgent)",
+    "verification_notes": "Critical review of time-discounting research; bibliographic record is the standard citation. DOI taken from the publisher record, not dereferenced in this pass. Used for the general finding that near-term outcomes are weighted more heavily than delayed ones."
+  },
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "claim_ids": [
+    "clm-tone-urgent-time-pressure-narrows-cognition",
+    "clm-tone-urgent-deadline-framing"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Journal article; no text reproduced."
+  }
+}

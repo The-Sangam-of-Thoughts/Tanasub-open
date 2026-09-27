@@ -1,0 +1,58 @@
+{
+  "id": "src-cynical-sloterdijk-cynical-reason-1987",
+  "title": "Critique of Cynical Reason (Kritik der zynischen Vernunft)",
+  "creators": [
+    "Peter Sloterdijk",
+    "Michael Eldred"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "definition",
+    "history"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "University of Minnesota Press",
+    "published_date": "1987",
+    "edition": "trans. Michael Eldred; German original: Kritik der zynischen Vernunft, Suhrkamp, 1983",
+    "doi": null,
+    "isbn": "9780816615865"
+  },
+  "languages": [
+    "en",
+    "de"
+  ],
+  "regions": [
+    "Germany"
+  ],
+  "access": {
+    "locator": "ISBN 9780816615865 (University of Minnesota Press catalog)",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-cynical)",
+    "verification_notes": "Edition identity (trans. Michael Eldred, UMP 1987, ISBN 9780816615865; Suhrkamp German original 1983) confirmed via publisher catalog metadata on 2026-09-24; full text not inspected. Used for the modern-cynicism diagnosis the book is named for: knowing, avowed disbelief that changes nothing — enlightened false consciousness — as the modern inversion of the ancient Cynic's practiced commitment. No passage quoted."
+  },
+  "axis_ids": [
+    "tone-cynical"
+  ],
+  "claim_ids": [
+    "clm-tone-cynical-cynic-philosophy-lineage"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "de",
+    "translator": "Michael Eldred",
+    "limitations": [
+      "German philosophical vocabulary (Zynismus / Kynismus, the wordplay anchoring the ancient-modern contrast) is only partly carried into English."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "University of Minnesota Press; analytical citation only."
+  }
+}

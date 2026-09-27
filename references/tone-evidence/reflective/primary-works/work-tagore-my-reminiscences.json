@@ -1,0 +1,44 @@
+{
+  "id": "work-tagore-my-reminiscences",
+  "title": "My Reminiscences (Jīvan-smṛti)",
+  "creators": [
+    "Rabindranath Tagore"
+  ],
+  "work_type": "memoir / reflective reminiscence",
+  "published_date": "1911 (Bengali Jīvan-smṛti); 1917 (English, Macmillan)",
+  "languages": [
+    "bn",
+    "en"
+  ],
+  "regions": [
+    "India",
+    "Bengal"
+  ],
+  "axis_ids": [
+    "tone-reflective"
+  ],
+  "period_role": "modern",
+  "source_id": "src-reflective-tagore-reminiscences-1917",
+  "access": {
+    "edition_or_version": "Macmillan, London, 1917 English edition, trans. Surendranath Tagore under the author's supervision (public domain in the US); Bengali original listed 1911 (works-list record, 2026-09-24).",
+    "language_used": "en",
+    "translator": "Surendranath Tagore",
+    "access_conditions": "open"
+  },
+  "analysis_status": "translation-mediated",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "looking-back lexis framing recollection as interpretation rather than reliving",
+      "periodic sentences that subordinate the remembered incident to the interpreting clause — the reflection grammatically governs the memory",
+      "narrated past with reflective present detaching at interpretive cruxes: past event, present understanding",
+      "reflection remains outward-turned — toward people, music, landscape — resisting the navel-gazing failure by keeping the object of attention outside the self"
+    ],
+    "point_of_view": "Retrospective adult self observing the child-self as a figure: two distinct selves in one utterance, the memoir-specific form of self-distancing.",
+    "tense_and_structure": "Predominant narrated past of the reminiscence with reflective present at interpretive cruxes; episodic accretion over years.",
+    "rhythm_and_cadence": "Unhurried accretion of episodes; reflective pauses fall at scene boundaries, so reflection never blocks incident flow (supports clm-tone-reflective-causal-momentum).",
+    "psychic_distance": "The composing adult-self stands at chronological distance from the experiencing child-self — retrospective step-back built into the memoir form.",
+    "style_and_devices": "Concrete persons and places carry the reflection; memory figures of light and awakening used sparingly (paraphrased — no wording reproduced).",
+    "copyright_note": "1917 English edition public domain in the US (pre-1929); Bengali original public domain. Described by technique only; no passage reproduced.",
+    "translation_note": "The reflective-evaluative cadence observed in English is partly the translator's; Bengali rhythmic and idiomatic texture is not carried — see src-reflective-tagore-reminiscences-1917."
+  }
+}

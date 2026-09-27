@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-reverent-sublime-cadence",
+  "craft_claim": "Grandeur is produced by elevated thought joined to figured, rhythmically suspended composition that carries the reader past argument into transport; sentence suspension and cadence, not vocabulary alone, do the work.",
+  "tone_ids": [
+    "tone-reverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-reverent-longinus-russell-1964",
+      "location": "On the Sublime, §§ I, VIII-IX, XV",
+      "evidence_expression": "paraphrase",
+      "note": "The treatise treats grandeur as the product of elevated conception and 'figured' composition that transports the hearer, analysing amplification, hyperbaton, and rhythm."
+    },
+    {
+      "evidence_id": "src-reverent-burke-sublime-1757",
+      "location": "Enquiry, Part II, sections on terror, obscurity, and magnitude",
+      "evidence_expression": "synthesis",
+      "note": "Burke separates the sublime from the beautiful and links it to terror, obscurity, and magnitude - grounds for deliberate withholding and scale."
+    },
+    {
+      "evidence_id": "work-four-quartets",
+      "location": "Four Quartets, long suspended sentences resolving into weighed final clauses",
+      "evidence_expression": "synthesis",
+      "note": "Eliot's cadenced, delaying syntax enacts the meditation's refusal of premature closure."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-reverent-kant-judgment-1790",
+      "note": "Kant formalizes the sublime as the mind's reaction when imagination is overwhelmed by magnitude or power, which can shade into pain or terror rather than reverence."
+    }
+  ],
+  "scope": "Prose and verse passages intending elevation; strongest where the writer controls sentence length and closure.",
+  "exceptions": [
+    "Sparse, paratactic styles (e.g. certain scriptural and modernist passages) achieve the same effect through brevity rather than periodicity."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/reverent.md#2--why-it-works--the-mechanism",
+    "tones/reverent.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "work-vikram-vampire-1870",
+  "title": "Vikram and the Vampire (Vetalapañcavimsati / Baitala-pacisi)",
+  "creators": [
+    "Richard Francis Burton (English rendering)",
+    "Isabel Burton"
+  ],
+  "work_type": "frame-narrative tale cycle",
+  "published_date": "1870",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "India",
+    "United Kingdom"
+  ],
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "period_role": "formative",
+  "source_id": "src-irreverent-burton-vikram-1870",
+  "access": {
+    "edition_or_version": "Project Gutenberg ebook #2400; record verified 2026-09-24 (title 'Vikram and the Vampire: Classic Hindu Tales of Adventure, Magic, and Romance'; uniform title 'Vetalapañcavimsati. Hindi version (Baitala-pacisi). English'; public domain in the USA)",
+    "language_used": "en",
+    "translator": "Richard Francis Burton",
+    "access_conditions": "open"
+  },
+  "analysis_status": "partial",
+  "mechanics": {
+    "premise": "A king charged with retrieving a reanimated corpse hears, night after night, a story from it — each ending in a question he must answer correctly or lose it again: a riddle-cycle across twenty-five attempts (frame verified).",
+    "deflation_targets": "Royal omniscience itself — the sovereign is repeatedly outwitted and corrected by a creature that should be beneath him (frame-level inference; individual tales not inspected).",
+    "licensed_frame": "The riddle-game's explicit rules license the corpse's impertinence toward the king: mockery is permitted because the frame defines when it must stop — the purest structural example of bounded license in this silo.",
+    "point_of_view": "Nested frame narration: outer pursuit, inner tales told by the corpse, closing riddle addressed to the king.",
+    "style_and_devices": "Story-within-story with a compulsory final question; comic irony of the dead instructing the living sovereign (described from the verified frame only).",
+    "dialogue": "The corpse's taunting questions against the king's duty-bound answers carry the status reversal.",
+    "emotional_progression": "Serial suspense (will he answer?) punctuated by the pleasure of watching authority be tested and found talkable-to.",
+    "boundaries_and_restraint": "Analysis deliberately partial: only the frame and bibliographic identity were verified, so mechanics claims stay at frame level and no tale's content or morals are asserted.",
+    "conventions": "Vetala/Betaal riddle-cycle, circulating across Indian language traditions (the uniform title itself evidences the Hindi recension).",
+    "innovation_or_subversion": "Encodes licensed irreverence toward sovereignty as a formal rule of the game — impertinence with an expiry built into the plot.",
+    "critical_reception": "Known in English chiefly through Burton's 1870 rendering; source recension behind his translation unverified this session.",
+    "audience_reception": "The cycle remains widely known across South Asian popular culture; reception of Burton's specific English version not examined."
+  }
+}

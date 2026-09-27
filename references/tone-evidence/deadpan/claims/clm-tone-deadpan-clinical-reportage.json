@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-deadpan-clinical-reportage",
+  "craft_claim": "The prose substitute for the straight face is the clinical or bureaucratic register: reporting horror, scandal, or absurdity in case-file cadence — attributed, dated, itemized — so that the narrator's neutrality is structural rather than performed.",
+  "tone_ids": ["tone-deadpan"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-deadpan-manto-selected-stories-2008",
+      "location": "partition stories (clinical tone attested at genres/satirical-literature.md lines 115, 321, 371, 385, 499)",
+      "evidence_expression": "paraphrase",
+      "note": "Manto's partition stories report atrocity in case-file cadence — inventory, attribution, plain declaratives — with the narration refusing reaction. Tier 2/3 published translation. Passage-level close reading not performed (evidence-incomplete); attestation via repo genre file."
+    },
+    {
+      "evidence_id": "src-deadpan-parsai-matadeen-2003",
+      "location": "stories throughout (attested at genres/satirical-literature.md lines 211–213)",
+      "evidence_expression": "paraphrase",
+      "note": "Parsai's Inspector Matadeen stories adopt officialdom's own flat diction so that the satire emerges from the register's collision with events. Tier 3/4; practice anchor. Translation gap flagged at line 571."
+    },
+    {
+      "evidence_id": "src-deadpan-jalal-pity-partition-2013",
+      "location": "historical framing of partition testimony and documentation",
+      "evidence_expression": "paraphrase",
+      "note": "Jalal's study of partition memory documents the documentary, reportorial mode through which the catastrophe was narrated — the historical substrate of the clinical register. Tier 2 scholarly book; contextual support, not a craft statement."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-deadpan-manto-selected-stories-2008",
+      "location": "translation note / imprint discrepancy (see source record verification_notes)",
+      "evidence_expression": "synthesis",
+      "note": "English translations of Manto vary and are contested; a flattened translation can erase the register's irony entirely, making the passage read as sincerity. Documented risk, unresolved: two English imprints of 'Selected Stories' circulate with differing bibliographic data."
+    }
+  ],
+  "scope": "Narrative fiction, reportage-parody, and satiric essay. Particular to traditions with a strong bureaucratic written register (colonial and postcolonial administration, Soviet paperwork). Not required for stage or aphoristic deadpan (Kharms, Keaton).",
+  "exceptions": "In intimate or lyric registers the clinical move is unavailable; forcing case-file cadence into them produces tonal conflict with `tone-intimate` or `tone-elegiac`.",
+  "confidence": "moderate",
+  "report_locations": ["#1--definition-and-boundaries", "#8--cultural-scope"],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

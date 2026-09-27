@@ -1,0 +1,61 @@
+{
+  "id": "src-whimsical-glocker-baby-schema-2009",
+  "title": "Baby Schema in Infant Faces Induces Cuteness Perception and Motivation for Caretaking in Adults",
+  "creators": [
+    "Melanie L. Glocker",
+    "Daniel D. Langleben",
+    "Kosha Ruparel",
+    "James W. Loughead",
+    "Ruben C. Gur",
+    "Norbert Sachser"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Ethology, Vol. 115, No. 3",
+    "published_date": "2009",
+    "edition": "pp. 257-263",
+    "doi": "10.1111/j.1439-0310.2008.01603.x",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "Germany"
+  ],
+  "access": {
+    "locator": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3260535",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-whimsical)",
+    "verification_notes": "Confirmed authors, journal, volume, issue, pages, year and DOI via PubMed Central; confirmed the first experimental proof that baby-schema features in actual infant faces raise cuteness ratings and caretaking motivation (n=122). The Kindchenschema concept originates with Lorenz (1943), cited within this source."
+  },
+  "axis_ids": [
+    "tone-whimsical"
+  ],
+  "claim_ids": [
+    "clm-tone-whimsical-cuteness-without-meaning"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Wiley journal article; open PMC deposit; analytical citation only."
+  }
+}

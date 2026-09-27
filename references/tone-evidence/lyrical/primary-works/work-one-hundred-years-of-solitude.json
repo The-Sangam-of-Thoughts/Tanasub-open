@@ -1,0 +1,36 @@
+{
+  "id": "work-one-hundred-years-of-solitude",
+  "title": "Cien años de soledad",
+  "creators": [
+    "Gabriel García Márquez"
+  ],
+  "work_type": "novel",
+  "published_date": "1967",
+  "languages": [
+    "es",
+    "en"
+  ],
+  "regions": [],
+  "axis_ids": [
+    "tone-lyrical"
+  ],
+  "period_role": "canonical",
+  "source_id": null,
+  "access": {
+    "edition_or_version": "Spanish original 1967; English translation by Gregory Rabassa, 1970 (dossier section F)",
+    "language_used": "en",
+    "translator": "Gregory Rabassa",
+    "access_conditions": null
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "long incantatory clauses alternating with short declarative ones",
+      "cadence variation (clause-length alternation) producing a rhythmic, chronicle-like surface"
+    ],
+    "rhythm_and_cadence": "Sustained long clauses answered by short declaratives; the alternation itself is the device (dossier section D).",
+    "translation_note": "Spanish original 1967; English translation by Gregory Rabassa 1970. The dossier states no further claim about how much cadence the translation carries.",
+    "scope_note": "Region is not stated in the dossier and is recorded as [] rather than inferred; no edition, publisher, or page data was added.",
+    "verification_note": "Described, not quoted (dossier section F)."
+  }
+}

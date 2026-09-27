@@ -1,0 +1,50 @@
+{
+  "id": "clm-tone-cynical-cynic-philosophy-lineage",
+  "craft_claim": "The attitude inherits from the ancient Cynic school's performed contempt for stated convention, but modern cynicism inverts it: the ancient cynic practiced what was proclaimed, while modern cynical reason knows better and consents anyway — the two must not be confused.",
+  "tone_ids": [
+    "tone-cynical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-cynical-diogenes-laertius-lives-1925",
+      "location": "Book VI (Diogenes), Hicks trans.; ToposText work 221, §6.103ff",
+      "evidence_expression": "paraphrase",
+      "note": "Book VI transmits the life, sayings, and practiced provocations of Diogenes of Sinope: a philosophy lived as conduct — austerity, shamelessness, and direct speech aimed at convention's stated claims."
+    },
+    {
+      "evidence_id": "src-cynical-navia-diogenes-2005",
+      "location": "Chapter 5: 'The Presence of Diogenes'",
+      "evidence_expression": "paraphrase",
+      "note": "Navia's study separates the historical Diogenes and his practiced commitment from the school's modern afterlife, anchoring the ancient-modern distinction scholars use to discuss the word's drift."
+    },
+    {
+      "evidence_id": "src-cynical-sloterdijk-cynical-reason-1987",
+      "location": "Critique of Cynical Reason, framing chapters on modern cynical enlightenment (UMP 1987)",
+      "evidence_expression": "paraphrase",
+      "note": "Sloterdijk diagnoses the modern form as avowed disbelief that changes nothing — knowing complicity, or enlightened false consciousness — belief suspended while behavior runs on the old tracks."
+    },
+    {
+      "evidence_id": "work-lives-eminent-philosophers",
+      "location": "Book VI of the Lives",
+      "evidence_expression": "synthesis",
+      "note": "As a primary work, the Lives models the source tradition: the Cynic's stance arrives as anecdote and act, not as a detached commentary voice."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-cynical-dean-organizational-cynicism-1998",
+      "note": "Section C 'Modern drift' complicates the inversion: the modern attitude also migrated into organizational critique (Dean et al.'s three-part construct) with targets dissolved from persons into systems, so 'knows better and consents anyway' does not cover the modern forms the dossier itself records, and section C leaves 'critique or costume' open."
+    }
+  ],
+  "scope": "Boundary work for the tone: how the card defines what cynical voice is (practiced deflation) and is not (avowed disbelief worn as accessory).",
+  "exceptions": [
+    "Whether modern cynicism betrays or fulfills the ancient school is an interpretive question, not settled history; the distinction is used here as a craft diagnostic, not a historical law."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/cynical.md#1--definition-and-boundaries",
+    "tones/cynical.md#8--cultural-scope"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

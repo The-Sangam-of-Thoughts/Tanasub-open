@@ -1,0 +1,44 @@
+{
+  "id": "src-cova-deonna-being-moved-2014",
+  "title": "Being Moved",
+  "creators": ["Florian Cova", "Julien A. Deonna"],
+  "source_type": "peer-reviewed-article",
+  "source_roles": ["definition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Philosophical Studies, vol. 169, no. 3, pp. 447-466",
+    "published_date": "2014",
+    "edition": null,
+    "doi": "10.1007/s11098-013-0192-9",
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["Switzerland", "cross-cultural"],
+  "access": {
+    "locator": "https://philpapers.org/rec/COVBM",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-elegiac)",
+    "verification_notes": "Authors, journal, volume, issue, pages, year, and DOI verified via PhilPapers and multiple citing works. The distinct-emotion thesis, predominantly positive valence with negative components, and the eliciting role of significant relationship and critical life events verified via the abstract and a scholarly synthesis."
+  },
+  "axis_ids": ["tone-elegiac"],
+  "claim_ids": [
+    "clm-tone-elegiac-being-moved",
+    "clm-tone-elegiac-negative-emotion-reward"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Peer-reviewed philosophy article; thesis paraphrased only."
+  }
+}

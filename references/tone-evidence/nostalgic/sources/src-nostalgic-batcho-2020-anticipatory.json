@@ -1,0 +1,55 @@
+{
+  "id": "src-nostalgic-batcho-2020-anticipatory",
+  "title": "When Nostalgia Tilts to Sad: An Historical Affect Science Approach to Exploring the Function of Nostalgia as a Psychological Resource and as a Liability",
+  "creators": [
+    "Krystine I. Batcho"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Frontiers in Psychology, Vol. 11, Article 1186",
+    "published_date": "2020",
+    "edition": null,
+    "doi": "10.3389/fpsyg.2020.01186",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.3389/fpsyg.2020.01186",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-nostalgic)",
+    "verification_notes": "Citation (journal, volume, article number, year, DOI) and abstract/discussion-level findings - historical framing of nostalgia's bittersweet tilt, and anticipatory nostalgia as missing the present before it has become past with difficulty enjoying the present and a tendency toward sadness and worry - verified via publisher and PubMed/PMC records (PMC7274075) on web search 2026-09-24. Full text not accessed."
+  },
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "claim_ids": [
+    "clm-tone-nostalgic-mixed-valence-dailylife"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "open-access",
+    "repository_copy_allowed": false,
+    "notes": "Frontiers open-access article; analytical citation only, no reproduction."
+  }
+}

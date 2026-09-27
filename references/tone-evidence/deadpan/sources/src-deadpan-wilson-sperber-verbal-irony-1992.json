@@ -1,0 +1,59 @@
+{
+  "id": "src-deadpan-wilson-sperber-verbal-irony-1992",
+  "title": "Verbal Irony as Echoic Mention",
+  "creators": [
+    "Deirdre Wilson",
+    "Dan Sperber"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "recognition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Language and Literature, Vol. 17, No. 1 (SAGE)",
+    "published_date": "1992",
+    "edition": "pp. 56–74",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "France",
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "Library record: Language and Literature 17(1):56–74 (SAGE)",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-deadpan)",
+    "verification_notes": "Canonical echoic-mention account of verbal irony: the speaker echoes an attitude and dissociates from it. Load-bearing for claims on the incongruity gap, echoic dissociation, understatement insufficiency, and the flatness-failure negative case. DOI not re-verified this session."
+  },
+  "axis_ids": [
+    "tone-deadpan"
+  ],
+  "claim_ids": [
+    "clm-tone-deadpan-incongruity-gap",
+    "clm-tone-deadpan-echoic-dissociation",
+    "clm-tone-deadpan-understatement-operators",
+    "clm-tone-deadpan-flatness-failure"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "SAGE journal article; citation and paraphrase only."
+  }
+}

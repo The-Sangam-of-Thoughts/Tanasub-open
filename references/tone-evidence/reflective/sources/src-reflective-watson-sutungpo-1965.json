@@ -1,0 +1,49 @@
+{
+  "id": "src-reflective-watson-sutungpo-1965",
+  "title": "Su Tung-p'o: Selections from a Sung Dynasty Poet",
+  "creators": [
+    "Su Shi",
+    "Burton T. Watson"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Columbia University Press, New York",
+    "published_date": "1965",
+    "edition": "trans. Burton T. Watson (partial CUP records cite 1964/1965; Archive.org and multiple citations give 1965)",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en", "zh"],
+  "regions": ["China"],
+  "access": {
+    "locator": "https://archive.org/details/sutungposelectio0000sush",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reflective)",
+    "verification_notes": "Confirmed via Archive.org record (Columbia University Press, 1965), Burton Watson biography (CUHK RCT), and independent citations; the Red Cliff rhapsody's composition during the Huangzhou exile (1082) is standard and consistent across records."
+  },
+  "axis_ids": ["tone-reflective"],
+  "claim_ids": ["clm-tone-reflective-nonanglophone-analogues"],
+  "translation": {
+    "is_translation": true,
+    "original_language": "zh",
+    "translator": "Burton T. Watson",
+    "limitations": [
+      "The fu form's rhetorical question-answer architecture, tonal parallelism, and allusive density are only partly recoverable in Watson's English prose versions; the reflective turn arrives simplified."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Columbia University Press translation copyrighted; Chinese original long in the public domain. Described only; no translated passages reproduced."
+  }
+}

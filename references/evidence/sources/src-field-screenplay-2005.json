@@ -1,0 +1,58 @@
+{
+  "id": "src-field-screenplay-2005",
+  "title": "Screenplay: The Foundations of Screenwriting",
+  "creators": [
+    "Syd Field"
+  ],
+  "source_type": "craft-book",
+  "source_roles": [
+    "craft-support",
+    "definition"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Delta",
+    "published_date": "2005",
+    "edition": "Revised Edition",
+    "doi": null,
+    "isbn": "978-0385339032"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://www.penguinrandomhouse.com/books/52538/screenplay-by-syd-field/",
+    "accessed_at": "2026-09-12",
+    "access_conditions": "purchased"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-12T15:00:00Z",
+    "verified_by": "Codex S10 foundation evidence agent",
+    "verification_notes": "Directly verified paradigms of three-act dramatic structure, Plot Point I, midpoint, Plot Point II, and dramatic premise."
+  },
+  "axis_ids": [
+    "axis-feature-screenplay",
+    "axis-episodic-television-script",
+    "axis-thriller-fiction"
+  ],
+  "claim_ids": [
+    "clm-three-act-plot-points",
+    "clm-denouement-resonance",
+    "clm-talking-heads-syndrome"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Screenwriting textbook; quotation and analysis only."
+  }
+}

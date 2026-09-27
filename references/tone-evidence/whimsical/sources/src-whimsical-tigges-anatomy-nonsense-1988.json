@@ -1,0 +1,57 @@
+{
+  "id": "src-whimsical-tigges-anatomy-nonsense-1988",
+  "title": "An Anatomy of Literary Nonsense",
+  "creators": [
+    "Wim Tigges"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Rodopi",
+    "published_date": "1988",
+    "edition": "Amsterdam",
+    "doi": null,
+    "isbn": "978-90-5183-019-4"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Netherlands"
+  ],
+  "access": {
+    "locator": "https://brill.com/display/book/9789004484252/B9789004484252_s005.pdf",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-whimsical)",
+    "verification_notes": "Confirmed author, publisher, year and ISBN, and the definition balancing sense and non-sense plus the device list (faulty cause and effect, portmanteau, neologism, reversals, imprecision, simultaneity, picture/text incongruity, arbitrariness, infinite repetition, mirroring, misappropriation) via Brill chapter record and critical reception."
+  },
+  "axis_ids": [
+    "tone-whimsical"
+  ],
+  "claim_ids": [
+    "clm-tone-whimsical-nonsense-sense-tension",
+    "clm-tone-whimsical-cuteness-without-meaning",
+    "clm-tone-whimsical-dosage-saturation"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Rodopi monograph; analytical citation only."
+  }
+}

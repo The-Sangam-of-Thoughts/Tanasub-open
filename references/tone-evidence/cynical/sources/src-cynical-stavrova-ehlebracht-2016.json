@@ -1,0 +1,58 @@
+{
+  "id": "src-cynical-stavrova-ehlebracht-2016",
+  "title": "Cynical beliefs about human nature and income: Longitudinal and cross-cultural analyses",
+  "creators": [
+    "Olga Stavrova",
+    "Daniel Ehlebracht"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Personality and Social Psychology",
+    "published_date": "2016",
+    "edition": "Vol. 110, No. 1, pp. 116-132",
+    "doi": "10.1037/pspp0000050",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "Germany",
+    "cross-national"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1037/pspp0000050",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-cynical)",
+    "verification_notes": "Metadata confirmed via Crossref API; volume/issue/pagination (110(1):116-132) confirmed 2026-09-24. Abstract read via Europe PMC (PMID 26011659): five studies — two US longitudinal waves (cynical beliefs about human nature predicted lower income nine years later), a German panel study, a Big Five-independent replication, and a 41-country cross-national analysis. Proposed mechanism: cynical individuals avoid cooperation and over-invest in monitoring others. Scope condition: the costs of cynicism were alleviated in contexts of high harm experience or high societal cynicism, so cynicism is not uniformly maladaptive. The record establishes dispositional cynicism as a measurable worldview with consequences, not merely a surface style. Full text not inspected; no passage quoted."
+  },
+  "axis_ids": [
+    "tone-cynical"
+  ],
+  "claim_ids": [
+    "clm-tone-cynical-dispositional-costs",
+    "clm-tone-cynical-failure-unearned-nihilism"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical citation only."
+  }
+}

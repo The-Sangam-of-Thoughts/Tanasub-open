@@ -1,0 +1,46 @@
+{
+  "id": "work-the-road",
+  "title": "The Road",
+  "creators": [
+    "Cormac McCarthy"
+  ],
+  "work_type": "novel",
+  "published_date": "2006",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "axis_ids": [
+    "tone-grim",
+    "axis-science-fiction",
+    "axis-speculative-fiction"
+  ],
+  "period_role": "contemporary",
+  "source_id": "src-grim-bell-mccarthy-1988",
+  "access": {
+    "edition_or_version": "Vintage Books edition",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A father and young son cross a burnt, post-cataclysmic America, surviving on scavenged food while avoiding cannibal bands.",
+    "point_of_view": "Third person with tight free-indirect access to the father, but a prose surface of clipped, near-affectless observation.",
+    "style_and_devices": "Very short declarative sentences, asyndeton and parataxis, ash-and-grey imagery, dialogue stripped of quotation marks and attributions; tenderness emerges from action rather than stated emotion.",
+    "emotional_progression": "Cold survival -> occasional tenderness -> dread of what the father must become -> ambiguous, guarded ending.",
+    "dialogue": "Fragmentary, unpunctuated exchange between father and son; the sparse form carries attachment that explicit sentiment would cheapen.",
+    "setting": "A ashen, depopulated continent; landscape as the residue of extinction.",
+    "tone_mechanisms": [
+      "short declarative syntax",
+      "grey/ash imagery",
+      "withheld sentiment",
+      "paternal duty under doom",
+      "guarded ending"
+    ],
+    "critical_reception": "Won the 2007 Pulitzer Prize for Fiction and the 2006 James Tait Black Memorial Prize; adapted to film in 2009. Cited for tone mechanics only.",
+    "verification_note": "Existence, date, publisher, awards, and premise confirmed via Wikipedia 'The Road' and API extract. No text reproduced."
+  }
+}

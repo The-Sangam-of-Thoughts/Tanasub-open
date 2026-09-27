@@ -1,0 +1,61 @@
+{
+  "id": "src-grim-natyashastra-ghosh-1951",
+  "title": "The Natyasastra: A Treatise on Hindu Dramaturgy and Histrionics, Vol. I & II",
+  "creators": [
+    "Bharata Muni",
+    "Manomohan Ghosh"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "indian-context"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Royal Asiatic Society of Bengal",
+    "published_date": "1951",
+    "edition": "Bibliotheca Indica edition",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "sa"
+  ],
+  "regions": [
+    "India",
+    "South Asia"
+  ],
+  "access": {
+    "locator": "https://archive.org/details/natyasastra-manomohan-ghosh",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-grim)",
+    "verification_notes": "Silo restatement of the shared coordinator-verified record src-natyashastra-ghosh-1951 (tier 1). Chapter 6 (Rasa) enumerates karuna (grief/compassion) and bhayanaka (terror) among the rasas; the present researcher did not re-inspect the translation."
+  },
+  "axis_ids": [
+    "tone-grim"
+  ],
+  "claim_ids": [
+    "clm-tone-grim-rasa-karuna-bhayanaka",
+    "clm-tone-grim-crosscultural-bleak"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "sa",
+    "translator": "Manomohan Ghosh",
+    "limitations": [
+      "Classical Sanskrit aesthetic terms are rendered into English; karuna and bhayanaka do not map one-to-one onto 'grief' and 'horror' in modern genre vocabulary."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": true,
+    "notes": "Ancient text and 1951 translation in the public domain under applicable term; no passage reproduced."
+  }
+}

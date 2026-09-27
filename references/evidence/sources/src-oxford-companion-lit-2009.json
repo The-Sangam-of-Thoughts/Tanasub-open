@@ -1,0 +1,60 @@
+{
+  "id": "src-oxford-companion-lit-2009",
+  "title": "The Oxford Companion to English Literature",
+  "creators": [
+    "Dinah Birch"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "history"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Oxford University Press",
+    "published_date": "2009",
+    "edition": "7th ed.",
+    "doi": null,
+    "isbn": "9780192806871"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "global",
+    "gb"
+  ],
+  "access": {
+    "locator": "Oxford Reference Online / Print 7th edition",
+    "accessed_at": "2026-09-12",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-12T10:15:00Z",
+    "verified_by": "Codex S04 taxonomy harvest agent",
+    "verification_notes": "Inspected authoritative entries for literary genres, modes, and historical forms."
+  },
+  "axis_ids": [
+    "axis-bildungsroman",
+    "axis-picaresque-literature",
+    "axis-gothic-fiction",
+    "axis-pastoral-literature",
+    "axis-satirical-literature",
+    "axis-epistolary-fiction",
+    "axis-psychological-fiction"
+  ],
+  "claim_ids": [],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Published by Oxford University Press; category and taxonomy citation only."
+  }
+}

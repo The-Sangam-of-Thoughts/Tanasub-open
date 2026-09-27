@@ -1,0 +1,60 @@
+{
+  "id": "src-whimsical-ray-aboltabol-1923",
+  "title": "Abol Tabol (আবোল তাবোল)",
+  "creators": [
+    "Sukumar Ray"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "indian-context",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "U. Ray and Sons, Calcutta",
+    "published_date": "1923",
+    "edition": "First edition, 19 September 1923",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "bn"
+  ],
+  "regions": [
+    "India",
+    "Bengal"
+  ],
+  "access": {
+    "locator": "https://en.wikipedia.org/wiki/Abol_Tabol",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-whimsical)",
+    "verification_notes": "Confirmed author, publisher, 19 September 1923 first publication, and the count of 46 titled plus 7 untitled quatrains (53 total) via reference records; composition of most poems in Sandesh between 1915 and 1923. Mechanisms confirmed through Mukherjee 2022 and The Tenth Rasa 2007. No text reproduced."
+  },
+  "axis_ids": [
+    "tone-whimsical"
+  ],
+  "claim_ids": [
+    "clm-tone-whimsical-sukumar-ray-nonsense",
+    "clm-tone-whimsical-make-believe-props",
+    "clm-tone-whimsical-nonsense-sense-tension"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "bn",
+    "translator": "multiple (e.g. Niladri Roy, 2017; Sampurna Chattarji in The Tenth Rasa, 2007)",
+    "limitations": [
+      "Bengali puns, sound-play, and portmanteau creature-names are substantially unrecoverable in English; this record does not rely on any single rendering."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": false,
+    "notes": "Original Bengali text (1923); analytical citation only, no text reproduced."
+  }
+}

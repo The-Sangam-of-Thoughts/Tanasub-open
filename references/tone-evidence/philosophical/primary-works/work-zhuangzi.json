@@ -1,0 +1,39 @@
+{
+  "id": "work-zhuangzi",
+  "title": "Zhuangzi",
+  "creators": [
+    "Zhuang Zhou and later editors"
+  ],
+  "work_type": "philosophical-anthology",
+  "published_date": "c. 3rd century BCE (core chapters)",
+  "languages": [
+    "zh"
+  ],
+  "regions": [
+    "China"
+  ],
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "period_role": "classical",
+  "source_id": "src-philosophical-zhuangzi-watson-2013",
+  "access": {
+    "edition_or_version": "The Complete Works of Zhuangzi, trans. Burton Watson (Columbia University Press, 2013)",
+    "language_used": "en",
+    "translator": "Burton Watson",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "Perspective, naturalness and the limits of knowledge explored through argument, story and paradox.",
+    "argumentative_stance": "Indirect: a tale or paradox is made to carry the abstract point rather than an explicit thesis defended.",
+    "point_of_view": "Shifting voices; dialogues between masters, craftsmen and creatures.",
+    "structure": "Chapter-level theme built from loosely joined anecdotes and dialogues rather than continuous argument.",
+    "style_and_devices": "Parable, thought-experiment, reductio, pun and paradox; the 'Butterfly Dream' turns on the dream/waking distinction.",
+    "dialogue": "Teaching exchanges in which a master answers a question with an image or counter-question.",
+    "imagery": "Transformation imagery (butterfly, fish, tree, cook) that embodies claims about change and usefulness.",
+    "emotional_progression": "Perplexity opening toward equanimity and release from fixed categories.",
+    "critical_reception": "Foundational Daoist text and a model of philosophical writing through narrative and paradox.",
+    "failure_or_misuse_signals": "Parable that only decorates, or paradox that only puzzles, without a recoverable idea, becomes whimsy."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "clm-tone-inspirational-narrative-transportation",
+  "craft_claim": "Absorption into a dramatized instance increases story-consistent belief and reduces counterarguing, so an inspirational passage persuades better as a scene or testimony than as a slogan.",
+  "tone_ids": [
+    "tone-inspirational"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-inspirational-green-brock-2000",
+      "location": "Journal of Personality and Social Psychology 79(5):701-721, Experiments 1-4",
+      "evidence_expression": "synthesis",
+      "note": "Greater transportation augmented story-consistent beliefs and favourable protagonist evaluations; highly transported readers found fewer false notes, and transportation effects were generally unaffected by labelling a story as fact or fiction."
+    },
+    {
+      "evidence_id": "work-gitanjali",
+      "location": "Individual songs in the 1912 collection",
+      "evidence_expression": "synthesis",
+      "note": "Tagore's songs build devotional longing through a single natural image per poem rather than doctrinal assertion, an instance-first structure consistent with transportational persuasion."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-inspirational-green-brock-2000",
+      "note": "Transportation is a continuum and can be reduced by intrusive narration or clashing stylistic signals, which weakens the effect."
+    }
+  ],
+  "scope": "Narrative, testimony, and illustrative prose; weaker in pure abstraction or bullet-point copy.",
+  "exceptions": [
+    "Stated-preference or technical writing where the reader expects argument over absorption."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/inspirational.md#2--why-it-works--the-mechanism",
+    "tones/inspirational.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

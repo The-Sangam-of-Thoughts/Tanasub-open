@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-deadpan-performance-transfer",
+  "craft_claim": "Deadpan's origin is the expressionless face of performance (Keaton, vaudeville), and prose cannot reproduce that visual channel: the writer must transfer it into register-stasis and withheld reaction, with an acknowledged loss of the performer's physical timing.",
+  "tone_ids": ["tone-deadpan"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-deadpan-deadpan-lexicon-2026",
+      "location": "entry 'deadpan' (quoting a 1928 *New York Times* slang item)",
+      "evidence_expression": "paraphrase",
+      "note": "The 1928 record defines the term as 'playing a role with expressionless face,' citing Buster Keaton — establishing the face, not the sentence, as the original instrument. Tier 5 (as quoted by a reference work); short PD fragment. Recognition only."
+    },
+    {
+      "evidence_id": "src-deadpan-curtis-keaton-2022",
+      "location": "biographical/critical discussion of Keaton's screen persona",
+      "evidence_expression": "paraphrase",
+      "note": "Secondary documentation of the 'great stone face' as a deliberate comic system: the body reacts, the face does not. Tier 3 secondary source; supports the visual-channel claim."
+    },
+    {
+      "evidence_id": "work-frankenstein",
+      "location": "first-person narration (shared evidence record)",
+      "evidence_expression": "synthesis",
+      "note": "A shared boundary case showing how a controlled, non-reactive narrating voice operates in prose — the structural analogue of the unresponsive face. Cross-link to shared registry; used as a prose-mechanism analogue, not as a deadpan exemplar."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-deadpan-esslin-theatre-absurd-1961",
+      "location": "discussion of staging and theatrical convention",
+      "evidence_expression": "paraphrase",
+      "note": "Esslin's account of absurdist theatre implies stage delivery carries meaning through staging conventions that prose simply does not have — the transfer is a rebuild, not a transcription. Reinforces the limit: prose must invent substitutes rather than borrow the stage's."
+    }
+  ],
+  "scope": "Any adaptation of deadpan from visual or performed media into prose (film novelization, stage-to-page, screenplay prose drafts). In native prose the claim is analogical: prose *builds* its own flat surface rather than inheriting one.",
+  "exceptions": "Illustrated or multimodal text (comics, captioned image) retains a visual channel and can carry the face directly; the transfer limit does not apply there.",
+  "confidence": "moderate",
+  "report_locations": ["#1--definition-and-boundaries", "#8--cultural-scope"],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

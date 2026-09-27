@@ -1,0 +1,38 @@
+{
+  "id": "clm-tone-nostalgic-dysphoria-trigger",
+  "craft_claim": "Nostalgia is normally reached from a present lack - loneliness, rupture, meaning threat - or from a sensory reminder that opens the past unbidden. The tone therefore needs a present-tense deficit (or a concrete trigger) on the page; longing with no current lack reads as decoration.",
+  "tone_ids": [
+    "tone-nostalgic"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-nostalgic-wildschut-2006-nostalgia-content",
+      "location": "Journal of Personality and Social Psychology 91(5):975-993, Study 4 and trigger analyses",
+      "evidence_expression": "paraphrase",
+      "note": "An induced loneliness state increased nostalgia (Study 4), and self-reported triggers cluster around sad, poignant, lonely moments and sensorial reminders - the emotion reaches toward the past when the present hurts or lacks."
+    },
+    {
+      "evidence_id": "src-nostalgic-sedikides-2015-ejsp-self-continuity",
+      "location": "European Journal of Social Psychology 45(1):52-61, Studies 1-2",
+      "evidence_expression": "paraphrase",
+      "note": "Only negative self-discontinuity (relatively disruptive negative life events) evoked heightened nostalgia; positive discontinuity did not. The trigger is deprivation, not change as such."
+    },
+    {
+      "evidence_id": "src-nostalgic-routledge-2011-existential-resource",
+      "location": "Journal of Personality and Social Psychology 101(3):638-652, Studies 3-4",
+      "evidence_expression": "paraphrase",
+      "note": "Threats to meaning increase nostalgia (Study 3), and nostalgia in turn reduces defensiveness following a meaning threat (Study 4); threatened meaning is a verified antecedent."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Scene-level causation: why this character reaches for the past now; feeds card section 4 and failure analysis.",
+  "exceptions": [
+    "Sensory triggers (taste, scent, a song) can open nostalgia without dysphoria - the deficit may be quiet or even absent in a warm, gratitude-framed register (see natsukashii, section E)."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/nostalgic.md"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

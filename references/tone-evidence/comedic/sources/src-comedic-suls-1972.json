@@ -1,0 +1,56 @@
+{
+  "id": "src-comedic-suls-1972",
+  "title": "A Two-Stage Model for the Appreciation of Jokes and Cartoons: An Information-Processing Analysis",
+  "creators": [
+    "Jerry M. Suls"
+  ],
+  "source_type": "scholarly-book-chapter",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "The Psychology of Humor: Theoretical Perspectives and Empirical Issues (J. H. Goldstein & P. E. McGhee, eds.), Academic Press",
+    "published_date": "1972",
+    "edition": "Chapter 4, pp. 81-100",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "Goldstein, J. H. & McGhee, P. E. (Eds.), The Psychology of Humor (Academic Press, 1972), ch. 4, pp. 81-100; library record",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-comedic)",
+    "verification_notes": "Foundational two-stage incongruity-resolution model; bibliographic existence verified via multiple independent citations (Encyclopedia of Humor Studies; Yus 2017; Ritchie 2009). Model content corroborated by subsequent peer-reviewed work on incongruity detection and resolution; chapter not inspected in full."
+  },
+  "axis_ids": [
+    "tone-comedic"
+  ],
+  "claim_ids": [
+    "clm-tone-comedic-incongruity-resolution",
+    "clm-tone-comedic-figurative-register"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Academic chapter; citation and paraphrase only."
+  }
+}

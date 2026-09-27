@@ -1,0 +1,41 @@
+{
+  "id": "clm-premise-dialectic",
+  "craft_claim": "A resilient dramatic premise requires a dynamic, dialectical clash between mutually exclusive values rather than a static situation.",
+  "axis_ids": [
+    "axis-episodic-television-script",
+    "axis-feature-screenplay"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-egri-art-dramatic-writing-1946",
+      "location": "Chapter 1: Premise, pp. 1-31",
+      "evidence_expression": "quotation",
+      "note": "Egri defines premise as proposition containing three parts: character, conflict, and conclusion (e.g. 'Ruthless ambition leads to destruction')."
+    },
+    {
+      "evidence_id": "work-oedipus-rex",
+      "location": "Episodes 1 through 4",
+      "evidence_expression": "synthesis",
+      "note": "Dialectic between relentless pursuit of civic truth and catastrophic personal guilt drives all dramatic action."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "work-mrs-dalloway",
+      "location": "Clarissa's day-long retrospective associations",
+      "evidence_expression": "paraphrase",
+      "note": "Modernist interior narratives may replace dialectical collision with atmospheric psychological association."
+    }
+  ],
+  "scope": "Applies universally across classical, dramatic, and narrative fiction where causal progression drives reader engagement.",
+  "exceptions": [
+    "Lyrical vignettes and purely associative modernist or stream-of-consciousness narratives."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "04-premise-theme-and-meaning.md#premise-theme-and-meaning-preferred_label",
+    "00-how-to-write.md#develop-the-idea"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-12"
+}

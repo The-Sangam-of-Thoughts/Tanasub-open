@@ -1,0 +1,29 @@
+{
+  "id": "work-sei-shonagon-pillow-book",
+  "title": "The Pillow Book (Makura no Soshi)",
+  "creators": ["Sei Shonagon"],
+  "work_type": "zuihitsu (miscellaneous diary/notes)",
+  "published_date": "c. 1002 (Heian period)",
+  "languages": ["ja"],
+  "regions": ["Japan", "East Asia"],
+  "axis_ids": ["tone-intimate"],
+  "period_role": "formative",
+  "source_id": "src-intimate-sei-shonagon-pillow-book-2006",
+  "access": {
+    "edition_or_version": "The Pillow Book, trans. Meredith McKinney (Penguin Classics, 2006)",
+    "language_used": "en",
+    "translator": "Meredith McKinney",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_relevance": "Non-Anglophone anchor for disclosed interiority: private observations, lists, and complaints make a court woman's inner life available to the reader.",
+    "point_of_view": "First person, present-tense observation and opinion; the narrating self does not explain or justify itself.",
+    "style_and_devices": "Lists ('things that...'), vignettes, gossip, aesthetic judgments; compendium structure with abrupt shifts.",
+    "imagery": "Minute sensory and social detail rather than abstract reflection.",
+    "intimacy_technique": "Closeness is produced by unguarded opinion and private register rather than by a dramatic confession.",
+    "boundary_caveat": "The work was intended privately and accidentally circulated; its public/private status is contested, so it evidences disclosed interiority more strongly than explicit addressedness.",
+    "translation_note": "Heian Japanese honorifics and poetic allusion are only partly recoverable in English.",
+    "copyright_note": "Translation copyrighted; original work public domain. Techniques described, no text reproduced."
+  }
+}

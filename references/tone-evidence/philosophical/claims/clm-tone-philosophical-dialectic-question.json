@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-philosophical-dialectic-question",
+  "craft_claim": "Staging the idea as a question-and-answer exchange lets the narrator externalise inquiry, so the reader watches a mind move instead of receiving a finished conclusion.",
+  "tone_ids": [
+    "tone-philosophical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-philosophical-plato-cooper-1997",
+      "location": "Cooper's introduction on the dialogue form; the Socratic dialogues generally",
+      "evidence_expression": "paraphrase",
+      "note": "Confirms question-and-answer as Plato's chosen philosophical form: interlocutors' objections expose and test a claim in progress."
+    },
+    {
+      "evidence_id": "src-philosophical-olivelle-upanisads-1996",
+      "location": "Chandogya Upanisad, the Uddalaka-Svetaketu teaching (esp. ch. 6)",
+      "evidence_expression": "paraphrase",
+      "note": "The Upanisads teach abstract claims about self and reality through dialogue in which the student is led by questions, analogy and experiment to infer the principle."
+    },
+    {
+      "evidence_id": "work-chandogya-upanishad",
+      "location": "Book 6 teaching sequence",
+      "evidence_expression": "synthesis",
+      "note": "The refrain structure and repeated questions model the reader's own approach to an abstract identity claim."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Academic and blog explanation, philosophy-adjacent non-fiction, and fiction that carries an argument through dialogue.",
+  "exceptions": [
+    "In forms that forbid character dialogue (some formal academic reports), the equivalent is a structured objection-and-response in the text itself."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/philosophical.md#5--how-to-use-it--operators",
+    "tones/philosophical.md#8--cultural-scope"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

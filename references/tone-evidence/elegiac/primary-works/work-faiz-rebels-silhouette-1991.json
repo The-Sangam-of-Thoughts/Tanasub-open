@@ -1,0 +1,34 @@
+{
+  "id": "work-faiz-rebels-silhouette-1991",
+  "title": "The Rebel's Silhouette: Selected Poems (ghazals and lyrics)",
+  "creators": ["Faiz Ahmed Faiz", "Agha Shahid Ali (translator)"],
+  "work_type": "poem-collection",
+  "published_date": "1991",
+  "languages": ["ur", "en"],
+  "regions": ["Pakistan", "India", "United States"],
+  "axis_ids": ["tone-elegiac"],
+  "period_role": "modern",
+  "source_id": "src-faiz-rebels-silhouette-1991",
+  "access": {
+    "edition_or_version": "University of Massachusetts Press, 1991 (paperback 1995)",
+    "language_used": "en (translations of Urdu originals)",
+    "translator": "Agha Shahid Ali",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "ghazal form: autonomous couplets held together by refrain (radif) and rhyme (qafiya)",
+      "grief and longing sustained as an unresolved present",
+      "ambiguity between erotic, political, and mystical registers of sorrow",
+      "repetition of the refrain as a returning ache rather than narrative progress",
+      "public grief (war, exile) folded into personal grief"
+    ],
+    "emotional_progression": "Non-linear: each couplet is thematically complete, producing accumulation rather than an arc, which is itself an elegiac effect.",
+    "point_of_view": "Lyric 'I' that is both personal and representative.",
+    "rhythm_and_cadence": "Urdu quantitative metre and refrain; the English free-verse translations preserve meaning but not sound, a stated translation limit.",
+    "psychic_distance": "Conventional ghazal imagery allows intimate grief to be spoken under a social mask.",
+    "style_and_devices": "Modern Urdu ghazal's grief register; cross-linked as an Indian/regional tradition. Verified via UMass Press and Poetry Foundation commentary. Described, not quoted.",
+    "copyright_note": "Poems and translations copyrighted. Described by technique only; no passage reproduced."
+  }
+}

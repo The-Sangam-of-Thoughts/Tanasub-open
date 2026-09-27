@@ -1,0 +1,51 @@
+{
+  "id": "src-deadpan-curtis-keaton-2022",
+  "title": "Buster Keaton: secondary critical/biographical account of the 'great stone face' persona",
+  "creators": [
+    "2022 Keaton scholarship (biographical/critical)"
+  ],
+  "source_type": "professional-criticism",
+  "source_roles": [
+    "recognition"
+  ],
+  "reliability_tier": 3,
+  "publication": {
+    "publisher_or_container": null,
+    "published_date": "2022",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [],
+  "access": {
+    "locator": "No stable locator: bibliographic record incomplete (declared evidence-incomplete in dossier.md §I); no URL, DOI, or library record verified as of 2026-09-24",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "unverified"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-deadpan)",
+    "verification_notes": "EVIDENCE-INCOMPLETE: full bibliographic record (author, title, publisher) for the 2022 Keaton source was not completed to registry grain this session; it is recorded here only to support the well-attested, independently corroborated fact that Keaton's persona was a deliberate expressionless-face comic system. Tier 3 professional/secondary criticism. The load-bearing documentary basis for the transfer claim remains the tier-5 lexical record (1928 definition quoting Keaton). Card author should treat this as a pointer to be completed, not a citable citation. Source type aligned to professional-criticism and reliability_tier re-derived as Tier 3 on 2026-09-25 against layers/layer0-academic.md (Tier 3 = independent professional criticism), matching the tier argument recorded above. access.locator states explicitly that no stable locator exists (the record was not accessed: verified_directly false, no URL/DOI/library record verified) rather than being left blank, and access_conditions is recorded as 'unverified' for the same reason."
+  },
+  "axis_ids": [
+    "tone-deadpan"
+  ],
+  "claim_ids": [
+    "clm-tone-deadpan-performance-transfer"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "2022 secondary criticism; bibliographic record incomplete (declared evidence-incomplete), citation only."
+  }
+}

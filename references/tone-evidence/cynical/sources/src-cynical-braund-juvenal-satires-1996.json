@@ -1,0 +1,59 @@
+{
+  "id": "src-cynical-braund-juvenal-satires-1996",
+  "title": "Juvenal: Satires Book 1",
+  "creators": [
+    "Susanna Braund"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "history"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Cambridge University Press",
+    "published_date": "1996",
+    "edition": "Commentary with introduction and text (pp. viii + 323 per BMCR 1997.07.09)",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "la"
+  ],
+  "regions": [
+    "United Kingdom",
+    "Roman Empire"
+  ],
+  "access": {
+    "locator": "Cambridge University Press catalog; reviewed in Bryn Mawr Classical Review 1997.07.09",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-cynical)",
+    "verification_notes": "Edition identity (CUP 1996, pp. viii + 323) confirmed via publisher metadata and the Bryn Mawr Classical Review notice 1997.07.09 on 2026-09-24; full text not inspected. Used for recognition of Satire 1's invective mode: a speaker cataloguing Roman vices in a moralized, indignant key. No passage quoted."
+  },
+  "axis_ids": [
+    "tone-cynical"
+  ],
+  "claim_ids": [
+    "clm-tone-cynical-juvenalian-indignation"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": "la",
+    "translator": null,
+    "limitations": [
+      "Commentary in English on a Latin text; specific verbal effects discussed here are limited to what commentary and standard translations render."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Cambridge University Press; analytical citation only."
+  }
+}

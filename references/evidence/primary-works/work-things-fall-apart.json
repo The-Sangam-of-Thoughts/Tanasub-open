@@ -1,0 +1,50 @@
+{
+  "id": "work-things-fall-apart",
+  "title": "Things Fall Apart",
+  "creators": [
+    "Chinua Achebe"
+  ],
+  "work_type": "novel",
+  "published_date": "1958",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Nigeria",
+    "West Africa"
+  ],
+  "axis_ids": [
+    "axis-bildungsroman",
+    "axis-historical-fiction"
+  ],
+  "period_role": "formative",
+  "source_id": "src-adichie-single-story-2009",
+  "access": {
+    "edition_or_version": "Heinemann African Writers Series edition",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A proud Igbo wrestling champion and warrior strives fiercely for status, but his fear of weakness and colonial disruption destroy him and his community.",
+    "reader_promise": "Authentic, dignified tragic epic portraying pre-colonial African society with internal complexity before British colonial-missionary disruption.",
+    "opening": "'Okonkwo was well known throughout the nine villages and even beyond.' Establishes prowess through defeating Amalinze the Cat.",
+    "point_of_view": "Third-person communal voice incorporating Igbo oral storytelling cadences and idioms.",
+    "character_system": "Okonkwo (tragic hero), Unoka (flute-playing father foil), Nwoye (alienated son), Obierika (thoughtful philosopher friend), District Commissioner (colonial bureaucrat).",
+    "conflict_and_stakes": "Traditional clan cohesion and personal honor versus imperial colonial subjugation and internal cultural faultlines.",
+    "structure": "Three-part tripartite tragedy: Part 1 (rich Igbo society), Part 2 (exile in Mbanta), Part 3 (return and colonial collapse).",
+    "scene_movement": "Umuofia compound, wrestling arena, oracle cave, exile village of Mbanta, colonial church and court.",
+    "dialogue": "Richly ornamented with Igbo proverbs ('proverbs are the palm-oil with which words are eaten').",
+    "setting": "Umuofia and surrounding Igbo villages in late 19th-century Nigeria.",
+    "style_and_devices": "Oral vernacular integration in English, tragic hamartia, proverb rhetoric, objective historical realism.",
+    "emotional_progression": "Triumphant martial ascent -> brittle rigidity -> tragic exile -> desperate resistance -> solitary despair.",
+    "suspense_or_anticipation": "Okonkwo's extreme hyper-masculinity repeatedly collides with clan taboos (Peace Week beating, killing Ikemefuna).",
+    "climax": "Okonkwo decapitates the colonial court messenger at clan meeting, realizes with horror that his people will not go to war.",
+    "ending": "Okonkwo hangs himself; District Commissioner coldly decides to give him 'almost a whole paragraph' in his colonial book.",
+    "conventions": "Aristotelian tragic arc fused seamlessly with African communal storytelling and oral poetics.",
+    "innovation_or_subversion": "Directly refutes colonial literature (such as Joyce Cary's *Mister Johnson*) by restoring sovereign African narrative voice.",
+    "critical_reception": "Landmark cornerstone of modern African literature; translated into over 50 languages.",
+    "audience_reception": "Globally revered masterpiece reshaping post-colonial world literature and education."
+  }
+}

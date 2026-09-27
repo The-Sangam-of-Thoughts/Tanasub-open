@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-foucault-history-sexuality-1978",
+  "title": "The History of Sexuality, Volume 1: An Introduction",
+  "creators": ["Michel Foucault", "Robert Hurley"],
+  "source_type": "scholarly-book",
+  "source_roles": ["recognition", "definition"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Pantheon Books",
+    "published_date": "1978",
+    "edition": "First American edition, trans. Robert Hurley (French original 1976)",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en", "fr"],
+  "regions": ["France", "United States", "Western Europe"],
+  "access": {
+    "locator": "https://search.worldcat.org/title/The-history-of-sexuality.-Volume-1-An-introduction/oclc/152402854",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "WorldCat and multiple scholarly reviews verified the volume and its 'Scientia Sexualis' argument that confession is a ritual discourse producing truth about the self."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-confession-truth-mode"],
+  "translation": {
+    "is_translation": true,
+    "original_language": "fr",
+    "translator": "Robert Hurley",
+    "limitations": ["English translation of Histoire de la sexualite; French conceptual vocabulary is partly naturalised."]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Monograph; analytical paraphrase only, no text reproduced."
+  }
+}

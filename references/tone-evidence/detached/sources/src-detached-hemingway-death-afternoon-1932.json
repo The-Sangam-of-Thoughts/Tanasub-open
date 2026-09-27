@@ -1,0 +1,41 @@
+{
+  "id": "src-detached-hemingway-death-afternoon-1932",
+  "title": "Death in the Afternoon",
+  "creators": ["Ernest Hemingway"],
+  "source_type": "practitioner-work",
+  "source_roles": ["recognition", "definition", "craft-support"],
+  "reliability_tier": 4,
+  "publication": {
+    "publisher_or_container": "Charles Scribner's Sons",
+    "published_date": "1932",
+    "edition": "First edition",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States", "Spain"],
+  "access": {
+    "locator": "Public-domain status not established; cited via published edition records",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-detached)",
+    "verification_notes": "The iceberg/theory-of-omission passage in Chapter 16 is widely documented and quoted in secondary sources; attributed quotation verified across multiple independent records. Practitioner craft doctrine, not peer-reviewed research."
+  },
+  "axis_ids": ["tone-detached"],
+  "claim_ids": ["clm-tone-detached-restraint-vs-absence"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scribner; doctrine paraphrased, short canonical phrase only."
+  }
+}

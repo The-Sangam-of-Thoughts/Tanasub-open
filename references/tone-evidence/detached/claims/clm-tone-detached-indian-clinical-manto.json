@@ -1,0 +1,36 @@
+{
+  "id": "clm-tone-detached-indian-clinical-manto",
+  "craft_claim": "Manto's clinical, declarative Urdu prose withholds affect at scenes of atrocity; the withheld response is recoverable from event and consequence, producing moral pressure rather than numbness.",
+  "tone_ids": ["tone-detached"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-detached-manto-selected-stories-2008",
+      "location": "Partition and street narratives, incl. the flat final-sentence closings",
+      "evidence_expression": "synthesis",
+      "note": "Manto renders communal violence in unadorned declaratives, denying sentimental comfort while leaving event and consequence legible, so the reader supplies the moral response."
+    },
+    {
+      "evidence_id": "work-detached-manto-selected-stories",
+      "location": "Partition narratives, e.g. the flat closing of a story after extreme violence",
+      "evidence_expression": "synthesis",
+      "note": "The primary work demonstrates the technique; the repository's own genres/satirical-literature.md Ch.07 independently names Manto's clinical detachment and quiet final sentence as craft mechanisms."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-detached-sontag-pain-of-others-2003",
+      "note": "Sustained clinical rendering of others' suffering risks numbing or voyeurism rather than moral pressure, so the effect is not guaranteed by technique alone."
+    }
+  ],
+  "scope": "Indian/regional narrative rendering atrocity and systemic violence.",
+  "exceptions": [
+    "Translation reduces the effect: English editions lose Urdu sociolinguistic register, so texture claims are scoped to the translation used."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/detached.md#8--cultural-scope",
+    "tones/detached.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

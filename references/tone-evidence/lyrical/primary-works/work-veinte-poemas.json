@@ -1,0 +1,34 @@
+{
+  "id": "work-veinte-poemas",
+  "title": "Veinte poemas de amor y una canción desesperada",
+  "creators": [
+    "Pablo Neruda"
+  ],
+  "work_type": "poetry collection",
+  "published_date": "1924",
+  "languages": [
+    "es"
+  ],
+  "regions": [],
+  "axis_ids": [
+    "tone-lyrical"
+  ],
+  "period_role": "canonical",
+  "source_id": null,
+  "access": {
+    "edition_or_version": "Spanish original, 1924; the dossier does not name a consulted edition",
+    "language_used": "es",
+    "translator": null,
+    "access_conditions": null
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "sound-sense fusion: patterned language carries the sense rather than decorating it",
+      "synaesthetic image fusing touch, taste, and sound in the early poems"
+    ],
+    "style_and_devices": "Neruda's early poems fuse touch, taste, and sound; technique described only, in line with the dossier's cross-cultural sound-sense account (dossier section D).",
+    "scope_note": "Region is not stated in the dossier and is recorded as [] rather than inferred; no edition, publisher, or page data was added.",
+    "verification_note": "Spanish original 1924 verified; described, not quoted (dossier section F)."
+  }
+}

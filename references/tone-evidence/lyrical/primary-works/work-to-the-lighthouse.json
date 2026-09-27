@@ -1,0 +1,37 @@
+{
+  "id": "work-to-the-lighthouse",
+  "title": "To the Lighthouse",
+  "creators": [
+    "Virginia Woolf"
+  ],
+  "work_type": "novel",
+  "published_date": "1927",
+  "languages": [
+    "en"
+  ],
+  "regions": [],
+  "axis_ids": [
+    "tone-lyrical"
+  ],
+  "period_role": "canonical",
+  "source_id": "src-lyrical-auerbach-mimesis-1946",
+  "access": {
+    "edition_or_version": "Novel, 1927; the dossier does not name a consulted edition",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": null
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "cadence-driven interiority: rhythm, not summary, carries the movement between minds",
+      "psychic-distance modulation achieved by rhythm rather than by explicit filtering",
+      "sound-patterning (vowel texture) recurrently aligned with the emotional key of a scene",
+      "long interior periodic sentences that place the stress-bearing word late"
+    ],
+    "point_of_view": "Multipersonal narration moving between characters' interiors within a paragraph (dossier section C-D).",
+    "rhythm_and_cadence": "Clause-length alternation and end-weight structure; the stress-bearing word arrives at the close of the sentence (dossier section D).",
+    "scope_note": "Region is not stated in the dossier and is recorded as [] rather than inferred; no edition, publisher, or page data was added.",
+    "verification_note": "Novel verified; technique corroborated by Auerbach 1946, 'The Brown Stocking'; described, not quoted (dossier section F)."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-elegiac-present-loss",
+  "craft_claim": "The elegiac voice locates loss and impermanence in the writer's present, holding what is gone as still active rather than as an idealized past.",
+  "tone_ids": ["tone-elegiac"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-sacks-english-elegy-1985",
+      "location": "Introduction, pp. 1-3",
+      "evidence_expression": "paraphrase",
+      "note": "Sacks defines the elegy as a poem of mortal loss and consolation whose conventions perform the task of mourning; the loss is worked in the present of the poem, not recalled as a finished past."
+    },
+    {
+      "evidence_id": "src-kennedy-elegy-2007",
+      "location": "Chapter 1, pp. 1-9",
+      "evidence_expression": "paraphrase",
+      "note": "Kennedy treats elegy as a continuing mode of present mourning and reflection on loss rather than a fixed historical form."
+    },
+    {
+      "evidence_id": "src-ramazani-poetry-mourning-1994",
+      "location": "Introduction and Chapter 1",
+      "evidence_expression": "paraphrase",
+      "note": "Ramazani shows modern elegies keeping grief live and unresolved in the present instead of converting it into a completed past."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-kennedy-elegy-2007",
+      "note": "The term 'elegiac' is also used loosely for any somber, past-regarding mood, which risks confusion with nostalgic."
+    }
+  ],
+  "scope": "Poetry, literary fiction, memoir, and personal essay; the claim concerns narrative tense and stance, not genre.",
+  "exceptions": [
+    "Poems that explicitly frame the loss as long finished and dwell on a golden past belong to tone-nostalgic, not tone-elegiac."
+  ],
+  "confidence": "strong",
+  "report_locations": ["tones/elegiac.md#1--definition-and-boundaries"],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

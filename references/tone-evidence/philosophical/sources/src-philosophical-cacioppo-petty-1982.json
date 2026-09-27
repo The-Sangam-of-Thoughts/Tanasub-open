@@ -1,0 +1,55 @@
+{
+  "id": "src-philosophical-cacioppo-petty-1982",
+  "title": "The Need for Cognition",
+  "creators": [
+    "John T. Cacioppo",
+    "Richard E. Petty"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Personality and Social Psychology, Vol. 42, No. 1",
+    "published_date": "1982",
+    "edition": null,
+    "doi": "10.1037/0022-3514.42.1.116",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://psycnet.apa.org/record/1982-22488-001",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-philosophical)",
+    "verification_notes": "Confirmed the construct definition (stable tendency to engage in and enjoy effortful cognition) and the 34-item scale origin; pagination and DOI cross-checked against the published record."
+  },
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "claim_ids": [
+    "clm-tone-philosophical-need-for-cognition"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical citation only."
+  }
+}

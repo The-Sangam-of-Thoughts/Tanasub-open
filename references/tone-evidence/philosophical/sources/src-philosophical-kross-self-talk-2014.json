@@ -1,0 +1,61 @@
+{
+  "id": "src-philosophical-kross-self-talk-2014",
+  "title": "Self-Talk as a Regulatory Mechanism: How You Do It Matters",
+  "creators": [
+    "Ethan Kross",
+    "Emma Bruehlman-Senecal",
+    "Jiyoung Park",
+    "Aleksandra Burson",
+    "Adrienne Dougherty",
+    "Holly Shablack",
+    "Ryan Bremner",
+    "Jeffrey Moser",
+    "Ozlem Ayduk"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Personality and Social Psychology, Vol. 106, No. 2",
+    "published_date": "2014",
+    "edition": null,
+    "doi": "10.1037/a0035173",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://pubmed.ncbi.nlm.nih.gov/24467424/",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-philosophical)",
+    "verification_notes": "Confirmed via citation records that non-first-person, distanced self-talk supports self-regulation; used as secondary support for the linguistic-shift mechanism."
+  },
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "claim_ids": [
+    "clm-tone-philosophical-self-distanced-thought"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical citation only."
+  }
+}

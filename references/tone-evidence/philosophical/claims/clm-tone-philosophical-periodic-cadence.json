@@ -1,0 +1,34 @@
+{
+  "id": "clm-tone-philosophical-periodic-cadence",
+  "craft_claim": "Periodic sentences and balanced antithesis slow the reading cadence so that an idea can be weighed rather than merely received.",
+  "tone_ids": [
+    "tone-philosophical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-philosophical-longinus-russell-1964",
+      "location": "On the Sublime, ch. 8 (sources of elevation) and chs. 16-23 (figures)",
+      "evidence_expression": "paraphrase",
+      "note": "Pseudo-Longinus ties grandeur to elevated thought organised by figured composition, including the arrangement of clauses and the use of question and antithesis — the rhetorical ancestry of the philosophical cadence."
+    },
+    {
+      "evidence_id": "clm-pacing-rhythm-syntax",
+      "location": "Shared claim (cross-link, read-only)",
+      "evidence_expression": "researcher-inference",
+      "note": "The repo's existing pacing claim already establishes syntax and rhythm as a control on reader tempo; the philosophical tone applies that control at the slower end. Cross-link, not independent support."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Essayistic and academic prose, oratory, and contemplative passages in fiction.",
+  "exceptions": [
+    "The cadence must yield at stakes-peaks; a periodic sentence over a crisis reads as stalling.",
+    "Acoustic claims about Greek or French rhythm require the original language and are not asserted here."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/philosophical.md#5--how-to-use-it--operators",
+    "tones/philosophical.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "src-warm-ghalib-letters-2022",
+  "title": "Urdu Letters of Mirza Asadullah Khan Ghalib (Khutoot-e-Ghalib)",
+  "creators": [
+    "Mirza Asadullah Khan Ghalib",
+    "Daud Rahbar (translator)"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "craft-support",
+    "indian-context"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Dev Publishers & Distributors (Rahbar translation); letters written 19th century",
+    "published_date": "2022",
+    "edition": "Rahbar translation, with a contribution by Annemarie Schimmel",
+    "doi": null,
+    "isbn": "978-9394852015"
+  },
+  "languages": [
+    "ur",
+    "fa",
+    "en"
+  ],
+  "regions": [
+    "India",
+    "Delhi",
+    "Mughal Empire"
+  ],
+  "access": {
+    "locator": "https://www.britannica.com/biography/Mirza-Ghalib",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-warm)",
+    "verification_notes": "Confirmed Ghalib's Urdu letters and their role in replacing the formal mursala convention with a conversational register; Britannica and Wikipedia records corroborate the informal, humorous, talk-like style and the Rahbar translation. Technique described, no text reproduced."
+  },
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "claim_ids": [
+    "clm-tone-warm-indian-sakhya-conversational"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "ur",
+    "translator": "Daud Rahbar",
+    "limitations": [
+      "Ghalib's register depends on Rekhta/Urdu idiom and Persianised wordplay that English versions flatten; some meaning is irrecoverable in translation."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Modern translation copyrighted; original Urdu letters public domain; analytical citation only."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "work-milton-lycidas-1638",
+  "title": "Lycidas",
+  "creators": ["John Milton"],
+  "work_type": "poem",
+  "published_date": "1638",
+  "languages": ["en"],
+  "regions": ["United Kingdom", "England"],
+  "axis_ids": ["tone-elegiac"],
+  "period_role": "formative",
+  "source_id": "src-lambert-placing-sorrow-1976",
+  "access": {
+    "edition_or_version": "First published 1638 in Justa Edouardo King; public-domain text",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "pastoral framing: shepherd, flock, and landscape as vehicles of mourning",
+      "flower catalogue and seasonal decay as imagery of untimely death",
+      "the elegiac turn: grief moves through anger and questioning to a final consolation",
+      "apostrophe to the drowned friend and to pastoral figures",
+      "formal control that keeps strong feeling from spilling into display"
+    ],
+    "emotional_progression": "Invocation and grief -> bitter questioning of fate and vocation -> pastoral lament -> turn to consolation and acceptance.",
+    "point_of_view": "First-person pastoral speaker in a conventional shepherd role.",
+    "rhythm_and_cadence": "Irregular pastoral measures with a strong final movement toward calm; the close resolves the poem's turbulence.",
+    "psychic_distance": "Convention provides distance: the shepherd mask lets the poem mourn publicly without direct confession.",
+    "style_and_devices": "Pastoral elegy conventions (Theocritus to Milton): shepherd, flower, water, and the compensatory turn. Verified as the standard pastoral-elegy paradigm via Lambert 1976.",
+    "copyright_note": "Public domain. Described by technique only; no passage reproduced."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "src-lyrical-reber-fluency-2004",
+  "title": "Processing Fluency and Aesthetic Pleasure: Is Beauty in the Perceiver's Processing Experience?",
+  "creators": [
+    "Rolf Reber",
+    "Norbert Schwarz",
+    "Piotr Winkielman"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Personality and Social Psychology Review, Vol. 8, No. 4",
+    "published_date": "2004",
+    "edition": null,
+    "doi": "10.1207/s15327957pspr0804_3",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "Switzerland"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1207/s15327957pspr0804_3",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-lyrical)",
+    "verification_notes": "Bibliographic record and abstract verified via Crossref; theory confirmed: processing ease is experienced as positive affect and misattributed to the stimulus, with fluency raised by repetition, prototypicality, symmetry, and clarity of form."
+  },
+  "axis_ids": [
+    "tone-lyrical"
+  ],
+  "claim_ids": [
+    "clm-tone-lyrical-fluency-pleasure",
+    "clm-tone-lyrical-purple-prose-failure",
+    "clm-tone-lyrical-dosage-yield"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Peer-reviewed article; analytical citation only; no text reproduced."
+  }
+}

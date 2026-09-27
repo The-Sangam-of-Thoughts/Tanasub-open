@@ -1,0 +1,34 @@
+{
+  "id": "clm-tone-intimate-disclosure-risk-boundaries",
+  "craft_claim": "Disclosure is regulated by privacy boundaries and role expectations and carries real risk; disclosures that violate audience expectations can trigger discomfort or status penalties rather than closeness.",
+  "tone_ids": ["tone-intimate"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-intimate-petronio-boundaries-2002",
+      "location": "Boundaries of Privacy, chapters 1-5 on privacy rule foundations and boundary turbulence",
+      "evidence_expression": "paraphrase",
+      "note": "Disclosure is a dialectic managed through privacy rules; disclosed information becomes co-owned, and unmet boundary expectations produce turbulence, betrayal, and regret."
+    },
+    {
+      "evidence_id": "src-intimate-gibson-when-sharing-hurts-2018",
+      "location": "Organizational Behavior and Human Decision Processes 144: 25-43, three laboratory experiments",
+      "evidence_expression": "paraphrase",
+      "note": "Higher-status disclosers of weakness experienced a status penalty that undermined influence, because the disclosure violated role expectations."
+    },
+    {
+      "evidence_id": "src-intimate-collins-miller-1994",
+      "location": "Psychological Bulletin 116(3): 457-475, moderators of the disclosure-liking relation",
+      "evidence_expression": "paraphrase",
+      "note": "The disclosure-liking relation is moderated by paradigm, disclosure type, and discloser characteristics, so the positive effect is conditional rather than universal."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Addressed disclosure in workplace, institutional, public, and authority contexts.",
+  "exceptions": [
+    "Equal-status peer relationships where weakness disclosure does not violate role expectations."
+  ],
+  "confidence": "strong",
+  "report_locations": ["tones/intimate.md#4--when-to-show-restraint", "tones/intimate.md#7--failure-modes-and-revision"],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

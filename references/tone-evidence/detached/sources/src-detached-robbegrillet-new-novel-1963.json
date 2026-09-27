@@ -1,0 +1,43 @@
+{
+  "id": "src-detached-robbegrillet-new-novel-1963",
+  "title": "Pour un nouveau roman (For a New Novel: Essays on Fiction)",
+  "creators": ["Alain Robbe-Grillet", "Richard Howard"],
+  "source_type": "practitioner-work",
+  "source_roles": ["recognition", "definition", "craft-support"],
+  "reliability_tier": 4,
+  "publication": {
+    "publisher_or_container": "Les Éditions de Minuit; English by Grove Press / Northwestern University Press",
+    "published_date": "1963",
+    "edition": "English translation 1965 (Grove); Northwestern reissue 1989",
+    "doi": null,
+    "isbn": "978-0810108219"
+  },
+  "languages": ["en", "fr"],
+  "regions": ["France", "United States"],
+  "access": {
+    "locator": "https://nupress.northwestern.edu/9780810108219/for-a-new-novel/",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-detached)",
+    "verification_notes": "Publisher record confirms the essay collection and its argument for a neutral registering of sensations and things; the 'chosisme' label was applied by critics (notably Barthes) and was partly rejected by Robbe-Grillet."
+  },
+  "axis_ids": ["tone-detached"],
+  "claim_ids": ["clm-tone-detached-cross-cultural-objectivity"],
+  "translation": {
+    "is_translation": true,
+    "original_language": "fr",
+    "translator": "Richard Howard",
+    "limitations": [
+      "The critical term 'chosisme' (thing-ism) is an interpretation Robbe-Grillet disputed; the record uses his own essay claims, not the label."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Minuit / Northwestern University Press; paraphrase only."
+  }
+}

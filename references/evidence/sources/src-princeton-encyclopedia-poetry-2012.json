@@ -1,0 +1,57 @@
+{
+  "id": "src-princeton-encyclopedia-poetry-2012",
+  "title": "The Princeton Encyclopedia of Poetry and Poetics",
+  "creators": [
+    "Roland Greene",
+    "Stephen Cushman",
+    "Clare Cavanagh",
+    "Jahan Ramazani",
+    "Paul Rouzer"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "definition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Princeton University Press",
+    "published_date": "2012",
+    "edition": "4th ed.",
+    "doi": null,
+    "isbn": "9780691154916"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "global"
+  ],
+  "access": {
+    "locator": "Princeton University Press / Academic Library access",
+    "accessed_at": "2026-09-12",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-12T10:30:00Z",
+    "verified_by": "Codex S04 taxonomy harvest agent",
+    "verification_notes": "Verified entries on classical and modern poetic and narrative forms and traditions."
+  },
+  "axis_ids": [
+    "axis-pastoral-literature",
+    "axis-satirical-literature"
+  ],
+  "claim_ids": [],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Copyright Princeton University Press; reference citations only."
+  }
+}

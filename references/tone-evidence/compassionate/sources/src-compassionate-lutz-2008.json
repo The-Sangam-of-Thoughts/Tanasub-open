@@ -1,0 +1,52 @@
+{
+  "id": "src-compassionate-lutz-2008",
+  "title": null,
+  "creators": [
+    "Lutz"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "PLoS ONE, vol. 3, no. 3, e1897",
+    "published_date": "2008",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [],
+  "access": {
+    "locator": null,
+    "accessed_at": "2026-09-24",
+    "access_conditions": null
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": null,
+    "verified_by": "Tone Layer researcher (tone-compassionate)",
+    "verification_notes": "Citation recorded from the dossier claims matrix and section E: Lutz et al. (2008) find compassion meditation alters emotional reactivity and is associated with prosociality, consistent with the tradition's claim that compassion is trainable. The dossier states no article title, co-creators' names, DOI, region, or verification, so those fields are null/empty; creators lists only the surname the dossier names."
+  },
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "claim_ids": [
+    "clm-tone-compassionate-buddhist-karuna-universal"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Journal article; analytical citation only; dossier states no license terms, so no repository copy is claimed."
+  }
+}

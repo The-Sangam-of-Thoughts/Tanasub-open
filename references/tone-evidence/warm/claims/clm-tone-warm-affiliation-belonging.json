@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-warm-affiliation-belonging",
+  "craft_claim": "Affiliative address recruits the human need to belong; positioning the reader as an accepted conversational partner is intrinsically rewarding and sustains attention.",
+  "tone_ids": [
+    "tone-warm"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-warm-baumeister-leary-1995",
+      "location": "Psychological Bulletin 117(3):497-529",
+      "evidence_expression": "synthesis",
+      "note": "Review concludes the need to form and maintain frequent, non-aversive relationships within an ongoing bond is a powerful, fundamental and pervasive motivation with broad effects on emotion and cognition."
+    },
+    {
+      "evidence_id": "src-warm-horton-wohl-1956",
+      "location": "Psychiatry 19(3):215-229",
+      "evidence_expression": "paraphrase",
+      "note": "Mass media generate an 'illusion of face-to-face relationship' in which remote figures are met as if in the circle of one's peers, satisfying social needs at a distance."
+    },
+    {
+      "evidence_id": "work-bird-by-bird",
+      "location": "Bird by Bird (1994), instructional chapters",
+      "evidence_expression": "synthesis",
+      "note": "Lamott consistently addresses the reader as a fellow anxious writer within a shared ongoing enterprise, an observable instance of turning a reader into a member rather than a target."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-warm-baumeister-leary-1995",
+      "note": "The need is for interactions within an ongoing bond; a single warm passage does not by itself create belonging, so the effect depends on sustained relationship cues."
+    }
+  ],
+  "scope": "Reader-directed prose across forms; strongest in serial or recurring formats where a relationship can accumulate.",
+  "exceptions": [
+    "Audiences in acute distress may experience simulated closeness as false or intrusive rather than rewarding."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/warm.md#2--why-it-works--the-mechanism",
+    "tones/warm.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

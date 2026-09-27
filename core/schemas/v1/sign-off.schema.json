@@ -1,0 +1,35 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://creative-writing-library.local/schemas/v1/sign-off.schema.json",
+  "title": "Review Sign-Off",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["signoff_id", "scope_type", "scope_id", "preparer", "independent_reviewer", "human_gate_reviewer", "decided_at", "status", "blocking_findings", "evidence_paths", "notes"],
+  "properties": {
+    "signoff_id": {"type": "string", "pattern": "^signoff-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+    "scope_type": {"enum": ["sprint", "gate", "package", "family", "release"]},
+    "scope_id": {"type": "string", "minLength": 1},
+    "preparer": {"type": "string", "minLength": 1},
+    "independent_reviewer": {"type": "string", "minLength": 1},
+    "human_gate_reviewer": {"type": ["string", "null"], "minLength": 1},
+    "decided_at": {"type": "string", "format": "date-time"},
+    "status": {"enum": ["pass", "fail"]},
+    "blocking_findings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["finding_id", "severity", "summary", "owner", "due_date"],
+        "properties": {
+          "finding_id": {"type": "string", "pattern": "^finding-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+          "severity": {"enum": ["critical", "high", "medium", "low"]},
+          "summary": {"type": "string", "minLength": 1},
+          "owner": {"type": "string", "minLength": 1},
+          "due_date": {"type": "string", "format": "date"}
+        }
+      }
+    },
+    "evidence_paths": {"type": "array", "items": {"type": "string", "minLength": 1}, "minItems": 1, "uniqueItems": true},
+    "notes": {"type": "string"}
+  }
+}

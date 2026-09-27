@@ -1,0 +1,41 @@
+{
+  "id": "clm-rasa-emotional-aesthetic",
+  "craft_claim": "Sustained audience absorption relies on an overarching dominant aesthetic emotion (sthayi bhava / rasa) into which transient emotional states resolve.",
+  "axis_ids": [
+    "axis-nataka-drama",
+    "axis-prakarana-drama",
+    "axis-romance-fiction"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-natyashastra-ghosh-1951",
+      "location": "Chapter 6: The Sentiments (Rasa), pp. 100-118",
+      "evidence_expression": "quotation",
+      "note": "Bharata explains that no meaning can proceed without rasa: the combination of vibhava, anubhava, and vyabhicaribhava produces emotional relish."
+    },
+    {
+      "evidence_id": "src-anandavardhana-dhvanyaloka-1990",
+      "location": "Uddyota 1, Verses 4-8",
+      "evidence_expression": "paraphrase",
+      "note": "Anandavardhana establishes that rasa-dhvani (suggested emotion) represents the highest tier of poetic resonance."
+    },
+    {
+      "evidence_id": "work-abhijnanasakuntalam",
+      "location": "Acts 1 through 7",
+      "evidence_expression": "synthesis",
+      "note": "The entire drama is unified by Sringara rasa, where transient fear, anger, and grief are resolved into transcendent aesthetic love."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Applies across Indian dramatic poetics and global dramatic and narrative emotional design.",
+  "exceptions": [
+    "Brechtian epic theatre or alienation aesthetics designed to actively disrupt emotional absorption."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "03-reader-promise-and-emotional-engine.md#reader-promise-and-emotional-engine-preferred_label",
+    "09-emotion-tension-suspense-and-pacing.md#emotion-tension-suspense-and-pacing-preferred_label"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-12"
+}

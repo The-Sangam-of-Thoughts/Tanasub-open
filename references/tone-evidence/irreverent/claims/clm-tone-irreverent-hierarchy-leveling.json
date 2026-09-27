@@ -1,0 +1,61 @@
+{
+  "id": "clm-tone-irreverent-hierarchy-leveling",
+  "craft_claim": "Irreverence derives its charge from collapsing a status or sanctity gap in the moment — the elevated register is made to stand at the audience's level — rather than from arguing against it.",
+  "tone_ids": [
+    "tone-irreverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-irreverent-bakhtin-rabelais-1968",
+      "location": "p. 10 carnival framing paragraph",
+      "evidence_expression": "paraphrase",
+      "note": "The carnival frame temporarily inverts rank, bringing the lofty down for a defined duration before ordinary hierarchy resumes."
+    },
+    {
+      "evidence_id": "src-irreverent-nohgaku-kyogen-guide",
+      "location": "Official kyōgen guide page",
+      "evidence_expression": "paraphrase",
+      "note": "Kyōgen stages a servant defying a master and an arrogant authority figure made ridiculous, inside the sanctioned slot of the nō program — status collapse performed, not argued."
+    },
+    {
+      "evidence_id": "src-irreverent-marzolph-nasreddin-1996",
+      "location": "Oriente Moderno 76(2):485-498, title/metadata level",
+      "evidence_expression": "paraphrase",
+      "note": "The article's framing positions the folk figure Nasreddin as the humorous antagonist of the powerful Timur — a documented non-Anglophone tradition of teasing the mighty."
+    },
+    {
+      "evidence_id": "src-irreverent-kabir-tagore-1915",
+      "location": "Introduction p. xvi; Poem XXI pp. 28-29; Poems LXV-LXVII pp. 68-71; Poem LXIX pp. 72-73",
+      "evidence_expression": "paraphrase",
+      "note": "Kabir's verses drag priestly costume, ritual bath, rosary, and idol down to the level of seen-through performance — the sanctity gap collapsed through ridicule rather than refutation."
+    },
+    {
+      "evidence_id": "src-irreverent-burton-vikram-1870",
+      "location": "Frame verified via Project Gutenberg ebook #2400 record; tales not inspected",
+      "evidence_expression": "researcher-inference",
+      "note": "The riddle-cycle frame licenses a reanimated corpse's repeated impertinence toward a sovereign — a structural device for leveling royal omniscience (frame-level support only; analysis_status partial)."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-irreverent-hobbes-leviathan-1651",
+      "note": "Hobbes's 'sudden glory' account makes laughter an assertion of superiority over its object — mockery can ENACT rank rather than level it, so the same deflation can be read as putting the target down instead of bringing them across."
+    },
+    {
+      "evidence_id": "src-irreverent-bitterly-status-2017",
+      "note": "Norm-violating humor lowers the speaker's own status in the audience's eyes — leveling attempts can backfire into status loss for the leveller when the frame is wrong."
+    }
+  ],
+  "scope": "Momentary status collapse of an elevated register (office, ceremony, sanctity, self-importance) inside a comic frame; it is a claim about the reader's felt experience of the moment, not about political outcomes.",
+  "exceptions": [
+    "No evidence reviewed shows that literary deflation changes power relations; claims of real-world leveling would be evidence-incomplete.",
+    "When the leveller is perceived as punching down, the mechanism inverts into hierarchy enforcement (see clm-tone-irreverent-prejudiced-norm-backfire)."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/irreverent.md#2--why-it-works--the-mechanism",
+    "tones/irreverent.md#8--cultural-scope"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

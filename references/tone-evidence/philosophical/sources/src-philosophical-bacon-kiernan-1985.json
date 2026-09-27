@@ -1,0 +1,54 @@
+{
+  "id": "src-philosophical-bacon-kiernan-1985",
+  "title": "The Essayes or Counsels, Civill and Morall (The Oxford Francis Bacon, Vol. 15)",
+  "creators": [
+    "Francis Bacon",
+    "Michael Kiernan"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Clarendon Press, Oxford",
+    "published_date": "1985",
+    "edition": "Critical edition of the Essays (1597; enl. 1612, 1625)",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "England"
+  ],
+  "access": {
+    "locator": "https://global.oup.com/academic/product/the-oxford-francis-bacon-9780198127819",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-philosophical)",
+    "verification_notes": "Confirmed the Essays appeared 1597 (10 essays) and expanded to 58 by 1625, and that Bacon's style ranges from plain to epigrammatic and aphoristic; used as a documented exemplar of compressed sententious form."
+  },
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "claim_ids": [
+    "clm-tone-philosophical-aphorism-compression"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": false,
+    "notes": "Bacon's text public domain; modern critical edition copyrighted; no passages reproduced."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "clm-tone-reverent-failure-borrowed-gravity",
+  "craft_claim": "Applying sacred register to a non-sacred or mastered object produces false solemnity and unearned profundity; abstraction and vagueness are not depth signals and can be exposed by paraphrase.",
+  "tone_ids": [
+    "tone-reverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-reverent-pennycook-pseudo-profound-2015",
+      "location": "Judgment and Decision Making 10(6):549-563, Studies 1-4",
+      "evidence_expression": "synthesis",
+      "note": "Participants rated syntactically well-formed but semantically empty 'bullshit' statements as profound, with low reflectiveness predicting receptivity; genuine profundity was distinguishable from pseudo-profound stimuli."
+    },
+    {
+      "evidence_id": "clm-melodrama-unearned-emotion",
+      "location": "Shared claim: unearned emotion exceeds established stakes",
+      "evidence_expression": "synthesis",
+      "note": "Borrowed gravity is the register-level parallel of melodrama: the emotional demand exceeds what the material establishes."
+    },
+    {
+      "evidence_id": "src-reverent-gordon-2017",
+      "location": "JPSP, threat-based awe",
+      "evidence_expression": "synthesis",
+      "note": "When awe is manufactured by power and fear rather than earned by a compelling object, it shades into threat rather than reverence."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Failure mode §G; feeds card §7.",
+  "exceptions": [
+    "Genre frames that knowingly foreground pomp (camp, satire, pastiche) may use borrowed gravity as a deliberate effect."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/reverent.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

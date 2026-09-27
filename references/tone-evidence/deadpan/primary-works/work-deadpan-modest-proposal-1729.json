@@ -1,0 +1,19 @@
+{
+  "id": "work-deadpan-modest-proposal-1729",
+  "axis_ids": ["tone-deadpan"],
+  "source_type": "primary-work",
+  "title": "A Modest Proposal",
+  "creators": ["Jonathan Swift"],
+  "publication": {
+    "publisher": "S. Harding",
+    "publication_year": 1729,
+    "pages": "16 pp."
+  },
+  "identifiers": {"gutenberg": "1080"},
+  "tier": 1,
+  "analysis_status": "complete",
+  "tone_mechanism": "Sustained fiscal-bureaucratic cataloguing: itemized pricing, administrative clauses, and cost-benefit syntax held at zero tonal break for the whole essay. The narrator's register-stasis (record-keeper voice) never reacts to the horror of the content; the gap between catalog rhythm and subject matter is the entire comic-satirical engine. No wink, no hedge, no reframe.",
+  "verification_note": "Identity verified 2026-09-24 (1729, S. Harding, 16 pp.; Project Gutenberg eBook #1080). PD text available; technique described rather than reproduced. Deadpan-prefixed ID to avoid collision with any shared 'modest proposal' record (the genres file references a dangling [@work-a-modest-proposal] shared ID which this silo does not adopt or edit).",
+  "copyright_note": "Public domain (1729). Short fragments quotable; no reproduction is needed for the card — describe the technique.",
+  "used_by_claims": ["clm-tone-deadpan-incongruity-gap"]
+}

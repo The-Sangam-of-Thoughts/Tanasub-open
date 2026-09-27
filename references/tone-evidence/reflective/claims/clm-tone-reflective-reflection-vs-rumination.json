@@ -1,0 +1,36 @@
+{
+  "id": "clm-tone-reflective-reflection-vs-rumination",
+  "craft_claim": "The reflective tone must retain the qualities psychology attaches to reflection — coherent, curious, purposeful self-examination — and avoid those attached to rumination and brooding — repetitive, self-critical cycling that resolves nothing — because unresolved cycling reads to readers as navel-gazing.",
+  "tone_ids": ["tone-reflective"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-reflective-trapnell-campbell-1999",
+      "location": "Journal of Personality and Social Psychology 76(2):284-304; Rumination-Reflection Questionnaire factor analysis and personality correlates",
+      "evidence_expression": "paraphrase",
+      "note": "Distinguishes two facets of private self-consciousness: reflection (coherent, purposeful, interested self-examination, associated with openness) and rumination (uncertain, self-critical, repetitive examination, associated with neuroticism); they load separately and predict differently."
+    },
+    {
+      "evidence_id": "src-reflective-treynor-nolenhoeksema-2003",
+      "location": "Cognitive Therapy and Research 27(3):247-259; factor analysis and one-year longitudinal follow-up",
+      "evidence_expression": "paraphrase",
+      "note": "Splits the Ruminative Responses Scale into brooding (passive, self-critical comparison) and reflection (purposeful, problem-focused inwardness); over one year brooding predicted increases in depressive symptoms while reflection predicted decreases."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-reflective-treynor-nolenhoeksema-2003",
+      "note": "Inwardness as measured is a mixed facet: the same posture functions as benign reflection only when a question is actually being worked, and as brooding when it is not. The craft boundary is movement, not posture — which means 'reflective' cannot be defined by first-person volume alone."
+    }
+  ],
+  "scope": "Voice quality of sustained first-person introspection in any form; the governing diagnostic for the tone's signature failure.",
+  "exceptions": [
+    "Works that deliberately model rumination (trauma narratives, depressive first person) are exempt when the cycling is the character's condition and the narration marks it as such; the card's diagnostic governs the work's default narration."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/reflective.md#7--failure-modes-and-revision",
+    "tones/reflective.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

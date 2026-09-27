@@ -1,0 +1,55 @@
+{
+  "id": "src-deadpan-berlyne-aesthetics-1971",
+  "title": "Aesthetics and Psychobiology",
+  "creators": [
+    "Daniel E. Berlyne"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "counterevidence"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Appleton-Century-Crofts",
+    "published_date": "1971",
+    "edition": "xiv + 336 pp.",
+    "doi": null,
+    "isbn": "0390086703"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Canada",
+    "United States"
+  ],
+  "access": {
+    "locator": "Library record (LCCN 70165204)",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-deadpan)",
+    "verification_notes": "Bibliographic data (Appleton-Century-Crofts; Century Psychology Series; xiv+336; ISBN 0390086703; LCCN 70165204) verified via OpenLibrary on 2026-09-24. TOC/page-level locators were NOT verified (e-book TOC retrieval failed) — cited at book level only; evidence-incomplete item 4 in dossier.md §I. Collative-variable/novelty-arousal account supports the saturation claim; the inverted-U curve is itself recorded as counterevidence (uneven empirical replication). Related: Konečni's 1978 obituary (AJP 91(1):133–137) noted but no separate record created."
+  },
+  "axis_ids": [
+    "tone-deadpan"
+  ],
+  "claim_ids": [
+    "clm-tone-deadpan-saturation-dosage"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "1971 scholarly monograph; cited at book level only (page-level locators unverified), paraphrased with the replication caveat recorded above."
+  }
+}

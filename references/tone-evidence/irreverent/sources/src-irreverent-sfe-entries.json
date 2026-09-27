@@ -1,0 +1,53 @@
+{
+  "id": "src-irreverent-sfe-entries",
+  "title": "The Encyclopedia of Science Fiction (4th edition): entries 'Adams, Douglas', 'Pratchett, Terry', and 'Rabelais, François'",
+  "creators": [
+    "John Clute",
+    "David Langford"
+  ],
+  "source_type": "reference-work",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 3,
+  "publication": {
+    "publisher_or_container": "sf-encyclopedia.com (4th edition, ongoing)",
+    "published_date": "n.d.",
+    "edition": "4th edition; site and content © 2011-2026 John Clute & David Langford (site footer)",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://sf-encyclopedia.com/entry/adams_douglas ; https://sf-encyclopedia.com/entry/pratchett_terry ; https://sf-encyclopedia.com/entry/rabelais_francois",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "All three entries fetched on 2026-09-24 (HTTP 200): the Adams entry confirms the 1979 Pan first book publication, the 1978 six-episode radio series, and the work's satirically characterized premise; the Pratchett entry confirms Mort (London: Victor Gollancz, 1987); the Rabelais entry was fetched for tradition context. A proposed 'Wu Cheng'en' entry returned 404 and is recorded as a gap (Journey to the West is covered through src-irreverent-yu-journey-2012 instead). Editor identities verified from the site footer (© John Clute & David Langford)."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Reference-work entries in copyright; paraphrased only."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-reverent-rasa-dhvani-suggestion",
+  "craft_claim": "Sacred resonance is carried by suggested meaning (dhvani) resolving into a dominant aesthetic emotion (rasa); stating the sacred proposition literally weakens the effect that suggestion produces.",
+  "tone_ids": [
+    "tone-reverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-natyashastra-ghosh-1951",
+      "location": "Chapter 6: The Sentiments (Rasa), pp. 100-118",
+      "evidence_expression": "paraphrase",
+      "note": "Bharata holds that no meaning proceeds without rasa, produced by the combination of determinants, consequents, and transient states organized under a dominant state."
+    },
+    {
+      "evidence_id": "src-anandavardhana-dhvanyaloka-1990",
+      "location": "Uddyota 1, Verses 4-8",
+      "evidence_expression": "paraphrase",
+      "note": "Anandavardhana establishes dhvani (suggested meaning) as the soul of poetry, surpassing literal statement and metaphor."
+    },
+    {
+      "evidence_id": "src-reverent-rupa-goswami-brs",
+      "location": "Bhaktirasamrtasindhu, bhakti-rasa",
+      "evidence_expression": "synthesis",
+      "note": "Rupa Goswami extends rasa theory to devotion, making bhakti the dominant relish with the deity as object."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-reverent-katz-franz-2026",
+      "note": "Cross-cultural evidence for such aesthetic categories is uneven; the claim is scoped to Indic poetics and analogous suggestional traditions, not asserted as a universal law of prose."
+    }
+  ],
+  "scope": "Figuration and suggestion operators; cross-link shared clm-rasa-emotional-aesthetic and clm-dhvani-suggestion-theory.",
+  "exceptions": [
+    "Technical, creedal, and instructional texts may state propositions directly; suggestion is a craft choice, not a rule for all sacred writing."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/reverent.md#2--why-it-works--the-mechanism",
+    "tones/reverent.md#8--cultural-scope"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

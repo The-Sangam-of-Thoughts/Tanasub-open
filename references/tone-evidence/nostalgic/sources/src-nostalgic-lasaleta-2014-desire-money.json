@@ -1,0 +1,56 @@
+{
+  "id": "src-nostalgic-lasaleta-2014-desire-money",
+  "title": "Nostalgia Weakens the Desire for Money",
+  "creators": [
+    "Jannine D. Lasaleta",
+    "Constantine Sedikides",
+    "Kathleen D. Vohs"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Consumer Research, Vol. 41, No. 3",
+    "published_date": "2014",
+    "edition": "pp. 713-729",
+    "doi": "10.1086/677227",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1086/677227",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-nostalgic)",
+    "verification_notes": "Citation (journal, volume, issue, pages, year, DOI) and abstract-level findings - six experiments in which feeling nostalgic decreased the desire for money (greater willingness to pay, more generous parting with money, lower valuation of money, less effort to obtain it), with process evidence tying the effect to social connectedness - verified via University of Chicago Press/OMICS and indexing records on web search 2026-09-24. Full text not accessed."
+  },
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "claim_ids": [
+    "clm-tone-nostalgic-consumption-ethics"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Journal of Consumer Research article; abstract-level citation only, no reproduction."
+  }
+}

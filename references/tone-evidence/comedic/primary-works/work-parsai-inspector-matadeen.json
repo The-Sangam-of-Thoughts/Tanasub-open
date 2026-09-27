@@ -1,0 +1,53 @@
+{
+  "id": "work-parsai-inspector-matadeen",
+  "title": "Inspector Matadeen on the Moon and Other Satires",
+  "creators": [
+    "Harishankar Parsai",
+    "C. M. Naim"
+  ],
+  "work_type": "short-story-collection",
+  "published_date": "1994",
+  "languages": [
+    "en",
+    "hi"
+  ],
+  "regions": [
+    "India",
+    "Madhya Pradesh"
+  ],
+  "axis_ids": [
+    "tone-comedic"
+  ],
+  "period_role": "modern-canonical",
+  "source_id": "src-comedic-suls-1972",
+  "access": {
+    "edition_or_version": "Manas Books, 1994; reissued Katha Press, 2003; translated by C. M. Naim",
+    "language_used": "en",
+    "translator": "C. M. Naim",
+    "access_conditions": "library"
+  },
+  "analysis_status": "translation-mediated",
+  "mechanics": {
+    "premise": "Selected comic-satirical stories and sketches in which ordinary, stolid characters are placed in bureaucratic, mystical, or supernatural situations that expose social absurdity.",
+    "reader_promise": "Direct, plain-style Hindi comedy with a sharp critical edge, often built on a deadpan bureaucratic tone.",
+    "opening": "Stories often open with a flat, matter-of-fact situation whose normalcy the narrator maintains even as events become absurd.",
+    "point_of_view": "A plain, unpretentious narrator who reports absurdity without surprise, holding comic distance.",
+    "character_system": "Bureaucrats, clerks, mystics, and ordinary citizens whose literal-mindedness drives the comedy.",
+    "conflict_and_stakes": "Everyday social and institutional pressure, inflated into absurd consequence by the characters' logic.",
+    "structure": "The comic-satirical short story: a single literal premise pursued to an absurd, often grimly funny, conclusion.",
+    "comic_system": "Mundane and bureaucratic imagery against a high or supernatural subject; mock-formal escalation; understatement.",
+    "dialogue": "Plain modern Hindi speech registers; translation limits claims about idiom and wordplay.",
+    "setting": "Twentieth-century Indian civic, rural, and bureaucratic life.",
+    "style_and_devices": "Concrete low-register imagery against elevated subject (D9); mock-formal escalation (D2); understatement.",
+    "emotional_progression": "Normalcy -> literal pursuit -> absurd escalation -> dry, sometimes bleak, punchline.",
+    "comic_escalation": "Heightens one bureaucratic or logical rule to its extreme.",
+    "climax": "The literal logic reaches an absurd extreme.",
+    "ending": "A terse comic-satirical turn that exposes the absurdity.",
+    "conventions": "Central to the modern Hindi vyangya (satirical) tradition; Parsai is described as having revolutionised Hindi satire.",
+    "innovation_or_subversion": "Applies a plain, unadorned style to high absurdity, using bureaucratic register as the vehicle of comedy.",
+    "critical_reception": "Parsai won the Sahitya Akademi Award (1982) for Viklaang Shraddha ka Daur; his work is widely taught and anthologised.",
+    "audience_reception": "Adapted for television and included in Indian school curricula; a continuing popular presence.",
+    "translation_note": "Technique is assessed from C. M. Naim's English renderings; original-language idiom and wordplay are not claimed.",
+    "boundary_note": "Parsai is strongly satirical as well as comic; the record is used for comic mechanism, not as evidence of targetless comedy."
+  }
+}

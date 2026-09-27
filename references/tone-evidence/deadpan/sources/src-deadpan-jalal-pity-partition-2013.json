@@ -1,0 +1,56 @@
+{
+  "id": "src-deadpan-jalal-pity-partition-2013",
+  "title": "The Pity of Partition: Manto, the Great Migration, and the Testimony of Literature",
+  "creators": [
+    "Ayesha Jalal"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "indian-context",
+    "recognition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Princeton University Press",
+    "published_date": "2013",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "India",
+    "Pakistan",
+    "South Asia"
+  ],
+  "access": {
+    "locator": "Library record: The Pity of Partition (Princeton University Press, 2013)",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-deadpan)",
+    "verification_notes": "Scholarly study of Manto and partition testimony; used as contextual support for the clinical-reportage register's historical substrate (documentary/reportorial narration of catastrophe), not as a craft instruction source. Publisher/year standard bibliographic data (Princeton UP, 2013); page-level locators not re-verified this session. Also the scholarly anchor connecting the Jalal editorial framing of Manto's English 'Selected Stories' (see src-deadpan-manto-selected-stories-2008 imprint note)."
+  },
+  "axis_ids": [
+    "tone-deadpan"
+  ],
+  "claim_ids": [
+    "clm-tone-deadpan-clinical-reportage"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Princeton University Press monograph; citation and paraphrase only."
+  }
+}

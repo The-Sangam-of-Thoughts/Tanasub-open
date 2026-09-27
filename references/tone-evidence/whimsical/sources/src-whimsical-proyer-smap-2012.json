@@ -1,0 +1,58 @@
+{
+  "id": "src-whimsical-proyer-smap-2012",
+  "title": "Development and initial assessment of a short measure for adult playfulness: The SMAP",
+  "creators": [
+    "René T. Proyer"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Personality and Individual Differences, Vol. 53, No. 8",
+    "published_date": "2012",
+    "edition": "pp. 989-994",
+    "doi": "10.1016/j.paid.2012.07.018",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Germany",
+    "Switzerland",
+    "Austria"
+  ],
+  "access": {
+    "locator": "https://www.sciencedirect.com/science/article/abs/pii/S0191886912003443",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-whimsical)",
+    "verification_notes": "Confirmed author, journal, volume, issue, pages, year, and DOI via Crossref; confirmed sample sizes (N=266 construction; 147 students; 215 adults), internal consistency, test-retest reliability, and the playfulness correlates."
+  },
+  "axis_ids": [
+    "tone-whimsical"
+  ],
+  "claim_ids": [
+    "clm-tone-whimsical-playfulness-trait",
+    "clm-tone-whimsical-dosage-saturation"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Elsevier journal article; abstract-level citation only."
+  }
+}

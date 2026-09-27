@@ -1,0 +1,57 @@
+{
+  "id": "src-nostalgic-robertson-1988-furusato",
+  "title": "Furusato Japan: The Culture and Politics of Nostalgia",
+  "creators": [
+    "Jennifer E. Robertson"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "International Journal of Politics, Culture, and Society, Vol. 1, No. 4",
+    "published_date": "1988",
+    "edition": "pp. 494-518",
+    "doi": "10.1007/BF01390685",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Japan",
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1007/BF01390685",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-nostalgic)",
+    "verification_notes": "Citation including volume 1, issue 4 (1988), pagination 494-518, and DOI verified via SpringerLink and indexing records on web search 2026-09-24. Full text not accessed; the furusato and furusato-zukuri characterizations (hometown nostalgia mobilized by politicians, planners, and advertisers; home-making as a political process synthesizing nativism and nationalism) are scoped to abstract-level and secondary summary content."
+  },
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "claim_ids": [
+    "clm-tone-nostalgic-restorative-reflective",
+    "clm-tone-nostalgic-consumption-ethics",
+    "clm-tone-nostalgic-crosscultural-nonuniform"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Springer journal article; abstract-level citation only, no reproduction."
+  }
+}

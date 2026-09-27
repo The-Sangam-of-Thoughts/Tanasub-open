@@ -1,0 +1,59 @@
+{
+  "id": "src-nostalgic-sedikides-2015-ejsp-self-continuity",
+  "title": "Nostalgia counteracts self-discontinuity and restores self-continuity",
+  "creators": [
+    "Constantine Sedikides",
+    "Tim Wildschut",
+    "Clay Routledge",
+    "Jamie Arndt"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "European Journal of Social Psychology, Vol. 45, No. 1",
+    "published_date": "2015",
+    "edition": "pp. 52-61",
+    "doi": "10.1002/ejsp.2073",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1002/ejsp.2073",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-nostalgic)",
+    "verification_notes": "Citation and full abstract verified via the Wiley article page and Southampton eprints record on web search 2026-09-24: Study 1 naturalistic self-discontinuity-nostalgia link; Study 2 only negative self-discontinuity evoked heightened nostalgia; Studies 3-4 nostalgia augmented self-continuity above and beyond positive affect. Full text not accessed."
+  },
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "claim_ids": [
+    "clm-tone-nostalgic-self-continuity-frame",
+    "clm-tone-nostalgic-dysphoria-trigger",
+    "clm-tone-nostalgic-dual-time-distance"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Wiley journal article; analytical citation only, no reproduction."
+  }
+}

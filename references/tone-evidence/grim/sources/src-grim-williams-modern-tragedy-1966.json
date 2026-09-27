@@ -1,0 +1,54 @@
+{
+  "id": "src-grim-williams-modern-tragedy-1966",
+  "title": "Modern Tragedy",
+  "creators": [
+    "Raymond Williams"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "history",
+    "definition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Chatto & Windus",
+    "published_date": "1966",
+    "edition": "First edition (revised 1979, Verso)",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://www.versobooks.com/products/2246-modern-tragedy",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-grim)",
+    "verification_notes": "Bibliographic identity and 1966 date confirmed via the Modern Drama review (DOI 10.1353/mdr.1967.0018). Cited for the position that modern tragedy is secular and social rather than metaphysical, which contests Steiner's thesis. Full text not directly inspected."
+  },
+  "axis_ids": [
+    "tone-grim"
+  ],
+  "claim_ids": [
+    "clm-tone-grim-sublime-terror"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Literary criticism; analytical citation only."
+  }
+}

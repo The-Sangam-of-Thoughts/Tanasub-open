@@ -1,0 +1,57 @@
+{
+  "id": "src-philosophical-pennycook-pseudo-profound-2015",
+  "title": "On the Reception and Detection of Pseudo-Profound Bullshit",
+  "creators": [
+    "Gordon Pennycook",
+    "James Allan Cheyne",
+    "Nathaniel Barr",
+    "Derek J. Fugelsang"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support",
+    "counterevidence"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Judgment and Decision Making, Vol. 10, No. 6",
+    "published_date": "2015",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Canada"
+  ],
+  "access": {
+    "locator": "https://journal.sjdm.org/15/151029/jdm151029.html",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-philosophical)",
+    "verification_notes": "Confirmed the studies and finding: syntactically well-formed but vacuous 'pseudo-profound' statements are rated as profound, and this receptivity is associated with intuitive cognitive style and lower reflectiveness."
+  },
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "claim_ids": [
+    "clm-tone-philosophical-pseudo-profundity"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "open-access",
+    "repository_copy_allowed": false,
+    "notes": "Open-access journal article; examples not reproduced; analytical citation only."
+  }
+}

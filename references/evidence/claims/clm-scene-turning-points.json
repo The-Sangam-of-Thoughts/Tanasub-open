@@ -1,0 +1,35 @@
+{
+  "id": "clm-scene-turning-points",
+  "craft_claim": "Every dramatized scene must execute a measurable value change from positive to negative or vice versa through character action and obstacle collision.",
+  "axis_ids": [
+    "axis-cyberpunk",
+    "axis-psychological-thriller",
+    "axis-thriller-fiction"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-mckee-story-1997",
+      "location": "Chapter 2: The Structure Spectrum, pp. 33-42",
+      "evidence_expression": "quotation",
+      "note": "McKee defines a scene as action through conflict in more or less continuous time and space that turns the value-charged condition of a character's life."
+    },
+    {
+      "evidence_id": "work-left-hand-darkness",
+      "location": "Genly Ai's audience with King Argaven",
+      "evidence_expression": "synthesis",
+      "note": "Scene begins with diplomatic hope and turns negatively into royal paranoia, exile of Estraven, and envoy vulnerability."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Scenes in dramatic prose, screenplays, and stage scripts.",
+  "exceptions": [
+    "Transitional establishing beats or purely descriptive atmospheric interludes."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "05-structure-plot-and-escalation.md#structure-plot-and-escalation-preferred_label",
+    "09-emotion-tension-suspense-and-pacing.md#emotion-tension-suspense-and-pacing-preferred_label"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-12"
+}

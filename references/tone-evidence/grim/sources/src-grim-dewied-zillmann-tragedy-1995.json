@@ -1,0 +1,56 @@
+{
+  "id": "src-grim-dewied-zillmann-tragedy-1995",
+  "title": "The Role of Empathic Distress in the Enjoyment of Cinematic Tragedy",
+  "creators": [
+    "Minet de Wied",
+    "Dolf Zillmann",
+    "Virginia Ordman"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Poetics, Vol. 23, No. 1-2",
+    "published_date": "1995",
+    "edition": null,
+    "doi": "10.1016/0304-422X(94)00010-4",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Netherlands",
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1016/0304-422X(94)00010-4",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-grim)",
+    "verification_notes": "Bibliographic record confirmed via Crossref (DOI 10.1016/0304-422X(94)00010-4) and Semantic Scholar (year 1995). Abstract elided by publisher; used only to locate the empathic-distress/sad-film line of research, not for a specific effect size. Full text not directly inspected."
+  },
+  "axis_ids": [
+    "tone-grim"
+  ],
+  "claim_ids": [
+    "clm-tone-grim-eudaimonic-painful-art"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Elsevier journal article; analytical citation only."
+  }
+}

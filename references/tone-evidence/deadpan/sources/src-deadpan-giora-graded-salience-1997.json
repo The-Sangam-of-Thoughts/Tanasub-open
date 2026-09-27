@@ -1,0 +1,55 @@
+{
+  "id": "src-deadpan-giora-graded-salience-1997",
+  "title": "Graded Salience and Idea Priority in Language Processing",
+  "creators": [
+    "Rachel Giora"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "counterevidence"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Cognitive Linguistics, Vol. 8, No. 3 (De Gruyter Mouton)",
+    "published_date": "1997",
+    "edition": "pp. 183–206",
+    "doi": "10.1515/cogl.1997.8.3.183",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [],
+  "access": {
+    "locator": "https://doi.org/10.1515/cogl.1997.8.3.183",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-deadpan)",
+    "verification_notes": "Volume/issue/pages/DOI verified via Crossref on 2026-09-24: Cognitive Linguistics 8(3):183–206, DOI 10.1515/cogl.1997.8.3.183. Correction to an earlier working assumption: volume is 8, not 7. Graded-salience (literal-first) mechanism underpins both the literal-read-failure and flatness-failure claims, and counts as counterevidence to a purely echo-driven default reading."
+  },
+  "axis_ids": [
+    "tone-deadpan"
+  ],
+  "claim_ids": [
+    "clm-tone-deadpan-withheld-play-frame",
+    "clm-tone-deadpan-echoic-dissociation",
+    "clm-tone-deadpan-literal-read-failure",
+    "clm-tone-deadpan-flatness-failure"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "De Gruyter Mouton journal article; citation and paraphrase only."
+  }
+}

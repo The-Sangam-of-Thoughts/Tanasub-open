@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-altman-taylor-1973",
+  "title": "Social Penetration: The Development of Interpersonal Relationships",
+  "creators": ["Irwin Altman", "Dalmas A. Taylor"],
+  "source_type": "scholarly-book",
+  "source_roles": ["definition", "recognition"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Holt, Rinehart and Winston",
+    "published_date": "1973",
+    "edition": "First edition, 212 pp.",
+    "doi": null,
+    "isbn": "9780030766350"
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://search.worldcat.org/title/Social-penetration:-the-development-of-interpersonal-relationships/oclc/623272",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "WorldCat and Google Books records, plus authoritative secondary summaries, confirm the onion model, breadth/depth dimensions, staged penetration, and depenetration."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-self-disclosure-closeness", "clm-tone-intimate-reciprocal-responsiveness", "clm-tone-intimate-oversharing-saturation"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Monograph; analytical paraphrase only, no text reproduced."
+  }
+}

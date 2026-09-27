@@ -1,0 +1,42 @@
+{
+  "id": "work-gargantua-pantagruel",
+  "title": "Gargantua and Pantagruel",
+  "creators": [
+    "François Rabelais"
+  ],
+  "work_type": "Renaissance novel cycle",
+  "published_date": "c. 1532-1564 (composite chronology not re-verified this session; digital compilation verified)",
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "regions": [
+    "France"
+  ],
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "period_role": "formative",
+  "source_id": "src-irreverent-bakhtin-rabelais-1968",
+  "access": {
+    "edition_or_version": "Composite English text (translations by Thomas Urquhart and Peter Anthony Motteux) via Project Gutenberg ebook #1200; Gutenberg RDF title 'Gargantua and Pantagruel' verified 2026-09-24",
+    "language_used": "en",
+    "translator": "Thomas Urquhart and Peter Anthony Motteux",
+    "access_conditions": "open"
+  },
+  "analysis_status": "partial",
+  "mechanics": {
+    "premise": "Two giants — father and son — live, learn, war, and feast through picaresque adventures that cartwheel across courts, churches, and schools.",
+    "deflation_targets": "Knights, churchmen, and scholastic authorities punctured through the giants' bodies — appetite, excretion, and excess answer every claim to dignity with material fact (Bakhtin-mediated reading; chapter-level attribution unverified).",
+    "licensed_frame": "The carnival/festival license Bakhtin locates in the work: comic anarchy bounded by frame, the lofty brought down temporarily, ordinary hierarchy resuming after (p. 10 paragraph verified; deeper locators unverified).",
+    "point_of_view": "Picaresque sprawl narrated in exuberant mock-chronicle voice.",
+    "style_and_devices": "Scale comedy (giant bodies vs. human institutions); catalogs and exaggeration; debasement of the lofty into the material-bodily — described from the verified Bakhtin paragraph and standard description only, no passages consulted or reproduced.",
+    "dialogue": "Formal rhetoric (sermons, letters, disputes) repeatedly undercut by bodily consequence.",
+    "emotional_progression": "Exuberant licensed overflow — the cycle's pleasure is surplus rather than targeted indignation.",
+    "boundaries_and_restraint": "Reads toward satirical-literature wherever a clerical or scholastic target persists; the no-sustained-target voice claim (clm-tone-irreverent-no-sustained-target) is what keeps it on the irreverent side.",
+    "conventions": "Foundational carnival text of European comic fiction.",
+    "innovation_or_subversion": "Establishes bodily debasement as a legitimate instrument against dignity — the template Bakhtin made canonical.",
+    "critical_reception": "Bakhtin's 1960s study made it the master text of carnivalesque comedy; the reception debate over Bakhtin's singular reading is recorded as evidence-incomplete (no source in this silo documents it).",
+    "audience_reception": "Endures as the emblem — for scholars, less continuously read — of sanctioned bodily irreverence."
+  }
+}

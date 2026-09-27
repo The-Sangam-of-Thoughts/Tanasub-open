@@ -1,0 +1,54 @@
+{
+  "id": "src-reverent-katz-franz-2026",
+  "title": "What is awe? On an uncontested definition, conceptual ambiguities, and cultural limitations",
+  "creators": [
+    "Tini L. C. Katz",
+    "David J. Franz"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "American Psychologist 81(1):82-93 (American Psychological Association)",
+    "published_date": "2026",
+    "edition": null,
+    "doi": "10.1037/amp0001520",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "International"
+  ],
+  "access": {
+    "locator": "https://doi.apa.org/doi/10.1037/amp0001520",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reverent)",
+    "verification_notes": "Bibliographic details (journal, volume, issue, pages, DOI) cross-checked via the Wikipedia 'Awe' reference list on 2026-09-24. Used for the critique that awe lacks an uncontested definition, that 'vastness' as a necessary criterion is contested, and that cross-cultural knowledge of awe is thin - bounding all universal claims in this dossier."
+  },
+  "axis_ids": [
+    "tone-reverent"
+  ],
+  "claim_ids": [
+    "clm-tone-reverent-dosage-yield"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Peer-reviewed article; analytical citation only; no passages reproduced."
+  }
+}

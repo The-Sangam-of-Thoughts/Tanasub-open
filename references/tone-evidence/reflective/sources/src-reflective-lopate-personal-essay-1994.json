@@ -1,0 +1,49 @@
+{
+  "id": "src-reflective-lopate-personal-essay-1994",
+  "title": "The Art of the Personal Essay: An Anthology from the Classical Era to the Present",
+  "creators": [
+    "Phillip Lopate"
+  ],
+  "source_type": "practitioner-work",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 4,
+  "publication": {
+    "publisher_or_container": "Doubleday (Anchor Books paperback, Bantam Doubleday Dell)",
+    "published_date": "1994",
+    "edition": "hardcover 1994; Anchor paperback 1997 (ISBN 038542339X)",
+    "doi": null,
+    "isbn": "978-0385423397"
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://www.readinggroupguides.com/reviews/the-art-of-the-personal-essay/excerpt",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reflective)",
+    "verification_notes": "Publisher/edition data confirmed via Google Books and publisher records; the author-published introduction excerpt read directly (tradition framing from classical era to present; reliable introspective narrator; flexibility and digression; essay as basic research on the self and mode of inquiry distinct from philosophy and science; intimacy named as the form's hallmark). Excerpt paraphrased only — publisher's notice forbids reproduction."
+  },
+  "axis_ids": ["tone-reflective"],
+  "claim_ids": ["clm-tone-reflective-essay-as-self-trial"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": [
+      "Anthology is English-language; original-language texts of non-English essayists are not included, so tradition coverage is partly filtered by translation."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Anchor/Doubleday; introduction excerpt republished only under publisher permission notice. Analytical paraphrase only; no text reproduced in this silo."
+  }
+}

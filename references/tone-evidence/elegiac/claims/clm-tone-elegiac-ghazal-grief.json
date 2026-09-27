@@ -1,0 +1,27 @@
+{
+  "id": "clm-tone-elegiac-ghazal-grief",
+  "craft_claim": "The Urdu ghazal sustains a present-tense grief register through refrain, rhyme, ambiguity, and unresolved longing rather than narrative or consoling closure.",
+  "tone_ids": ["tone-elegiac"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-faiz-rebels-silhouette-1991",
+      "location": "Selected ghazals in The Rebel's Silhouette, translated by Agha Shahid Ali",
+      "evidence_expression": "synthesis",
+      "note": "Faiz's ghazals sustain grief, loss, and longing as a permanent present; the translator's introduction discusses the difficulty of carrying the form's sound and the decision to use free verse."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-faiz-rebels-silhouette-1991",
+      "note": "The English translations drop the quantitative metre and much of the rhyme, so the sound-carried grief register is only partly available; confidence is therefore moderate."
+    }
+  ],
+  "scope": "Urdu ghazal and English ghazals written in the tradition; used as a regional Indian/Urdu realisation of elegiac grief.",
+  "exceptions": [
+    "The ghazal's erotic and mystical registers overlap with grief and cannot always be separated."
+  ],
+  "confidence": "moderate",
+  "report_locations": ["tones/elegiac.md#8--cultural-scope"],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "work-swanns-way",
+  "title": "Swann's Way (Du cote de chez Swann)",
+  "creators": [
+    "Marcel Proust"
+  ],
+  "work_type": "novel",
+  "published_date": "1913",
+  "languages": [
+    "fr"
+  ],
+  "regions": [
+    "France"
+  ],
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "period_role": "formative",
+  "source_id": "src-nostalgic-proust-swanns-way-1913",
+  "access": {
+    "edition_or_version": "First edition, Bernard Grasset, Paris, November 1913; English trans. C. K. Scott-Moncrieff (Project Gutenberg #7178); French original #2650",
+    "language_used": "en",
+    "translator": "C. K. Scott-Moncrieff",
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A sleeping narrator tastes an old pastry in tea and the texture of a vanished childhood quarter of Paris returns; interwoven, Swann's love affair is narrated largely through recollection and reinterpretation of the past.",
+    "point_of_view": "First-person retrospective narrator (the adult looking back), with long embedded focalization onto Swann.",
+    "psychic_distance": "Distance closes abruptly through sensory detail in the involuntary-memory episode and opens again into retrospective commentary - the oscillation itself carries the tone.",
+    "style_and_devices": "Long periodic sentences grounding abstraction in sensory objects; recursive temporal markers; scenes built from domestic things (rooms, streets, a cup of tea); the sentence enacts the return of time rather than naming it.",
+    "emotional_progression": "Dormancy - sensory trigger - flooded return - reflective integration; in the Swann line, infatuation - habit - loss - compulsive re-collected longing.",
+    "dialogue": "Dialogue mostly framed by narrated memory rather than present-tense exchange, keeping the reader inside recollection.",
+    "conventions": "Belletrist novel of memory using the childhood-rooms frame common to memoir.",
+    "innovation_or_subversion": "Makes the mechanics of remembering itself the subject: memory is unreliable, selective, and world-creating rather than a record.",
+    "critical_reception": "Foundational text of twentieth-century fiction; the sensory-trigger episode is the standard literary reference point for involuntary memory.",
+    "audience_reception": "Frequently cited by readers and writers as the definitive experience of being pulled bodily into the past."
+  }
+}

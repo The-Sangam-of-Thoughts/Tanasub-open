@@ -1,0 +1,49 @@
+{
+  "id": "src-reflective-adorno-notes-literature-1991",
+  "title": "The Essay as Form (Der Essay als Form), in Notes to Literature, Volume One",
+  "creators": [
+    "Theodor W. Adorno",
+    "Sherry Weber Nicholsen"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Notes to Literature, vol. 1, Columbia University Press, New York",
+    "published_date": "1991",
+    "edition": "trans. Sherry Weber Nicholsen; essay originally published 1958 (Der Essay als Form); 'The Essay as Form' is chapter 1, pp. 29-47",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en", "de"],
+  "regions": ["Germany"],
+  "access": {
+    "locator": "https://web.english.upenn.edu/~cavitch/pdf-library/Adorno_EssayAsForm.pdf",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reflective)",
+    "verification_notes": "PDF retrieved (Columbia University Press 1991 colophon; Nicholsen translation confirmed); chapter placement and pages 29-47 confirmed via JSTOR and PhilPapers records of Notes to Literature vol. 1; original 1958 publication confirmed via scholarly citations."
+  },
+  "axis_ids": ["tone-reflective"],
+  "claim_ids": ["clm-tone-reflective-essay-as-self-trial"],
+  "translation": {
+    "is_translation": true,
+    "original_language": "de",
+    "translator": "Sherry Weber Nicholsen",
+    "limitations": [
+      "Translated from the German; Adorno's terminological play (Versuch, Form, Diskurs) is only partially recoverable in English."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Columbia University Press translation; analytical citations only."
+  }
+}

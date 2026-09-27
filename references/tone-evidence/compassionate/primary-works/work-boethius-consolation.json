@@ -1,0 +1,39 @@
+{
+  "id": "work-boethius-consolation",
+  "title": "Consolation of Philosophy",
+  "creators": [
+    "Boethius"
+  ],
+  "work_type": "philosophical dialogue (consolatio)",
+  "published_date": "c. 524",
+  "languages": [
+    "la"
+  ],
+  "regions": [],
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "period_role": "formative",
+  "source_id": "src-compassionate-boethius-consolation-1999",
+  "access": {
+    "edition_or_version": "Watts trans. Penguin 1999 (confirmed via Open Library)",
+    "language_used": "en",
+    "translator": "Watts",
+    "access_conditions": null
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A despairing prisoner is met by the allegorical figure of Philosophy, who diagnoses his illness and guides a graduated return of the sufferer's own reason rather than opening with argument or reproach (dossier section C).",
+    "tone_mechanisms_observed": [
+      "presence-before-remedy: the consoler sits with the prisoner's sickness rather than correcting him (dossier section D)",
+      "diagnosis and graduated return: care begins with diagnosis of the illness and a gradual return of the sufferer's own reason, not with argument or reproach (dossier section C)",
+      "non-minimizing reframe: the loss is named before the larger frame (the impermanence of Fortune, the good), so the frame reads as perspective rather than dismissal (dossier sections C, D)",
+      "dialogic care: consolation staged as dialogue with an interlocutor (allegorical Reason), not as advice imposed from above (dossier sections C, E, F)"
+    ],
+    "point_of_view": "Dialogic exchange between a despairing prisoner and the allegorical Reason who answers him (dossier sections C, E).",
+    "emotional_progression": "Despair met first, reframing last: acknowledgment and diagnosis precede any larger frame, so consolation never minimizes the loss (dossier section C).",
+    "failure_or_misuse_signals": "False consolation - telling the sufferer the loss does not matter - is the failure the tradition itself names; misapplied, the frame becomes 'everything happens for a reason' (dossier sections C, G).",
+    "scope_note": "Region is not stated in the dossier and is recorded as [] rather than inferred; no page, DOI, or quotation was added (dossier section F).",
+    "verification_note": "Latin text; Watts trans. Penguin 1999 confirmed via Open Library; technique described from the text's structure, not quoted (dossier section F)."
+  }
+}

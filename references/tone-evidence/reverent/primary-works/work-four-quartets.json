@@ -1,0 +1,43 @@
+{
+  "id": "work-four-quartets",
+  "title": "Four Quartets",
+  "creators": [
+    "T. S. Eliot"
+  ],
+  "work_type": "poetry-collection",
+  "published_date": "1943",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom",
+    "United States"
+  ],
+  "axis_ids": [
+    "tone-reverent"
+  ],
+  "period_role": "formative",
+  "source_id": "src-reverent-longinus-russell-1964",
+  "access": {
+    "edition_or_version": "Collected as Four Quartets, Harcourt (US) 1943 / Faber and Faber (UK) 1944",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "Four linked meditations on time, memory, and the divine, circling an unnameable still point that ordinary language can only approach.",
+    "reader_promise": "An experience of sustained contemplative awe before a reality the poem refuses to reduce to statement.",
+    "point_of_view": "First-person meditative voice that repeatedly withdraws to let the object and its temporal scale occupy the frame.",
+    "style_and_devices": "Recurring motifs (still point, rose, fire, light); deliberate tonal modulation between lyric, argument, and prayer; allusive quotation of mystical and classical sources.",
+    "emotional_progression": "Immersion in time and loss -> crisis of language's decay -> purgative darkness -> qualified, hard-won peace.",
+    "sacred_or_profound_object": "A timeless ground that the speaker treats as beyond full comprehension - the operative reverent object.",
+    "devotional_or_apophatic_mode": "Apophatic: illumination is approached by stripping image and attribute rather than defining it.",
+    "cadence_and_form": "Long suspended sentences and cadenced repetitions resolving into quiet, weighed final clauses; five-part structure per poem.",
+    "figuration": "Sustained paradox (movement and stillness), light/darkness symbolism, and citation of Dante's refining fire and Juliana of Norwich's consolation.",
+    "vocative_address": "Shifts into prayer and petition, addressing the divine directly at key points rather than describing it from outside.",
+    "cultural_scope": "Anglo-Catholic modernism with explicit allusions to the Bhagavad-Gita and Eastern and Western mystical traditions; the synthesis is Eliot's, not a neutral universal.",
+    "translation_notes": "Not a translation; the poem's cadence and allusion are inseparable from English, so acoustic claims about it are scoped to the original.",
+    "copyright_note": "Techniques described, never quoted; text copyrighted."
+  }
+}

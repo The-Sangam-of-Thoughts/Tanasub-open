@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-lyrical-rhyme-truth",
+  "craft_claim": "Rhyme and phonetic patterning raise perceived truth and aptness, so sound in the lyrical tone carries epistemic weight rather than merely pleasing the ear.",
+  "tone_ids": [
+    "tone-lyrical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-lyrical-mcglone-rhyme-2000",
+      "location": "Psychological Science 11(5):424-428, Studies 1-2",
+      "evidence_expression": "paraphrase",
+      "note": "Rhyming aphorisms were judged more truthful and more apt than semantically equivalent non-rhyming versions; the effect survived even when the original rhyme words were replaced."
+    },
+    {
+      "evidence_id": "src-lyrical-mcglone-rhyme-2000",
+      "location": "Poetics 26(4):235-244, the 'Keats heuristic' framing (McGlone & Tofighbakhsh 1999)",
+      "evidence_expression": "paraphrase",
+      "note": "The authors frame the effect as a heuristic in which the sound of a statement is misattributed to its sense."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-lyrical-reber-fluency-2004",
+      "note": "The mechanism is a misattribution of fluency, not a reliable guide to truth; rhyme can make a false or thin statement persuasive."
+    }
+  ],
+  "scope": "Aphorism, epigram, closing lines, headlines, and any short cadenced assertion where sound and sense can be aligned.",
+  "exceptions": [
+    "Technical, legal, or evidentiary writing where sound-based persuasion is a defect rather than a feature.",
+    "Audiences primed to distrust rhetorical form."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/lyrical.md#2--why-it-works--the-mechanism",
+    "tones/lyrical.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

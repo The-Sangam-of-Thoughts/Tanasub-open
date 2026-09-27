@@ -1,0 +1,49 @@
+{
+  "id": "clm-tone-irreverent-taboo-register-breach",
+  "craft_claim": "Irreverent energy scales with how firmly the breached register is policed — a violation reads as daring only while the prohibition behind it is still felt as real.",
+  "tone_ids": [
+    "tone-irreverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-irreverent-jay-taboo-2009",
+      "location": "Perspectives on Psychological Science 4(2):153-161, p. 153 and abstract",
+      "evidence_expression": "paraphrase",
+      "note": "Taboo words are defined and sanctioned by institutions of power (religion, media) and prohibitions are reiterated in child-rearing — the charge of a breach comes from the institutionally maintained prohibition it crosses."
+    },
+    {
+      "evidence_id": "src-irreverent-freud-jokes-1905",
+      "location": "Whole-work citation (SE vol. VIII; chapter locators unverified)",
+      "evidence_expression": "synthesis",
+      "note": "Jokes are economical because they save the inhibitory cost of forbidden material — the forbidden register supplies the energy the joke borrows."
+    },
+    {
+      "evidence_id": "src-irreverent-mcgraw-warren-2010",
+      "location": "Psychological Science 21(8):1141-1149",
+      "evidence_expression": "synthesis",
+      "note": "Humor requires an actual violation (something must be genuinely crossed) plus benignity — a breach of nothing produces no charge at all."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-irreverent-jay-taboo-2009",
+      "note": "Taboo-word use is commonplace (a stable set of about ten words accounts for most public swearing), so for many audiences the breach is habitual rather than daring — irreverence aimed at a register the audience no longer feels as policed lands flat."
+    },
+    {
+      "evidence_id": "src-irreverent-bell-failed-humor-2015",
+      "note": "When a breach falls outside the recognized license, audiences police it as failed or offensive humor rather than counting it as daring (see clm-tone-irreverent-licensed-frame)."
+    }
+  ],
+  "scope": "Registers whose protection is felt by the specific audience: religious solemnity, institutional dignity, decorum around death or body, platform politeness norms.",
+  "exceptions": [
+    "Sacred registers that the writer's own audience has already abandoned give no charge — breach of a dead taboo is just vocabulary.",
+    "The mechanism concerns register-prohibition, not group membership; targeting a people rather than a register is governed by clm-tone-irreverent-prejudiced-norm-backfire."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/irreverent.md#2--why-it-works--the-mechanism",
+    "tones/irreverent.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

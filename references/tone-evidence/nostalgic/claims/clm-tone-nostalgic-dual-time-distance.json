@@ -1,0 +1,50 @@
+{
+  "id": "clm-tone-nostalgic-dual-time-distance",
+  "craft_claim": "Nostalgic voice speaks from two temporal positions at once - the remembering now and the remembered then. The craft signature is controlled shuttling between them (tense shifts, psychic distance, a sensory bridge) that keeps both frames audible; collapsing into either plain reminiscence or raw scene without the present self kills the tone.",
+  "tone_ids": [
+    "tone-nostalgic"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-nostalgic-sedikides-2015-ejsp-self-continuity",
+      "location": "European Journal of Social Psychology 45(1):52-61, Studies 3-4",
+      "evidence_expression": "paraphrase",
+      "note": "The emotion's defining achievement is linking a present self to a past self; a narrative rendering must keep both temporal positions in view for that link to be felt by the reader."
+    },
+    {
+      "evidence_id": "src-nostalgic-sedikides-wildschut-2025-nature",
+      "location": "Emotion Review, feature-analysis section (doi 10.1177/17540739241303497)",
+      "evidence_expression": "paraphrase",
+      "note": "None of nostalgia's 18 central or 17 peripheral features refers to the present or future - the concept is entirely memory-anchored, while the feeling itself is appraised now. Two positions by definition: the then that supplies the content and the now that feels the pull."
+    },
+    {
+      "evidence_id": "src-nostalgic-hepper-2014-pancultural",
+      "location": "Emotion 14(4):733-747, prototype ratings across 18 countries",
+      "evidence_expression": "synthesis",
+      "note": "The memory-anchored, past-referential core holds across cultures, so the two-position structure is a property of the emotion rather than an English idiom - it should be stageable in any language's prose."
+    },
+    {
+      "evidence_id": "src-nostalgic-proust-swanns-way-1913",
+      "location": "Opening pages of Swann's Way: the madeleine-and-tea episode (described, not quoted)",
+      "evidence_expression": "paraphrase",
+      "note": "A present sensation unexpectedly opens the past; the scene is narrated by a present-tense-positioned narrator who is seized by recollection, so listener and memory occupy the page simultaneously. The sensory bridge is the mechanism that welds the two frames."
+    },
+    {
+      "evidence_id": "src-nostalgic-kalidasa-meghaduta-ryder",
+      "location": "The Cloud-Messenger (Meghaduta), stanza-by-stanza structure (described)",
+      "evidence_expression": "paraphrase",
+      "note": "An exiled speaker addresses a cloud that will reach his wife: present separation, remembered intimacy, and a hoped-for future arrival are all held in one address. The two-position requirement is met by dramatic situation rather than by retrospective narration - proof the mechanism is not English-tense-bound."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Craft inference from psychology and exemplars; no study isolates nostalgic prose syntax. Cross-link (read-only): clm-point-of-view-psychic-distance. Feeds card section 5.",
+  "exceptions": [
+    "Verse and lyric forms can sustain the two positions structurally (address, apostrophe) where prose needs tense and focalization."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/nostalgic.md"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

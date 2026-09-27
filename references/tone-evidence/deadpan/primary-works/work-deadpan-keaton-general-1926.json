@@ -1,0 +1,17 @@
+{
+  "id": "work-deadpan-keaton-general-1926",
+  "axis_ids": ["tone-deadpan"],
+  "source_type": "primary-work",
+  "title": "The General (silent film)",
+  "creators": ["Buster Keaton", "Clyde Bruckman"],
+  "publication": {
+    "publication_year": 1926
+  },
+  "identifiers": {},
+  "tier": 1,
+  "analysis_status": "secondary-attested",
+  "tone_mechanism": "The expressionless face against catastrophe: the body reacts with full engagement while the face holds zero affect, and the surrounding situation supplies all absurdity. This is deadpan's origin case — the flat surface is visual/performative, not verbal, and is recorded here specifically to anchor the transfer limit: prose cannot reproduce the face and must substitute register-stasis plus withheld reaction (claim 7).",
+  "verification_note": "Film identity standard (1926, United Artists release year). Direct viewing/analysis not performed this session — analysis_status secondary-attested, resting on the 1928 lexical record (deadpan defined via 'the work of Buster Keaton', quoted in src-deadpan-deadpan-lexicon-2026) and tier-3 Keaton criticism (src-deadpan-curtis-keaton-2022, itself a pointer awaiting full bibliographic completion). No sibling silo owns a Keaton record (checked 2026-09-24).",
+  "copyright_note": "Silent-era film; status varies by jurisdiction/restoration. No frames or dialogue reproduced — technique described only.",
+  "used_by_claims": ["clm-tone-deadpan-performance-transfer"]
+}

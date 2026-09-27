@@ -1,0 +1,53 @@
+{
+  "id": "work-the-guide",
+  "title": "The Guide",
+  "creators": [
+    "R.K. Narayan"
+  ],
+  "work_type": "novel",
+  "published_date": "1958",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "India",
+    "Malgudi",
+    "Tamil Nadu"
+  ],
+  "axis_ids": [
+    "axis-bildungsroman",
+    "axis-picaresque-literature",
+    "axis-psychological-fiction",
+    "axis-satirical-literature"
+  ],
+  "period_role": "recognized",
+  "source_id": "src-ramanujan-interior-landscape-1967",
+  "access": {
+    "edition_or_version": "Viking Press / Penguin Classics edition",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A charming, opportunistic railway tour guide turned impresario is mistaken for a holy holy ascetic after leaving prison, and is trapped into a fatal fast for rain.",
+    "reader_promise": "Gentle, ironical, deeply observant comedy of Indian manners that transforms imperceptibly into profound spiritual transformation.",
+    "opening": "Raju sits on the granite steps of an ancient river temple, observing villagers; Velan approaches him reverently seeking counsel.",
+    "point_of_view": "Dual alternating timeline: third-person present at the temple; first-person past recounting Raju's rise and fall in Malgudi.",
+    "character_system": "Raju (charming rogue turned reluctant holy man), Rosie/Nalini (classical dancer seeking artistic selfhood), Marco (austere archaeologist), Velan (devout villager).",
+    "conflict_and_stakes": "Self-serving performance versus genuine self-transcendence; village survival amid devastating drought.",
+    "structure": "Intertwined double-narrative alternating between confession of swindling past and escalating public expectations of saintly sacrifice.",
+    "scene_movement": "River Sarayu temple steps, Malgudi railway station, Anand Bhavan hotel, prison, dry riverbed.",
+    "dialogue": "Deceptively understated, dryly humorous Indian English capturing local nuance without caricature.",
+    "setting": "Fictional town of Malgudi and surrounding drought-stricken villages in South India.",
+    "style_and_devices": "Picaresque irony, dual temporal framing, gentle satire of superstition, genuine spiritual ambiguity.",
+    "emotional_progression": "Comic complacency -> desperate evasion -> full confession to Velan -> acceptance of selfless suffering -> mystical dissolution.",
+    "suspense_or_anticipation": "Whether Raju will flee his fast or reveal his fraud, and whether rain will actually fall.",
+    "climax": "On eleventh day of fasting, frail Raju is helped to riverbed to pray; declares he can feel the rain coming over the hills.",
+    "ending": "Raju sags into the river water; narrative closes on an unresolved, sublime ambiguity: has he died, and has it truly rained?",
+    "conventions": "Picaresque rogue arc subverted into authentic spiritual sacrifice (tyaga).",
+    "innovation_or_subversion": "Refuses to resolve whether the miracle is genuine or whether a charlatan's performance can become genuine sanctity through community faith.",
+    "critical_reception": "Won the Sahitya Akademi Award in 1960; adapted into acclaimed Hindi film and Broadway play.",
+    "audience_reception": "Beloved classic of Indian writing in English with worldwide readership."
+  }
+}

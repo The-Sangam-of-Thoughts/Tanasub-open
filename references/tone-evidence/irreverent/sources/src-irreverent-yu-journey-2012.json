@@ -1,0 +1,55 @@
+{
+  "id": "src-irreverent-yu-journey-2012",
+  "title": "The Journey to the West (revised edition)",
+  "creators": [
+    "Anthony C. Yu"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "The University of Chicago Press",
+    "published_date": "2012",
+    "edition": "Revised edition, 4 volumes (original translation 1977-1983); Vol. 1 verified, 576 pp., ISBN 9780226971315",
+    "doi": null,
+    "isbn": "9780226971315"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "China",
+    "United States"
+  ],
+  "access": {
+    "locator": "https://openlibrary.org/isbn/9780226971315",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "Open Library edition record fetched on 2026-09-24: title 'The Journey to the West', work title Xi you ji, translator Anthony C. Yu, University of Chicago Press, revised edition, Vol. 1 (576 pp., ISBNs confirmed across provider records). The translation TEXT was not consulted this session; work-mechanics analysis for work-journey-to-the-west therefore rests on standard plot summary, disclosed as Tier-5 context in that record and in dossier §E/F."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [],
+  "translation": {
+    "is_translation": true,
+    "original_language": "chinese",
+    "translator": "Anthony C. Yu",
+    "limitations": [
+      "Text not consulted this session; bibliographic verification only. Traditional authorship attribution is handled in the work record, not asserted from this source."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "In copyright; bibliographic record only, no text reproduced."
+  }
+}

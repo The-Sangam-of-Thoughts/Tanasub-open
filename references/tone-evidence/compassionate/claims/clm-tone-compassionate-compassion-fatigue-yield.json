@@ -1,0 +1,38 @@
+{
+  "id": "clm-tone-compassionate-compassion-fatigue-yield",
+  "craft_claim": "Unrelieved exposure to suffering depletes compassion and produces numbing; because 'compassion fatigue' is contested and overlaps burnout and vicarious trauma, the voice must yield to information or a different tone rather than intensify.",
+  "tone_ids": [
+    "tone-compassionate"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-compassionate-figley-1995",
+      "location": "Compassion Fatigue, framing of secondary traumatic stress",
+      "evidence_expression": "synthesis",
+      "note": "Figley frames compassion fatigue as the cost of caring, a secondary traumatic stress arising from sustained exposure to others' suffering."
+    },
+    {
+      "evidence_id": "src-compassionate-sinclair-2017",
+      "location": "International Journal of Nursing Studies 69:9-24, meta-narrative review",
+      "evidence_expression": "synthesis",
+      "note": "Sinclair and colleagues find the construct is defined inconsistently and often conflated with burnout and vicarious trauma, which bounds the dosage claim rather than refuting it."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-compassionate-sinclair-2017",
+      "note": "Because the construct is blurry, some observed 'fatigue' may be organisational burnout rather than compassion depletion; the mechanism is not cleanly isolated."
+    }
+  ],
+  "scope": "Long-form and serial content that sustains a compassionate register across many suffering episodes.",
+  "exceptions": [
+    "Ritual or memorial contexts where sustained lament is the accepted convention and audience expectation."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/compassionate.md#4--when-to-show-restraint",
+    "tones/compassionate.md#2--why-it-works--the-mechanism"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

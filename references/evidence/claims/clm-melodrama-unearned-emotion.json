@@ -1,0 +1,39 @@
+{
+  "id": "clm-melodrama-unearned-emotion",
+  "craft_claim": "Unearned emotion (melodrama/sentimentality) occurs when dramatic catastrophism or weeping exceeds the established psychological and causal stakes.",
+  "axis_ids": [
+    "axis-gothic-fiction",
+    "axis-romance-fiction"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-gardner-art-fiction-1984",
+      "location": "Chapter 7: Faults of Technique, pp. 150-165",
+      "evidence_expression": "quotation",
+      "note": "Gardner defines sentimentality as demanding an emotional response greater than the situation justifies."
+    },
+    {
+      "evidence_id": "src-prose-reading-writer-2006",
+      "location": "Chapter 10: Gesture, pp. 220-245",
+      "evidence_expression": "paraphrase",
+      "note": "Prose demonstrates how understated physical gesture conveys genuine grief far more powerfully than histrionic crying."
+    },
+    {
+      "evidence_id": "work-godan",
+      "location": "Closing scene of Hori's death",
+      "evidence_expression": "synthesis",
+      "note": "Premchand avoids florid theatrical laments, rendering Hori's death with austere factual quietude."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Fiction, drama, and screenwriting.",
+  "exceptions": [
+    "Camp, opera, or deliberate Victorian melodrama where exaggerated performance is the recognized aesthetic code."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "13-failure-modes-and-revision.md#failure-modes-and-revision-preferred_label"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-12"
+}

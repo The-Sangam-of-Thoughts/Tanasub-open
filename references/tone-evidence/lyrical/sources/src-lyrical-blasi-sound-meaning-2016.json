@@ -1,0 +1,58 @@
+{
+  "id": "src-lyrical-blasi-sound-meaning-2016",
+  "title": "Sound-meaning association biases evidenced across thousands of languages",
+  "creators": [
+    "Damian E. Blasi",
+    "Soren Wichmann",
+    "Harald Hammarstrom",
+    "Peter F. Stadler",
+    "Morten H. Christiansen"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Proceedings of the National Academy of Sciences, Vol. 113, No. 39",
+    "published_date": "2016",
+    "edition": null,
+    "doi": "10.1073/pnas.1605782113",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "International"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1073/pnas.1605782113",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-lyrical)",
+    "verification_notes": "Bibliographic record verified via Crossref; finding confirmed: statistically significant non-arbitrary sound-meaning associations were evidenced across a large majority of the sampled languages, supporting sound symbolism."
+  },
+  "axis_ids": [
+    "tone-lyrical"
+  ],
+  "claim_ids": [
+    "clm-tone-lyrical-sound-symbolism"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "open-access",
+    "repository_copy_allowed": false,
+    "notes": "PNAS article; analytical citation only; no tables reproduced."
+  }
+}

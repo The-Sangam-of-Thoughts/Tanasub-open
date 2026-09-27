@@ -1,0 +1,38 @@
+{
+  "id": "clm-tone-compassionate-consolation-presence",
+  "craft_claim": "Consolation literature models care-in-suffering as presence-with-reframing: the consoler stays with the grief before offering a larger frame, so a reframe that can be moved before the disclosure of pain is unearned consolation.",
+  "tone_ids": [
+    "tone-compassionate"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-compassionate-boethius-consolation-1999",
+      "location": "Consolation of Philosophy, Books I-II (structure)",
+      "evidence_expression": "synthesis",
+      "note": "Boethius's Philosophy first diagnoses the prisoner's sickness and sits with him before applying argument; the return to reason is graduated and follows acknowledgment of grief."
+    },
+    {
+      "evidence_id": "work-boethius-consolation",
+      "location": "Books I-V, consoler-sufferer dialogue",
+      "evidence_expression": "researcher-inference",
+      "note": "The work is the tradition's most-cited template for care expressed inside another's/one's suffering, showing that reframing is offered last, not first."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-compassionate-boethius-consolation-1999",
+      "note": "Modern reception contests whether the Boethian frame silences legitimate complaint (consolation shading into theodicy), so the tradition is a model and a warning."
+    }
+  ],
+  "scope": "Consoling prose, essays, endings, and any passage that reframes another's loss.",
+  "exceptions": [
+    "Deliberately unsentimental or absurdist writing that refuses consolation as a form; failing to console is not the same as failing at this tone."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/compassionate.md#2--why-it-works--the-mechanism",
+    "tones/compassionate.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

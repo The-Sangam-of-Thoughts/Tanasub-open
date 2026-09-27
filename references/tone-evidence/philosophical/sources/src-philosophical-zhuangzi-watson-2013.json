@@ -1,0 +1,57 @@
+{
+  "id": "src-philosophical-zhuangzi-watson-2013",
+  "title": "The Complete Works of Zhuangzi",
+  "creators": [
+    "Zhuang Zhou",
+    "Burton Watson"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Columbia University Press",
+    "published_date": "2013",
+    "edition": "English translation (revised); text c. 3rd century BCE",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "regions": [
+    "China"
+  ],
+  "access": {
+    "locator": "https://cup.columbia.edu/book/the-complete-works-of-zhuangzi/9780231164740",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-philosophical)",
+    "verification_notes": "Confirmed the Zhuangzi is a Warring States-era Chinese philosophical text mixing argument, dialogue, parable and paradox; the 'Butterfly Dream' closes the 'On the Equality of Things' chapter and turns on a distinction between dream and waking."
+  },
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "claim_ids": [
+    "clm-tone-philosophical-conceptual-metaphor"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "zh",
+    "translator": "Burton Watson",
+    "limitations": [
+      "Classical Chinese wordplay and puns are only partially recoverable in translation."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": false,
+    "notes": "Original public domain; Watson translation copyrighted; no passages reproduced."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "src-grim-hirsch-noir-1981",
+  "title": "The Dark Side of the Screen: Film Noir",
+  "creators": [
+    "Foster Hirsch"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "A. S. Barnes",
+    "published_date": "1981",
+    "edition": "First edition (reissued Da Capo, 2008)",
+    "doi": null,
+    "isbn": "978-0306808722"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://www.hachettebookgroup.com/titles/foster-hirsch/the-dark-side-of-the-screen/9780306808722/",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-grim)",
+    "verification_notes": "Bibliographic identity confirmed via the Film Quarterly review by Peter Hogue (DOI 10.2307/3697121). Cited as professional criticism of the noir register (fatalism, understatement, moral fog). Full text not directly inspected."
+  },
+  "axis_ids": [
+    "tone-grim"
+  ],
+  "claim_ids": [
+    "clm-tone-grim-understatement-noir-restraint"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Film criticism; analytical citation only."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-lyrical-sound-symbolism",
+  "craft_claim": "Sound-meaning correspondences (iconicity) are statistically real across languages, so phonetic texture can reinforce sense when sound and meaning are deliberately aligned.",
+  "tone_ids": [
+    "tone-lyrical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-lyrical-blasi-sound-meaning-2016",
+      "location": "Proceedings of the National Academy of Sciences 113(39):10818-10823",
+      "evidence_expression": "paraphrase",
+      "note": "Blasi and colleagues found statistically significant non-arbitrary sound-meaning associations across roughly two-thirds of the sampled languages, establishing iconicity as a real cross-linguistic tendency."
+    },
+    {
+      "evidence_id": "src-lyrical-perniss-iconicity-2010",
+      "location": "Frontiers in Psychology 1:227, review",
+      "evidence_expression": "synthesis",
+      "note": "Perniss, Thompson and Vigliocco review evidence from spoken and signed languages that iconicity is a general property of language rather than a marginal curiosity."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-lyrical-perniss-iconicity-2010",
+      "note": "Iconicity is graded and language-specific; the arbitrary sign remains dominant, so sound-sense alignment cannot be assumed and does not guarantee emotional effect."
+    }
+  ],
+  "scope": "Short, sound-sensitive passages in any form where the phonetics can be chosen to match the sense.",
+  "exceptions": [
+    "Translation, where the source-language sound-symbolism is usually lost.",
+    "Technical vocabulary with no sensory analogue."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/lyrical.md#2--why-it-works--the-mechanism",
+    "tones/lyrical.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

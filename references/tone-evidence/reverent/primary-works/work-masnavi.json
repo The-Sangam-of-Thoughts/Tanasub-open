@@ -1,0 +1,47 @@
+{
+  "id": "work-masnavi",
+  "title": "The Mathnawi of Jalalu'ddin Rumi",
+  "creators": [
+    "Jalal al-Din Rumi",
+    "Reynold Alleyne Nicholson"
+  ],
+  "work_type": "epic-didactic-poem",
+  "published_date": "1925",
+  "languages": [
+    "fa",
+    "en"
+  ],
+  "regions": [
+    "Persia",
+    "Iran",
+    "Turkey",
+    "United Kingdom"
+  ],
+  "axis_ids": [
+    "tone-reverent"
+  ],
+  "period_role": "formative",
+  "source_id": "src-reverent-rumi-nicholson-masnavi",
+  "access": {
+    "edition_or_version": "Nicholson critical edition and translation, E.J.W. Gibb Memorial, 8 vols (1925-1940)",
+    "language_used": "en",
+    "translator": "Reynold Alleyne Nicholson",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A vast didactic-sacred poem that uses anecdotes, parables, and scriptural allusion to move the listener from ordinary understanding toward loving union with the divine.",
+    "reader_promise": "Encounters with the sacred that arise through ordinary story before opening into ecstatic figure.",
+    "point_of_view": "A guiding narrator-preacher who addresses the hearer directly and interprets the tales.",
+    "style_and_devices": "Refrain, paired figure, homely anecdote escalating into cosmic image; the reed cut from its bed and the sun/ocean figures for separation and union.",
+    "emotional_progression": "Ordinary situation -> recognition of spiritual meaning -> longing and self-annihilation (fana) -> return to instruction.",
+    "sacred_or_profound_object": "The divine beloved, approached through transformative union.",
+    "devotional_or_apophatic_mode": "Devotional and ecstatic, with appropriation of apophatic reserve before the unknowable.",
+    "cadence_and_form": "Persian mathnawi couplets enabling long narrative runs; the translation cannot carry the original prosody, so claims are structural.",
+    "figuration": "Sustained symbol and parable; meaning carried by figure rather than proposition, kin to dhvani and yugen.",
+    "vocative_address": "Direct address to the hearer and to the divine; the poem as speech-act of instruction and longing.",
+    "cultural_scope": "Sufi Islamic devotional tradition; Qur'anic allusion and Persian literary convention are integral and not separable from meaning.",
+    "translation_notes": "Persian prosody, pun, and allusion are not fully recoverable; popular loose English 'versions' are unreliable for acoustic or devotional claims. Nicholson's scholarly edition is used.",
+    "copyright_note": "Techniques described, never quoted; Nicholson edition/translation rights apply."
+  }
+}

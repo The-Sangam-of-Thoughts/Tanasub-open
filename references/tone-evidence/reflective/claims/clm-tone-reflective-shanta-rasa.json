@@ -1,0 +1,42 @@
+{
+  "id": "clm-tone-reflective-shanta-rasa",
+  "craft_claim": "Indian aesthetic theory recognizes shanta (serene-contemplative sentiment) as a primary aesthetic experience, giving the taxonomy's 'serene, meditative' aliases of tone-reflective an indigenous Indian theoretical counterpart rather than a purely Western introspection category.",
+  "tone_ids": ["tone-reflective"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-reflective-gerow-aklujkar-shanta-1972",
+      "location": "Journal of the American Oriental Society 92(1), 1972, article starting p. 80; doi:10.2307/599651",
+      "evidence_expression": "paraphrase",
+      "note": "A peer-reviewed study devoted to shanta rasa in Sanskrit poetics documents the category and its contested ninth-sentiment status — establishing shanta as a recognized, theoretically elaborated aesthetic category in Indian poetics, debated rather than assumed. Bibliographic caution: the Crossref deposit for this DOI lists four creators (Gerow, Aklujkar, Masson, Patwardhan) and two title strings; byline and title are flagged for re-check (dossier §I), and the article was not read in full."
+    },
+    {
+      "evidence_id": "src-natyashastra-ghosh-1951",
+      "location": "Chapter 6: The Sentiments (Rasa), pp. 100-118 (shared record)",
+      "evidence_expression": "synthesis",
+      "note": "The classical rasa framework establishes eight primary sentiments with stable emotions, determinants, expressions, and transitory states; shanta's addition as a ninth is the later Abhinavagupta position whose debate Gerow and Aklujkar document. Cross-link claim clm-rasa-emotional-aesthetic."
+    },
+    {
+      "evidence_id": "work-tagore-my-reminiscences",
+      "location": "Whole work: episodic recollection with present-tense assessment of earlier selves",
+      "evidence_expression": "synthesis",
+      "note": "Tagore's reminiscence supplies an Indian prose exemplar of the inward evaluative voice — reflection on one's own past conducted at a cultured, measured distance."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-reflective-gerow-aklujkar-shanta-1972",
+      "note": "Shanta's status was disputed even within Sanskrit poetics (the traditional list has eight rasas), and shanta carries a detachment/liberation register (nirveda-vairagya) that can pull toward devotional serenity (tone-reverent) rather than personal introspection; the mapping onto tone-reflective is analogical, not lexical."
+    }
+  ],
+  "scope": "Indian aesthetic-theory context for the serene/meditative aliases; a load-bearing cross-cultural engagement for card section 8, not a claim that Indian poetics contains an exact 'reflective tone'.",
+  "exceptions": [
+    "Devotional or meditative-object contexts route shanta toward tone-reverent or tone-philosophical; the reflective reading requires the self as object of the reflection."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/reflective.md#8--cultural-scope",
+    "tones/reflective.md#6--combination-rules"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

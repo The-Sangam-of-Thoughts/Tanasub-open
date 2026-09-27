@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-collins-miller-1994",
+  "title": "Self-disclosure and liking: A meta-analytic review",
+  "creators": ["Nancy L. Collins", "Lynn Carol Miller"],
+  "source_type": "peer-reviewed-article",
+  "source_roles": ["recognition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychological Bulletin (American Psychological Association)",
+    "published_date": "1994-11",
+    "edition": "Vol. 116, No. 3, pp. 457-475",
+    "doi": "10.1037/0033-2909.116.3.457",
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://pubmed.ncbi.nlm.nih.gov/7809308",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "PubMed record, DOI, and published abstract verified; three disclosure-liking effects and moderators confirmed."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-self-disclosure-closeness", "clm-tone-intimate-disclosure-risk-boundaries"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical paraphrase only, no text reproduced."
+  }
+}

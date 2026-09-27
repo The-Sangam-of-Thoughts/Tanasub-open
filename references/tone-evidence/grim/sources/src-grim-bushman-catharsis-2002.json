@@ -1,0 +1,53 @@
+{
+  "id": "src-grim-bushman-catharsis-2002",
+  "title": "Does Venting Anger Feed or Extinguish the Flame? Catharsis, Rumination, Distraction, Anger, and Aggressive Responding",
+  "creators": [
+    "Brad J. Bushman"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "counterevidence"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Personality and Social Psychology Bulletin, Vol. 28, No. 6",
+    "published_date": "2002",
+    "edition": null,
+    "doi": "10.1177/0146167202289002",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1177/0146167202289002",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-grim)",
+    "verification_notes": "Bibliographic record confirmed via Crossref (DOI 10.1177/0146167202289002). Used only to show that venting-style catharsis is empirically contested; full text not directly inspected."
+  },
+  "axis_ids": [
+    "tone-grim"
+  ],
+  "claim_ids": [
+    "clm-tone-grim-tragic-catharsis-contested"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Sage journal article; analytical citation only."
+  }
+}

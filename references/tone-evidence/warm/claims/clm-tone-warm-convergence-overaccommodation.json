@@ -1,0 +1,38 @@
+{
+  "id": "clm-tone-warm-convergence-overaccommodation",
+  "craft_claim": "Stylistic convergence toward the audience increases liking and rapport, but over-accommodation (simplifying or adapting beyond the audience's level) is perceived as patronizing.",
+  "tone_ids": [
+    "tone-warm"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-warm-giles-accommodation-2016",
+      "location": "Communication Accommodation Theory (Cambridge), ch. 3, pp. 36-59; origin Giles et al. 1973",
+      "evidence_expression": "synthesis",
+      "note": "Convergence reduces perceived differences from an interlocutor and is associated with liking, relational solidarity and communication satisfaction; the theory also models non-accommodation and over-accommodation."
+    },
+    {
+      "evidence_id": "src-warm-giles-accommodation-2016",
+      "location": "CAT literature on over-accommodation / 'elderspeak'",
+      "evidence_expression": "paraphrase",
+      "note": "Adapting speech beyond the optimal level (over-accommodation) is perceived as condescending and raises barriers rather than removing them."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-warm-giles-accommodation-2016",
+      "note": "Convergence can also be read as ingratiating or as threatening in-group boundaries, so it is not unconditionally positive."
+    }
+  ],
+  "scope": "Audience calibration of register, diction and assumed knowledge; relevant to blog, copy, newsletter and instructional prose.",
+  "exceptions": [
+    "Deliberate over-simplification for a genuinely novice audience may be appropriate if signalled and matched to real need."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/warm.md#7--failure-modes-and-revision",
+    "tones/warm.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

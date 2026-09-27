@@ -1,0 +1,41 @@
+{
+  "id": "src-stroebe-schut-dual-process-1999",
+  "title": "The Dual Process Model of Coping with Bereavement: Rationale and Description",
+  "creators": ["Margaret Stroebe", "Henk Schut"],
+  "source_type": "peer-reviewed-article",
+  "source_roles": ["definition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Death Studies, vol. 23, no. 3, pp. 197-224",
+    "published_date": "1999",
+    "edition": null,
+    "doi": "10.1080/074811899201046",
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["Netherlands", "United States"],
+  "access": {
+    "locator": "https://www.tandfonline.com/doi/abs/10.1080/074811899201046",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-elegiac)",
+    "verification_notes": "Authors, journal, volume, issue, pages, year, DOI, and the loss-oriented/restoration-oriented oscillation with explicit 'dosage of grieving' verified via the publisher abstract and APA PsycInfo record."
+  },
+  "axis_ids": ["tone-elegiac"],
+  "claim_ids": ["clm-tone-elegiac-oscillation-dosage"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Peer-reviewed article; abstract and model description paraphrased only."
+  }
+}

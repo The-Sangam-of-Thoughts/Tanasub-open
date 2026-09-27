@@ -1,0 +1,44 @@
+{
+  "id": "work-a-modest-proposal",
+  "title": "A Modest Proposal for Preventing the Children of Poor People from Being a Burthen to Their Parents or Country, and for Making Them Beneficial to the Publick",
+  "creators": [
+    "Jonathan Swift"
+  ],
+  "work_type": "satirical essay",
+  "published_date": "1729",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Ireland",
+    "United Kingdom"
+  ],
+  "axis_ids": [
+    "tone-cynical",
+    "axis-satirical-literature"
+  ],
+  "period_role": "canonical",
+  "source_id": "src-cynical-oxford-companion-lit-2009",
+  "access": {
+    "edition_or_version": "First published 1729; widely reprinted; public-domain text (e.g., Penguin Classics Major Works)",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "verified_secondary",
+  "mechanics": {
+    "premise": "A fictional speaker, writing in the register of a careful political economist, proposes that the Irish poor relieve poverty by supplying their children as food to the wealthy — calculated with fiscal calm and never once flagged as horror.",
+    "point_of_view": "First-person policy persona who shares the writer's underlying concern but none of his conclusions; the mask never breaks into authorial outrage.",
+    "style_and_devices": "Deadpan bureaucratic rationality; stacked economic calculation; extension of an accepted logic to its monstrous conclusion; polite conditional phrasing held to the end.",
+    "emotional_progression": "Practical proposal -> mounting calculation -> the reader's revulsion recognized as the actual argument -> no cathartic exit, because the indictment lands on the reader's side of the table.",
+    "conventions": "Ur-text of deadpan structural satire; reference accounts note the title phrase is now conventional shorthand for that style of ironic proposal.",
+    "tone_mechanisms": [
+      "deadpan mask over stated philanthropic motives",
+      "distrust converted into method (the proposal satirizes the policy logic it voices)",
+      "escalating calculation",
+      "suggested indictment"
+    ],
+    "critical_reception": "Standard anthology piece of English prose satire; the canonical classroom example of structural irony over verbal sarcasm.",
+    "verification_note": "Existence, date (1729), authorship, fictional-narrator construction, and deadpan-satire status confirmed via Wikipedia API extract (A Modest Proposal) on 2026-09-24; voice, structure, and pacing treatment cross-checked against the repository's satirical-literature genre file, which analyzes this essay across its definition, escalation, voice, pacing, and ending sections. Described only; no passage reproduced."
+  }
+}

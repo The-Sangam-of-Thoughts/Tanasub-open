@@ -1,0 +1,27 @@
+{
+  "id": "work-detached-hills-like-white-elephants",
+  "title": "Hills Like White Elephants",
+  "creators": ["Ernest Hemingway"],
+  "work_type": "short-story",
+  "published_date": "1927",
+  "languages": ["en"],
+  "regions": ["United States", "Spain"],
+  "axis_ids": ["tone-detached"],
+  "period_role": "formative",
+  "source_id": "src-detached-hemingway-death-afternoon-1932",
+  "access": {
+    "edition_or_version": "Collected in Men Without Women (1927)",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "point_of_view": "Third-person objective narration with almost no interior access; the reader watches and listens.",
+    "style_and_devices": "Parataxis; dialogue over stated feeling; ellipsis of the decisive subject; iceberg omission.",
+    "emotional_progression": "The conflict is never named; tension accumulates through misaligned speech and small gestures, leaving the reader to infer what is at stake.",
+    "dialogue": "Sparse, indirect exchanges where the real subject is avoided; register stays light while the situation is serious.",
+    "tone_mechanism": "Demonstrates clm-tone-detached-restraint-vs-absence and clm-tone-detached-reader-emotion-inference.",
+    "verification_note": "Standard iceberg exemplar; story publication and collection confirmed."
+  }
+}

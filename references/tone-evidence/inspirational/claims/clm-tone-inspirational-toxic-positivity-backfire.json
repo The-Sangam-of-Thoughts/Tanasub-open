@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-inspirational-toxic-positivity-backfire",
+  "craft_claim": "Uplift that denies, minimizes, or invalidates negative emotion can backfire, and the harm is greatest for readers with low self-esteem, so the inspirational voice must not overwrite distress.",
+  "tone_ids": [
+    "tone-inspirational"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-inspirational-wood-2009",
+      "location": "Psychological Science 20(7):860-866, Experiments 1-2",
+      "evidence_expression": "synthesis",
+      "note": "Low-self-esteem participants who repeated a positive self-statement or focused on its truth felt worse than controls, while high-self-esteem participants improved only to a limited degree; the authors conclude positive self-statements may backfire for those who most need them."
+    },
+    {
+      "evidence_id": "src-inspirational-zielinski-2023",
+      "location": "Anxiety, Stress & Coping 36(2):214-228, daily diary analyses",
+      "evidence_expression": "synthesis",
+      "note": "Higher perceived emotion invalidation predicted lower momentary positive affect and, for high-invalidation individuals, greater negative affect alongside more intense social stress."
+    },
+    {
+      "evidence_id": "src-inspirational-episteme-toxic-positivity-2025",
+      "location": "Episteme, 'Toxic Positivity and Epistemic Injustice'",
+      "evidence_expression": "synthesis",
+      "note": "The article analyzes toxic positivity as an epistemic wrong in which a person's emotional testimony is dismissed or overridden by mandated cheerfulness."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-inspirational-wood-2009",
+      "note": "Section G records that high-self-esteem participants improved 'to a limited degree' and that the harm was confined to low-self-esteem participants repeating a positive self-statement in the laboratory, so the backfire is bounded rather than general and does not attach to every uplift voiced over distress."
+    }
+  ],
+  "scope": "Any direct address of the reader's distress, failure, or grief.",
+  "exceptions": [
+    "Ritual or ceremonial settings where a shared upbeat register is an agreed convention and no disclosure of distress is at issue."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/inspirational.md#7--failure-modes-and-revision",
+    "tones/inspirational.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

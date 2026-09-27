@@ -1,0 +1,51 @@
+{
+  "id": "src-reflective-green-brock-transportation-2000",
+  "title": "The Role of Transportation in the Persuasiveness of Public Narratives",
+  "creators": [
+    "Melanie C. Green",
+    "Timothy C. Brock"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Personality and Social Psychology",
+    "published_date": "2000",
+    "edition": "79(5), pp. 701-721",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "Library record: Journal of Personality and Social Psychology 79(5):701-721 (APA); confirmed via multiple independent citations",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reflective)",
+    "verification_notes": "Volume, issue, and pages confirmed via numerous independent citing works (Dahlstrom 2018; Markowitz 2025; Van Laer et al. transportation meta-analysis line). The transportation construct (absorption in narrative events/images, predicting persuasion) is confirmed via citations and abstract."
+  },
+  "axis_ids": ["tone-reflective"],
+  "claim_ids": [
+    "clm-tone-reflective-causal-momentum",
+    "clm-tone-reflective-dosage-yield"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA article; analytical citations only."
+  }
+}

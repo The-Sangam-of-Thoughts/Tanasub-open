@@ -1,0 +1,56 @@
+{
+  "id": "clm-tone-cynical-crosscultural-deflation",
+  "craft_claim": "Deflationary exposure of greed, vanity, and stated ideals as a default narrative posture is a documented non-Anglophone practice — 11th-century Kashmiri Sanskrit, modern Hindi, Greco-Roman, and French lineages — so the tone is not an Anglophone invention.",
+  "tone_ids": [
+    "tone-cynical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-cynical-haksar-three-satires-2011",
+      "location": "Narmamala in Three Satires from Ancient Kashmir (Penguin, 2011)",
+      "evidence_expression": "paraphrase",
+      "note": "The English volume makes Kshemendra's 11th-century Sanskrit satire of greedy officials accessible, documenting an Indian classical tradition of systematic deflation of official piety."
+    },
+    {
+      "evidence_id": "work-narmamala",
+      "location": "Whole text (11th-century Kashmir)",
+      "evidence_expression": "synthesis",
+      "note": "Grotesque inflation of clerical appetite deflates the stated piety of office: greed is catalogued until the administrative ideal collapses beneath its own weight."
+    },
+    {
+      "evidence_id": "src-cynical-naim-parsai-matadeen-1994",
+      "location": "C. M. Naim trans., Manas Books, 1994",
+      "evidence_expression": "paraphrase",
+      "note": "The English collection carries Parsai's Hindi vyangya — deadpan bureaucratic satire of post-independence Indian life — into a second language, evidence of a modern regional deflationary practice with its own lineage."
+    },
+    {
+      "evidence_id": "work-inspector-matadeen-on-the-moon",
+      "location": "Stories in the collection",
+      "evidence_expression": "synthesis",
+      "note": "Impossible situations are reported in a flat municipal register; the narrator's refusal of surprise deflates institutional seriousness without a single editorial sneer."
+    },
+    {
+      "evidence_id": "work-maxims-la-rochefoucauld",
+      "location": "Whole collection (France, 1665)",
+      "evidence_expression": "synthesis",
+      "note": "The French moralist tradition delivers the same posture in miniature: professed virtue re-described as self-interest, in a form portable across languages."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-cynical-naim-parsai-matadeen-1994",
+      "note": "Section E translation limits: Naim's English carries Parsai's stance but not his Hindi idiom, and Haksar's carries Narmamala's structure but not its kavya wordplay, so the shared deflationary posture is documented only to the depth the translations show; section E 'No false universal' asserts a shared attitude, not a shared technique or theory."
+    }
+  ],
+  "scope": "Cross-cultural scope claim (card section 8): a shared attitude, not a shared technique or theory.",
+  "exceptions": [
+    "The traditions theorize the effect differently (rasa and dhvani vs. classical rhetoric vs. moralist proverb-form); no single mechanism is claimed to underlie all of them.",
+    "Greco-Roman and French evidence is non-Anglophone but Western; the Indian lineages carry the load against an Anglophone-universal reading."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/cynical.md#8--cultural-scope"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "clm-tone-lyrical-foregrounding-affect",
+  "craft_claim": "Stylistic deviation and parallelism (foregrounding) produce measurable affective response and slow reading into an aesthetic mode of attention, which is how lyrical passages become salient.",
+  "tone_ids": [
+    "tone-lyrical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-lyrical-miall-foregrounding-1994",
+      "location": "Poetics 22(5):389-407, empirical reader-response studies",
+      "evidence_expression": "paraphrase",
+      "note": "Miall and Kuiken found that foregrounding (deviation and parallelism) predicts affective response to literary stories and is associated with slower reading and aesthetic attention."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-lyrical-reber-fluency-2004",
+      "note": "Effortful disfluency can lower liking, so foregrounding beyond a threshold is self-defeating; the affective effect is not monotonic."
+    }
+  ],
+  "scope": "Literary prose and verse; local passages, since sustained foregrounding is not tolerable across long spans.",
+  "exceptions": [
+    "Readers under speed pressure, who experience foregrounding as obstruction rather than affect."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/lyrical.md#2--why-it-works--the-mechanism",
+    "tones/lyrical.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

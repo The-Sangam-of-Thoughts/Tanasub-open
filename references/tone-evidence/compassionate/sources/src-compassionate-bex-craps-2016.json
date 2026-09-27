@@ -1,0 +1,53 @@
+{
+  "id": "src-compassionate-bex-craps-2016",
+  "title": null,
+  "creators": [
+    "Bex",
+    "Craps"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Cultural Critique, vol. 92, pp. 32-56",
+    "published_date": "2016",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [],
+  "access": {
+    "locator": null,
+    "accessed_at": "2026-09-24",
+    "access_conditions": null
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": null,
+    "verified_by": "Tone Layer researcher (tone-compassionate)",
+    "verification_notes": "Citation recorded from the dossier claims matrix, section D, and section G: Bex and Craps contrast humanitarian testimony that preserves the sufferer's agency with advocacy that makes the sufferer a backdrop for Western heroism. The dossier states no article title, DOI, author given names, region, or verification, so those fields are null/empty; no access locator is recorded because the dossier gives none."
+  },
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "claim_ids": [
+    "clm-tone-compassionate-saviorism-witness-ethics"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Journal article; analytical citation only; no text reproduced."
+  }
+}

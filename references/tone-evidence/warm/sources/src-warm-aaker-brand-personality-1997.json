@@ -1,0 +1,54 @@
+{
+  "id": "src-warm-aaker-brand-personality-1997",
+  "title": "Dimensions of Brand Personality",
+  "creators": [
+    "Jennifer L. Aaker"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Marketing Research, Vol. 34, No. 3",
+    "published_date": "1997",
+    "edition": null,
+    "doi": "10.1177/002224379703400304",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://www.gsb.stanford.edu/faculty-research/publications/dimensions-brand-personality",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-warm)",
+    "verification_notes": "Confirmed author, journal, volume, issue and pages (34(3):347-356). Verified the five brand-personality dimensions, including Sincerity (down-to-earth, honest, wholesome, cheerful), relevant to warmth in commercial voice."
+  },
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "claim_ids": [
+    "clm-tone-warm-dosage-yield"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "SAGE/AMA journal article; analytical citation only."
+  }
+}

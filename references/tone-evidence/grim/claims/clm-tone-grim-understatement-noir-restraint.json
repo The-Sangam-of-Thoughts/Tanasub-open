@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-grim-understatement-noir-restraint",
+  "craft_claim": "Noir and hard-boiled registers achieve bleakness through understatement and withheld judgement; where the prose supplies the grief or outrage the reader should produce, the grim tone collapses into melodrama.",
+  "tone_ids": [
+    "tone-grim"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-grim-hirsch-noir-1981",
+      "location": "The Dark Side of the Screen, chapters on noir fatalism and style",
+      "evidence_expression": "synthesis",
+      "note": "Hirsch's critical account of film noir identifies fatalism, moral fog, and understated, hard-boiled delivery as the register's signature; bleakness is atmospheric and ironic rather than declaimed."
+    },
+    {
+      "evidence_id": "src-grim-gardner-art-fiction-1984",
+      "location": "Chapter 7: Faults of Technique (sentimentality)",
+      "evidence_expression": "paraphrase",
+      "note": "Gardner defines sentimentality as demanding an emotional response greater than the situation justifies—the exact failure into which a grim voice falls when it editorialises the sorrow it should let the reader feel."
+    },
+    {
+      "evidence_id": "work-no-country-for-old-men",
+      "location": "Whole novel; pursuit and sheriff passages",
+      "evidence_expression": "synthesis",
+      "note": "Menace is built through procedural detail and small-talk that defers the threat; violence arrives without editorialising, and the sheriff's dread is carried by memory and weariness."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-grim-hirsch-noir-1981",
+      "note": "Section C codifies understatement as film noir's inherited genre signature rather than a grim universal, and card section 7 declares high rhetorical lament and Victorian melodrama to be codes where the performance of grief is the point, so supplying the grief collapses the tone only outside such declared codes."
+    }
+  ],
+  "scope": "Crime, thriller, and literary prose in a bleak register.",
+  "exceptions": [
+    "Camp, pastiche, or deliberate Victorian melodrama where exaggerated performance is the acknowledged code."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/grim.md#5--how-to-use-it--operators",
+    "tones/grim.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

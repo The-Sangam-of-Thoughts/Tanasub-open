@@ -1,0 +1,64 @@
+{
+  "id": "src-nostalgic-routledge-2011-existential-resource",
+  "title": "The past makes the present meaningful: Nostalgia as an existential resource",
+  "creators": [
+    "Clay Routledge",
+    "Jamie Arndt",
+    "Tim Wildschut",
+    "Constantine Sedikides",
+    "Corey M. Hart",
+    "Jacob Juhl",
+    "Ad J. J. M. Vingerhoets",
+    "Wolfgang Schlotz"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Personality and Social Psychology, Vol. 101, No. 3",
+    "published_date": "2011",
+    "edition": "pp. 638-652",
+    "doi": "10.1037/a0024292",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "United Kingdom",
+    "Netherlands"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1037/a0024292",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-nostalgic)",
+    "verification_notes": "Citation and abstract verified via PubMed (PMID 21787094) and Tilburg research portal records on web search 2026-09-24: Study 1 correlational link nostalgia-meaning; Study 2 experimental increase mediated by social connectedness; Study 3 threatened meaning increases nostalgia; Study 4 nostalgia reduces defensiveness after meaning threat; Studies 5-6 nostalgia disrupts meaning-deficit to compromised well-being link. Full text not accessed."
+  },
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "claim_ids": [
+    "clm-tone-nostalgic-social-cast",
+    "clm-tone-nostalgic-dysphoria-trigger"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical citation only, no reproduction."
+  }
+}

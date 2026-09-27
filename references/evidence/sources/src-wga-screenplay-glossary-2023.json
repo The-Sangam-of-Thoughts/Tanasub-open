@@ -1,0 +1,54 @@
+{
+  "id": "src-wga-screenplay-glossary-2023",
+  "title": "Writers Guild of America Formats, Genres, and Narrative Terminology Reference",
+  "creators": [
+    "Writers Guild of America West Industry Committee"
+  ],
+  "source_type": "industry-classification",
+  "source_roles": [
+    "recognition",
+    "definition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Writers Guild of America West",
+    "published_date": "2023",
+    "edition": "2023 online update",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "global",
+    "North America"
+  ],
+  "access": {
+    "locator": "https://www.wga.org/writers-room/screenplay-format",
+    "accessed_at": "2026-09-12",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-12T12:45:00Z",
+    "verified_by": "Codex S05 taxonomy harvest agent",
+    "verification_notes": "Directly verified against the WGA West format and category guide."
+  },
+  "axis_ids": [
+    "axis-feature-screenplay",
+    "axis-episodic-television-script"
+  ],
+  "claim_ids": [],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Industry trade union format documentation; terminology indexing only."
+  }
+}

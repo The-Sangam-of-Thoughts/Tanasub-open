@@ -1,0 +1,38 @@
+{
+  "id": "clm-tone-compassionate-karuna-rasa",
+  "craft_claim": "Indian aesthetic theory names compassionate sorrow (karuna) as a principal rasa generated from a sufferer's situation and generalized into aesthetic relish, distinct from raw private grief, so the Indian tradition sanctions the sufferer as a shared aesthetic object.",
+  "tone_ids": [
+    "tone-compassionate"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-natyashastra-ghosh-1951",
+      "location": "Chapter 6: The Sentiments (Rasa), karuna among the rasas",
+      "evidence_expression": "synthesis",
+      "note": "Bharata treats karuna as one of the principal sentiments, produced by determinants, consequents, and transient states; it is a generalized relish, not the spectator's private grief."
+    },
+    {
+      "evidence_id": "src-anandavardhana-dhvanyaloka-1990",
+      "location": "Uddyota 1 and Locana on rasa-dhvani",
+      "evidence_expression": "synthesis",
+      "note": "Anandavardhana and Abhinavagupta theorize rasa as suggested meaning relished by a spectator whose own ego is momentarily suspended, which deepens the generalization of compassion."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-anandavardhana-dhvanyaloka-1990",
+      "note": "The very move that turns suffering into aesthetic relish is what modern representation ethics criticizes as consuming another's pain; the tradition supplies both the mechanism and the hazard."
+    }
+  ],
+  "scope": "Indian/regional poetic, dramatic, and narrative voice; comparative aesthetics.",
+  "exceptions": [
+    "Didactic or documentary writing where suffering must remain unredeemed by aesthetic pleasure."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/compassionate.md#8--cultural-scope",
+    "tones/compassionate.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

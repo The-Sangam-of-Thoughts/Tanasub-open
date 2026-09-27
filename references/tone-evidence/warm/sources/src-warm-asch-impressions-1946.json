@@ -1,0 +1,54 @@
+{
+  "id": "src-warm-asch-impressions-1946",
+  "title": "Forming Impressions of Personality",
+  "creators": [
+    "Solomon E. Asch"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "The Journal of Abnormal and Social Psychology, Vol. 41, No. 3",
+    "published_date": "1946",
+    "edition": null,
+    "doi": "10.1037/h0055756",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://psycnet.apa.org/record/1946-04654-001",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-warm)",
+    "verification_notes": "Confirmed citation, journal, volume, issue and pagination (41(3):258-290). Verified the warm/cold central-trait finding: swapping the trait transforms the impression, and the trait remained consequential when omitted from the list."
+  },
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "claim_ids": [
+    "clm-tone-warm-warmth-primacy"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical citation only."
+  }
+}

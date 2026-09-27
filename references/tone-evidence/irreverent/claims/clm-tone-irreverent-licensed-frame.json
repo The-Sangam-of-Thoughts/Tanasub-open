@@ -1,0 +1,51 @@
+{
+  "id": "clm-tone-irreverent-licensed-frame",
+  "craft_claim": "Irreverence is safe only inside a frame the audience recognizes as licensed — ritual, festival, genre convention, established persona — and breaches of that frame are policed as failed or offensive humor.",
+  "tone_ids": [
+    "tone-irreverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-irreverent-radcliffe-brown-joking-1940",
+      "location": "Africa 13(3):195-210, article thesis",
+      "evidence_expression": "paraphrase",
+      "note": "Joking relationships exist by social definition: insult is permitted because the relationship licenses it, and the license varies by pair and setting — permission is structural, not universal."
+    },
+    {
+      "evidence_id": "src-irreverent-bakhtin-rabelais-1968",
+      "location": "p. 10 carnival framing paragraph",
+      "evidence_expression": "paraphrase",
+      "note": "Carnival license is explicitly temporary and bounded in time and place — inversion is permitted because everyone knows when it ends."
+    },
+    {
+      "evidence_id": "src-irreverent-nohgaku-kyogen-guide",
+      "location": "Official kyōgen guide page",
+      "evidence_expression": "paraphrase",
+      "note": "Kyōgen occupies a sanctioned, fixed slot within the nō program and holds a bounded comic role (including restraint from mere slapstick) — comic insolence permitted because the program grants it."
+    },
+    {
+      "evidence_id": "src-irreverent-bell-failed-humor-2015",
+      "location": "Whole-book citation (open-access text read earlier in session)",
+      "evidence_expression": "synthesis",
+      "note": "The study of failed humor documents the policing side: when license or competence fails, audiences punish the attempt instead of laughing — the frame breach has social cost."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-irreverent-radcliffe-brown-joking-1940",
+      "note": "License conventions are culture-, platform-, and relationship-specific (visible in §E's variation across Japan, India, Anatolia, France) — there is no single universal license to invoke, only local ones to read correctly."
+    }
+  ],
+  "scope": "All uses of the tone in someone else's space: publication, platform, ritual, genre, persona; the license must be legible to the specific audience before deflation begins.",
+  "exceptions": [
+    "Writers with an established persona (the curmudgeon, the deadpan guide-voice) carry a portable license — but it was earned and can be revoked by misuse.",
+    "Where no license can be established, the voice must yield to plain or reverent register (card §4 restraint)."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/irreverent.md#4--when-to-show-restraint",
+    "tones/irreverent.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

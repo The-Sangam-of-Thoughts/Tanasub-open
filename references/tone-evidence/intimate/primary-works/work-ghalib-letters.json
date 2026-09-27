@@ -1,0 +1,30 @@
+{
+  "id": "work-ghalib-letters",
+  "title": "The Letters of Ghalib (Khutoot-e-Ghalib; compiled as Urdu-e-Mu'alla)",
+  "creators": ["Mirza Asadullah Khan Ghalib"],
+  "work_type": "collected letters",
+  "published_date": "1869 (compiled in his lifetime; later scholarly editions)",
+  "languages": ["ur", "fa"],
+  "regions": ["India", "South Asia", "Delhi"],
+  "axis_ids": ["tone-intimate"],
+  "period_role": "formative",
+  "source_id": "src-intimate-russell-ghalib-2003",
+  "access": {
+    "edition_or_version": "The Oxford India Ghalib: Life, Letters, and Ghazals, trans. Ralph Russell and Khurshidul Islam (OUP, 2003)",
+    "language_used": "en",
+    "translator": "Ralph Russell and Khurshidul Islam",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_relevance": "Non-Anglophone anchor for addressed intimate disclosure: Ghalib made letter-writing conversational ('murasale ko mukalima bana diya'), dissolving the formal Persianate frame.",
+    "point_of_view": "First person, addressed to named disciples and friends; each letter constructs a specific intimate dyad.",
+    "emotional_progression": "Varies by correspondent; after 1857 the letters disclose grief, loss, and the destruction of Delhi to trusted recipients.",
+    "style_and_devices": "Informal salutation, conversational diction, ironic self-deprecation, abrupt shifts between banter and lament.",
+    "dialogue": "The letter is written as a conversation, anticipating and answering the recipient rather than reporting to a stranger.",
+    "register": "Colloquial Urdu against a courtly Persianate convention; the downward register shift signals intimacy.",
+    "intimacy_technique": "Address to a real reader plus a lowered register and shared shorthand produce closeness without formal exposure.",
+    "translation_note": "Nastaliq Urdu into English loses syntactic and idiomatic weight; register fidelity varies by translation.",
+    "copyright_note": "Original Urdu/Persian letters public domain; translations copyrighted. Techniques described, no text reproduced."
+  }
+}

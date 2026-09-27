@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-grim-dosage-desensitization",
+  "craft_claim": "Sustained graphic bleakness desensitises: heavy exposure to screen violence reduces helping and responsiveness, and unrelieved grimness without contrast habituates the reader, so the voice must yield at saturation.",
+  "tone_ids": [
+    "tone-grim"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-grim-bushman-anderson-desensitization-2009",
+      "location": "Psychological Science 20(3):273-277",
+      "evidence_expression": "synthesis",
+      "note": "Bushman and Anderson found that participants who had played a violent video game were slower to help someone in distress and less likely to notice a fight, evidence of desensitisation to others' suffering."
+    },
+    {
+      "evidence_id": "src-grim-bushman-catharsis-2002",
+      "location": "Personality and Social Psychology Bulletin 28(6):724-731",
+      "evidence_expression": "synthesis",
+      "note": "Rumination and venting sustained rather than discharged anger, supporting the caution that unrelieved negative affect does not automatically resolve."
+    },
+    {
+      "evidence_id": "src-grim-oliver-raney-eudaimonic-2011",
+      "location": "Journal of Communication 61(5):984-1004",
+      "evidence_expression": "synthesis",
+      "note": "Because audiences seek meaning, not only stimulation, grim material must keep replenishing significance; when it does not, it becomes mere intensity and habituates."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-grim-bushman-anderson-desensitization-2009",
+      "note": "Section H item 3 measures reduced helping after violent-video-game exposure in laboratory participants; the prose habituation claim is an explicit analogue, and section G scopes graphic material to set pieces, holding that atrocity examined as historical indictment remains a legitimate subject."
+    }
+  ],
+  "scope": "Serial, long-form, and screen media where bleakness is sustained across many hours.",
+  "exceptions": [
+    "Short forms (a single poem, a flash fiction) may end on unrelieved bleakness without desensitisation because there is no repetition to habituate to."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/grim.md#4--when-to-show-restraint",
+    "tones/grim.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "work-mengzi",
+  "title": "Mengzi / Mencius",
+  "creators": [
+    "Mencius"
+  ],
+  "work_type": "Confucian philosophical text",
+  "published_date": "4th c. BCE",
+  "languages": [
+    "zh"
+  ],
+  "regions": [
+    "China"
+  ],
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "period_role": "formative",
+  "source_id": "src-compassionate-mencius-van-norden-2008",
+  "access": {
+    "edition_or_version": "Van Norden trans. 2008",
+    "language_used": "en",
+    "translator": "Van Norden",
+    "access_conditions": null
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "Benevolence is grounded in a spontaneous reaction to suffering, and the response must be extended from the near case to the distant (dossier section E).",
+    "tone_mechanisms_observed": [
+      "child-at-the-well: spontaneous alarm and compassion in anyone who sees a child about to fall into a well, independent of advantage or reputation (2A6) (dossier section E)",
+      "compassion as the sprout of ren: the incipient capacity to be cultivated rather than assumed (6A6) (dossier sections A, E)",
+      "extension from near to distant: the king's compassion for an ox must be extended to his suffering subjects (1A7) (dossier sections E, F)"
+    ],
+    "emotional_progression": "Spontaneous alarm in a concrete near case, then deliberate extension of concern to the more distant sufferer (dossier section E).",
+    "style_and_devices": "Begins from a concrete near case and extends outward - a narrative theory of moral attention usable for extending the reader's concern (dossier section E).",
+    "scope_note": "Ren is recorded as a broader virtue than the English 'compassion', bound to a Confucian role ethic, and must not be universalized into a generic compassion (dossier sections E, I); the dossier states no publisher for the Van Norden translation, so none was added.",
+    "verification_note": "Van Norden trans. 2008 and SEP 2024 confirm passages 2A6, 6A6, 1A7; described, not quoted (dossier section F)."
+  }
+}

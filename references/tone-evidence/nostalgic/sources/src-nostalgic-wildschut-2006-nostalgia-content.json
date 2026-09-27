@@ -1,0 +1,63 @@
+{
+  "id": "src-nostalgic-wildschut-2006-nostalgia-content",
+  "title": "Nostalgia: Content, Triggers, Functions",
+  "creators": [
+    "Timothy Wildschut",
+    "Constantine Sedikides",
+    "Jamie Arndt",
+    "Clay Routledge"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Personality and Social Psychology, Vol. 91, No. 5",
+    "published_date": "2006",
+    "edition": "pp. 975-993",
+    "doi": "10.1037/0022-3514.91.5.975",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom",
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1037/0022-3514.91.5.975",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-nostalgic)",
+    "verification_notes": "Citation (journal, volume, issue, pages, year, DOI) and abstract-level findings verified via publisher, PsycINFO and indexing records on web search 2026-09-24: content analyses of nostalgic accounts, trigger analyses including Study 4 loneliness induction, and Studies 5-7 showing nostalgia bolsters social bonds, self-regard and positive affect. Full text not accessed."
+  },
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "claim_ids": [
+    "clm-tone-nostalgic-bittersweet-structure",
+    "clm-tone-nostalgic-social-cast",
+    "clm-tone-nostalgic-self-continuity-frame",
+    "clm-tone-nostalgic-dysphoria-trigger",
+    "clm-tone-nostalgic-mixed-valence-dailylife"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical citation only, no reproduction."
+  }
+}

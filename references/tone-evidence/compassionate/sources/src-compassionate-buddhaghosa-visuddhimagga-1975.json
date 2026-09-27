@@ -1,0 +1,58 @@
+{
+  "id": "src-compassionate-buddhaghosa-visuddhimagga-1975",
+  "title": "Visuddhimagga",
+  "creators": [
+    "Buddhaghosa"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "definition",
+    "craft-support",
+    "indian-context"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": null,
+    "published_date": "1975",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "India"
+  ],
+  "access": {
+    "locator": null,
+    "accessed_at": "2026-09-24",
+    "access_conditions": null
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": null,
+    "verified_by": "Tone Layer researcher (tone-compassionate)",
+    "verification_notes": "Citation recorded from the dossier claims matrix and section E (Indian/Buddhist survey): the Visuddhimagga (trans. 1975) lists karuna among the four sublime abidings, defines it as the wish that others be free of suffering, and names its near enemy as grief/sentimental attachment and its far enemy as cruelty. The dossier does not name the original language directly (it lists Pali only among the translation-limit languages in the limits section), so original_language is null; publisher and verification are not stated, so those fields are null. Region follows the dossier's 'Indian/Buddhist' section heading."
+  },
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "claim_ids": [
+    "clm-tone-compassionate-buddhist-karuna-universal"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "pi",
+    "translator": "Ñāṇamoli",
+    "limitations": [
+      "Dossier limits note: karuna is among the Sanskrit/Pali/Chinese terms that are not exact equivalents of the English 'compassion'.",
+      "original_language recorded as pi (Pali): the Visuddhimagga is a Pali commentary and the record's own terminology note names Pali as the source register."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Modern translation of a classical Buddhist treatise; analytical citation only; no text reproduced."
+  }
+}

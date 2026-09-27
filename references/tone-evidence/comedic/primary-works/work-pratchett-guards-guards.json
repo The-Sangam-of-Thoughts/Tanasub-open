@@ -1,0 +1,48 @@
+{
+  "id": "work-pratchett-guards-guards",
+  "title": "Guards! Guards!",
+  "creators": [
+    "Terry Pratchett"
+  ],
+  "work_type": "novel",
+  "published_date": "1989",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom"
+  ],
+  "axis_ids": [
+    "tone-comedic"
+  ],
+  "period_role": "popular-contemporary",
+  "source_id": "src-comedic-suls-1972",
+  "access": {
+    "edition_or_version": "First edition, 1989 (Discworld #8, City Watch #1)",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A secret society summons a dragon to topple a city's ruler, and the disreputable Night Watch, led by Sam Vimes, must stop it.",
+    "reader_promise": "Comic fantasy that is genuinely funny and also structurally about authority, civic failure, and self-respect.",
+    "opening": "A wide-angle comic introduction to the city and its institutions, filtering exposition through the narrator's dry commentary.",
+    "point_of_view": "Third-person narration with a wide-angle, erudite comic narrator who moves between characters and comments on the world.",
+    "character_system": "Vimes (cynical but decent captain), Carrot (literal-minded recruit), the plotters, and the dragon as escalating threat.",
+    "conflict_and_stakes": "Institutional failure and civic survival, played through comic register; the satire targets authority while the plot keeps real danger.",
+    "structure": "Comic repetition and running motifs knit the plot; jokes recur and invert as the stakes rise.",
+    "comic_system": "Mock-heroic hyperbole, comic repetition, anachronistic and bureaucratic absurdity, and a running in-world rule that the prose keeps heightening.",
+    "dialogue": "Characters are distinguished by comic idiolect; the literal-minded recruit voices the joke of taking metaphor seriously.",
+    "setting": "Ankh-Morpork, a comic secondary world whose mundane bureaucracy collides with fantasy convention.",
+    "style_and_devices": "Structural comedy of repetition; mock-formal description; parody of fantasy tropes; narrator commentary via asides.",
+    "emotional_progression": "Comic absurdity -> institutional menace -> genuine courage and loss -> hard-won civic decency.",
+    "comic_escalation": "Heightens a single pressure (the dragon and the city's cowardice) rather than dispersing into unrelated gags.",
+    "climax": "A confrontation in which the Watch must choose to act despite fear and institutional rot.",
+    "ending": "The city is saved at cost; comic register yields to earned seriousness at the emotional peak.",
+    "conventions": "Subverts heroic fantasy by making the heroes a municipal night watch and the villain a bureaucratic conspiracy.",
+    "innovation_or_subversion": "Treats comic fantasy as a serious vehicle for moral argument, blending comedy and satire rather than choosing one.",
+    "critical_reception": "Recurring scholarly interest in Pratchett's comic repetition and satire; scholarly work characterizes his comedy as structural 'heavy' repetition.",
+    "audience_reception": "One of the most popular entries in a widely read series; a frequent entry point for readers."
+  }
+}

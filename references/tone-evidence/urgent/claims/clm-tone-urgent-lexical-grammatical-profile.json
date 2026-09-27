@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-urgent-lexical-grammatical-profile",
+  "craft_claim": "Observable urgency is carried by deictic time markers, modal obligation, present tense, direct address, imperative mood, and short clauses, not by adjectives of intensity.",
+  "tone_ids": [
+    "tone-urgent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "work-jaccuse",
+      "location": "J'Accuse...! (structure and rhythm)",
+      "evidence_expression": "synthesis",
+      "note": "The letter's pressure comes from direct address to a named authority, a repeated first-person accusation verb, and a numbered cumulative catalogue, not from intensifying adjectives."
+    },
+    {
+      "evidence_id": "work-letter-birmingham-jail",
+      "location": "Letter from Birmingham Jail (periodic sentences and short declarative landings)",
+      "evidence_expression": "synthesis",
+      "note": "The letter alternates long catalogues of grievance with short declarative sentences, and keeps the reader inside a live exchange by answering named interlocutors point by point."
+    },
+    {
+      "evidence_id": "work-quit-india-speech",
+      "location": "Quit India Speech, 8 August 1942 (collective first-person summons)",
+      "evidence_expression": "synthesis",
+      "note": "The 'Do or Die' call is a binary limit-claim in the present tense that converts private resolve into shared obligation through first-person-plural address."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Prose and speech that aim to make the reader act before a stated point.",
+  "exceptions": [
+    "Adjectival intensity can work briefly in short copy, but it fatigues faster than structural markers.",
+    "Some languages carry urgency through aspect, particles or honorific register rather than English-style modal verbs; the profile is not a universal grammar list."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/urgent.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

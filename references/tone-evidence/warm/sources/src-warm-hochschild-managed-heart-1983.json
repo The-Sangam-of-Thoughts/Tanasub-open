@@ -1,0 +1,55 @@
+{
+  "id": "src-warm-hochschild-managed-heart-1983",
+  "title": "The Managed Heart: Commercialization of Human Feeling",
+  "creators": [
+    "Arlie Russell Hochschild"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "University of California Press",
+    "published_date": "1983",
+    "edition": "20th Anniversary Edition 2003",
+    "doi": null,
+    "isbn": "978-0520272941"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://www.ucpress.edu/books/the-managed-heart/paper",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-warm)",
+    "verification_notes": "Confirmed author, publisher and 1983 date. Verified emotional labor, surface acting and self-estrangement from managed friendliness, and the observation that recipients detect strained or forced smiles."
+  },
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "claim_ids": [
+    "clm-tone-warm-warmth-without-substance",
+    "clm-tone-warm-dosage-yield"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "University of California Press book; analytical citation only."
+  }
+}

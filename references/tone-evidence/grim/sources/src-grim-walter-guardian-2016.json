@@ -1,0 +1,53 @@
+{
+  "id": "src-grim-walter-guardian-2016",
+  "title": "Science fiction and fantasy look ahead to a diverse 2016",
+  "creators": [
+    "Damien Walter"
+  ],
+  "source_type": "journalism",
+  "source_roles": [
+    "counterevidence"
+  ],
+  "reliability_tier": 3,
+  "publication": {
+    "publisher_or_container": "The Guardian (Books blog)",
+    "published_date": "2016-01-01",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://www.theguardian.com/books/booksblog/2016/jan/01/science-fiction-fantasy-look-ahead-diverse-2016",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-grim)",
+    "verification_notes": "Bibliographic identity and the escalation-critique characterisation confirmed indirectly via the Wikipedia 'Grimdark' entry. Tier-3 professional journalism; used to document that the grimdark trend is criticised as escalation without emotional nuance."
+  },
+  "axis_ids": [
+    "tone-grim"
+  ],
+  "claim_ids": [
+    "clm-tone-grim-grimdark-posturing-failure"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Newspaper article; critical thesis paraphrased, no passage reproduced."
+  }
+}

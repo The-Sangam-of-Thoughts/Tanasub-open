@@ -1,0 +1,53 @@
+{
+  "id": "src-compassionate-boethius-consolation-1999",
+  "title": "Consolation of Philosophy",
+  "creators": [
+    "Boethius"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Penguin",
+    "published_date": "1999",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "la"
+  ],
+  "regions": [],
+  "access": {
+    "locator": "Open Library",
+    "accessed_at": "2026-09-24",
+    "access_conditions": null
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-compassionate)",
+    "verification_notes": "Dossier section F records 'Watts trans. Penguin 1999 confirmed via Open Library'; the dossier gives no Open Library identifier or URL, so the locator names only the service. Latin original per section F ('Latin text'); cited for the presence-before-remedy consolation structure (sections A, C, D)."
+  },
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "claim_ids": [
+    "clm-tone-compassionate-consolation-presence"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "la",
+    "translator": "Watts",
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Modern translation of a late-antique Latin work; analytical citation only; no text reproduced."
+  }
+}

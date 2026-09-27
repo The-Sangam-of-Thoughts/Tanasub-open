@@ -1,0 +1,38 @@
+{
+  "id": "work-bhagavad-gita",
+  "title": "Bhagavad Gita",
+  "creators": [
+    "Anonymous (Vedic tradition); attributed to Vyasa"
+  ],
+  "work_type": "philosophical-dialogue-poem",
+  "published_date": "c. 2nd century BCE - 2nd century CE",
+  "languages": [
+    "sa"
+  ],
+  "regions": [
+    "India"
+  ],
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "period_role": "classical",
+  "source_id": "src-philosophical-gita-miller-1986",
+  "access": {
+    "edition_or_version": "The Bhagavad-Gita: Krishna's Counsel in Time of War, trans. Barbara Stoler Miller (Bantam Classics, 1986)",
+    "language_used": "en",
+    "translator": "Barbara Stoler Miller",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A battlefield crisis between Arjuna and Krishna becomes an occasion for instruction on action, duty and the self.",
+    "argumentative_stance": "Instructive and generalising: the immediate dilemma is repeatedly widened into principle (detached action, discipline, knowledge).",
+    "point_of_view": "Dialogue in verse; Krishna addresses Arjuna directly, and the address is framed for the reader as teaching.",
+    "structure": "Sequential chapters (yogas) that circle one problem, advancing by question, objection and answer rather than linear proof.",
+    "dialogue": "Objection-and-response: Arjuna's doubts supply the reader's resistance and the instruction answers it.",
+    "imagery": "Chariot, battlefield, fire, lotus and ocean imagery carrying claims about action and detachment.",
+    "emotional_progression": "Despair and paralysis resolved into disciplined resolve.",
+    "critical_reception": "Central philosophical text of Hinduism; widely studied as a model of instruction cloaked in dialogue.",
+    "failure_or_misuse_signals": "Instruction that abandons the concrete stake becomes sermon; principle that never returns to the dilemma loses the reader."
+  }
+}

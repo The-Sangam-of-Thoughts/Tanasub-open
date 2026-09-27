@@ -1,0 +1,51 @@
+{
+  "id": "clm-tone-cynical-irony-echoic",
+  "craft_claim": "Bitter irony lands by echoing a prior claim or norm the reader can recover and marking it with a dissociated attitude; cynical deflation therefore needs a stated ideal to work against, not inversion for its own sake.",
+  "tone_ids": [
+    "tone-cynical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-cynical-sperber-irony-1984",
+      "location": "Journal of Experimental Psychology: General 113(1):130-136",
+      "evidence_expression": "paraphrase",
+      "note": "Sperber's echoic-mention account treats verbal irony as echoing an actual or attributed thought while signalling a dissociated attitude toward it; irony is interpretive rather than literal reversal."
+    },
+    {
+      "evidence_id": "src-cynical-kreuz-glucksberg-1989",
+      "location": "Journal of Experimental Psychology: General 118(4):374-386",
+      "evidence_expression": "paraphrase",
+      "note": "The echoic-reminder model predicts sarcasm is most accessible when a prior expectation or norm is available to be echoed; the ironic line requires a shared benchmark the audience can recall."
+    },
+    {
+      "evidence_id": "src-cynical-gibbs-sarcasm-1986",
+      "location": "Journal of Experimental Psychology: General 115(1):3-15",
+      "evidence_expression": "paraphrase",
+      "note": "Gibbs found sarcastic utterances are understood against the situation and prior expectation rather than decoded literally and then reversed, so ironic force depends on a recoverable context, not on inversion mechanics."
+    },
+    {
+      "evidence_id": "work-maxims-la-rochefoucauld",
+      "location": "Whole collection (maxims on virtue, friendship, and self-esteem)",
+      "evidence_expression": "synthesis",
+      "note": "Each maxim re-describes an admired motive as a form of self-love, deflating a professed ideal the reader already holds; the echoic prior is the social claim, not an uttered sentence."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-cynical-martin-aggressive-humor-2003",
+      "note": "Sections G and H record that sustained barbed, ridiculing delivery reads as hostility and tracks poorer relational outcomes, so an echoic deflation can be mechanically correct and still fail by taxing the reader-writer relation; flat delivery carries farther than barbed because it lowers the hostile signal."
+    }
+  ],
+  "scope": "Ironic and deflating voice across fiction, essay, and copy; strongest where a prior ideal is culturally shared.",
+  "exceptions": [
+    "Rival accounts of irony (pretense, dissociation) differ in mechanism but converge on the craft requirement of a recoverable prior.",
+    "Where no shared norm exists to echo, the same device reads as arbitrary contrarianism rather than recognition."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/cynical.md#2--why-it-works--the-mechanism",
+    "tones/cynical.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

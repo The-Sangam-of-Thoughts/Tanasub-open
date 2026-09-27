@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-whimsical-play-frame-metacommunication",
+  "craft_claim": "Fanciful invention reads as delight rather than error only when the voice keeps a legible play frame, signalling that the invented thing is an invitation to imagine and not a claim about the world.",
+  "tone_ids": [
+    "tone-whimsical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-whimsical-bateson-play-fantasy-1972",
+      "location": "Steps to an Ecology of Mind (1972), pp. 177-193; orig. Psychiatric Research Reports 2:39-51 (1955)",
+      "evidence_expression": "paraphrase",
+      "note": "Bateson argues play depends on metacommunicative signals carrying the message 'this is play'; the playful nip denotes the bite but does not denote what the bite denotes, so the frame brackets real consequence and holds two levels at once."
+    },
+    {
+      "evidence_id": "work-winnie-the-pooh",
+      "location": "1926 collection, narrative voice across the stories",
+      "evidence_expression": "synthesis",
+      "note": "Milne's narrator addresses the child reader as a co-player, framing each episode as a story being told inside a small, safe world; the frame lets the reader enjoy impossible events without treating them as falsehoods."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-whimsical-prueitt-abhinavagupta-2026",
+      "note": "The frame is not the only route to aesthetic delight: Abhinavagupta's camatkara describes an absorbed, commonized wonder that is not framed as pretense, so 'play frame' should be treated as one mechanism among several in the card."
+    }
+  ],
+  "scope": "Narrative, essay, and marketing prose that invites a fanciful rather than literal reading.",
+  "exceptions": [
+    "Texts that deliberately break the frame to shock (metafictional reversals) belong to satire or horror, not this tone.",
+    "Devotional or mythic wonder may use invention without a play frame; that is closer to tone-reverent."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/whimsical.md#2--why-it-works--the-mechanism",
+    "tones/whimsical.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "src-britannica-al-khansa",
+  "title": "al-Khansa' (biography entry)",
+  "creators": ["Encyclopaedia Britannica"],
+  "source_type": "reference-work",
+  "source_roles": ["recognition", "definition"],
+  "reliability_tier": 3,
+  "publication": {
+    "publisher_or_container": "Encyclopaedia Britannica",
+    "published_date": "n.d.",
+    "edition": "Online, continuously revised",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["Arabian Peninsula", "United Kingdom"],
+  "access": {
+    "locator": "https://www.britannica.com/biography/al-Khansa",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-elegiac)",
+    "verification_notes": "Verified the poet's identity (Tumadir bint 'Amr ibn al-Harith ibn al-Sharid), dates (died after 630), elegiac fame, the deaths of Mu'awiyah and Sakhr, the Diwan's collection, and the 1973 Arthur Wormhoudt English translation. Cross-checked against a companion Britannica Dīwān entry and independent encyclopedia material; used only for biographical recognition, not for craft theory."
+  },
+  "axis_ids": ["tone-elegiac"],
+  "claim_ids": ["clm-tone-elegiac-ritha-ritual"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "General reference work; biographical facts paraphrased only. Tier 3, never sole support for a consequential craft claim."
+  }
+}

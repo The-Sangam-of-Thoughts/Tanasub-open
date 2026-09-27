@@ -1,0 +1,52 @@
+{
+  "id": "work-chronicle-death-foretold",
+  "title": "Chronicle of a Death Foretold",
+  "creators": [
+    "Gabriel García Márquez"
+  ],
+  "work_type": "novel",
+  "published_date": "1981",
+  "languages": [
+    "es"
+  ],
+  "regions": [
+    "Colombia",
+    "Latin America"
+  ],
+  "axis_ids": [
+    "axis-detective-and-mystery-fiction",
+    "axis-frame-narrative",
+    "axis-psychological-thriller",
+    "axis-thriller-fiction"
+  ],
+  "period_role": "recognized",
+  "source_id": "src-routledge-narrative-theory-2005",
+  "access": {
+    "edition_or_version": "Translated by Gregory Rabassa, Penguin Books",
+    "language_used": "en",
+    "translator": "Gregory Rabassa",
+    "access_conditions": "licensed"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "An entire Caribbean town knows two brothers intend to murder a young man for dishonoring their sister, yet no one acts effectively to prevent it.",
+    "reader_promise": "Tense pseudo-journalistic reconstruction examining how collective complicity, fatalism, and honor codes make an announced tragedy inevitable.",
+    "opening": "'On the day they were going to kill him, Santiago Nasar got up at five-thirty in the morning to wait for the boat the bishop was coming on.'",
+    "point_of_view": "First-person investigative narrator reconstructing events twenty-seven years later through contradictory witness testimonies.",
+    "character_system": "Santiago Nasar (victim), Pedro and Pablo Vicario (reluctant twin killers), Angela Vicario (rejected bride), Narrator (investigator).",
+    "conflict_and_stakes": "Rigid code of family honor versus moral duty to intervene and prevent murder.",
+    "structure": "Non-linear spiral structure revisiting the morning of the crime from multiple spatial and temporal viewpoints.",
+    "scene_movement": "Santiago's home, town docks, milk shop where twins wait, magistrate's archives, town plaza.",
+    "dialogue": "Retrospective witness interviews revealing selective memory, evasion, and cultural rationalizations.",
+    "setting": "Small riverine town in Caribbean Colombia during morning heat.",
+    "style_and_devices": "Inverted mystery structure, pseudo-documentary journalism, magical realism accents, fatalistic omen motifs.",
+    "emotional_progression": "Foreknowledge -> incredulity at missed warnings -> mounting panic as timelines converge -> brutal climactic butchery.",
+    "suspense_or_anticipation": "Tension generated not by 'who did it' but by 'why was it not stopped' as every chance of rescue slips away.",
+    "climax": "The Vicario brothers corner Santiago against the locked front door of his own house and butcher him with pig-slaughtering knives.",
+    "ending": "Santiago enters his house through the kitchen carrying his spilled intestines, brushes the dirt off, and falls dead.",
+    "conventions": "Subverts conventional whodunit mystery by revealing victim, perpetrators, and motive in the first sentence.",
+    "innovation_or_subversion": "Transforms detective procedural into an anthropological diagnosis of collective civic moral paralysis.",
+    "critical_reception": "Celebrated globally for narrative virtuosity, structural compression, and devastating exploration of honor culture.",
+    "audience_reception": "One of García Márquez's most widely read and taught novellas."
+  }
+}

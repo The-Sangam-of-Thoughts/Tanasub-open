@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-pennebaker-beall-1986",
+  "title": "Confronting a traumatic event: Toward an understanding of inhibition and disease",
+  "creators": ["James W. Pennebaker", "Sandra K. Beall"],
+  "source_type": "peer-reviewed-article",
+  "source_roles": ["recognition", "counterevidence"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Abnormal Psychology",
+    "published_date": "1986-08",
+    "edition": "Vol. 95, No. 3, pp. 274-281",
+    "doi": "10.1037/0021-843X.95.3.274",
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://pubmed.ncbi.nlm.nih.gov/3745650",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "PubMed record, DOI, and abstract verified; the original expressive-writing study reported fewer health-centre visits but the authors labelled findings preliminary."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-catharsis-null"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical paraphrase only, no text reproduced."
+  }
+}

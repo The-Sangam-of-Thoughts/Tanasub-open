@@ -1,0 +1,54 @@
+{
+  "id": "src-nostalgic-batcho-1995-psychological-perspective",
+  "title": "Nostalgia: A psychological perspective",
+  "creators": [
+    "Krystine I. Batcho"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Perceptual and Motor Skills, Vol. 80, No. 1",
+    "published_date": "1995",
+    "edition": "pp. 131-143",
+    "doi": "10.2466/pms.1995.80.1.131",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.2466/pms.1995.80.1.131",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-nostalgic)",
+    "verification_notes": "Citation and abstract verified via PubMed (PMID 7624184), publisher page and APA PsycNet record on web search 2026-09-24: survey designed to assess nostalgia for 20 aspects of experience as well as relative judgments of the world past, present, and future; foundation of the Batcho Nostalgia Inventory (personal nostalgia). Full text not accessed."
+  },
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "claim_ids": [
+    "clm-tone-nostalgic-rosey-retrospection"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "SAGE journal article; analytical citation only, no reproduction."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "src-whimsical-brauer-proyer-2021",
+  "title": "Adult playfulness: An update on an understudied individual differences variable and its role in romantic life",
+  "creators": [
+    "Kay Brauer",
+    "René T. Proyer",
+    "Garry Chick"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Social and Personality Psychology Compass, Vol. 15, No. 4",
+    "published_date": "2021",
+    "edition": "article e12589",
+    "doi": "10.1111/spc3.12589",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Germany",
+    "United States"
+  ],
+  "access": {
+    "locator": "https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12589",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-whimsical)",
+    "verification_notes": "Confirmed authors, journal, volume, issue, article number, year and DOI via Crossref; the review describes the OLIW (Other-directed, Lighthearted, Intellectual, Whimsical) four-facet model of adult playfulness."
+  },
+  "axis_ids": [
+    "tone-whimsical"
+  ],
+  "claim_ids": [
+    "clm-tone-whimsical-playfulness-trait"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Wiley review article; analytical citation only."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "src-urgent-kruglanski-webster-1996",
+  "title": "Motivated Closing of the Mind: 'Seizing' and 'Freezing'",
+  "creators": [
+    "Arie W. Kruglanski",
+    "Donna M. Webster"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychological Review, Vol. 103, No. 2",
+    "published_date": "1996",
+    "edition": "pp. 263-283",
+    "doi": "10.1037/0033-295X.103.2.263",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "social cognition"
+  ],
+  "access": {
+    "locator": "Psychological Review 103(2): 263-283; DOI 10.1037/0033-295X.103.2.263",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-urgent)",
+    "verification_notes": "Standard citation for the 'need for cognitive closure' and seizing/freezing account, in which time pressure and the desire for closure shorten information search and hasten commitment to an early judgment. DOI from publisher record; not dereferenced."
+  },
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "claim_ids": [
+    "clm-tone-urgent-time-pressure-narrows-cognition"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Journal article; no text reproduced."
+  }
+}

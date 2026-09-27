@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-irreverent-no-sustained-target",
+  "craft_claim": "Irreverent voice stays distinct from satire by leveling whatever register is currently elevated — pomp, ceremony, clerical show — instead of prosecuting one fixed target across a work.",
+  "tone_ids": [
+    "tone-irreverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-irreverent-radcliffe-brown-joking-1940",
+      "location": "Africa 13(3):195-210, article thesis",
+      "evidence_expression": "synthesis",
+      "note": "Joking relationships are socially defined arrangements in which insult is licensed by the relationship itself — teasing is distributed through a structure rather than aimed at one permanent enemy."
+    },
+    {
+      "evidence_id": "src-irreverent-bakhtin-rabelais-1968",
+      "location": "p. 10 carnival framing paragraph (edition pagination varies)",
+      "evidence_expression": "paraphrase",
+      "note": "Carnival derision is leveled at statuses, offices, and pretensions in general during its sanctioned duration, not accumulated as a case against one person."
+    },
+    {
+      "evidence_id": "src-irreverent-nohgaku-kyogen-guide",
+      "location": "Official kyōgen guide page",
+      "evidence_expression": "synthesis",
+      "note": "The kyōgen repertoire moves across targets — masters, servants, priests, yamabushi, arrogant daimyō — within its sanctioned comic slot, rather than sustaining one butt."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-irreverent-marzolph-nasreddin-1996",
+      "note": "The Nasreddin Ḥoca cycle repeatedly positions one powerful antagonist (Timur), showing that some joke traditions DO fix a foil — the no-sustained-target boundary is a voice-level claim, and a cycle that consistently prosecutes a single figure shades toward satire."
+    }
+  ],
+  "scope": "Voice-level attitude across a piece: which elevated register is mocked rotates or remains generic (authority-in-general, piety-in-general).",
+  "exceptions": [
+    "A fixed foil used as a recurring straight man (Timur in the Nasreddin cycle) does not automatically make a work satirical, but a work whose whole engine is one identified target with a critique belongs to satirical-literature per the taxonomy boundary.",
+    "Anticlerical traditions can be persistent targets (see clm-tone-irreverent-indian-anticlerical-hasya) — persistence against an institutional register differs from prosecuting named individuals."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/irreverent.md#1--definition-and-boundaries"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

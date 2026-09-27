@@ -1,0 +1,39 @@
+{
+  "id": "work-the-great-gatsby",
+  "title": "The Great Gatsby",
+  "creators": [
+    "F. Scott Fitzgerald"
+  ],
+  "work_type": "novel",
+  "published_date": "1925",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "period_role": "formative",
+  "source_id": "src-nostalgic-ward-2018-gatsby",
+  "access": {
+    "edition_or_version": "First edition, Charles Scribner's Sons, 1925; Project Gutenberg eBook #64317",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A self-made millionaire buys proximity to the woman he lost, attempting to reverse five years of time by sheer accumulation and staging; Nick Carraway recounts it after the fact.",
+    "point_of_view": "First-person retrospective (Nick), narrating with a hindsight Gatsby lacks.",
+    "psychic_distance": "Reader sits inside Gatsby's conviction via scene while Nick's retrospective frame keeps tragic distance open - two time-frames held at once.",
+    "style_and_devices": "Lyrical symbolic register (the green light, shirts, the clock), refracted narration, accumulation of period detail, images of light and distance.",
+    "emotional_progression": "Longing - approach - briefly recaptured past - collapse; the reader's feeling is retrospective, the character's is prospective, and the mismatch is the tone.",
+    "dialogue": "Gatsby's speech performs his constructed self; small verbal tells expose the gap between performance and person.",
+    "conventions": "Jazz-age social novel and American-dream narrative.",
+    "innovation_or_subversion": "Makes nostalgia the plot engine and diagnoses it: the past cannot be repeated, yet the entire self is organized around repeating it - restorative nostalgia rendered as tragedy.",
+    "critical_reception": "Standard canon text; among the most taught American novels.",
+    "audience_reception": "Sustained popular and critical fascination; contemporary writers continue to cite it as a touchstone (Ward's 2018 NYT essay, adapted from her introduction to a Scribner edition)."
+  }
+}

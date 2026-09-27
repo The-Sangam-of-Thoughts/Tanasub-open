@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-culler-pursuit-signs-1981",
+  "title": "The Pursuit of Signs: Semiotics, Literature, Deconstruction",
+  "creators": ["Jonathan Culler"],
+  "source_type": "scholarly-book",
+  "source_roles": ["definition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Routledge and Kegan Paul / Cornell University Press",
+    "published_date": "1981",
+    "edition": "Chapter 7, 'Apostrophe'",
+    "doi": "10.4324/9780203996157",
+    "isbn": "9780415253826"
+  },
+  "languages": ["en"],
+  "regions": ["United States", "United Kingdom"],
+  "access": {
+    "locator": "https://www.routledge.com/The-Pursuit-of-Signs/Culler/p/book/9780415253826",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "Publisher and table-of-contents records verified; the 'Apostrophe' chapter and its thesis that apostrophe constitutes address and an altered circuit of communication confirmed."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-parasocial-address"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scholarly monograph; analytical paraphrase only, no text reproduced."
+  }
+}

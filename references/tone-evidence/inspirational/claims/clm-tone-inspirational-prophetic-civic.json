@@ -1,0 +1,45 @@
+{
+  "id": "clm-tone-inspirational-prophetic-civic",
+  "craft_claim": "Prophetic and civic oratory pairs honest indictment of a present failing with a forward promise of restoration, and this two-part structure supplies the inspirational voice's characteristic rise.",
+  "tone_ids": [
+    "tone-inspirational"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-inspirational-bercovitch-1978",
+      "location": "The American Jeremiad, Introduction and chapters on the Puritan sermon",
+      "evidence_expression": "synthesis",
+      "note": "Bercovitch describes the American jeremiad as fusing a biblical standard, a candid naming of falling-short, and a promise of restored community, sustaining a rhetoric of hope and fear."
+    },
+    {
+      "evidence_id": "src-inspirational-lischer-1995",
+      "location": "The Preacher King, chapters on King's preaching and the folk pulpit",
+      "evidence_expression": "synthesis",
+      "note": "Lischer shows King absorbing the cadences, parallelism, and call-and-response of the African-American folk pulpit and transposing them from sacred preaching into public address."
+    },
+    {
+      "evidence_id": "work-i-have-a-dream",
+      "location": "Delivered address, 28 August 1963",
+      "evidence_expression": "synthesis",
+      "note": "The address names injustice plainly before envisioning its resolution, refusing to skip the wound in the manner of the jeremiad."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-inspirational-bercovitch-1978",
+      "note": "Critics of the jeremiad note it can deflect systemic critique into individual renewal and thereby function as a rhetoric of social control."
+    }
+  ],
+  "scope": "Civic oratory, public essay, and purpose-driven nonfiction.",
+  "exceptions": [
+    "Apolitical personal-inspirational writing may use only the forward promise without the indictment half."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/inspirational.md#2--why-it-works--the-mechanism",
+    "tones/inspirational.md#8--cultural-scope",
+    "tones/inspirational.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-cohn-transparent-minds-1978",
+  "title": "Transparent Minds: Narrative Modes for Presenting Consciousness in Fiction",
+  "creators": ["Dorrit Cohn"],
+  "source_type": "scholarly-book",
+  "source_roles": ["definition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Princeton University Press",
+    "published_date": "1978",
+    "edition": "First edition, 331 pp. (paperback reprint 1984)",
+    "doi": "10.2307/j.ctvzxx9vd",
+    "isbn": "9780691101569"
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://press.princeton.edu/books/paperback/9780691101569/transparent-minds",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "Princeton University Press and JSTOR records verified; the survey of quoted monologue, psycho-narration, and consonant versus dissonant self-narration confirmed."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-free-indirect-consciousness"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scholarly monograph; analytical paraphrase only, no text reproduced."
+  }
+}

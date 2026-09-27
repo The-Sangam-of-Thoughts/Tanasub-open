@@ -1,0 +1,45 @@
+{
+  "id": "work-picture-of-dorian-gray",
+  "title": "The Picture of Dorian Gray",
+  "creators": [
+    "Oscar Wilde"
+  ],
+  "work_type": "novel",
+  "published_date": "1890",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom",
+    "Ireland"
+  ],
+  "axis_ids": [
+    "tone-cynical",
+    "axis-gothic-fiction"
+  ],
+  "period_role": "canonical",
+  "source_id": "src-cynical-oxford-companion-lit-2009",
+  "access": {
+    "edition_or_version": "Lippincott's Monthly Magazine (July 1890, shorter text); expanded book edition April 1891 with author's preface; public-domain text",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "partial",
+  "mechanics": {
+    "premise": "A painter's portrait ages and corrupts in its subject's place while the sitter keeps his appearance, as he is talked out of conventional restraint into a life of sensation.",
+    "point_of_view": "Third-person limited, following Dorian, with narrative diction that increasingly borrows Lord Henry's epigrammatic manner — the cynical voice literally colonizes the narration.",
+    "style_and_devices": "Epigram and paradox as philosophical weapon; aestheticized description; the portrait as double; chapters in which feeling is deflated into theory by a single clever sentence.",
+    "emotional_progression": "Vanity awakened -> seduction by doctrine -> corrosion -> horror at evidence -> collapse, with each moral hesitation dissolved by a well-made sally.",
+    "dialogue": "Lord Henry's drawing-room epigrams do the philosophical work: each one re-describes a conventional virtue (duty, innocence, self-sacrifice) as folly or fraud before Dorian can hold it.",
+    "conventions": "Fin-de-siecle aestheticism and the Gothic double; the preface frames art's relation to morality, while the novel dramatizes what an all-deflating wit licenses.",
+    "tone_mechanisms": [
+      "epigrammatic deflation of stated Victorian virtue",
+      "cynical voice as seductive influence on a character",
+      "echoic inversion of conventional ideals",
+      "aestheticized amoralism"
+    ],
+    "critical_reception": "1890 magazine version published amid obscenity concern; 1891 expanded edition with preface; now regarded as a classic of Gothic and English literature.",
+    "verification_note": "Existence, dates (Lippincott's July 1890; expanded April 1891), and genre status confirmed via Wikipedia API extract (The Picture of Dorian Gray) on 2026-09-24; edition and contextual cross-reference via the silo's Oxford Companion record. Analysis is partial: the tone-relevant method (epigrammatic deflation concentrated in Lord Henry) is described from documented accounts, not from a passage-level reading this session; no text reproduced."
+  }
+}

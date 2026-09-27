@@ -1,0 +1,44 @@
+{
+  "id": "src-ramazani-poetry-mourning-1994",
+  "title": "Poetry of Mourning: The Modern Elegy from Hardy to Heaney",
+  "creators": ["Jahan Ramazani"],
+  "source_type": "scholarly-book",
+  "source_roles": ["recognition", "definition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "University of Chicago Press",
+    "published_date": "1994",
+    "edition": "First edition",
+    "doi": null,
+    "isbn": "9780226703404"
+  },
+  "languages": ["en"],
+  "regions": ["United Kingdom", "United States"],
+  "access": {
+    "locator": "https://press.uchicago.edu/ucp/books/book/chicago/P/bo3683910.html",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-elegiac)",
+    "verification_notes": "Existence, publisher, year, page count, and the modern elegy's melancholic turn (irresolution, irredemption, aggression, self-criticism, challenge to the compensatory model) verified via University of Chicago Press and library catalogs."
+  },
+  "axis_ids": ["tone-elegiac"],
+  "claim_ids": [
+    "clm-tone-elegiac-present-loss",
+    "clm-tone-elegiac-consolation-arc"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scholarly monograph; analytical paraphrase only."
+  }
+}

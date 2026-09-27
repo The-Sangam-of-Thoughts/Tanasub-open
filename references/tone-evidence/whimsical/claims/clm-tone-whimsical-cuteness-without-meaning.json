@@ -1,0 +1,31 @@
+{
+  "id": "clm-tone-whimsical-cuteness-without-meaning",
+  "craft_claim": "Baby-schema features trigger a cuteness and caretaking response at a perceptual level independent of comprehension, so a voice can satisfy the cute response while giving the reader nothing to imagine into.",
+  "tone_ids": [
+    "tone-whimsical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-whimsical-glocker-baby-schema-2009",
+      "location": "Ethology 115(3):257-263, experiments with n = 122 undergraduates",
+      "evidence_expression": "paraphrase",
+      "note": "Glocker et al. experimentally manipulated baby-schema content in infant faces and found high baby-schema faces rated cuter and eliciting stronger caretaking motivation; the concept traces to Lorenz (1943) and operates as a perceptual releaser, not a reasoning judgement."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-whimsical-tigges-anatomy-nonsense-1988",
+      "note": "Genuine nonsense requires meaningful elements alongside the nonsense, so cuteness that carries no imaginable prop fails the genre's own balance condition."
+    }
+  ],
+  "scope": "Failure mode: cute surface without an imaginable prop, named in the taxonomy as 'cuteness without meaning'.",
+  "exceptions": [
+    "Cuteness is not itself a fault; it fails only when it substitutes for a prop the reader can imagine into."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/whimsical.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

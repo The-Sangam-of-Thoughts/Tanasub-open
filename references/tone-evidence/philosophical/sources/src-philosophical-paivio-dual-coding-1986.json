@@ -1,0 +1,55 @@
+{
+  "id": "src-philosophical-paivio-dual-coding-1986",
+  "title": "Mental Representations: A Dual Coding Approach",
+  "creators": [
+    "Allan Paivio"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Oxford University Press / Oxford Psychology Series",
+    "published_date": "1986",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Canada"
+  ],
+  "access": {
+    "locator": "https://global.oup.com/academic/product/mental-representations-9780195066661",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-philosophical)",
+    "verification_notes": "Confirmed dual coding theory: concrete content engages both verbal and imaginal systems while abstract content engages primarily the verbal system, producing the concreteness effect on recall."
+  },
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "claim_ids": [
+    "clm-tone-philosophical-concreteness-grounding"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scholarly monograph; analytical citation only."
+  }
+}

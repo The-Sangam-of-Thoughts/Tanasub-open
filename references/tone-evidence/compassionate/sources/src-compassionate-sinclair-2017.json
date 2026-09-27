@@ -1,0 +1,54 @@
+{
+  "id": "src-compassionate-sinclair-2017",
+  "title": null,
+  "creators": [
+    "Sinclair"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support",
+    "dosage"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "International Journal of Nursing Studies, vol. 69, pp. 9-24",
+    "published_date": "2017",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [],
+  "access": {
+    "locator": null,
+    "accessed_at": "2026-09-24",
+    "access_conditions": null
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": null,
+    "verified_by": "Tone Layer researcher (tone-compassionate)",
+    "verification_notes": "Citation recorded from the dossier claims matrix and sections B, G, and H: Sinclair et al. (2017) meta-narrative review finds the compassion-fatigue construct is defined inconsistently and often conflated with burnout and vicarious trauma. The dossier states no article title, co-creators' names, DOI, region, or verification, so those fields are null/empty; creators lists only the surname the dossier names."
+  },
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "claim_ids": [
+    "clm-tone-compassionate-compassion-fatigue-yield",
+    "clm-tone-compassionate-dosage-saturation"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Journal article; analytical citation only; no text reproduced."
+  }
+}

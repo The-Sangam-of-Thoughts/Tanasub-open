@@ -1,0 +1,210 @@
+tone,family,artifact,section,status,notes
+comedic,Humor,dossier,research,done,dossier sections A-I present
+comedic,Humor,card,01-definition-boundaries,done,validator: pass
+comedic,Humor,card,02-mechanism,done,validator: pass
+comedic,Humor,card,03-deployment,done,validator: pass
+comedic,Humor,card,04-restraint,done,validator: pass
+comedic,Humor,card,05-operators,done,validator: pass
+comedic,Humor,card,06-combination-rules,done,validator: pass
+comedic,Humor,card,07-failure-modes,done,validator: pass
+comedic,Humor,card,08-cultural-scope,done,validator: pass
+comedic,Humor,card,09-exercises,done,validator: pass
+comedic,Humor,card,10-cross-links,done,validator: pass
+deadpan,Humor,dossier,research,done,dossier sections A-I present
+deadpan,Humor,card,01-definition-boundaries,done,validator: pass
+deadpan,Humor,card,02-mechanism,done,validator: pass
+deadpan,Humor,card,03-deployment,done,validator: pass
+deadpan,Humor,card,04-restraint,done,validator: pass
+deadpan,Humor,card,05-operators,done,validator: pass
+deadpan,Humor,card,06-combination-rules,done,validator: pass
+deadpan,Humor,card,07-failure-modes,done,validator: pass
+deadpan,Humor,card,08-cultural-scope,done,validator: pass
+deadpan,Humor,card,09-exercises,done,validator: pass
+deadpan,Humor,card,10-cross-links,done,validator: pass
+whimsical,Humor,dossier,research,done,dossier sections A-I present
+whimsical,Humor,card,01-definition-boundaries,done,validator: pass
+whimsical,Humor,card,02-mechanism,done,validator: pass
+whimsical,Humor,card,03-deployment,done,validator: pass
+whimsical,Humor,card,04-restraint,done,validator: pass
+whimsical,Humor,card,05-operators,done,validator: pass
+whimsical,Humor,card,06-combination-rules,done,validator: pass
+whimsical,Humor,card,07-failure-modes,done,validator: pass
+whimsical,Humor,card,08-cultural-scope,done,validator: pass
+whimsical,Humor,card,09-exercises,done,validator: pass
+whimsical,Humor,card,10-cross-links,done,validator: pass
+irreverent,Humor,dossier,research,done,dossier sections A-I present
+irreverent,Humor,card,01-definition-boundaries,done,validator: pass
+irreverent,Humor,card,02-mechanism,done,validator: pass
+irreverent,Humor,card,03-deployment,done,validator: pass
+irreverent,Humor,card,04-restraint,done,validator: pass
+irreverent,Humor,card,05-operators,done,validator: pass
+irreverent,Humor,card,06-combination-rules,done,validator: pass
+irreverent,Humor,card,07-failure-modes,done,validator: pass
+irreverent,Humor,card,08-cultural-scope,done,validator: pass
+irreverent,Humor,card,09-exercises,done,validator: pass
+irreverent,Humor,card,10-cross-links,done,validator: pass
+philosophical,Contemplation,dossier,research,done,dossier sections A-I present
+philosophical,Contemplation,card,01-definition-boundaries,done,validator: pass
+philosophical,Contemplation,card,02-mechanism,done,validator: pass
+philosophical,Contemplation,card,03-deployment,done,validator: pass
+philosophical,Contemplation,card,04-restraint,done,validator: pass
+philosophical,Contemplation,card,05-operators,done,validator: pass
+philosophical,Contemplation,card,06-combination-rules,done,validator: pass
+philosophical,Contemplation,card,07-failure-modes,done,validator: pass
+philosophical,Contemplation,card,08-cultural-scope,done,validator: pass
+philosophical,Contemplation,card,09-exercises,done,validator: pass
+philosophical,Contemplation,card,10-cross-links,done,validator: pass
+reflective,Contemplation,dossier,research,done,dossier sections A-I present
+reflective,Contemplation,card,01-definition-boundaries,done,validator: pass
+reflective,Contemplation,card,02-mechanism,done,validator: pass
+reflective,Contemplation,card,03-deployment,done,validator: pass
+reflective,Contemplation,card,04-restraint,done,validator: pass
+reflective,Contemplation,card,05-operators,done,validator: pass
+reflective,Contemplation,card,06-combination-rules,done,validator: pass
+reflective,Contemplation,card,07-failure-modes,done,validator: pass
+reflective,Contemplation,card,08-cultural-scope,done,validator: pass
+reflective,Contemplation,card,09-exercises,done,validator: pass
+reflective,Contemplation,card,10-cross-links,done,validator: pass
+elegiac,Contemplation,dossier,research,done,dossier sections A-I present
+elegiac,Contemplation,card,01-definition-boundaries,done,validator: pass
+elegiac,Contemplation,card,02-mechanism,done,validator: pass
+elegiac,Contemplation,card,03-deployment,done,validator: pass
+elegiac,Contemplation,card,04-restraint,done,validator: pass
+elegiac,Contemplation,card,05-operators,done,validator: pass
+elegiac,Contemplation,card,06-combination-rules,done,validator: pass
+elegiac,Contemplation,card,07-failure-modes,done,validator: pass
+elegiac,Contemplation,card,08-cultural-scope,done,validator: pass
+elegiac,Contemplation,card,09-exercises,done,validator: pass
+elegiac,Contemplation,card,10-cross-links,done,validator: pass
+nostalgic,Contemplation,dossier,research,done,dossier sections A-I present
+nostalgic,Contemplation,card,01-definition-boundaries,done,validator: pass
+nostalgic,Contemplation,card,02-mechanism,done,validator: pass
+nostalgic,Contemplation,card,03-deployment,done,validator: pass
+nostalgic,Contemplation,card,04-restraint,done,validator: pass
+nostalgic,Contemplation,card,05-operators,done,validator: pass
+nostalgic,Contemplation,card,06-combination-rules,done,validator: pass
+nostalgic,Contemplation,card,07-failure-modes,done,validator: pass
+nostalgic,Contemplation,card,08-cultural-scope,done,validator: pass
+nostalgic,Contemplation,card,09-exercises,done,validator: pass
+nostalgic,Contemplation,card,10-cross-links,done,validator: pass
+inspirational,Elevation,dossier,research,done,dossier sections A-I present
+inspirational,Elevation,card,01-definition-boundaries,done,validator: pass
+inspirational,Elevation,card,02-mechanism,done,validator: pass
+inspirational,Elevation,card,03-deployment,done,validator: pass
+inspirational,Elevation,card,04-restraint,done,validator: pass
+inspirational,Elevation,card,05-operators,done,validator: pass
+inspirational,Elevation,card,06-combination-rules,done,validator: pass
+inspirational,Elevation,card,07-failure-modes,done,validator: pass
+inspirational,Elevation,card,08-cultural-scope,done,validator: pass
+inspirational,Elevation,card,09-exercises,done,validator: pass
+inspirational,Elevation,card,10-cross-links,done,validator: pass
+lyrical,Elevation,dossier,research,done,dossier sections A-I present
+lyrical,Elevation,card,01-definition-boundaries,done,validator: pass
+lyrical,Elevation,card,02-mechanism,done,validator: pass
+lyrical,Elevation,card,03-deployment,done,validator: pass
+lyrical,Elevation,card,04-restraint,done,validator: pass
+lyrical,Elevation,card,05-operators,done,validator: pass
+lyrical,Elevation,card,06-combination-rules,done,validator: pass
+lyrical,Elevation,card,07-failure-modes,done,validator: pass
+lyrical,Elevation,card,08-cultural-scope,done,validator: pass
+lyrical,Elevation,card,09-exercises,done,validator: pass
+lyrical,Elevation,card,10-cross-links,done,validator: pass
+reverent,Elevation,dossier,research,done,dossier sections A-I present
+reverent,Elevation,card,01-definition-boundaries,done,validator: pass
+reverent,Elevation,card,02-mechanism,done,validator: pass
+reverent,Elevation,card,03-deployment,done,validator: pass
+reverent,Elevation,card,04-restraint,done,validator: pass
+reverent,Elevation,card,05-operators,done,validator: pass
+reverent,Elevation,card,06-combination-rules,done,validator: pass
+reverent,Elevation,card,07-failure-modes,done,validator: pass
+reverent,Elevation,card,08-cultural-scope,done,validator: pass
+reverent,Elevation,card,09-exercises,done,validator: pass
+reverent,Elevation,card,10-cross-links,done,validator: pass
+warm,Elevation,dossier,research,done,dossier sections A-I present
+warm,Elevation,card,01-definition-boundaries,done,validator: pass
+warm,Elevation,card,02-mechanism,done,validator: pass
+warm,Elevation,card,03-deployment,done,validator: pass
+warm,Elevation,card,04-restraint,done,validator: pass
+warm,Elevation,card,05-operators,done,validator: pass
+warm,Elevation,card,06-combination-rules,done,validator: pass
+warm,Elevation,card,07-failure-modes,done,validator: pass
+warm,Elevation,card,08-cultural-scope,done,validator: pass
+warm,Elevation,card,09-exercises,done,validator: pass
+warm,Elevation,card,10-cross-links,done,validator: pass
+grim,Gravity,dossier,research,done,dossier sections A-I present
+grim,Gravity,card,01-definition-boundaries,done,validator: pass
+grim,Gravity,card,02-mechanism,done,validator: pass
+grim,Gravity,card,03-deployment,done,validator: pass
+grim,Gravity,card,04-restraint,done,validator: pass
+grim,Gravity,card,05-operators,done,validator: pass
+grim,Gravity,card,06-combination-rules,done,validator: pass
+grim,Gravity,card,07-failure-modes,done,validator: pass
+grim,Gravity,card,08-cultural-scope,done,validator: pass
+grim,Gravity,card,09-exercises,done,validator: pass
+grim,Gravity,card,10-cross-links,done,validator: pass
+cynical,Gravity,dossier,research,done,dossier sections A-I present
+cynical,Gravity,card,01-definition-boundaries,done,validator: pass
+cynical,Gravity,card,02-mechanism,done,validator: pass
+cynical,Gravity,card,03-deployment,done,validator: pass
+cynical,Gravity,card,04-restraint,done,validator: pass
+cynical,Gravity,card,05-operators,done,validator: pass
+cynical,Gravity,card,06-combination-rules,done,validator: pass
+cynical,Gravity,card,07-failure-modes,done,validator: pass
+cynical,Gravity,card,08-cultural-scope,done,validator: pass
+cynical,Gravity,card,09-exercises,done,validator: pass
+cynical,Gravity,card,10-cross-links,done,validator: pass
+urgent,Gravity,dossier,research,done,dossier sections A-I present
+urgent,Gravity,card,01-definition-boundaries,done,validator: pass
+urgent,Gravity,card,02-mechanism,done,validator: pass
+urgent,Gravity,card,03-deployment,done,validator: pass
+urgent,Gravity,card,04-restraint,done,validator: pass
+urgent,Gravity,card,05-operators,done,validator: pass
+urgent,Gravity,card,06-combination-rules,done,validator: pass
+urgent,Gravity,card,07-failure-modes,done,validator: pass
+urgent,Gravity,card,08-cultural-scope,done,validator: pass
+urgent,Gravity,card,09-exercises,done,validator: pass
+urgent,Gravity,card,10-cross-links,done,validator: pass
+defiant,Gravity,dossier,research,done,dossier sections A-I present
+defiant,Gravity,card,01-definition-boundaries,done,validator: pass
+defiant,Gravity,card,02-mechanism,done,validator: pass
+defiant,Gravity,card,03-deployment,done,validator: pass
+defiant,Gravity,card,04-restraint,done,validator: pass
+defiant,Gravity,card,05-operators,done,validator: pass
+defiant,Gravity,card,06-combination-rules,done,validator: pass
+defiant,Gravity,card,07-failure-modes,done,validator: pass
+defiant,Gravity,card,08-cultural-scope,done,validator: pass
+defiant,Gravity,card,09-exercises,done,validator: pass
+defiant,Gravity,card,10-cross-links,done,validator: pass
+intimate,Candor,dossier,research,done,dossier sections A-I present
+intimate,Candor,card,01-definition-boundaries,done,validator: pass
+intimate,Candor,card,02-mechanism,done,validator: pass
+intimate,Candor,card,03-deployment,done,validator: pass
+intimate,Candor,card,04-restraint,done,validator: pass
+intimate,Candor,card,05-operators,done,validator: pass
+intimate,Candor,card,06-combination-rules,done,validator: pass
+intimate,Candor,card,07-failure-modes,done,validator: pass
+intimate,Candor,card,08-cultural-scope,done,validator: pass
+intimate,Candor,card,09-exercises,done,validator: pass
+intimate,Candor,card,10-cross-links,done,validator: pass
+detached,Candor,dossier,research,done,dossier sections A-I present
+detached,Candor,card,01-definition-boundaries,done,validator: pass
+detached,Candor,card,02-mechanism,done,validator: pass
+detached,Candor,card,03-deployment,done,validator: pass
+detached,Candor,card,04-restraint,done,validator: pass
+detached,Candor,card,05-operators,done,validator: pass
+detached,Candor,card,06-combination-rules,done,validator: pass
+detached,Candor,card,07-failure-modes,done,validator: pass
+detached,Candor,card,08-cultural-scope,done,validator: pass
+detached,Candor,card,09-exercises,done,validator: pass
+detached,Candor,card,10-cross-links,done,validator: pass
+compassionate,Candor,dossier,research,done,dossier sections A-I present
+compassionate,Candor,card,01-definition-boundaries,done,validator: pass
+compassionate,Candor,card,02-mechanism,done,validator: pass
+compassionate,Candor,card,03-deployment,done,validator: pass
+compassionate,Candor,card,04-restraint,done,validator: pass
+compassionate,Candor,card,05-operators,done,validator: pass
+compassionate,Candor,card,06-combination-rules,done,validator: pass
+compassionate,Candor,card,07-failure-modes,done,validator: pass
+compassionate,Candor,card,08-cultural-scope,done,validator: pass
+compassionate,Candor,card,09-exercises,done,validator: pass
+compassionate,Candor,card,10-cross-links,done,validator: pass

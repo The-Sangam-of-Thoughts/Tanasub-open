@@ -1,0 +1,41 @@
+{
+  "id": "src-berlyne-aesthetics-1971",
+  "title": "Aesthetics and Psychobiology",
+  "creators": ["Daniel E. Berlyne"],
+  "source_type": "scholarly-book",
+  "source_roles": ["definition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Appleton-Century-Crofts",
+    "published_date": "1971",
+    "edition": "First edition",
+    "doi": null,
+    "isbn": "9780390856791"
+  },
+  "languages": ["en"],
+  "regions": ["Canada", "United States"],
+  "access": {
+    "locator": "Library catalog record; cited in peer-reviewed reviews of the inverted-U model",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-elegiac)",
+    "verification_notes": "Author, title, publisher, and year verified via multiple peer-reviewed reviews that cite it (including a 2017 review in Psychology of Music and a Frontiers synthesis). The inverted-U hedonic function of arousal potential and collative variables (complexity, novelty, uncertainty), with page locators for psychophysical/ecological/collative variables, verified via those reviews."
+  },
+  "axis_ids": ["tone-elegiac"],
+  "claim_ids": ["clm-tone-elegiac-oscillation-dosage"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scholarly monograph; model paraphrased only, with replication caveats noted."
+  }
+}

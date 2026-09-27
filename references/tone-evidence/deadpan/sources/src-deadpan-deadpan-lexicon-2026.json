@@ -1,0 +1,60 @@
+{
+  "id": "src-deadpan-deadpan-lexicon-2026",
+  "title": "Deadpan, pince-sans-rire, understatement, and litotes — lexical records (Wikipedia + Wiktionary)",
+  "creators": [
+    "Wikipedia contributors",
+    "Wiktionary contributors"
+  ],
+  "source_type": "reference-work",
+  "source_roles": [
+    "recognition",
+    "definition"
+  ],
+  "reliability_tier": 5,
+  "publication": {
+    "publisher_or_container": "Wikipedia and Wiktionary (Wikimedia Foundation)",
+    "published_date": "2026",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "regions": [
+    "global"
+  ],
+  "access": {
+    "locator": "Wikipedia 'Deadpan'; Wiktionary 'deadpan', 'litotes', 'understatement', 'pince-sans-rire' (entries accessed 2026-09-24)",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-deadpan)",
+    "verification_notes": "TIER 5 — audience/community-adjacent reference; NEVER sole support for any claim (layer0 tier rules). Accessed 2026-09-24. Contents: (a) Wikipedia 'Deadpan' wikitext — 1928 New York Times 'Slang of Film Men' item (Frank J. Wilstach) defining dead pan as 'playing a role with expressionless face, as, for instance, the work of Buster Keaton' [short PD fragment, quotable]; Bresnahan 1915 attestation of 'the dead pan'; etymology dead + pan (face); T.W. Barrett music-hall precedent relayed via Busby 1976. (b) Wiktionary 'deadpan', 'litotes', 'understatement', 'pince-sans-rire' — French equivalent confirmed: adjective 'dry, deadpan'; noun for a person with a deadpan sense of humour; literal gloss 'pinch without laughing'. (c) Wikipedia's note that 'A Modest Proposal' is conventionally an allusion to this style of deadpan satire, recorded under src-deadpan-modest-proposal-1729. Used only for recognition, vocabulary, and the cross-cultural lexical survey (§E); every claim it supports carries at least one tier 1–3 co-support."
+  },
+  "axis_ids": [
+    "tone-deadpan"
+  ],
+  "claim_ids": [
+    "clm-tone-deadpan-literal-read-failure",
+    "clm-tone-deadpan-performance-transfer",
+    "clm-tone-deadpan-flatness-failure"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": [
+      "French lexical items (pince-sans-rire) are recorded from English-language Wiktionary entries — gloss level only."
+    ]
+  },
+  "copyright": {
+    "status": "open-access",
+    "repository_copy_allowed": false,
+    "notes": "Wikipedia/Wiktionary content (CC BY-SA); paraphrased, with only the short 1928 New York Times slang fragment (public domain) quoted."
+  }
+}

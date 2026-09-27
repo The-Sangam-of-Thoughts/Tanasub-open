@@ -1,0 +1,54 @@
+{
+  "id": "src-grim-bourke-grimdark-review-2015",
+  "title": "The Dark Defiles by Richard Morgan (review)",
+  "creators": [
+    "Liz Bourke"
+  ],
+  "source_type": "professional-criticism",
+  "source_roles": [
+    "counterevidence"
+  ],
+  "reliability_tier": 3,
+  "publication": {
+    "publisher_or_container": "Strange Horizons",
+    "published_date": "2015-04-17",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Ireland",
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "http://strangehorizons.com/non-fiction/reviews/the-dark-defiles-by-richard-morgan/",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-grim)",
+    "verification_notes": "Bibliographic identity and the quoted characterisation of grimdark as 'a retreat into the valorisation of darkness for darkness's sake, into a kind of nihilism' confirmed indirectly via the Wikipedia 'Grimdark' entry. Used as tier-3 professional criticism for the failure mode."
+  },
+  "axis_ids": [
+    "tone-grim"
+  ],
+  "claim_ids": [
+    "clm-tone-grim-grimdark-posturing-failure"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Review; short critical phrase paraphrased, no extended reproduction."
+  }
+}

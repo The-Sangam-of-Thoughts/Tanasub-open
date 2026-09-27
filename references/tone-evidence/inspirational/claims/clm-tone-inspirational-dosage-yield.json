@@ -1,0 +1,49 @@
+{
+  "id": "clm-tone-inspirational-dosage-yield",
+  "craft_claim": "Sustained uplift without concrete stakes, strategies, or contrast habituates and curdles; the inspirational voice must yield at stakes peaks and in direct address of suffering.",
+  "tone_ids": [
+    "tone-inspirational"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-inspirational-wood-2009",
+      "location": "Psychological Science 20(7):860-866",
+      "evidence_expression": "synthesis",
+      "note": "Repeated positive self-statements harmed low-self-esteem participants, establishing that piling on affirmation is not monotonically beneficial."
+    },
+    {
+      "evidence_id": "src-inspirational-oyserman-2006",
+      "location": "Journal of Personality and Social Psychology 91(1):188-204, mediation analyses",
+      "evidence_expression": "synthesis",
+      "note": "Possible selves alone did not move outcomes; effects were mediated by the possible-self-to-strategy linkage, so vision without route should be cut rather than repeated."
+    },
+    {
+      "evidence_id": "src-inspirational-pohling-diessner-2016",
+      "location": "Review of General Psychology 20(4):412-425, conclusions",
+      "evidence_expression": "synthesis",
+      "note": "Strong evidence that elevation broadens thought-action repertoires but only relatively weak evidence it builds lasting resources, implying novelty decay under repetition."
+    },
+    {
+      "evidence_id": "src-inspirational-zielinski-2023",
+      "location": "Anxiety, Stress & Coping 36(2):214-228",
+      "evidence_expression": "synthesis",
+      "note": "Perceived invalidation of emotion predicted lower daily positive affect, so uplift over disclosed grief is the clearest place the tone must drop."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-inspirational-oyserman-2006",
+      "note": "Sections B and H record Oyserman's strategy-linked uplift effects as sustained at two-year follow-up, so habituation attaches to routeless assertion rather than to sustained uplift as such, and the 'one strong elevation passage per section' threshold remains a practical card rule rather than a measured saturation point."
+    }
+  ],
+  "scope": "Long-form essays, serial content, and any passage that directly addresses the reader's difficulty.",
+  "exceptions": [
+    "Brief ceremonial or concluding passages may sustain the register for a short span without exceeding the dosage threshold."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/inspirational.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

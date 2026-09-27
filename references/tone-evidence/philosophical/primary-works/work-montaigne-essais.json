@@ -1,0 +1,39 @@
+{
+  "id": "work-montaigne-essais",
+  "title": "Essais",
+  "creators": [
+    "Michel de Montaigne"
+  ],
+  "work_type": "essay-collection",
+  "published_date": "1580-1595",
+  "languages": [
+    "fr"
+  ],
+  "regions": [
+    "France"
+  ],
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "period_role": "formative",
+  "source_id": "src-philosophical-montaigne-frame-1958",
+  "access": {
+    "edition_or_version": "The Complete Essays of Montaigne, trans. Donald M. Frame (Stanford, 1958)",
+    "language_used": "en",
+    "translator": "Donald M. Frame",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "The self is put on trial as the instrument and object of inquiry; each essay tests a judgment without settling it.",
+    "argumentative_stance": "Provisional and open-ended; the essay is an 'attempt' whose value lies in the testing, not a verdict. Titles pose topics; digression is licensed.",
+    "point_of_view": "First-person essayistic 'I' used as evidence, but turned outward to general reflection rather than confessional interiority.",
+    "structure": "Associative, digressive movement among anecdotes, quotations and self-observation; no forced conclusion.",
+    "style_and_devices": "Concrete anecdote as entry point to principle; quotation as counterpoint; ordinary diction with occasional aphoristic compression.",
+    "dialogue": "Internal dialogue with ancient authors and with the reader's assumed objections rather than dramatised characters.",
+    "imagery": "Domestic and bodily images used to make abstract questions tractable.",
+    "emotional_progression": "Curiosity and doubt; equanimity rather than catharsis.",
+    "critical_reception": "Founding instance of the essay genre; widely treated as the origin of the modern personal essay and of essayistic scepticism.",
+    "failure_or_misuse_signals": "Digression without a governing idea; self-reference that never abstracts outward collapses into tone-reflective."
+  }
+}

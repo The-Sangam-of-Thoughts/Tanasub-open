@@ -1,0 +1,56 @@
+{
+  "id": "src-lyrical-mcglone-rhyme-2000",
+  "title": "Birds of a Feather Flock Conjointly (?): Rhyme as Reason in Aphorisms",
+  "creators": [
+    "Matthew S. McGlone",
+    "Jessica Tofighbakhsh"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychological Science, Vol. 11, No. 5",
+    "published_date": "2000",
+    "edition": null,
+    "doi": "10.1111/1467-9280.00282",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1111/1467-9280.00282",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-lyrical)",
+    "verification_notes": "Bibliographic record verified via Crossref; finding confirmed: rhyming aphorisms were rated more truthful and apt than semantically equivalent non-rhyming paraphrases, an effect the authors call the 'Keats heuristic'."
+  },
+  "axis_ids": [
+    "tone-lyrical"
+  ],
+  "claim_ids": [
+    "clm-tone-lyrical-fluency-pleasure",
+    "clm-tone-lyrical-rhyme-truth"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Peer-reviewed article; aphorism stimuli not reproduced; analytical citation only."
+  }
+}

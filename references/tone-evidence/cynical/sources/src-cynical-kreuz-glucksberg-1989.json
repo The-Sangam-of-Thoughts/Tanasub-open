@@ -1,0 +1,56 @@
+{
+  "id": "src-cynical-kreuz-glucksberg-1989",
+  "title": "How to be sarcastic: The echoic reminder theory of verbal irony",
+  "creators": [
+    "Roger J. Kreuz",
+    "Sam Glucksberg"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Experimental Psychology: General",
+    "published_date": "1989",
+    "edition": "Vol. 118, No. 4, pp. 374-386",
+    "doi": "10.1037/0096-3445.118.4.374",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1037/0096-3445.118.4.374",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-cynical)",
+    "verification_notes": "Metadata confirmed via Crossref API; volume/issue/pagination (118(4):374-386) confirmed 2026-09-24. The echoic-reminder model predicts sarcasm is most accessible when a prior expectation or norm is available to be echoed; sarcasm therefore requires a shared benchmark the audience can recall. Full text not re-inspected; no passage quoted."
+  },
+  "axis_ids": [
+    "tone-cynical"
+  ],
+  "claim_ids": [
+    "clm-tone-cynical-irony-echoic",
+    "clm-tone-cynical-maxim-deflation"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical citation only."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "src-reflective-grossmann-kross-solomon-2014",
+  "title": "Exploring Solomon's Paradox: Self-Distancing Eliminates the Self-Other Asymmetry in Wise Reasoning About Close Relationships in Younger and Older Adults",
+  "creators": [
+    "Igor Grossmann",
+    "Ethan Kross"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychological Science",
+    "published_date": "2014",
+    "edition": "Vol. 25, No. 8 (August 2014); exact page range not re-confirmed this pass",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://sites.lsa.umich.edu/emotion-selfcontrol-psych/wp-content/uploads/sites/1322/2024/07/grossman.pdf",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reflective)",
+    "verification_notes": "Confirmed via SAGE full-issue record and JSTOR issue i24540169 (Psychological Science Vol. 25, No. 8, August 2014, containing this article) and author-hosted PDF. Appendix D's implied 2010 date for the Solomon's paradox paper was corrected to 2014."
+  },
+  "axis_ids": ["tone-reflective"],
+  "claim_ids": ["clm-tone-reflective-self-distanced-reflection"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "SAGE article; author-hosted PDF open at time of access. Analytical citations only."
+  }
+}

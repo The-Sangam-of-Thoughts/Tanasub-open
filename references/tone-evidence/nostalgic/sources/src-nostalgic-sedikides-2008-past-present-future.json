@@ -1,0 +1,58 @@
+{
+  "id": "src-nostalgic-sedikides-2008-past-present-future",
+  "title": "Nostalgia: Past, Present, and Future",
+  "creators": [
+    "Constantine Sedikides",
+    "Tim Wildschut",
+    "Jamie Arndt",
+    "Clay Routledge"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Current Directions in Psychological Science, Vol. 17, No. 5",
+    "published_date": "2008",
+    "edition": "pp. 304-307",
+    "doi": "10.1111/j.1467-8721.2008.00595.x",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom",
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1111/j.1467-8721.2008.00595.x",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-nostalgic)",
+    "verification_notes": "Title, authors, journal, volume, issue, pages, year and DOI verified via publisher page on web search 2026-09-24; abstract scope (content and triggers of nostalgic accounts; affective, self-regard and social-connectedness functions) confirmed from the publisher abstract. Full text not accessed."
+  },
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "claim_ids": [
+    "clm-tone-nostalgic-self-continuity-frame"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "SAGE journal article; analytical citation only, no reproduction."
+  }
+}

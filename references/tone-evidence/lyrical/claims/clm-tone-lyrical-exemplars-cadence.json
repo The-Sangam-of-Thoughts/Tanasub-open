@@ -1,0 +1,49 @@
+{
+  "id": "clm-tone-lyrical-exemplars-cadence",
+  "craft_claim": "Verified prose exemplars (Woolf, Baldwin, Garcia Marquez) demonstrate that cadence, refrain, and incantation can carry meaning, and the mechanism is observable and documentable.",
+  "tone_ids": [
+    "tone-lyrical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "work-to-the-lighthouse",
+      "location": "novel, interior monologue passages",
+      "evidence_expression": "synthesis",
+      "note": "Woolf's cadence and free-indirect movement modulate psychic distance by rhythm; Auerbach (1946) analyses the multipersonal, rhythmically ordered representation."
+    },
+    {
+      "evidence_id": "work-notes-of-a-native-son",
+      "location": "essay collection, title essay",
+      "evidence_expression": "synthesis",
+      "note": "Baldwin's parallel clauses and refrain-like returns carry argument; Hubbard (1994) documents the sermonic cadence in African American literary prose."
+    },
+    {
+      "evidence_id": "work-one-hundred-years-of-solitude",
+      "location": "novel, opening and chronicle passages",
+      "evidence_expression": "synthesis",
+      "note": "Garcia Marquez alternates long incantatory clauses with short declaratives to create a legendary, rhythmic surface in Spanish (Rabassa's English translation preserves cadence partially)."
+    },
+    {
+      "evidence_id": "src-lyrical-auerbach-mimesis-1946",
+      "location": "Mimesis, 'The Brown Stocking'",
+      "evidence_expression": "synthesis",
+      "note": "Auerbach's close analysis of Woolf demonstrates that the rhythmic, multipersonal technique is a deliberate representational method, not incidental style."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-lyrical-hubbard-sermon-1994",
+      "note": "Exemplar analysis is interpretive and translation-dependent; the cadence of a non-English exemplar is only partially recoverable in English."
+    }
+  ],
+  "scope": "Modernist and postcolonial prose; illustrative rather than exhaustive.",
+  "exceptions": [
+    "Exemplars are not templates; imitating surface cadence without the underlying meaning produces the failure in clm-tone-lyrical-purple-prose-failure."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/lyrical.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "work-malgudi-days",
+  "title": "Malgudi Days",
+  "creators": [
+    "R.K. Narayan"
+  ],
+  "work_type": "short-story-collection",
+  "published_date": "1943",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "India",
+    "Malgudi",
+    "Tamil Nadu"
+  ],
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "period_role": "recognized",
+  "source_id": "src-warm-ghalib-letters-2022",
+  "access": {
+    "edition_or_version": "Indian Thought Publications 1943; Penguin Classics 1982",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "partial",
+  "mechanics": {
+    "reader_promise": "Companionable, ironic attention to ordinary South Indian lives, offered without judgement or moralising.",
+    "point_of_view": "Third-person narrators who stay close enough to sympathise and far enough never to expose a character's privacy.",
+    "psychic_distance": "Middle-close and stable: the reader is seated beside the narrator as a fellow observer, not handed interiority.",
+    "dialogue": "Understated, idiomatic Indian English that carries humour through what characters reveal about themselves.",
+    "style_and_devices": "Affectionate irony, plain vocabulary, concrete domestic detail, gentle comic timing; criticism describes 'compassionate humanism' and humour drawn from ordinary life.",
+    "emotional_progression": "Small perturbation resolved into quiet accommodation rather than climax; warmth persists through disappointment.",
+    "tone_markers": "Inclusive narration, shared amusement at human foibles, non-judgemental framing of failure, ordinary settings."
+  }
+}

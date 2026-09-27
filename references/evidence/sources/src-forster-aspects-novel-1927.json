@@ -1,0 +1,57 @@
+{
+  "id": "src-forster-aspects-novel-1927",
+  "title": "Aspects of the Novel",
+  "creators": [
+    "E.M. Forster"
+  ],
+  "source_type": "craft-book",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Edward Arnold",
+    "published_date": "1927",
+    "edition": "First Edition",
+    "doi": null,
+    "isbn": "978-0156091800"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://archive.org/details/aspectsofnovel00fors",
+    "accessed_at": "2026-09-12",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-12T14:10:00Z",
+    "verified_by": "Codex S10 foundation evidence agent",
+    "verification_notes": "Directly verified distinction between story ('the king died and then the queen died') and plot ('the king died and then the queen died of grief'), and flat vs round characters."
+  },
+  "axis_ids": [
+    "axis-psychological-fiction",
+    "axis-historical-fiction",
+    "axis-bildungsroman"
+  ],
+  "claim_ids": [
+    "clm-causal-escalation-vs-episodic",
+    "clm-character-orchestration"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": true,
+    "notes": "Public domain in United States and India (published 1927)."
+  }
+}

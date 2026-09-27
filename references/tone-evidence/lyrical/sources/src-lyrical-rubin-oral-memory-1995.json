@@ -1,0 +1,54 @@
+{
+  "id": "src-lyrical-rubin-oral-memory-1995",
+  "title": "Memory in Oral Traditions: The Cognitive Psychology of Epic, Ballads, and Counting-out Rhymes",
+  "creators": [
+    "David C. Rubin"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Oxford University Press",
+    "published_date": "1995",
+    "edition": null,
+    "doi": "10.1093/oso/9780195082111.001.0001",
+    "isbn": "9780195082111"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1093/oso/9780195082111.001.0001",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-lyrical)",
+    "verification_notes": "Bibliographic record verified via Crossref and Open Library; argument confirmed: metre, rhyme, and formulaic structure function as encoding and retrieval devices that make long oral works performable and memorable."
+  },
+  "axis_ids": [
+    "tone-lyrical"
+  ],
+  "claim_ids": [
+    "clm-tone-lyrical-rhythm-memory"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scholarly monograph; analytical citation only."
+  }
+}

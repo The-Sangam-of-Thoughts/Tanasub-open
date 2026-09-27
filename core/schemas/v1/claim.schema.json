@@ -1,0 +1,34 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://creative-writing-library.local/schemas/v1/claim.schema.json",
+  "title": "Craft Claim",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "craft_claim", "axis_ids", "supporting_evidence", "counterevidence", "scope", "exceptions", "confidence", "report_locations", "inference_label", "last_verified"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^clm-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+    "craft_claim": {"type": "string", "minLength": 1},
+    "axis_ids": {"type": "array", "items": {"type": "string", "pattern": "^axis-[a-z0-9]+(?:-[a-z0-9]+)*$"}, "minItems": 1, "uniqueItems": true},
+    "supporting_evidence": {"type": "array", "items": {"$ref": "#/definitions/evidenceLink"}, "minItems": 1},
+    "counterevidence": {"type": "array", "items": {"$ref": "#/definitions/evidenceLink"}},
+    "scope": {"type": "string", "minLength": 1},
+    "exceptions": {"type": "array", "items": {"type": "string", "minLength": 1}},
+    "confidence": {"enum": ["strong", "moderate", "limited", "disputed"]},
+    "report_locations": {"type": "array", "items": {"type": "string", "pattern": "^[^\\\\]+\\.md(?:#[a-z0-9-]+)?$"}, "minItems": 1, "uniqueItems": true},
+    "inference_label": {"enum": ["source-stated", "synthesis", "researcher-inference"]},
+    "last_verified": {"type": "string", "format": "date"}
+  },
+  "definitions": {
+    "evidenceLink": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["evidence_id", "location", "evidence_expression", "note"],
+      "properties": {
+        "evidence_id": {"type": "string", "pattern": "^(?:src|work)-[a-z0-9]+(?:-[a-z0-9]+)*$"},
+        "location": {"type": "string", "minLength": 1},
+        "evidence_expression": {"enum": ["quotation", "paraphrase", "synthesis", "researcher-inference"]},
+        "note": {"type": "string", "minLength": 1}
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "work-deadpan-manto-partition-stories",
+  "axis_ids": ["tone-deadpan"],
+  "source_type": "primary-work",
+  "title": "Manto partition stories (Selected Stories, Jalal-framed English edition)",
+  "creators": ["Saadat Hasan Manto"],
+  "publication": {
+    "publisher": "Vintage India (Random House India)",
+    "publication_year": 2008
+  },
+  "identifiers": {"isbn": "81-8400-144-4"},
+  "tier": 3,
+  "analysis_status": "translation-mediated",
+  "tone_mechanism": "Clinical reportage: atrocity reported in case-file cadence — inventory of bodies and goods, attributed speech, plain declaratives, dates and places stated without rhetorical emphasis. The narrator borrows the record-keeper's register (echoic mention of the official report) and never supplies moral reaction; the dissociation is carried entirely by the absurd horror of what is being catalogued.",
+  "verification_note": "Attested via repo genre file (genres/satirical-literature.md lines 115, 321, 371, 385, 499) — passage-level close reading NOT performed this session (evidence-incomplete item 3); record checked 2026-09-24. Tied to src-deadpan-manto-selected-stories-2008 with its unresolved Vintage/Penguin imprint discrepancy. Distinct from the detached silo's src-detached-manto-selected-stories-2008 (different record, different silo, deliberately non-colliding IDs).",
+  "copyright_note": "In copyright. Technique described only; no passage reproduced.",
+  "used_by_claims": ["clm-tone-deadpan-clinical-reportage"]
+}

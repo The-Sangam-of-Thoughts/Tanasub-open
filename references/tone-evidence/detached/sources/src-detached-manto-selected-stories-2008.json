@@ -1,0 +1,47 @@
+{
+  "id": "src-detached-manto-selected-stories-2008",
+  "title": "Selected Stories",
+  "creators": ["Saadat Hasan Manto", "Aatish Taseer"],
+  "source_type": "critical-edition",
+  "source_roles": ["recognition", "definition", "craft-support", "indian-context"],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Penguin Books India",
+    "published_date": "2008",
+    "edition": "Translated edition (stories written 1930s-1950s)",
+    "doi": null,
+    "isbn": "9780143102182"
+  },
+  "languages": ["en", "ur"],
+  "regions": ["India", "Pakistan", "South Asia"],
+  "access": {
+    "locator": "Library / publisher record",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-detached)",
+    "verification_notes": "Edition, translator, publisher and ISBN confirmed across multiple bookseller/library records. The clinical-detachment mechanism is independently documented in the repository genre file genres/satirical-literature.md."
+  },
+  "axis_ids": ["tone-detached"],
+  "claim_ids": [
+    "clm-tone-detached-indian-clinical-manto",
+    "clm-tone-detached-defamiliarization"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "ur",
+    "translator": "Aatish Taseer",
+    "limitations": [
+      "English loses the Urdu sociolinguistic stratification (Bombay street Hindustani, Punjabi inflection, occupational cant) that carries part of Manto's effect.",
+      "Older Ralph Russell translations formalize the prose more than Taseer's; claims are scoped to the Taseer edition."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Penguin Random House India; analytical description only, no reproduction."
+  }
+}

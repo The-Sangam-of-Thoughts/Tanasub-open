@@ -1,0 +1,37 @@
+{
+  "id": "work-call-to-arms-lu-xun",
+  "title": "Call to Arms (Nahan), including the 'Iron House' preface",
+  "creators": [
+    "Lu Xun"
+  ],
+  "work_type": "short-story-collection",
+  "published_date": "1923",
+  "languages": [
+    "zh"
+  ],
+  "regions": [
+    "China"
+  ],
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "period_role": "formative",
+  "source_id": "src-urgent-frederick-loewenstein-odonoghue-2002",
+  "access": {
+    "edition_or_version": "First collection, 1923 (later English translations; translation copyright varies)",
+    "language_used": "en",
+    "translator": "Not fixed; translation consulted only at reference level",
+    "access_conditions": "library"
+  },
+  "analysis_status": "partial",
+  "mechanics": {
+    "premise": "A landmark modern Chinese story collection whose preface uses the 'iron house' image: a small number of awake people in an inescapable house, wondering whether to wake the sleepers.",
+    "tone_function": "A non-Anglophone model of urgency as anguished responsibility: the reader is asked whether silence before catastrophe is defensible.",
+    "time_handling": "The image makes the present the last available moment; urgency is existential and national rather than commercial.",
+    "figurative_moves": "Sustained allegory (the sealed house, the sleepers, the fire) carries the pressure; the metaphor does the argumentative work.",
+    "rhetorical_position": "Conditional, self-questioning voice rather than command; urgency rises from moral dilemma, not imperative volume.",
+    "cultural_scope": "Chinese vernacular-modernist reform context, distinct from Western deadline rhetoric; no false universal claim is made.",
+    "translation_limits": "Chinese prose style and sound are not assessed; the iron-house preface is summarized from established descriptions, not from a fixed translation.",
+    "verification_note": "Lu Xun and the collection confirmed via reference summary; the preface's iron-house image described, not quoted. Marked partial because no single translation edition was page-inspected."
+  }
+}

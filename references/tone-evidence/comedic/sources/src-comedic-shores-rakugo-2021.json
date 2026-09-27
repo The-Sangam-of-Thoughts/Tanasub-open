@@ -1,0 +1,57 @@
+{
+  "id": "src-comedic-shores-rakugo-2021",
+  "title": "The Comic Storytelling of Western Japan: Satire and Social Mobility in Kamigata Rakugo",
+  "creators": [
+    "Matthew W. Shores"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Cambridge University Press",
+    "published_date": "2021",
+    "edition": "First edition (paperback reissue)",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "regions": [
+    "Japan",
+    "Kansai (Kamigata)"
+  ],
+  "access": {
+    "locator": "https://mwshores.com/work/",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-comedic)",
+    "verification_notes": "Scholarly monograph on Kamigata rakugo, including history and English translations of five classic stories; existence, publisher, and 2021 date verified via Cambridge/University of Sydney records and review in the Journal of Japanese Studies. Content characterized from published description and reviews, not full-text inspection."
+  },
+  "axis_ids": [
+    "tone-comedic"
+  ],
+  "claim_ids": [
+    "clm-tone-comedic-crosscultural-oral"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": [
+      "Rakugo performance timing and vocal character-work are not fully recoverable from a written monograph."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scholarly book; citation and paraphrase only."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "src-whimsical-bateson-play-fantasy-1972",
+  "title": "A Theory of Play and Fantasy (in Steps to an Ecology of Mind)",
+  "creators": [
+    "Gregory Bateson"
+  ],
+  "source_type": "scholarly-book-chapter",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Ballantine Books (collected essays); originally Psychiatric Research Reports 2:39-51 (1955)",
+    "published_date": "1972",
+    "edition": "Steps to an Ecology of Mind, pp. 177-193; orig. essay 1955",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://pubmed.ncbi.nlm.nih.gov/13297882",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-whimsical)",
+    "verification_notes": "Confirmed the original 1955 publication (Psychiatric Research Reports 2:39-51), its reprint in Steps to an Ecology of Mind (1972, pp. 177-193), and the 'this is play' metacommunication thesis via secondary scholarship (Mitchell 1991) and an excerpt. Related essay 'The Message This is Play' (1956) noted."
+  },
+  "axis_ids": [
+    "tone-whimsical"
+  ],
+  "claim_ids": [
+    "clm-tone-whimsical-play-frame-metacommunication",
+    "clm-tone-whimsical-benign-incongruity",
+    "clm-tone-whimsical-tonal-clash-stakes"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Collected essays; analytical citation only."
+  }
+}

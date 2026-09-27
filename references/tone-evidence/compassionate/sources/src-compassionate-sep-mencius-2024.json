@@ -1,0 +1,50 @@
+{
+  "id": "src-compassionate-sep-mencius-2024",
+  "title": "Mencius",
+  "creators": [],
+  "source_type": "reference-work",
+  "source_roles": [
+    "definition",
+    "recognition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Stanford Encyclopedia of Philosophy",
+    "published_date": "2024",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [],
+  "access": {
+    "locator": null,
+    "accessed_at": "2026-09-24",
+    "access_conditions": null
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-compassionate)",
+    "verification_notes": "Dossier sections A, E, and F cite the SEP 'Mencius' entry (2024) as the synthesis of the scholarship, confirming the sprouts doctrine, the child-at-the-well response, the extension argument, and passages 2A6, 6A6, 1A7. The dossier writes the abbreviation 'SEP' only; the container expands it. The entry's author, access URL, and access conditions are not stated in the dossier, so creators is empty and locator/access_conditions are null."
+  },
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "claim_ids": [
+    "clm-tone-compassionate-confucian-ren-extension"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Reference-work entry; analytical citation only; dossier states no license terms, so no repository copy is claimed."
+  }
+}

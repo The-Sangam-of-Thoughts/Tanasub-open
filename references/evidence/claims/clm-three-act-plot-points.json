@@ -1,0 +1,61 @@
+{
+  "id": "clm-three-act-plot-points",
+  "craft_claim": "Three-act narrative structure requires decisive turning points (plot points) that irrevocably pivot the protagonist's commitment and trajectory.",
+  "axis_ids": [
+    "axis-bildungsroman",
+    "axis-cozy-mystery",
+    "axis-detective-and-mystery-fiction",
+    "axis-episodic-television-script",
+    "axis-epistolary-fiction",
+    "axis-fantasy-fiction",
+    "axis-feature-screenplay",
+    "axis-flash-fiction",
+    "axis-frame-narrative",
+    "axis-gothic-fiction",
+    "axis-historical-fiction",
+    "axis-horror-fiction",
+    "axis-nataka-drama",
+    "axis-pastoral-literature",
+    "axis-prakarana-drama",
+    "axis-psychological-fiction",
+    "axis-romance-fiction",
+    "axis-satirical-literature",
+    "axis-science-fiction",
+    "axis-solarpunk",
+    "axis-space-opera",
+    "axis-speculative-fiction",
+    "axis-urban-fantasy"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-field-screenplay-2005",
+      "location": "Chapter 1: The Paradigm, pp. 19-35",
+      "evidence_expression": "quotation",
+      "note": "Field defines Plot Point I and Plot Point II as structural events that hook into action and spin it into a new direction."
+    },
+    {
+      "evidence_id": "src-aristotle-poetics-1996",
+      "location": "Chapter 11: Reversal, Recognition, and Suffering",
+      "evidence_expression": "paraphrase",
+      "note": "Aristotle outlines peripeteia as a change by which action veers around to its opposite subject to probable or necessary sequence."
+    },
+    {
+      "evidence_id": "work-oedipus-rex",
+      "location": "Messenger from Corinth scene",
+      "evidence_expression": "synthesis",
+      "note": "Messenger intending to cheer Oedipus by announcing Polybus's death triggers the catastrophic revelation that Oedipus was adopted."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Feature screenplays, dramatic narratives, and commercial fiction.",
+  "exceptions": [
+    "Slice-of-life, episodic picaresque, or circular non-teleological narrative structures."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "05-structure-plot-and-escalation.md#structure-plot-and-escalation-preferred_label",
+    "00-how-to-write.md#plan-the-work"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-12"
+}

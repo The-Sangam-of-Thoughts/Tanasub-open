@@ -1,0 +1,55 @@
+{
+  "id": "clm-tone-defiant-crosscultural-warrants",
+  "craft_claim": "Non-Anglophone and regional resistance voices ground defiance in distinct warrants — caste and religion, anti-dictatorship, statelessness and exile, 'living in truth' — so no single universal defiant technique exists and the warrant does not transfer with the cadence.",
+  "tone_ids": [
+    "tone-defiant"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "work-annihilation-of-caste",
+      "location": "Self-published speech, 15 May 1936, India",
+      "evidence_expression": "synthesis",
+      "note": "Ambedkar's warrant is caste and religious authority: he argues that caste subordinates ethical and public life and that its religious foundation must be destroyed for emancipation."
+    },
+    {
+      "evidence_id": "work-hum-dekhenge",
+      "location": "Urdu nazm, written 1979, published 1981",
+      "evidence_expression": "synthesis",
+      "note": "Faiz's nazm inverts Islamic eschatological imagery toward revolutionary reckoning; its reading as anti-Zia protest is documented but contested, with scholars arguing it honoured the 1979 Iranian revolution, which bounds any single-warrant interpretation."
+    },
+    {
+      "evidence_id": "work-write-down-i-am-an-arab",
+      "location": "Arabic poem, 1964",
+      "evidence_expression": "synthesis",
+      "note": "Darwish's warrant is identity under a military-law regime; the poem fixes a national self against an official classification."
+    },
+    {
+      "evidence_id": "work-power-of-the-powerless",
+      "location": "Czech samizdat essay, 1978; English trans. 1985",
+      "evidence_expression": "synthesis",
+      "note": "Havel's warrant is ethical-existential: resistance is 'living in truth' within a post-totalitarian system, not a nationalist or class claim."
+    },
+    {
+      "evidence_id": "src-defiant-bharati-sahitya-akademi-1992",
+      "location": "Encyclopaedia of Indian Literature entry, pp. 4191-4193",
+      "evidence_expression": "paraphrase",
+      "note": "Bharati's Tamil poetry fused anti-colonial nationalism with anti-caste and women's-emancipation reform, grounding defiance in social reform as well as independence."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-defiant-scott-smith-1969",
+      "note": "The structural features of confrontation (refusal of the opponent's terms) recur across traditions, so 'no universal technique' should not be read as 'no cross-cultural family resemblance'."
+    }
+  ],
+  "scope": "Cultural-scope analysis for the tone card; all forms where the tone is deployed cross-culturally.",
+  "exceptions": [
+    "This dossier inspected English translations and secondary descriptions for the Urdu, Arabic, Tamil, and Czech works; claims about sound, metre, rhyme, and register are limited accordingly."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/defiant.md#8--cultural-scope"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

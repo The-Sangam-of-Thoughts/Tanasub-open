@@ -1,0 +1,36 @@
+{
+  "id": "work-why-we-cant-wait",
+  "title": "Why We Can't Wait",
+  "creators": [
+    "Martin Luther King Jr."
+  ],
+  "work_type": "nonfiction-book",
+  "published_date": "1964",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "period_role": "canonical",
+  "source_id": "src-urgent-poulakos-sophistic-rhetoric-1983",
+  "access": {
+    "edition_or_version": "Harper & Row, 1964 (later reprints)",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A book-length account of the 1963 Birmingham campaign arguing that American racial justice could not be deferred.",
+    "tone_function": "The title itself states the tone's thesis: the matter cannot wait. The book is the clearest single-work statement that urgency can be a moral claim rather than a marketing device.",
+    "time_handling": "1963 is framed as a hinge year; the narrative repeatedly converts 'someday' into 'now' by tying demands to events that have already happened.",
+    "lexical_fields": "Waiting, delay, now, hour; debt and obligation; momentum.",
+    "syntax_and_rhythm": "Declarative, sermon-inflected prose; accumulating clauses resolve into short summary sentences.",
+    "emotional_progression": "Diagnosis of delay -> evidence of harm -> moral summons; urgency is earned by documented events before it is asserted.",
+    "verification_note": "Book, author, year and subject confirmed via reference summary. Techniques described, not quoted."
+  }
+}

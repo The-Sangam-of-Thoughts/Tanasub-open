@@ -1,0 +1,41 @@
+{
+  "id": "work-cosmicomics",
+  "title": "Cosmicomics (Le Cosmicomiche)",
+  "creators": [
+    "Italo Calvino",
+    "William Weaver"
+  ],
+  "work_type": "short story collection",
+  "published_date": "1965",
+  "languages": [
+    "it"
+  ],
+  "regions": [
+    "Italy"
+  ],
+  "axis_ids": [
+    "tone-whimsical"
+  ],
+  "period_role": "formative",
+  "source_id": "src-whimsical-calvino-six-memos-1988",
+  "access": {
+    "edition_or_version": "Einaudi (Italian, 1965); Harcourt Brace (English, 1968, trans. William Weaver)",
+    "language_used": "en",
+    "translator": "William Weaver",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "Twelve stories, each built around a scientific theory or phenomenon and narrated as a memory by the cosmic being Qfwfq.",
+    "point_of_view": "First-person narration by an anthropomorphized, always-extant cosmic consciousness, with a domestic, faintly comic tone.",
+    "invented_world_and_props": "Scientific premises are literalized and then reasoned through consistently; each premise functions as a prop the reader imagines into.",
+    "play_frame": "The absurd situation is presented with earnest matter-of-factness rather than as a joke, so the reader accepts the premise as an invitation.",
+    "style_and_devices": "Lightness, exactitude, fanciful literalization of abstraction, and a mock-naive narrator who treats cosmic events as ordinary life.",
+    "emotional_progression": "Wonder at a strange premise -> comic human complication -> a quiet, often wistful resolution.",
+    "dialogue": "Conversational narration that folds enormous scale into small, intimate observations.",
+    "conventions": "Blends science fiction's conceptual extrapolation with the fable and the comic sketch.",
+    "innovation_or_subversion": "Uses scientific abstraction not for prediction but for play, and treats the most abstract material through the smallest domestic lens.",
+    "critical_reception": "Recognized as a central work of Calvino's later, world-facing mode; the English translation won the 1969 National Book Award for translation.",
+    "audience_reception": "Widely anthologized and adapted, including into animated short film."
+  }
+}

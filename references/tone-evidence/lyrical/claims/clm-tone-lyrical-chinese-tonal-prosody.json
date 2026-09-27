@@ -1,0 +1,37 @@
+{
+  "id": "clm-tone-lyrical-chinese-tonal-prosody",
+  "craft_claim": "Chinese regulated verse makes tonal pattern and parallelism constitutive of the poem, so euphony is structural rather than optional.",
+  "tone_ids": [
+    "tone-lyrical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-lyrical-liu-wenxin-1959",
+      "location": "Wenxin Diaolong, chapters on literary affect and patterning",
+      "evidence_expression": "paraphrase",
+      "note": "Liu Xie frames literature as affection mediated by language and treats pattern and sound as intrinsic to literary form, not applied afterwards."
+    },
+    {
+      "evidence_id": "src-lyrical-owen-chinese-poetry-1981",
+      "location": "analysis of High Tang regulated verse (lushi), tonal and parallel structure",
+      "evidence_expression": "synthesis",
+      "note": "Owen documents how regulated verse organizes level and oblique tones and parallel couplets into a fixed structure, making sound-pattern a rule of composition."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-lyrical-owen-chinese-poetry-1981",
+      "note": "The tonal system has no English equivalent; the sound-structure cannot be reproduced or transferred to stress-timed languages."
+    }
+  ],
+  "scope": "Classical Chinese poetry and comparative prosody.",
+  "exceptions": [
+    "Craft claims about tonal parallelism do not transfer into English composition, only the general principle that sound can be structural."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/lyrical.md#8--cultural-scope"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

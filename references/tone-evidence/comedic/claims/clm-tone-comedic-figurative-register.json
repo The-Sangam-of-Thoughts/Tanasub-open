@@ -1,0 +1,43 @@
+{
+  "id": "clm-tone-comedic-figurative-register",
+  "craft_claim": "Understatement and hyperbole work by violating register or scale expectations, and wordplay works by activating an unexpected second sense of a word or phrase that then resolves.",
+  "tone_ids": [
+    "tone-comedic"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-comedic-bergson-laughter-1900",
+      "location": "Chapter I",
+      "evidence_expression": "synthesis",
+      "note": "Register and scale clashes are a species of incongruity; Bergson's account of the comic supports framing understatement and hyperbole as controlled expectation-violations."
+    },
+    {
+      "evidence_id": "src-comedic-suls-1972",
+      "location": "Chapter 4, pp. 81-100",
+      "evidence_expression": "synthesis",
+      "note": "Wordplay fits the two-stage model: the phrase sets one expectation, the second sense violates it, and the resolution yields the comic effect."
+    },
+    {
+      "evidence_id": "work-wodehouse-code-woosters",
+      "location": "Narration throughout",
+      "evidence_expression": "synthesis",
+      "note": "Observable technique: mock-formal narration and mixed-register diction set up scale clashes that resolve as wordplay; described, not quoted."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-comedic-bergson-laughter-1900",
+      "note": "Section G 'Bathos' records that the same low-register move that is comic when intended becomes bathos when it collides with stakes the text is trying to honour; with section B's Bergson condition that laughter requires an absence of feeling, register violation is framing-dependent and can sabotage a serious passage instead of amusing."
+    }
+  ],
+  "scope": "Prose and copy at the sentence and phrase level.",
+  "exceptions": [
+    "Wordplay that depends on a specific language's homophones does not survive translation and must not be claimed cross-linguistically."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/comedic.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

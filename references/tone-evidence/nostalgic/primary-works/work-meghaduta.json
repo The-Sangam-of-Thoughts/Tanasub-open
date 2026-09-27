@@ -1,0 +1,40 @@
+{
+  "id": "work-meghaduta",
+  "title": "Meghaduta (Cloud-Messenger)",
+  "creators": [
+    "Kalidasa"
+  ],
+  "work_type": "kavya poem",
+  "published_date": null,
+  "languages": [
+    "sa"
+  ],
+  "regions": [
+    "India",
+    "South Asia"
+  ],
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "period_role": "formative",
+  "source_id": "src-nostalgic-kalidasa-meghaduta-ryder",
+  "access": {
+    "edition_or_version": "Sanskrit original c. 4th-5th century CE (date left null rather than asserted); A. W. Ryder translation in Translations of Shakuntala and Other Works, J. M. Dent (Everyman's Library), London, 1912 (some catalogues 1914); about 111-119 verses by recension, commonly cited as 111",
+    "language_used": "en",
+    "translator": "Arthur W. Ryder",
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A yaksha, exiled from his beloved wife by his lord's curse, asks a passing monsoon cloud to carry his message to her; the cloud's route across the subcontinent is described by landmarks and seasons while separation-longing saturates each stage.",
+    "point_of_view": "Third-person frame around first-person-voiced pleas from the yaksha to the cloud, with the wife addressed inside the carried message.",
+    "psychic_distance": "Alternates between intimate address to the cloud and the absent wife and wide landscape panoramas - scale shifts do the emotional work.",
+    "style_and_devices": "Elaborate Sanskrit kavya ornament; a sustained metaphoric chain (cloud as courier, journey as emotion); catalogues of place and season; landscape description doubling as emotional sequence.",
+    "emotional_progression": "Appeal - outward journey widening the world - message of remembered intimacy - anticipation of reunion; distance increases while feeling intensifies.",
+    "dialogue": "Sustained apostrophe: the yaksha speaks to the cloud throughout, the beloved heard within the message he sends.",
+    "conventions": "Classical sandha-kavya (message poem); separation-longing is a common theme in Sanskrit love poetry.",
+    "innovation_or_subversion": "Turns the physical journey of the messenger into the structure of longing itself - affect carried across geography rather than narrated as private interiority.",
+    "critical_reception": "Among the most celebrated Sanskrit poems; translated many times, Ryder's Cloud-Messenger among the standard English versions.",
+    "audience_reception": "Traditional fame tied to its landscape catalogues; recited and anthologized across centuries."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "clm-tone-whimsical-crosscultural-invented-worlds",
+  "craft_claim": "Non-Anglophone traditions independently develop light invented worlds and delight in their own invention, so whimsy is not an Anglophone-specific attitude.",
+  "tone_ids": [
+    "tone-whimsical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "work-abol-tabol",
+      "location": "Bengali nonsense collection, U. Ray and Sons, 19 September 1923",
+      "evidence_expression": "synthesis",
+      "note": "Ray's collection established literary nonsense in Bengali, inventing compound creatures and rule-governed absurd situations that delight in their own making."
+    },
+    {
+      "evidence_id": "work-cosmicomics",
+      "location": "Le Cosmicomiche, Einaudi, 1965",
+      "evidence_expression": "synthesis",
+      "note": "Calvino builds fanciful stories from scientific premises in Italian, with an anthropomorphized narrator, demonstrating an independent Italian practice of light invention."
+    },
+    {
+      "evidence_id": "work-moomin-great-flood",
+      "location": "Småtrollen och den stora översvämningen, 1945",
+      "evidence_expression": "synthesis",
+      "note": "Jansson's first Moomin book, written in Swedish, builds a habitable invented world with whimsical creatures, a third independent tradition."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-whimsical-mukherjee-ray-humor-2022",
+      "note": "The traditions differ mechanically: Bengali nonsense foregrounds sound-play and portmanteau, the Italian practice foregrounds conceptual literalization, and the Finland-Swedish practice foregrounds world-building, so no single universal technique should be asserted."
+    }
+  ],
+  "scope": "Cross-cultural scope of the tone; the basis for card section 8.",
+  "exceptions": [
+    "Translation blurs each tradition's defining wordplay, so claims rest on documented traditions and scholarship rather than on any single English rendering."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/whimsical.md#8--cultural-scope"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

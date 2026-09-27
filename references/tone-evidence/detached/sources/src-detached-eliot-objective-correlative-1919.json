@@ -1,0 +1,41 @@
+{
+  "id": "src-detached-eliot-objective-correlative-1919",
+  "title": "Hamlet and His Problems (in The Sacred Wood: Essays on Poetry and Criticism)",
+  "creators": ["T. S. Eliot"],
+  "source_type": "practitioner-work",
+  "source_roles": ["definition", "craft-support"],
+  "reliability_tier": 4,
+  "publication": {
+    "publisher_or_container": "Methuen (The Sacred Wood, 1920); essay first published 1919",
+    "published_date": "1919",
+    "edition": "Collected in The Sacred Wood (1920)",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United Kingdom"],
+  "access": {
+    "locator": "https://www.gutenberg.org/files/57795/57795-h/57795-h.htm",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-detached)",
+    "verification_notes": "Essay year (1919) and collection confirmed; the objective-correlative formulation (a set of objects, a situation, a chain of events that is the formula for a particular emotion) confirmed in the essay text."
+  },
+  "axis_ids": ["tone-detached"],
+  "claim_ids": ["clm-tone-detached-defamiliarization"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": false,
+    "notes": "Public domain (pre-1929 US); synthesis only."
+  }
+}

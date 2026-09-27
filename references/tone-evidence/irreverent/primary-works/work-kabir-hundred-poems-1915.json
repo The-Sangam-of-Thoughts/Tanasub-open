@@ -1,0 +1,43 @@
+{
+  "id": "work-kabir-hundred-poems-1915",
+  "title": "One Hundred Poems of Kabir",
+  "creators": [
+    "Kabir",
+    "Rabindranath Tagore (translator)",
+    "Evelyn Underhill (assistant translator)"
+  ],
+  "work_type": "bhakti verse collection (English translation)",
+  "published_date": "1915",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "India"
+  ],
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "period_role": "formative",
+  "source_id": "src-irreverent-kabir-tagore-1915",
+  "access": {
+    "edition_or_version": "1915 English edition; full scan verified at https://archive.org/details/onehundredpoemso00kabiuoft",
+    "language_used": "en",
+    "translator": "Rabindranath Tagore, assisted by Evelyn Underhill",
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "Short, self-contained verses of a weaver-saint who attacks the apparatus of organized piety while holding fast to devotion itself.",
+    "deflation_targets": "Clerical costume and performance — the reddened robe, rosary, sacred thread, ceremonial thread-wearing, ritual bathing, idol-worship, and the wonder-working friar — all deflated as outward show (verified locators: Introduction p. xvi; Poem XXI pp. 28-29; Poems LXV-LXVII pp. 68-71; Poem LXIX pp. 72-73; described, never quoted).",
+    "licensed_frame": "The bhakti/prophetic register itself: the devotion Kabir affirms is what authorizes his ridicule of religious professionals — license earned from inside the tradition, not imported.",
+    "point_of_view": "First-person voice of the devotee-speaker, direct and unsoftened, addressing both God and the pious establishment.",
+    "style_and_devices": "Concrete material detail (garments, beads, tanks, idols) used as evidence against abstract sanctity; ironic reversal where the outward sign proves the inward fraud; no sustained institutional program — each poem is its own deflation.",
+    "dialogue": "Accusatory address to priests and pilgrims; admonition rather than conversation.",
+    "emotional_progression": "Fierce devotional certainty aimed outward at hypocrisy — anger and play coexist without ever cooling into doubt, which is why the register is irreverent rather than cynical.",
+    "boundaries_and_restraint": "Persistence against the clerical register brushes the satirical-literature boundary; what keeps it tone-irreverent is the absence of a named, sustained program-target and the preservation of the devotional core.",
+    "conventions": "Bhakti vernacular verse; anti-ritualist strain shared with other North Indian saints' traditions.",
+    "innovation_or_subversion": "Demonstrates irreverence from within devotion — sacred feeling as the engine of impiety toward the pious.",
+    "critical_reception": "The Tagore-Underhill introduction frames the tradition's piety as what Kabir denounced (p. xvi); translation-mediated reception (1915 English verse).",
+    "audience_reception": "Kabir remains among the most widely anthologized South Asian saints; this English collection is the standard historic vehicle of his reception abroad."
+  }
+}

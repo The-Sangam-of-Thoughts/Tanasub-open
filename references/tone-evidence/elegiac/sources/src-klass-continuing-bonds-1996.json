@@ -1,0 +1,41 @@
+{
+  "id": "src-klass-continuing-bonds-1996",
+  "title": "Continuing Bonds: New Understandings of Grief",
+  "creators": ["Dennis Klass", "Phyllis R. Silverman", "Steven L. Nickman"],
+  "source_type": "scholarly-book",
+  "source_roles": ["definition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Taylor & Francis",
+    "published_date": "1996",
+    "edition": "First edition",
+    "doi": "10.4324/9781315800790",
+    "isbn": "9781560323396"
+  },
+  "languages": ["en"],
+  "regions": ["United States", "cross-cultural"],
+  "access": {
+    "locator": "https://www.taylorfrancis.com/books/edit/10.4324/9781315800790/continuing-bonds-dennis-klass-phyllis-silverman-steven-nickman",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-elegiac)",
+    "verification_notes": "Editors, publisher, year, ISBN/DOI, and the core finding that continued connections comfort and ease transition against the sever-the-bond model verified via Taylor & Francis and library catalogs."
+  },
+  "axis_ids": ["tone-elegiac"],
+  "claim_ids": ["clm-tone-elegiac-continuing-bonds"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Edited scholarly volume; analytical paraphrase only."
+  }
+}

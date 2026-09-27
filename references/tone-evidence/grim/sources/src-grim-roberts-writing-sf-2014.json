@@ -1,0 +1,54 @@
+{
+  "id": "src-grim-roberts-writing-sf-2014",
+  "title": "Get Started in Writing Science Fiction and Fantasy",
+  "creators": [
+    "Adam Roberts"
+  ],
+  "source_type": "practitioner-work",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 4,
+  "publication": {
+    "publisher_or_container": "Hachette UK (Teach Yourself)",
+    "published_date": "2014",
+    "edition": "First edition",
+    "doi": null,
+    "isbn": "9781444795660"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://www.hachette.co.uk/titles/adam-roberts/get-started-in-writing-science-fiction-and-fantasy/9781444795660/",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "purchased"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-grim)",
+    "verification_notes": "Bibliographic identity and p. 42 definition confirmed indirectly via the Wikipedia 'Grimdark' entry, which quotes Roberts on grimdark as fiction 'where nobody is honourable and Might is Right'. Practitioner source, tier 4; used only for the failure-mode characterisation of grimdark, triangulated with tier-3 criticism."
+  },
+  "axis_ids": [
+    "tone-grim"
+  ],
+  "claim_ids": [
+    "clm-tone-grim-grimdark-posturing-failure"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Writing guide; definition paraphrased, no passage reproduced."
+  }
+}

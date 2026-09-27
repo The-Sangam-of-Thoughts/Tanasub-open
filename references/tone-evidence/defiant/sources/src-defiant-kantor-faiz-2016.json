@@ -1,0 +1,59 @@
+{
+  "id": "src-defiant-kantor-faiz-2016",
+  "title": "'My Heart, My Fellow Traveller': Fantasy, Futurity and the Itineraries of Faiz Ahmed Faiz",
+  "creators": [
+    "Roanne Kantor"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support",
+    "recognition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "South Asia: Journal of South Asian Studies, Vol. 39, No. 3",
+    "published_date": "2016",
+    "edition": null,
+    "doi": "10.1080/00856401.2016.1189034",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Pakistan",
+    "India",
+    "South Asia"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1080/00856401.2016.1189034",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-defiant)",
+    "verification_notes": "Scholarly article on Faiz's futurity confirmed via Taylor & Francis and Faiz reception records; supports analysis of the nazm's forward-facing, anticipatory structure and its circulation."
+  },
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "claim_ids": [
+    "clm-tone-defiant-crosscultural-warrants",
+    "clm-tone-defiant-collective-injustice-efficacy"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": [
+      "Article is in English and analyzes Faiz in translation and reception; original Urdu prosody not directly evidenced here."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Taylor & Francis journal article; analytical citation only."
+  }
+}

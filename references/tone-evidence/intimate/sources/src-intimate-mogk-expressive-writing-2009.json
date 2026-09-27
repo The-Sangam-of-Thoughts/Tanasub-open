@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-mogk-expressive-writing-2009",
+  "title": "Health effects of expressive writing on stressful or traumatic experiences - a meta-analysis",
+  "creators": ["Carolin Mogk", "Sebastian Otte", "Bettina Reinhold-Hurley", "Birgit Kroner-Herwig"],
+  "source_type": "peer-reviewed-article",
+  "source_roles": ["counterevidence", "recognition"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "GMS Psycho-Social-Medicine (open access)",
+    "published_date": "2009",
+    "edition": "Open-access meta-analysis; PMC2736499",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en", "de"],
+  "regions": ["Germany"],
+  "access": {
+    "locator": "https://pubmed.ncbi.nlm.nih.gov/19742069",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "PubMed and PubMed Central records verified the authors, journal, and finding that across 30 randomized controlled trials expressive writing had minor or no significant health effects, contradicting earlier claims."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-catharsis-null"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "open-access",
+    "repository_copy_allowed": false,
+    "notes": "Open-access meta-analysis, bilingual abstract; analytical paraphrase only."
+  }
+}

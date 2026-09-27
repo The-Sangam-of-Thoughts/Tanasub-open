@@ -1,0 +1,45 @@
+{
+  "id": "clm-tone-deadpan-understatement-operators",
+  "craft_claim": "The flat deadpan surface is built from understatement operators — litotes, meiosis, hedged negatives, and institutional euphemism — which grammatically suppress emphasis so that the content, not the voice, carries the shock.",
+  "tone_ids": ["tone-deadpan"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-deadpan-booth-irony-1974",
+      "location": "discussion of irony as understatement and the 'stable' ironic voice",
+      "evidence_expression": "paraphrase",
+      "note": "Booth's taxonomy of ironic cues includes sustained understatement and unreliable narration that never raises its voice — the grammatical basis of the flat surface. Tier 2 scholarly book."
+    },
+    {
+      "evidence_id": "src-deadpan-muecke-compass-irony-1969",
+      "location": "ch. on ironic devices",
+      "evidence_expression": "paraphrase",
+      "note": "Muecke catalogs litotes, meiosis, and deadpan delivery as recognized ironic devices distinct from explosion or buffoonery. Tier 2; device inventory source."
+    },
+    {
+      "evidence_id": "src-deadpan-parsai-matadeen-2003",
+      "location": "stories throughout (bureaucratic register)",
+      "evidence_expression": "paraphrase",
+      "note": "Parsai's practice runs officialdom's own minimizing vocabulary through satiric situations, so understatement is inherited from the register rather than applied by the narrator. Tier 3/4 practice anchor; translation gap documented (genres file line 571)."
+    },
+    {
+      "evidence_id": "src-anandavardhana-dhvanyaloka-1990",
+      "location": "sections on suggestion (*dhvani*) and the surface meaning",
+      "evidence_expression": "paraphrase",
+      "note": "The *Dhvanyaloka* framework of meaning exceeding the literal surface supplies the Indian theoretical counterpart: a surface that says deliberately less than it means. Shared cross-link (tier 2 critical edition). Theoretical anchor only — *dhvani* is not claimed as a translation of deadpan."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-deadpan-wilson-sperber-verbal-irony-1992",
+      "location": "pp. 56–74",
+      "evidence_expression": "paraphrase",
+      "note": "Wilson and Sperber argue understatement alone does not suffice to mark irony; the dissociation must come from context, not the figure of speech. Critical: understatement operators are *vehicle*, not *signal*. The card must not present litotes as automatically comic."
+    }
+  ],
+  "scope": "Prose in any register; the operators are language-universal (litotes and euphemism are documented across the surveyed traditions). Most at home in institutional, clinical, or fiscal registers.",
+  "exceptions": "Understatement in sincere usage (politeness hedging, courtesy litotes) carries no comic intent — the same operator serves `tone-plain` or `tone-intimate` unless the content is absurd.",
+  "confidence": "strong",
+  "report_locations": ["#5--how-to-use-it--operators"],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

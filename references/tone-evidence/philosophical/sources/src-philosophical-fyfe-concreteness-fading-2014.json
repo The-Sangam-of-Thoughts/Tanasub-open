@@ -1,0 +1,56 @@
+{
+  "id": "src-philosophical-fyfe-concreteness-fading-2014",
+  "title": "Concreteness Fading in Mathematics and Science Instruction: A Systematic Review",
+  "creators": [
+    "Emily R. Fyfe",
+    "Nicole M. McNeil",
+    "Ji Y. Son",
+    "Robert L. Goldstone"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Educational Psychology Review, Vol. 26",
+    "published_date": "2014",
+    "edition": null,
+    "doi": "10.1007/s10648-014-9249-3",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://link.springer.com/article/10.1007/s10648-014-9249-3",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-philosophical)",
+    "verification_notes": "Confirmed the three-step instructional progression from concrete instantiation, to iconic depiction, to abstract representation, and that transfer is maximized when abstraction is reached by fading rather than by immediate abstraction."
+  },
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "claim_ids": [
+    "clm-tone-philosophical-concreteness-grounding"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Springer journal article; analytical citation only."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "src-detached-bullough-psychical-distance-1912",
+  "title": "'Psychical Distance' as a Factor in Art and an Aesthetic Principle",
+  "creators": ["Edward Bullough"],
+  "source_type": "peer-reviewed-article",
+  "source_roles": ["recognition", "definition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "British Journal of Psychology",
+    "published_date": "1912",
+    "edition": "Vol. 5, Pt. 2, pp. 87-118",
+    "doi": "10.1111/j.2044-8295.1912.tb00057.x",
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United Kingdom"],
+  "access": {
+    "locator": "https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/j.2044-8295.1912.tb00057.x",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-detached)",
+    "verification_notes": "Article, journal, volume, part, page range and DOI confirmed. 'Antinomy of Distance' and 'variability of Distance' sections confirmed via published article text."
+  },
+  "axis_ids": ["tone-detached"],
+  "claim_ids": ["clm-tone-detached-affective-distance"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Wiley/British Psychological Society; paraphrase and synthesis only."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "work-malgudi-days",
+  "title": "Malgudi Days",
+  "creators": [
+    "R. K. Narayan"
+  ],
+  "work_type": "short-story collection",
+  "published_date": "1943",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "India"
+  ],
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "period_role": "formative",
+  "source_id": "src-nostalgic-nicholl-2011-rereading-narayan",
+  "access": {
+    "edition_or_version": "First edition, Indian Thought Publications, Madras, 1943 (150 pp.); enlarged 1982 Viking edition",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "Connected stories of the imagined South Indian town Malgudi and its merchants, schoolboys, magicians, and clerks; no overarching plot - the town itself is the continuity.",
+    "point_of_view": "Third-person limited, rotating across townspeople, with a lightly ironic narrator.",
+    "psychic_distance": "Close enough to feel each character's small stakes, held back by the narrator's gentle irony so warmth never tips into mawkishness.",
+    "style_and_devices": "Plain lucid prose; comic timing; concrete local detail (names, trades, landmarks); understated pathos; seasonal and festival rhythm.",
+    "emotional_progression": "Each story: ordinary situation - small complication - humane resolution or wry deflation; the collection's arc is accretive familiarity rather than climax.",
+    "dialogue": "Idiom-inflected English carrying local speech rhythms; dialogue does much of the characterization work.",
+    "conventions": "Regional short-story tradition with the town as organizing principle.",
+    "innovation_or_subversion": "Builds a nostalgic object (the town) that never existed, and lets affection grow from observation rather than declaration - restorative impulse without restorative rhetoric.",
+    "critical_reception": "Enduring reputation as a classic of Indian English fiction; a standard school text in India.",
+    "audience_reception": "Readers describe rereading the stories as a return to a place they know (Guardian rereading essay, 2011); the stories were adapted for Indian television in the 1980s."
+  }
+}

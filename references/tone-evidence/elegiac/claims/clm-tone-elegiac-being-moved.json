@@ -1,0 +1,33 @@
+{
+  "id": "clm-tone-elegiac-being-moved",
+  "craft_claim": "'Being moved' is a distinct, predominantly positive-valenced emotion, typically mixed with sadness, triggered by significant relationship and loss events; it is the affective signature of the elegiac's tenderness.",
+  "tone_ids": ["tone-elegiac"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-cova-deonna-being-moved-2014",
+      "location": "Philosophical Studies 169(3):447-466",
+      "evidence_expression": "paraphrase",
+      "note": "Cova and Deonna argue by linguistic and empirical analysis that being moved is a distinct emotion with an overall positive valence that typically includes negative components; prototypical eliciting events are significant relationship events and critical life events such as death and birth. Its function is to reorganize the person's hierarchy of values."
+    },
+    {
+      "evidence_id": "src-menninghaus-distancing-embracing-2017",
+      "location": "BBS 40:e347, discussion of mixed emotions",
+      "evidence_expression": "paraphrase",
+      "note": "Concomitant mixed emotions are proposed to help integrate negative emotions into pleasurable trajectories."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-gardner-art-fiction-1984",
+      "note": "Section G item 1: the same reader-side 'being moved' is the target of the governing failure, grief display that exceeds the psychologically and causally established stakes, which Gardner defines as sentimentality, so the affective signature is not self-validating and fit-to-stakes decides whether it is earned."
+    }
+  ],
+  "scope": "All forms; used here to explain tenderness as a reader-side effect, distinguishing elegiac from grim.",
+  "exceptions": [
+    "Being moved by achievement or love is outside the elegiac scope; the tone claims the loss-triggered subset."
+  ],
+  "confidence": "strong",
+  "report_locations": ["tones/elegiac.md#2--why-it-works--the-mechanism"],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

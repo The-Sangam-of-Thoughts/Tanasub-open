@@ -1,0 +1,37 @@
+{
+  "id": "work-gulistan",
+  "title": "Gulistan (The Rose Garden)",
+  "creators": [
+    "Sa'di Shirazi"
+  ],
+  "work_type": "prose-and-verse-collection",
+  "published_date": "1258",
+  "languages": [
+    "fa"
+  ],
+  "regions": [
+    "Persia",
+    "Iran"
+  ],
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "period_role": "formative",
+  "source_id": "src-warm-sadi-gulistan-1258",
+  "access": {
+    "edition_or_version": "Composed 1258; public-domain English translations include James Ross (1900) and Edward Eastwick",
+    "language_used": "en",
+    "translator": "James Ross (1900); Edward Eastwick",
+    "access_conditions": "open"
+  },
+  "analysis_status": "partial",
+  "mechanics": {
+    "reader_promise": "Affectionate moral counsel: hard truths offered as a friend's advice, made palatable with wit.",
+    "point_of_view": "First-person narrator who reports encounters and dialogues as personal anecdotes and travel memory.",
+    "psychic_distance": "Friendly middle distance: the narrator is experienced and advising, but not elevated above the reader.",
+    "dialogue": "Embedded conversations and anecdotes carry the instruction; wisdom arrives through exchange rather than lecture.",
+    "style_and_devices": "adab prose alternating with aphoristic verse; humour and anecdote softening instruction; 'bitter medicine mixed with the honey of wit' per Sa'di's own framing.",
+    "emotional_progression": "Repeated pattern of encounter -> counsel -> aphoristic crystallisation, cumulatively bonding narrator and reader.",
+    "tone_markers": "Counsel-as-friendship, inclusive humour, plain elegant prose, avoidance of preachiness."
+  }
+}

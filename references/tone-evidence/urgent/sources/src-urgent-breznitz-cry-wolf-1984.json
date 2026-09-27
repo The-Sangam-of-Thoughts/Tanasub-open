@@ -1,0 +1,58 @@
+{
+  "id": "src-urgent-breznitz-cry-wolf-1984",
+  "title": "Cry Wolf: The Psychology of False Alarms",
+  "creators": [
+    "Shlomo Breznitz"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "counterevidence",
+    "dosage"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Lawrence Erlbaum Associates",
+    "published_date": "1984",
+    "edition": "First edition",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Israel",
+    "United States",
+    "psychology of warning"
+  ],
+  "access": {
+    "locator": "Lawrence Erlbaum Associates, Hillsdale, NJ, 1984 (ISBN not independently confirmed).",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-urgent)",
+    "verification_notes": "Foundational scholarly treatment of false alarms and their cost to later warning response. Publisher/year given as standard citation; ISBN left null because it was not independently confirmed. Argument summarized at book-thesis level, no text reproduced."
+  },
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "claim_ids": [
+    "clm-tone-urgent-false-alarm-habituation",
+    "clm-tone-urgent-saturation-decay"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scholarly monograph; no text reproduced."
+  }
+}

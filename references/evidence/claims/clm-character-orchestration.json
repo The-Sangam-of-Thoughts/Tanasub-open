@@ -1,0 +1,41 @@
+{
+  "id": "clm-character-orchestration",
+  "craft_claim": "Secondary characters must be orchestrated as distinct moral, ideological, and tactical foils to test the protagonist along key thematic axes.",
+  "axis_ids": [
+    "axis-historical-fiction",
+    "axis-picaresque-literature",
+    "axis-psychological-fiction",
+    "axis-satirical-literature"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-forster-aspects-novel-1927",
+      "location": "Chapter 4: People, pp. 67-98",
+      "evidence_expression": "paraphrase",
+      "note": "Forster contrasts flat characters serving single functional perspectives with round characters capable of surprising in a convincing way."
+    },
+    {
+      "evidence_id": "src-egri-art-dramatic-writing-1946",
+      "location": "Chapter 2: Orchestration, pp. 86-98",
+      "evidence_expression": "quotation",
+      "note": "Egri emphasizes that characters must be chosen to contrast sharply in ideology, temperament, and response to pressure."
+    },
+    {
+      "evidence_id": "work-frankenstein",
+      "location": "Victor vs Creature vs Walton",
+      "evidence_expression": "synthesis",
+      "note": "Walton's ambition mirrors Victor's hubris, while the Creature articulates the emotional cost Victor refuses to acknowledge."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Multi-character narrative and dramatic works.",
+  "exceptions": [
+    "Solitary survival narratives or monologues with a single isolated consciousness."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "06-character-relationships-and-arcs.md#character-relationships-and-arcs-preferred_label"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-12"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "src-reflective-frattaroli-metaanalysis-2006",
+  "title": "Experimental Disclosures and Its Moderators: A Meta-Analysis",
+  "creators": [
+    "Joanne Frattaroli"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychological Bulletin",
+    "published_date": "2006",
+    "edition": "132(6), pp. 823-865",
+    "doi": "10.1037/0033-2909.132.6.823",
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://doi.org/10.1037/0033-2909.132.6.823",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reflective)",
+    "verification_notes": "Title, journal, volume, issue, pages, and DOI confirmed via multiple citing works (Sloan et al. 2009 PMC record; Gao 2022 PMC record; others). Pooled effect verified from the abstract via EuropePMC (PMID 17073523, accessed 2026-09-24): 146 randomized studies, random-effects analyses, positive and significant average r = .075, with a number of moderators identified. Full text not read this pass; r = .075 and the moderator finding may be quoted from the abstract — no other numeric effect may be attributed to this record."
+  },
+  "axis_ids": ["tone-reflective"],
+  "claim_ids": ["clm-tone-reflective-journal-expressive-writing"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA article; analytical citations only."
+  }
+}

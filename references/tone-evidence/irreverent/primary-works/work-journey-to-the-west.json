@@ -1,0 +1,43 @@
+{
+  "id": "work-journey-to-the-west",
+  "title": "Journey to the West (Xi you ji / 西遊記)",
+  "creators": [
+    "Wu Cheng'en (traditional attribution, not re-verified this session)",
+    "Anthony C. Yu (translator)"
+  ],
+  "work_type": "novel",
+  "published_date": "16th century (traditional attribution)",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "regions": [
+    "China"
+  ],
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "period_role": "classical",
+  "source_id": "src-irreverent-yu-journey-2012",
+  "access": {
+    "edition_or_version": "Anthony C. Yu's revised translation, University of Chicago Press, 2012 (4 volumes; original translation 1977-1983); bibliographic record verified via Open Library ISBN 9780226971315 on 2026-09-24",
+    "language_used": "en",
+    "translator": "Anthony C. Yu",
+    "access_conditions": "library"
+  },
+  "analysis_status": "partial",
+  "mechanics": {
+    "premise": "A monk's scripturally sanctioned pilgrimage to India is escorted by a band of fallen celestial creatures, chief among them a rebellious monkey of immense power.",
+    "deflation_targets": "The celestial bureaucracy itself — heavenly officials, dignitaries, and divine rank repeatedly embarrassed by the monkey's irreverence (from standard plot summary; text not inspected this session).",
+    "licensed_frame": "Folkloric-comic tradition of the pilgrim tale plus the trickster's structural role: mockery is licensed by the monkey's defeat-and-service narrative rather than free-floating.",
+    "point_of_view": "Omniscient classical narration alternating cosmic register with farcical episode.",
+    "style_and_devices": "Episodic trickery; bureaucratic parody of divine hierarchy; register whiplash between scriptural solemnity and street quarrel (described from standard summary only — Tier-5 context, disclosed, never quoted).",
+    "dialogue": "Heavenly officials speak with formal gravity that the monkey's answers deflate.",
+    "emotional_progression": "Adventure-comic: suspense of each trial resolved partly by deflating whoever claims unassailable rank.",
+    "boundaries_and_restraint": "Its deflation of officialdom edges toward satire of real worldly bureaucracy; card use should note the partial, summary-based analysis.",
+    "conventions": "Canonical classical Chinese novel; pilgrimage frame with supernatural escort.",
+    "innovation_or_subversion": "Makes the highest possible hierarchy (the celestial administration) a legitimate comic object — irreverence at the summit of the world-order.",
+    "critical_reception": "Standard Chinese literary classic; Yu's 4-volume translation is the standard scholarly English version (bibliographic verification only).",
+    "audience_reception": "Foundational across East Asian popular culture (stage, film, television); an SFE entry for Wu Cheng'en was not found (404), recorded as a gap."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "src-gardner-art-fiction-1984",
+  "title": "The Art of Fiction: Notes on Craft for Young Writers",
+  "creators": [
+    "John Gardner"
+  ],
+  "source_type": "craft-book",
+  "source_roles": [
+    "craft-support",
+    "definition"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Alfred A. Knopf",
+    "published_date": "1984",
+    "edition": "First Edition",
+    "doi": null,
+    "isbn": "978-0679734031"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://www.penguinrandomhouse.com/books/57860/the-art-of-fiction-by-john-gardner/",
+    "accessed_at": "2026-09-12",
+    "access_conditions": "purchased"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-12T14:30:00Z",
+    "verified_by": "Codex S10 foundation evidence agent",
+    "verification_notes": "Directly verified principles of the continuous, vivid fictive dream, profluence, and avoiding melodramatic sentimentality."
+  },
+  "axis_ids": [
+    "axis-fantasy-fiction",
+    "axis-science-fiction",
+    "axis-historical-fiction"
+  ],
+  "claim_ids": [
+    "clm-reader-promise",
+    "clm-point-of-view-psychic-distance",
+    "clm-showing-telling-balance",
+    "clm-worldbuilding-rules-limits",
+    "clm-melodrama-unearned-emotion"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Craft guide; analysis citation only."
+  }
+}

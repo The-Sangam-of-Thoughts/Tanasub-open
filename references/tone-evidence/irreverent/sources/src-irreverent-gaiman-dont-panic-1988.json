@@ -1,0 +1,51 @@
+{
+  "id": "src-irreverent-gaiman-dont-panic-1988",
+  "title": "Don't Panic",
+  "creators": [
+    "Neil Gaiman"
+  ],
+  "source_type": "reference-work",
+  "source_roles": [
+    "recognition"
+  ],
+  "reliability_tier": 3,
+  "publication": {
+    "publisher_or_container": "Titan Books (1988); Pocket Books (May 1988)",
+    "published_date": "1988",
+    "edition": "Pocket Books, May 1988, ISBN 0671664263; Open Library work OL679352W",
+    "doi": null,
+    "isbn": "0671664263"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://openlibrary.org/works/OL679352W",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "Open Library work record fetched on 2026-09-24: title 'Don't Panic', author Neil Gaiman, and a jacket description (from the 2003 Titan edition) confirming the work's history as the Hitchhiker's companion, from the original 1978 radio series onward. Bibliographic corroboration for work-hitchhikers-guide-1979 only; no claim rests on it. A subtitle was not present in the verified record and is therefore not recorded."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "In copyright; bibliographic record only."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-elegiac-oscillation-dosage",
+  "craft_claim": "Grief is processed by oscillating between confronting loss and restoring ordinary life; unrelieved confrontation is maladaptive, so elegiac writing needs periodic recesses from mourning.",
+  "tone_ids": ["tone-elegiac"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-stroebe-schut-dual-process-1999",
+      "location": "Death Studies 23(3):197-224, abstract and model description",
+      "evidence_expression": "paraphrase",
+      "note": "The dual-process model identifies loss-oriented and restoration-oriented stressors and a dynamic oscillation between them, and argues explicitly for a dosage of grieving, with periodic respite, as part of adaptive coping."
+    },
+    {
+      "evidence_id": "src-menninghaus-distancing-embracing-2017",
+      "location": "Behavioral and Brain Sciences 40:e347, Sections 3-4",
+      "evidence_expression": "paraphrase",
+      "note": "Aesthetic distancing gives the recipient a sense of safety and control over continuing exposure, which allows negative emotion to be embraced rather than overwhelming."
+    },
+    {
+      "evidence_id": "src-berlyne-aesthetics-1971",
+      "location": "Aesthetics and Psychobiology, pp. 68-69",
+      "evidence_expression": "paraphrase",
+      "note": "Hedonic value is modelled as an inverted-U function of arousal potential; repetition of the same high-arousal material eventually lowers rather than sustains response."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-ladinig-prolactin-test-2021",
+      "note": "A direct test failed to replicate a prolactin-based consolation response to sad music, so 'sadness is self-limiting because it feels good' cannot be asserted."
+    }
+  ],
+  "scope": "All elegiac forms; the strongest warrant is for extended prose and sequences, where saturation is most visible.",
+  "exceptions": [
+    "Short lyric elegies may legitimately sustain a single unbroken movement because they do not accumulate reader fatigue."
+  ],
+  "confidence": "strong",
+  "report_locations": ["tones/elegiac.md#4--when-to-show-restraint"],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

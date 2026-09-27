@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-baldick-literary-terms-2015",
+  "title": "The Oxford Dictionary of Literary Terms",
+  "creators": ["Chris Baldick"],
+  "source_type": "reference-work",
+  "source_roles": ["recognition"],
+  "reliability_tier": 3,
+  "publication": {
+    "publisher_or_container": "Oxford University Press (Oxford Reference)",
+    "published_date": "2015",
+    "edition": "4th edition; entry 'misery memoir'",
+    "doi": "10.1093/acref/9780198715443.001.0001",
+    "isbn": "9780198715443"
+  },
+  "languages": ["en"],
+  "regions": ["United Kingdom"],
+  "access": {
+    "locator": "https://www.oxfordreference.com/display/10.1093/acref/9780198715443.001.0001/acref-9780198715443",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "Oxford Reference record verified the 4th edition and its inclusion of a new entry for 'misery memoir'; the term's pejorative use is corroborated by Yagoda (2009)."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-oversharing-saturation"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Reference work; entry identified by term only, no text reproduced."
+  }
+}

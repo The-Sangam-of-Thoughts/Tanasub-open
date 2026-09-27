@@ -1,0 +1,57 @@
+{
+  "id": "src-whimsical-mcgraw-warren-2010",
+  "title": "Benign Violations: Making Immoral Behavior Funny",
+  "creators": [
+    "A. Peter McGraw",
+    "Caleb Warren"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychological Science, Vol. 21, No. 8",
+    "published_date": "2010",
+    "edition": "pp. 1141-1149",
+    "doi": "10.1177/0956797610376073",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://journals.sagepub.com/doi/10.1177/0956797610376073",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-whimsical)",
+    "verification_notes": "Confirmed authors, journal, volume, issue, pages, year, DOI, and the five-experiment benign-violation hypothesis via PubMed and the publisher record."
+  },
+  "axis_ids": [
+    "tone-whimsical"
+  ],
+  "claim_ids": [
+    "clm-tone-whimsical-benign-incongruity",
+    "clm-tone-whimsical-tonal-clash-stakes"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "SAGE journal article; abstract-level citation only."
+  }
+}

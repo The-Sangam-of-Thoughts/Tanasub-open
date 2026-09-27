@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-lyrical-dhvani-suggested-meaning",
+  "craft_claim": "In Sanskrit poetics, resonance (dhvani) exceeds literal and figurative meaning, and sound, suggestion, and rasa co-produce sense, making sound a load-bearing part of meaning.",
+  "tone_ids": [
+    "tone-lyrical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-anandavardhana-dhvanyaloka-1990",
+      "location": "Uddyota 1 (cross-link: shared claim clm-dhvani-suggestion-theory)",
+      "evidence_expression": "synthesis",
+      "note": "Anandavardhana establishes dhvani as the soul of poetry: suggested meaning outranks literal expression (abhidha) and metaphorical transfer (laksana)."
+    },
+    {
+      "evidence_id": "src-anandavardhana-dhvanyaloka-1990",
+      "location": "Uddyota 1, Verses 4-8 (cross-link: shared claim clm-rasa-emotional-aesthetic)",
+      "evidence_expression": "synthesis",
+      "note": "Rasa-dhvani (suggested emotion) is ranked as the highest tier of poetic resonance, tying sound and suggestion to emotional effect."
+    },
+    {
+      "evidence_id": "src-lyrical-gerow-indian-figures-1971",
+      "location": "entries on sabdalankara and arthalankara",
+      "evidence_expression": "paraphrase",
+      "note": "Gerow documents the Sanskrit distinction between sound-figures and sense-figures, showing that sound-ornament is theorized as a meaning-bearing class, not mere decoration."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-anandavardhana-dhvanyaloka-1990",
+      "note": "The doctrine was contested within Sanskrit poetics (the dhvani debates), and its technical vocabulary does not translate cleanly into English."
+    }
+  ],
+  "scope": "Indian aesthetic theory and its descendants in South Asian literary practice.",
+  "exceptions": [
+    "Technical instruction or didactic legal texts where ambiguity is harmful."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/lyrical.md#8--cultural-scope",
+    "tones/lyrical.md#2--why-it-works--the-mechanism"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "work-hitchhikers-guide-1979",
+  "title": "The Hitchhiker's Guide to the Galaxy",
+  "creators": [
+    "Douglas Adams"
+  ],
+  "work_type": "novel",
+  "published_date": "1979",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom"
+  ],
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "period_role": "canonical",
+  "source_id": "src-irreverent-sfe-entries",
+  "access": {
+    "edition_or_version": "First book edition: Pan Books, London, 1979 (ISBN 0330258648); preceded by the 1978 six-episode BBC radio series",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "The Earth is demolished by a bureaucrats' demolition order, and the last human survivor wanders the galaxy with a demonstrably unreliable reference book as his only authority.",
+    "deflation_targets": "Cosmic and institutional pomposity in rotation — planetary engineering, official procedure, self-important expertise — deflated by being narrated in the same flat register as minor inconveniences.",
+    "licensed_frame": "Established comic science-fiction conventions plus the in-world device of the Guide itself: an encyclopedic voice that licenses deadpan delivery of absurdity as information rather than comment.",
+    "point_of_view": "Close third person around the bewildered everyman, with interpolated pseudo-reference entries from the Guide.",
+    "style_and_devices": "Expectation-collapse as house style: grand setups answered by bureaucratic or domestic banality; understatement carrying the deflation instead of punchlines; satirically characterized premise confirmed via the SFE entry.",
+    "dialogue": "Characters play sincere straight men to an insane status quo — officials explain absurd procedures politely, which does the mocking without the narrator sneering.",
+    "emotional_progression": "Wonder repeatedly built up and deflated into inconvenience; grief at the opening loss is itself processed through the flat register, which is the boundary edge of the tone.",
+    "boundaries_and_restraint": "Adjacent to satirical-literature: the SFE entry describes the work's premise as satirically characterized, so the card should treat it as irreverent voice operating over satirical content rather than a pure exemplar.",
+    "conventions": "Canonicalizes the comic-science-fiction narration mode: cosmic stakes rendered in underwhelmed prose.",
+    "innovation_or_subversion": "Makes the reference-book deadpan a load-bearing comic voice — reverence for information punctured by the information itself.",
+    "critical_reception": "Grew from 1978 radio to 1979 novel and enduring canonical status in comic SF; the SFE entry treats Adams as a major figure of British SF humor.",
+    "audience_reception": "Continuous multi-format afterlife (radio, novel, TV, stage) — its deflations remain cultural reference points."
+  }
+}

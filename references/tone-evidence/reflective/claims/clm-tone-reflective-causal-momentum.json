@@ -1,0 +1,36 @@
+{
+  "id": "clm-tone-reflective-causal-momentum",
+  "craft_claim": "Reflective narration holds attention only while it keeps generating and answering causal, explanatory, and predictive questions; a reflective block that pauses the event-line without posing or advancing questions decays reader engagement — this is 'reflection that halts plot'.",
+  "tone_ids": ["tone-reflective"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-reflective-graesser-inferences-1994",
+      "location": "Psychological Review 101(3):371-395; causal-explanatory framework sections",
+      "evidence_expression": "paraphrase",
+      "note": "Models narrative comprehension as the reader's construction of causal, explanatory, and predictive inferences; understanding-seeking (asking why/how/what-next) is a core motive, and comprehension proceeds where the text feeds those questions."
+    },
+    {
+      "evidence_id": "src-reflective-green-brock-transportation-2000",
+      "location": "Journal of Personality and Social Psychology 79(5):701-721; transportation construct, predictors, and persuasion results",
+      "evidence_expression": "researcher-inference",
+      "note": "Transportation — absorption in a narrative's events and imagery — predicts narrative persuasion and the felt experience of being lost in a text; its drivers are engagement with events and imagery, both of which interiority-only passages remove."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-reflective-green-brock-transportation-2000",
+      "note": "Transportation theory concerns narrative reading; the literary essay deliberately breaks transportation (Adorno: the essay's open, exploratory method), so in essay forms the mechanism shifts from event-momentum to question-momentum — the claim survives, its carrier changes."
+    }
+  ],
+  "scope": "Narrative forms (fiction, memoir-in-scene, narrative blog) primarily; in essay forms apply the question-half of the mechanism only. Cross-links shared claims clm-pacing-rhythm-syntax and clm-point-of-view-psychic-distance.",
+  "exceptions": [
+    "Diary, letter, and zuihitsu forms license longer event-free runs by reader contract; forward motion there is the advancing question or the dated entry, not the plot."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/reflective.md#7--failure-modes-and-revision",
+    "tones/reflective.md#3--when-it-works"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "clm-tone-defiant-grandstanding-backfire",
+  "craft_claim": "Public moral talk used for self-promotion ('moral grandstanding') predicts greater moral and political conflict and backlash, which is the documented failure mode of performed or postural defiance.",
+  "tone_ids": [
+    "tone-defiant"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-defiant-tosi-warmke-2016",
+      "location": "Philosophy & Public Affairs 44(3):197-217",
+      "evidence_expression": "paraphrase",
+      "note": "Tosi and Warmke give an account of moral grandstanding as the use of public moral discourse for moral self-promotion and argue, with support from social psychology, that it distorts public discourse and invites escalation."
+    },
+    {
+      "evidence_id": "src-defiant-grubbs-grandstanding-2019",
+      "location": "PLoS ONE 14(10):e0223749",
+      "evidence_expression": "synthesis",
+      "note": "Across studies, moral grandstanding motivation was associated with status-seeking personality traits and with greater political and moral conflict in daily life, supporting the construct and its conflict consequences."
+    },
+    {
+      "evidence_id": "src-defiant-skitka-bauman-sargis-2005",
+      "location": "Journal of Personality and Social Psychology 88(6):895-917",
+      "evidence_expression": "synthesis",
+      "note": "Moral mandates predict greater preferred distance from dissenters, the interpersonal posture that grandstanding publicizes."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-defiant-scott-smith-1969",
+      "note": "Sincere confrontation is not grandstanding; the distinction turns on whether the moral claim serves a cause or the speaker's status, which is a diagnostic the text must make legible."
+    }
+  ],
+  "scope": "Public-facing and social content, comment, and any first-person moral appeal where the speaker's standing is at issue.",
+  "exceptions": [
+    "The grandstanding construct describes motivation, not a textual property; a reader diagnoses a risk, not an author's intent."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/defiant.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

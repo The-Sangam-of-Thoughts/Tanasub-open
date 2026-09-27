@@ -1,0 +1,56 @@
+{
+  "id": "src-fast-forms-genres-2024",
+  "title": "FAST (Faceted Application of Subject Terminology): Form and Genre Facets",
+  "creators": [
+    "OCLC Online Computer Library Center"
+  ],
+  "source_type": "library-vocabulary",
+  "source_roles": [
+    "recognition",
+    "definition"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "OCLC",
+    "published_date": "2024",
+    "edition": "2024 web service edition",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "global"
+  ],
+  "access": {
+    "locator": "https://fast.oclc.org/searchfast/",
+    "accessed_at": "2026-09-12",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-12T11:00:00Z",
+    "verified_by": "Codex S04 taxonomy harvest agent",
+    "verification_notes": "Inspected facet records for literary fiction and drama forms and genres."
+  },
+  "axis_ids": [
+    "axis-science-fiction",
+    "axis-detective-and-mystery-fiction",
+    "axis-historical-fiction",
+    "axis-thriller-fiction",
+    "axis-speculative-fiction"
+  ],
+  "claim_ids": [],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "open-access",
+    "repository_copy_allowed": true,
+    "notes": "OCLC FAST data is distributed under the ODC Open Data Commons Attribution License: an open licence, not the public domain, so status is recorded as open-access. Attribution to OCLC required for any redistribution; no vocabulary record content is reproduced here."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-couser-vulnerable-subjects-2004",
+  "title": "Vulnerable Subjects: Ethics and Life Writing",
+  "creators": ["G. Thomas Couser"],
+  "source_type": "scholarly-book",
+  "source_roles": ["definition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Cornell University Press",
+    "published_date": "2004",
+    "edition": "First edition, xv + 234 pp.",
+    "doi": null,
+    "isbn": "9780801488634"
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://muse.jhu.edu/book/59748",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "Project MUSE, library catalogs, and a scholarly review verified the book and its core thesis that intimate life writing risks exposing vulnerable non-consenting subjects."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-ethics-of-others"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scholarly monograph; analytical paraphrase only, no text reproduced."
+  }
+}

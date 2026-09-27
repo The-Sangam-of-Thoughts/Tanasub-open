@@ -1,0 +1,54 @@
+{
+  "id": "src-comedic-harp-mayer-1998",
+  "title": "How Seductive Details Do Their Damage: A Theory of Cognitive Interest in Science Learning",
+  "creators": [
+    "Shannon F. Harp",
+    "Richard E. Mayer"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Educational Psychology, 90(3)",
+    "published_date": "1998",
+    "edition": "pp. 414-434",
+    "doi": "10.1037/0022-0663.90.3.414",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://psycnet.apa.org/doi/10.1037/0022-0663.90.3.414",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-comedic)",
+    "verification_notes": "Documents the seductive-details effect: interesting but tangential material reduces retention and transfer of main content by priming inappropriate schemas. Abstract and citation details verified against APA PsycNet and subsequent peer-reviewed replications."
+  },
+  "axis_ids": [
+    "tone-comedic"
+  ],
+  "claim_ids": [
+    "clm-tone-comedic-density-saturation"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Peer-reviewed article; citation and paraphrase only."
+  }
+}

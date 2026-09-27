@@ -1,0 +1,55 @@
+{
+  "id": "src-grim-burke-sublime-1757",
+  "title": "A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful",
+  "creators": [
+    "Edmund Burke"
+  ],
+  "source_type": "primary-text",
+  "source_roles": [
+    "recognition",
+    "history"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "R. and J. Dodsley (first edition)",
+    "published_date": "1757",
+    "edition": "First edition; public domain",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom",
+    "Ireland"
+  ],
+  "access": {
+    "locator": "https://www.gutenberg.org/ebooks/15043",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-grim)",
+    "verification_notes": "Public-domain treatise; bibliographic identity and the terror-as-source-of-the-sublime thesis are standard. Not directly inspected in this pass; cited for the rhetorical tradition only."
+  },
+  "axis_ids": [
+    "tone-grim"
+  ],
+  "claim_ids": [
+    "clm-tone-grim-sublime-terror"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": true,
+    "notes": "Eighteenth-century text in the public domain; no passage reproduced."
+  }
+}

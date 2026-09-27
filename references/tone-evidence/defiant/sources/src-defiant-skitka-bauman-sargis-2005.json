@@ -1,0 +1,60 @@
+{
+  "id": "src-defiant-skitka-bauman-sargis-2005",
+  "title": "Moral Conviction: Another Contributor to Attitude Strength or Something More?",
+  "creators": [
+    "Linda J. Skitka",
+    "Christopher W. Bauman",
+    "Edward G. Sargis"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Personality and Social Psychology, Vol. 88, No. 6",
+    "published_date": "2005",
+    "edition": null,
+    "doi": "10.1037/0022-3514.88.6.895",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://pubmed.ncbi.nlm.nih.gov/15982112/",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-defiant)",
+    "verification_notes": "Bibliographic record and abstract confirmed via PubMed/APA PsycNet and the published PDF mirror; three studies show moral mandates uniquely predict preferred social and physical distance from attitudinally dissimilar others after controlling for attitude strength."
+  },
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "claim_ids": [
+    "clm-tone-defiant-moral-conviction",
+    "clm-tone-defiant-moral-conviction-collective",
+    "clm-tone-defiant-grandstanding-backfire",
+    "clm-tone-defiant-dosage-yield"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical citation only."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "src-grim-aristotle-poetics-1996",
+  "title": "Poetics",
+  "creators": [
+    "Aristotle",
+    "Malcolm Heath"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "history"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Penguin Books",
+    "published_date": "1996",
+    "edition": "Penguin Classics edition; translation of the Greek",
+    "doi": null,
+    "isbn": "978-0140446364"
+  },
+  "languages": [
+    "en",
+    "grc"
+  ],
+  "regions": [
+    "Greece",
+    "Europe"
+  ],
+  "access": {
+    "locator": "https://www.penguinrandomhouse.com/books/260759/poetics-by-aristotle/",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "purchased"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-grim)",
+    "verification_notes": "Silo restatement of the shared coordinator-verified record src-aristotle-poetics-1996 (tier 1). The Poetics' account of pity and fear and the disputed catharsis clause (chs. 6 and 13-14) is the load-bearing content; the present researcher did not re-inspect the edition."
+  },
+  "axis_ids": [
+    "tone-grim"
+  ],
+  "claim_ids": [
+    "clm-tone-grim-tragic-catharsis-contested"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "grc",
+    "translator": "Malcolm Heath",
+    "limitations": [
+      "Catharsis, hamartia, and mythos have contested English translations; the grim dossier treats catharsis as a disputed term, not a settled mechanism."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Translation copyrighted; analytical citation and claim mapping only."
+  }
+}

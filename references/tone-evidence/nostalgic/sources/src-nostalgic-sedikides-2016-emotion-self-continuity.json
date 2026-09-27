@@ -1,0 +1,64 @@
+{
+  "id": "src-nostalgic-sedikides-2016-emotion-self-continuity",
+  "title": "Nostalgia fosters self-continuity: Uncovering the mechanism (social connectedness) and consequence (eudaimonic well-being)",
+  "creators": [
+    "Constantine Sedikides",
+    "Tim Wildschut",
+    "Wing-Yee Cheung",
+    "Clay Routledge",
+    "Erica G. Hepper",
+    "Jamie Arndt",
+    "Kenneth Vail",
+    "Kenny Brackstone",
+    "Ad J. J. M. Vingerhoets"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Emotion, Vol. 16, No. 4",
+    "published_date": "2016",
+    "edition": "pp. 524-539",
+    "doi": "10.1037/emo0000136",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom",
+    "Netherlands"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1037/emo0000136",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-nostalgic)",
+    "verification_notes": "Citation (authors, title, journal, volume, issue, pages, DOI, PMID 26751632) and abstract verified via publisher/Ovid/Mendeley records on web search 2026-09-24: six experiments, nostalgia augments social connectedness (Exps 1-4), connectedness yields self-continuity and subjective vitality (Exps 5-6). Full text not accessed."
+  },
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "claim_ids": [
+    "clm-tone-nostalgic-social-cast",
+    "clm-tone-nostalgic-self-continuity-frame"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical citation only, no reproduction."
+  }
+}

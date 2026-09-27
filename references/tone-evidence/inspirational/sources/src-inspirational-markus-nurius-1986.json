@@ -1,0 +1,55 @@
+{
+  "id": "src-inspirational-markus-nurius-1986",
+  "title": "Possible Selves",
+  "creators": [
+    "Hazel Markus",
+    "Paula Nurius"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "American Psychologist, vol. 41, no. 9, pp. 954-969",
+    "published_date": "1986",
+    "edition": null,
+    "doi": "10.1037/0003-066X.41.9.954",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1037/0003-066X.41.9.954",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-inspirational)",
+    "verification_notes": "Citation, volume, pages, and DOI confirmed via APA PsycNet and multiple secondary sources. Introduces possible selves as future-projected self-knowledge linking self-concept and motivation."
+  },
+  "axis_ids": [
+    "tone-inspirational"
+  ],
+  "claim_ids": [
+    "clm-tone-inspirational-possible-selves"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical citation only, no text reproduced."
+  }
+}

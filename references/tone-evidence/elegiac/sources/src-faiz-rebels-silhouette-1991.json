@@ -1,0 +1,43 @@
+{
+  "id": "src-faiz-rebels-silhouette-1991",
+  "title": "The Rebel's Silhouette: Selected Poems by Faiz Ahmed Faiz",
+  "creators": ["Faiz Ahmed Faiz", "Agha Shahid Ali"],
+  "source_type": "critical-edition",
+  "source_roles": ["recognition", "definition", "craft-support", "indian-context"],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "University of Massachusetts Press",
+    "published_date": "1991",
+    "edition": "First edition (paperback 1995)",
+    "doi": null,
+    "isbn": "9780870239755"
+  },
+  "languages": ["en", "ur"],
+  "regions": ["Pakistan", "India", "United States"],
+  "access": {
+    "locator": "https://www.umasspress.com/9780870239755/the-rebels-silhouette/",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-elegiac)",
+    "verification_notes": "Author, translator, title, publisher, and ISBN verified via University of Massachusetts Press. Publication year 1991 per the translator's and publisher's records (a 1992 date appears in some Poetry Foundation pages; the 1995 paperback is separately listed). The translator's stated choice of free verse and the loss of the original's rhyme/sound verified via the publisher description and a Poetry Foundation commentary on Ali's translations."
+  },
+  "axis_ids": ["tone-elegiac"],
+  "claim_ids": ["clm-tone-elegiac-ghazal-grief"],
+  "translation": {
+    "is_translation": true,
+    "original_language": "ur",
+    "translator": "Agha Shahid Ali",
+    "limitations": [
+      "Rhyme and quantitative metre of the Urdu original are not carried into the English free-verse translations, so the sound-borne grief register is only partly available to an English reader."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Poems and translations copyrighted; described by technique only, no reproduction."
+  }
+}

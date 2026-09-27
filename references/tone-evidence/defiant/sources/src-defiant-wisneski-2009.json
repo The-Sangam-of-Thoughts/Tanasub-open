@@ -1,0 +1,56 @@
+{
+  "id": "src-defiant-wisneski-2009",
+  "title": "Gut Reactions: Moral Conviction, Religiosity, and Trust in Authority",
+  "creators": [
+    "Daniel C. Wisneski",
+    "Brad L. Lytle",
+    "Linda J. Skitka"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychological Science, Vol. 20, No. 9",
+    "published_date": "2009",
+    "edition": null,
+    "doi": "10.1111/j.1467-9280.2009.02406.x",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1111/j.1467-9280.2009.02406.x",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-defiant)",
+    "verification_notes": "Bibliographic record and abstract confirmed via Sage/APS and JSTOR records; nationally representative survey found stronger moral conviction predicted greater distrust in authorities to decide a contested issue."
+  },
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "claim_ids": [
+    "clm-tone-defiant-moral-conviction",
+    "clm-tone-defiant-dosage-yield"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Sage/APS journal article; analytical citation only."
+  }
+}

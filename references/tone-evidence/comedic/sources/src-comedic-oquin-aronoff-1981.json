@@ -1,0 +1,54 @@
+{
+  "id": "src-comedic-oquin-aronoff-1981",
+  "title": "Humor as a Technique of Social Influence",
+  "creators": [
+    "Kathryn O'Quin",
+    "Joel Aronoff"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Social Psychology Quarterly, 44(4)",
+    "published_date": "1981",
+    "edition": "pp. 349-357",
+    "doi": "10.2307/3033903",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://www.jstor.org/stable/3033903",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-comedic)",
+    "verification_notes": "Studies humour as a social-influence tactic; a commonly cited finding is that humour integral to or adjacent to a persuasive message did not reliably increase persuasion, though incidental humour affected liking. Citation details verified via JSTOR. Used as counterevidence against over-claiming humour's persuasive power."
+  },
+  "axis_ids": [
+    "tone-comedic"
+  ],
+  "claim_ids": [
+    "clm-tone-comedic-superiority-limits"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Peer-reviewed article; citation and paraphrase only."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "work-deadpan-parsai-inspector-matadeen",
+  "axis_ids": ["tone-deadpan"],
+  "source_type": "primary-work",
+  "title": "Inspector Matadeen stories (English edition, Katha 2003)",
+  "creators": ["Harishankar Parsai"],
+  "publication": {
+    "publisher": "Katha",
+    "publication_year": 2003
+  },
+  "identifiers": {},
+  "tier": 3,
+  "analysis_status": "translation-mediated",
+  "tone_mechanism": "Register-inherited deadpan: officialdom's own minimizing vocabulary and procedural syntax run through satiric situations, so understatement comes from the borrowed bureaucratic voice rather than from narrator styling. Deadpan mask openings attested alongside Swift and Kshemendra (genres/satirical-literature.md lines 211–213).",
+  "verification_note": "ID deliberately mirrors but does not collide with the comedic silo's work-parsai-inspector-matadeen (that record: Manas 1994 / Katha 2003, trans. Naim — a sibling duplicate-ID pattern that exists elsewhere in the registry; this silo uses the deadpan- prefix to avoid repeating it). Record checked 2026-09-24. Translator-by-imprint mapping not verified this session. Passage-level close reading not performed; translation gap flagged at genres file line 571 (evidence-incomplete item 3).",
+  "copyright_note": "In copyright. Technique described only; no text reproduced.",
+  "used_by_claims": ["clm-tone-deadpan-understatement-operators", "clm-tone-deadpan-clinical-reportage"]
+}

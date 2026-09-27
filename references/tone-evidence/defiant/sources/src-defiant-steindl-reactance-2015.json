@@ -1,0 +1,59 @@
+{
+  "id": "src-defiant-steindl-reactance-2015",
+  "title": "Understanding Psychological Reactance: New Developments and Findings",
+  "creators": [
+    "Christina Steindl",
+    "Eva Jonas",
+    "Sandra Sittenthaler",
+    "Eva Traut-Mattausch",
+    "Jeff Greenberg"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Zeitschrift für Psychologie, Vol. 223, No. 4",
+    "published_date": "2015",
+    "edition": null,
+    "doi": "10.1027/2151-2604/a000222",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Germany",
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1027/2151-2604/a000222",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-defiant)",
+    "verification_notes": "Bibliographic record and abstract confirmed via DOI/reference records; review consolidates reactance theory and its elicitation by messages and recommendations."
+  },
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "claim_ids": [
+    "clm-tone-defiant-reactance-restoration"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Hogrefe journal article; analytical citation only."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "clm-tone-grim-crosscultural-bleak",
+  "craft_claim": "Unflinching bleakness is a documented aesthetic achievement in non-Anglophone traditions, not an Anglophone export: Marathi political tragedy, the Mexican novel of the dead town, and Japanese war prose each formalise it differently.",
+  "tone_ids": [
+    "tone-grim"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "work-ghashiram-kotwal",
+      "location": "Whole play (Marathi, 1972)",
+      "evidence_expression": "synthesis",
+      "note": "Tendulkar uses folk-theatre forms and a chorus to render political instrumentality and caste violence with no redemption, aimed at contemporary Maharashtra politics."
+    },
+    {
+      "evidence_id": "work-pedro-paramo",
+      "location": "Whole novel (Spanish, 1955)",
+      "evidence_expression": "synthesis",
+      "note": "Rulfo's fragmented ghost-town narrative makes desolation structural: the voices of the dead are the narration, and the reader assembles a doomed history."
+    },
+    {
+      "evidence_id": "work-fires-on-the-plain",
+      "location": "Whole novel (Japanese, 1951)",
+      "evidence_expression": "synthesis",
+      "note": "Ooka applies a clinical, matter-of-fact register to bodily decay and moral collapse in the Philippines campaign, producing bleakness through precision rather than lament."
+    },
+    {
+      "evidence_id": "src-grim-natyashastra-ghosh-1951",
+      "location": "Chapter 6 (Rasa)",
+      "evidence_expression": "paraphrase",
+      "note": "The Indian tradition theorises grief and terror as rasas, showing that the register is culturally codified rather than merely imported."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-grim-natyashastra-ghosh-1951",
+      "note": "Section E: Ghosh's translation does not map karuna and bhayanaka one-to-one onto 'grief' and 'horror' and Tendulkar's Marathi folk and caste idiom transfers only partly, while 'No false universal' asserts a shared attitude rather than a shared technique because the three cases have different warrants."
+    }
+  ],
+  "scope": "Comparative poetics; cross-cultural validity of the grim attitude.",
+  "exceptions": [
+    "The three cases are not interchangeable: karuna, the Rulfian ghost-town, and Japanese war shame have different metaphysical and social warrants. No universal 'grim' technique is asserted."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/grim.md#8--cultural-scope"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

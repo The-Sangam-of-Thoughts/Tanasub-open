@@ -1,0 +1,34 @@
+{
+  "id": "work-rilke-duino-elegies-1923",
+  "title": "Duino Elegies (Duineser Elegien)",
+  "creators": ["Rainer Maria Rilke"],
+  "work_type": "poem-cycle",
+  "published_date": "1923",
+  "languages": ["de"],
+  "regions": ["Austria", "Germany", "Switzerland", "Italy"],
+  "axis_ids": ["tone-elegiac"],
+  "period_role": "modern",
+  "source_id": "src-kennedy-elegy-2007",
+  "access": {
+    "edition_or_version": "First published 1923 by Insel-Verlag, Leipzig; German original",
+    "language_used": "de (with English translations consulted)",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "sustained lament that questions whether lament is possible or heard",
+      "apostrophe to absent or unanswerable figures (angels, the beloved, the dead)",
+      "impermanence of the human and the mortal as recurring theme",
+      "celebration and mourning held together rather than opposed",
+      "formal experimentation: metre and rhyme loosened to carry meditation"
+    ],
+    "emotional_progression": "Terror before the absolute -> meditation on love, death, and the animal -> transfiguration of lament into praise.",
+    "point_of_view": "First-person lyric speaker addressing transcendent and absent others.",
+    "rhythm_and_cadence": "Supple, long-lined free-ish verse; Rilke's cadence is meditative rather than strophic.",
+    "psychic_distance": "The address to angels and the dead creates distance that makes intimate grief bearable.",
+    "style_and_devices": "Modern elegy as metaphysical meditation; scholars note the cycle is more elegiac in mood than in inherited form. Verified via Britannica and university sources.",
+    "copyright_note": "German original (1923) is public domain in the US; translations are copyrighted. Described by technique only; no passage reproduced."
+  }
+}

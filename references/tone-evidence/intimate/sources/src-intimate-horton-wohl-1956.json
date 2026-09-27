@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-horton-wohl-1956",
+  "title": "Mass Communication and Para-Social Interaction: Observations on Intimacy at a Distance",
+  "creators": ["Donald Horton", "R. Richard Wohl"],
+  "source_type": "peer-reviewed-article",
+  "source_roles": ["recognition", "definition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychiatry: Interpersonal and Biological Processes",
+    "published_date": "1956-08",
+    "edition": "Vol. 19, No. 3, pp. 215-229",
+    "doi": "10.1080/00332747.1956.11023049",
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://pubmed.ncbi.nlm.nih.gov/13359569",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "PubMed record, DOI, and published article metadata verified; foundational para-social interaction thesis ('intimacy at a distance') confirmed."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-reciprocal-responsiveness", "clm-tone-intimate-parasocial-address", "clm-tone-intimate-manufactured-authenticity"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Journal article; analytical paraphrase only, no text reproduced."
+  }
+}

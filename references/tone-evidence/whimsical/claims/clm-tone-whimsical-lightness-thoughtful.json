@@ -1,0 +1,32 @@
+{
+  "id": "clm-tone-whimsical-lightness-thoughtful",
+  "craft_claim": "Lightness is a literary value distinct from frivolity: it approaches weight indirectly rather than denying it, so a whimsical voice earns its play by remaining thoughtful.",
+  "tone_ids": [
+    "tone-whimsical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-whimsical-calvino-six-memos-1988",
+      "location": "Six Memos for the Next Millennium (Harvard UP, 1988), 'Lightness'",
+      "evidence_expression": "paraphrase",
+      "note": "Calvino distinguishes 'a lightness of thoughtfulness' from 'a lightness of frivolity' and argues (with the Perseus/Medusa figure) for approaching the world's weight indirectly rather than refusing it."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-whimsical-calvino-six-memos-1988",
+      "note": "Calvino's lightness is an argued literary programme, not an empirical finding; the claim is scoped to craft guidance and confidence is set to moderate."
+    }
+  ],
+  "scope": "Any voice carrying heavy material lightly across essay, fiction, and copy.",
+  "exceptions": [
+    "Pure comic nonsense may proceed with no referent to weight; that is tone-comedic or literary nonsense, not the thoughtful lightness described here."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/whimsical.md#2--why-it-works--the-mechanism",
+    "tones/whimsical.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

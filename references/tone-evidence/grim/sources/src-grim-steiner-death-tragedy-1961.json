@@ -1,0 +1,55 @@
+{
+  "id": "src-grim-steiner-death-tragedy-1961",
+  "title": "The Death of Tragedy",
+  "creators": [
+    "George Steiner"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "history",
+    "definition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Faber & Faber",
+    "published_date": "1961",
+    "edition": "First edition",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom",
+    "Europe"
+  ],
+  "access": {
+    "locator": "https://www.faber.co.uk/product/9780571270309-the-death-of-tragedy/",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-grim)",
+    "verification_notes": "Bibliographic identity confirmed (Faber & Faber, 1961); cited for the contested thesis that a genuine tragic vision requires a metaphysical order against which loss is measured. Full text not directly inspected."
+  },
+  "axis_ids": [
+    "tone-grim"
+  ],
+  "claim_ids": [
+    "clm-tone-grim-sublime-terror"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Literary criticism; analytical citation only."
+  }
+}

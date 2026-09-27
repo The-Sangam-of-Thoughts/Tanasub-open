@@ -1,0 +1,46 @@
+{
+  "id": "work-fires-on-the-plain",
+  "title": "Fires on the Plain (Nobi)",
+  "creators": [
+    "Ooka Shohei"
+  ],
+  "work_type": "novel",
+  "published_date": "1951",
+  "languages": [
+    "ja"
+  ],
+  "regions": [
+    "Japan",
+    "Philippines"
+  ],
+  "axis_ids": [
+    "tone-grim",
+    "axis-historical-fiction"
+  ],
+  "period_role": "canonical",
+  "source_id": "src-grim-bushman-anderson-desensitization-2009",
+  "access": {
+    "edition_or_version": "English translation by Ivan Morris (Alfred A. Knopf, 1957)",
+    "language_used": "en",
+    "translator": "Ivan Morris",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A sick, starving Imperial Japanese soldier wanders the Philippines during the final months of the Second World War, sliding toward madness and atrocity among other stragglers.",
+    "point_of_view": "First person; a mind losing its claim on social and moral order.",
+    "style_and_devices": "Clinical attention to bodily decay, hunger, and horror; matter-of-fact register applied to cannibalism and death; religious imagery hollowed out rather than consoling.",
+    "emotional_progression": "Hunger and shame -> isolation -> moral collapse -> ambiguous survival without redemption.",
+    "dialogue": "Sparse and wary; language itself erodes as the protagonist's world contracts.",
+    "setting": "A Philippine island stripped of order; jungle and plain as a place of dying.",
+    "tone_mechanisms": [
+      "clinical bodily detail",
+      "matter-of-fact horror",
+      "moral collapse",
+      "unredeemed survival",
+      "religious irony"
+    ],
+    "critical_reception": "Won the Yomiuri Prize; adapted to film in 1959 and 2014. Cited as a non-Anglophone instance of unflinching war bleakness.",
+    "verification_note": "Existence, 1951 date, Yomiuri Prize, and premise confirmed via Wikipedia 'Fires on the Plain (novel)' API extract. No text reproduced. Translation limits: Japanese registers of shame and military duty are only partly carried by English."
+  }
+}

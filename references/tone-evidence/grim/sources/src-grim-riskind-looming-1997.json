@@ -1,0 +1,54 @@
+{
+  "id": "src-grim-riskind-looming-1997",
+  "title": "Looming Vulnerability to Threat: A Cognitive Paradigm for Anxiety",
+  "creators": [
+    "John H. Riskind"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Behaviour Research and Therapy, Vol. 35, No. 8",
+    "published_date": "1997",
+    "edition": null,
+    "doi": "10.1016/S0005-7967(97)00011-9",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1016/S0005-7967(97)00011-9",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-grim)",
+    "verification_notes": "Bibliographic record confirmed via Crossref (DOI 10.1016/S0005-7967(97)00011-9). The model's core construct (threat appraised as rapidly growing and approaching in time/space) is stated in the title and abstract; full text not directly inspected. Corroborated by Riskind & Rector, Looming Vulnerability (Springer, 2018; DOI 10.1007/978-1-4939-8782-5)."
+  },
+  "axis_ids": [
+    "tone-grim"
+  ],
+  "claim_ids": [
+    "clm-tone-grim-dread-looming"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Elsevier journal article; analytical citation only."
+  }
+}

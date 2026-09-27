@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-elegiac-mono-no-aware",
+  "craft_claim": "Mono no aware frames impermanence as tender rather than despairing, holding sorrow and quiet appreciation together; this is a distinct realisation of the elegiac attitude, not a translation of Western elegy.",
+  "tone_ids": ["tone-elegiac"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-norinaga-genji-tama-ogushi",
+      "location": "Genji monogatari tama no ogushi, in Motoori Norinaga zenshu vol. 4, pp. 193-225",
+      "evidence_expression": "paraphrase",
+      "note": "Norinaga names mono no aware, being moved by things, as the emotional core of literature and locates its most profound form in the emotion that arises when events do not go as one desires, as in sadness; he uses it against Confucian suppression of feeling."
+    },
+    {
+      "evidence_id": "src-parkes-japanese-aesthetics-sep-2005",
+      "location": "Section on mono no aware",
+      "evidence_expression": "paraphrase",
+      "note": "Parkes explains mono no aware as the pathos of things deriving from transience, prominent in Genji and the opening of the Heike monogatari, and brought to the centre of literary theory by Norinaga."
+    },
+    {
+      "evidence_id": "work-heike-monogatari",
+      "location": "Opening passage on impermanence",
+      "evidence_expression": "synthesis",
+      "note": "The Heike's opening on the impermanence of all things and the fall of the proud is the canonical exemplar of the attitude."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-parkes-japanese-aesthetics-sep-2005",
+      "note": "Section E caution: mono no aware is not identical to Western elegy, being tender acceptance rather than protest and frequently religiously grounded, so it should not be read as a local variant of the elegiac attitude or collapsed into it."
+    }
+  ],
+  "scope": "Japanese literature and aesthetics by origin; the claim is comparative and does not assert a universal.",
+  "exceptions": [
+    "mono no aware is often religiously grounded in Buddhist impermanence and is not a protest against death, so it should not be collapsed into elegy."
+  ],
+  "confidence": "strong",
+  "report_locations": ["tones/elegiac.md#8--cultural-scope"],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

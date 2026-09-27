@@ -1,0 +1,56 @@
+{
+  "id": "src-inspirational-pohling-diessner-2016",
+  "title": "Moral Elevation and Moral Beauty: A Review of the Empirical Literature",
+  "creators": [
+    "Rico Pohling",
+    "Rhett Diessner"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Review of General Psychology, vol. 20, no. 4, pp. 412-425",
+    "published_date": "2016",
+    "edition": null,
+    "doi": "10.1037/gpr0000089",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://journals.sagepub.com/doi/abs/10.1037/gpr0000089",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-inspirational)",
+    "verification_notes": "Citation and findings confirmed via journal abstract and multiple citing sources. Review concludes strong evidence elevation broadens thought-action repertoires but relatively weak evidence it builds lasting resources."
+  },
+  "axis_ids": [
+    "tone-inspirational"
+  ],
+  "claim_ids": [
+    "clm-tone-inspirational-elevation-prosocial",
+    "clm-tone-inspirational-dosage-yield"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "SAGE/APA review article; analytical citation only, no text reproduced."
+  }
+}

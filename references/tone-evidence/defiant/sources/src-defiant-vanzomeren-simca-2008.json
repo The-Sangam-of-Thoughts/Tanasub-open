@@ -1,0 +1,62 @@
+{
+  "id": "src-defiant-vanzomeren-simca-2008",
+  "title": "Toward an Integrative Social Identity Model of Collective Action: A Quantitative Research Synthesis of Three Socio-Psychological Perspectives",
+  "creators": [
+    "Martijn van Zomeren",
+    "Tom Postmes",
+    "Russell Spears"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychological Bulletin, Vol. 134, No. 4",
+    "published_date": "2008",
+    "edition": null,
+    "doi": "10.1037/0033-2909.134.4.504",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Netherlands",
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://psycnet.apa.org/record/2008-08177-005",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-defiant)",
+    "verification_notes": "Bibliographic record and abstract confirmed via APA PsycNet, VU Research Portal, and ERIC; three meta-analyses synthesized 182 effects and found injustice, efficacy, and identity each causally predict collective action."
+  },
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "claim_ids": [
+    "clm-tone-defiant-collective-injustice-efficacy",
+    "clm-tone-defiant-moral-conviction-collective",
+    "clm-tone-defiant-empowerment-identity",
+    "clm-tone-defiant-slogan-stakes",
+    "clm-tone-defiant-dosage-yield"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical citation only."
+  }
+}

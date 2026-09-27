@@ -1,0 +1,41 @@
+{
+  "id": "src-detached-trope-liberman-clt-2010",
+  "title": "Construal-level theory of psychological distance",
+  "creators": ["Yaacov Trope", "Nira Liberman"],
+  "source_type": "peer-reviewed-article",
+  "source_roles": ["craft-support", "definition"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychological Review",
+    "published_date": "2010",
+    "edition": "Vol. 117, No. 2, pp. 440-463",
+    "doi": "10.1037/a0018963",
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States", "Israel"],
+  "access": {
+    "locator": "https://psycnet.apa.org/record/2010-06891-005",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-detached)",
+    "verification_notes": "Journal, volume, issue, page range and DOI confirmed via APA PsycNet and the NIH/PMC deposit. Distinguishes temporal, spatial, social, and hypothetical distance."
+  },
+  "axis_ids": ["tone-detached"],
+  "claim_ids": ["clm-tone-detached-affective-distance"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "American Psychological Association; synthesis only."
+  }
+}

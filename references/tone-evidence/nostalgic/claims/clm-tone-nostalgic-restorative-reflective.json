@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-nostalgic-restorative-reflective",
+  "craft_claim": "Boym's distinction is the tone's main self-test: restorative nostalgia denies being nostalgia at all and works to rebuild a lost home as truth and tradition, while reflective nostalgia dwells in the ambivalence of longing and knows the home is unreachable. The reflective mode sustains tone; the restorative mode hardens into ideology.",
+  "tone_ids": [
+    "tone-nostalgic"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-nostalgic-boym-2001-future-of-nostalgia",
+      "location": "The Future of Nostalgia (Basic Books, 2001), Introduction and the chapters developing the two modes",
+      "evidence_expression": "paraphrase",
+      "note": "Boym separates restorative nostalgia (present-focused, seeking to erase loss by reconstructing the lost home, claiming the authority of truth and tradition) from reflective nostalgia (individual, multilayered, dwelling in details and in the drawn-out texture of longing, aware that the past cannot be restored)."
+    },
+    {
+      "evidence_id": "src-nostalgic-robertson-1988-furusato",
+      "location": "International Journal of Politics, Culture, and Society 1(4):494-518",
+      "evidence_expression": "synthesis",
+      "note": "Furusato ('old village'/'hometown') is evoked by postwar Japanese politicians, city planners, and advertisers; furusato-zukuri (home-making) is described as a political process synthesizing nativism and nationalism - restorative nostalgia operating as ideology in the wild."
+    },
+    {
+      "evidence_id": "src-nostalgic-yano-2002-tears-of-longing",
+      "location": "Tears of Longing (Harvard University Asia Center, 2002), ch. on enka's cultural logic and 'Enka as Engendered Longing'",
+      "evidence_expression": "synthesis",
+      "note": "Enka's invocation of parted lovers, long-unseen rural hometowns, and self-sacrificing mothers is shown to be shaped by commercial forces since the 1970s - a produced, sellable version of the restorative past."
+    },
+    {
+      "evidence_id": "src-nostalgic-nicholl-2011-rereading-narayan",
+      "location": "The Guardian, 14 May 2011 (rereading R. K. Narayan)",
+      "evidence_expression": "synthesis",
+      "note": "Nicholl relays Naipaul's critique of the 'stasis' of Narayan's Malgudi - the world as 'a fable' unchanged by history - while also noting Narayan's interest in the 'lesser life that goes on below'. The debate is precisely restorative stasis versus textured, reflective dwelling."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Critical framing of the tone's two registers and its political risks; feeds card sections 3 and G.",
+  "exceptions": [
+    "Restorative nostalgia is not banned from fiction - it is dramatizable; the failure is the narration itself adopting its certainty, not a character holding it."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/nostalgic.md"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "work-detached-shiki-selected-poems",
+  "title": "Masaoka Shiki: Selected Poems",
+  "creators": ["Masaoka Shiki"],
+  "work_type": "poetry-collection",
+  "published_date": "1997",
+  "languages": ["ja", "en"],
+  "regions": ["Japan"],
+  "axis_ids": ["tone-detached"],
+  "period_role": "formative",
+  "source_id": "src-detached-shiki-selected-poems-1997",
+  "access": {
+    "edition_or_version": "Translated by Burton Watson (Columbia University Press, 1997)",
+    "language_used": "en",
+    "translator": "Burton Watson",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "point_of_view": "Observing eye; the poet records rather than comments.",
+    "style_and_devices": "Shasei ('sketch from life'): plain observation of fact; juxtaposition of two observed things; rejection of ornamental fantasy.",
+    "emotional_progression": "Feeling is left implicit in selection and juxtaposition; the poem does not state it.",
+    "imagery": "Concrete natural and everyday images; no pathetic fallacy.",
+    "tone_mechanism": "Demonstrates clm-tone-detached-cross-cultural-objectivity.",
+    "verification_note": "Edition and shasei program confirmed; translation limits noted in the source record."
+  }
+}

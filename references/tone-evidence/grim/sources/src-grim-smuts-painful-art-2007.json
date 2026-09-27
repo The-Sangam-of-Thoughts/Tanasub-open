@@ -1,0 +1,55 @@
+{
+  "id": "src-grim-smuts-painful-art-2007",
+  "title": "The Paradox of Painful Art",
+  "creators": [
+    "Aaron Smuts"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "The Journal of Aesthetic Education, Vol. 41, No. 3",
+    "published_date": "2007",
+    "edition": null,
+    "doi": "10.1353/jae.2007.0029",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1353/jae.2007.0029",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-grim)",
+    "verification_notes": "Bibliographic record confirmed via Crossref (DOI 10.1353/jae.2007.0029). Represents the philosophical 'paradox of painful art' literature: negative affect can be artistically valued. Full text not directly inspected."
+  },
+  "axis_ids": [
+    "tone-grim"
+  ],
+  "claim_ids": [
+    "clm-tone-grim-tragic-catharsis-contested",
+    "clm-tone-grim-eudaimonic-painful-art"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Journal article; analytical citation only."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "src-deadpan-suls-joke-model-1972",
+  "title": "Cognitive and Emotional Appreciation of Jokes: A Cognitive-Emotional Theory of Humor (ch. 4: cognitive appreciation model)",
+  "creators": [
+    "Jerry M. Suls"
+  ],
+  "source_type": "scholarly-book-chapter",
+  "source_roles": [
+    "recognition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychology of Humor (Gerald Goldstein, Paul McGhee, eds.), Academic Press",
+    "published_date": "1972",
+    "edition": "ch. 4; page range varies across catalogs (81–97 / 81–100)",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "Goldstein & McGhee (eds.), The Psychology of Humor (Academic Press, 1972), ch. 4, pp. 81–97 / 81–100 (catalogs vary); library record",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-deadpan)",
+    "verification_notes": "Two-stage joke model (incongruity detection + resolution) used as the cognitive account of the deadpan gap. Page range conflicts across catalogs: this silo records 81–97 / 81–100 without resolving; the sibling comedic silo records pp. 81–100. Evidence-incomplete item 7 in dossier.md §I."
+  },
+  "axis_ids": [
+    "tone-deadpan"
+  ],
+  "claim_ids": [
+    "clm-tone-deadpan-incongruity-gap"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "1972 edited-volume chapter; citation and paraphrase only."
+  }
+}

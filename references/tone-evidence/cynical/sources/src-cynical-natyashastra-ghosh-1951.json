@@ -1,0 +1,60 @@
+{
+  "id": "src-cynical-natyashastra-ghosh-1951",
+  "title": "The Natyasastra: A Treatise on Hindu Dramaturgy and Histrionics, Vol. I & II",
+  "creators": [
+    "Bharata Muni",
+    "Manomohan Ghosh"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "indian-context"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Royal Asiatic Society of Bengal",
+    "published_date": "1951",
+    "edition": "Bibliotheca Indica edition",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "sa"
+  ],
+  "regions": [
+    "India",
+    "South Asia"
+  ],
+  "access": {
+    "locator": "https://archive.org/details/natyasastra-manomohan-ghosh",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-cynical)",
+    "verification_notes": "Silo restatement of the shared coordinator-verified record src-natyashastra-ghosh-1951 (tier 1, verified 2026-09-12 by Codex S05 taxonomy harvest agent). Used here for the negative finding that Chapter 6 enumerates the classical rasas and supplies no rasa of distrust or deflation, and for hasya/vibhatsa as the nearest adjacent sentiments. The present researcher did not re-inspect the translation; no passage quoted."
+  },
+  "axis_ids": [
+    "tone-cynical"
+  ],
+  "claim_ids": [
+    "clm-tone-cynical-rasa-dhvani-mapping"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "sa",
+    "translator": "Manomohan Ghosh",
+    "limitations": [
+      "Classical Sanskrit aesthetic terms are rendered into English; hasya and vibhatsa do not map one-to-one onto modern comic and sarcastic vocabulary."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": true,
+    "notes": "Ancient text and 1951 translation in the public domain under applicable term; no passage reproduced."
+  }
+}

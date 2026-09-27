@@ -1,0 +1,43 @@
+{
+  "id": "src-freud-mourning-melancholia-1917",
+  "title": "Mourning and Melancholia",
+  "creators": ["Sigmund Freud"],
+  "source_type": "scholarly-book",
+  "source_roles": ["definition", "recognition"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "The Standard Edition of the Complete Psychological Works of Sigmund Freud, vol. XIV, pp. 237-258 (Hogarth Press)",
+    "published_date": "1917",
+    "edition": "Standard Edition, translated by James Strachey",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en", "de"],
+  "regions": ["Austria", "United Kingdom"],
+  "access": {
+    "locator": "https://artsonline.uwaterloo.ca/~wsiemerl/media/470a/Freud_Mourningandmelancholia.pdf",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-elegiac)",
+    "verification_notes": "Original 1917 publication and Standard Edition volume/pages verified via multiple open copies. The distinction between mourning (conscious reaction to loss of a loved person or an abstraction such as country, liberty, or ideal) and melancholia (unconscious loss, self-devaluation), and the statement that mourning is not regarded as pathological, verified directly in the text."
+  },
+  "axis_ids": ["tone-elegiac"],
+  "claim_ids": ["clm-tone-elegiac-oscillation-dosage"],
+  "translation": {
+    "is_translation": true,
+    "original_language": "de",
+    "translator": "James Strachey",
+    "limitations": [
+      "The German Trauer covers both grief affect and its outward manifestation; the English 'mourning' narrows this."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": true,
+    "notes": "Original German 1917 public domain; Standard Edition translation status varies by jurisdiction. Analytical paraphrase only."
+  }
+}

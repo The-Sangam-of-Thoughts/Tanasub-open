@@ -1,0 +1,58 @@
+{
+  "id": "src-warm-giles-accommodation-2016",
+  "title": "Communication Accommodation Theory: Negotiating Personal Relationships and Social Identities across Contexts",
+  "creators": [
+    "Howard Giles",
+    "Marko Dragojevic",
+    "Jessica Gasiorek"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Cambridge University Press",
+    "published_date": "2016",
+    "edition": "Chapter 3, 'Accommodative strategies as core of the theory', pp. 36-59",
+    "doi": "10.1017/CBO9781316226537.003",
+    "isbn": "9781107105829"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://www.cambridge.org/core/books/communication-accommodation-theory/FEBB6AB8A122C4F1426418B34DF1BC38",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-warm)",
+    "verification_notes": "Confirmed editor, publisher, 2016 date, chapter title and pagination; verified the convergence/divergence framework and its association with liking/relational solidarity, and the over-accommodation concept (adapting beyond optimal level, perceived as patronizing/condescending). Original convergence paper is Giles, Taylor & Bourhis 1973."
+  },
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "claim_ids": [
+    "clm-tone-warm-convergence-overaccommodation"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Cambridge University Press book; analytical citation only."
+  }
+}

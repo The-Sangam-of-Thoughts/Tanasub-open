@@ -1,0 +1,33 @@
+{
+  "id": "clm-tone-philosophical-concreteness-grounding",
+  "craft_claim": "Sustained abstraction without concrete anchors loses comprehension and retention; philosophical writing must ground each abstract move in a concrete instance and then explicitly fade to the general claim.",
+  "tone_ids": [
+    "tone-philosophical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-philosophical-paivio-dual-coding-1986",
+      "location": "Chapters on dual coding and the concreteness effect",
+      "evidence_expression": "paraphrase",
+      "note": "Dual coding theory holds that concrete content engages both verbal and imaginal systems while abstract content is represented mainly verbally, giving concrete items a recall advantage."
+    },
+    {
+      "evidence_id": "src-philosophical-fyfe-concreteness-fading-2014",
+      "location": "Educational Psychology Review 26, systematic review",
+      "evidence_expression": "paraphrase",
+      "note": "The review supports beginning with a concrete instantiation and explicitly fading toward the abstract representation; immediate abstraction reduces transfer and comprehension."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "All forms carrying abstract argument, especially academic, blog and copy where the reader has not chosen dense theory.",
+  "exceptions": [
+    "Expert specialist audiences can tolerate longer abstract runs, but the concreteness effect persists across skill levels; the dose shifts, not the principle."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/philosophical.md#4--when-to-show-restraint",
+    "tones/philosophical.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

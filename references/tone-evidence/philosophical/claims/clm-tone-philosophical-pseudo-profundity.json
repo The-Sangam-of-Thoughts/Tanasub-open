@@ -1,0 +1,33 @@
+{
+  "id": "clm-tone-philosophical-pseudo-profundity",
+  "craft_claim": "Vague, syntactically impressive abstraction can be mistaken for profundity; this is the chief failure of the philosophical voice and the target of depth-performance diagnostics.",
+  "tone_ids": [
+    "tone-philosophical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-philosophical-pennycook-pseudo-profound-2015",
+      "location": "Judgment and Decision Making 10(6), pp. 549-563",
+      "evidence_expression": "paraphrase",
+      "note": "Across multiple studies, participants rated randomly generated buzzword statements as profound, and receptivity was associated with an intuitive cognitive style and lower reflectiveness; detecting vacuity required discernment of deceptive vagueness."
+    },
+    {
+      "evidence_id": "src-philosophical-sokal-bricmont-1997",
+      "location": "Intellectual Impostures / Fashionable Nonsense, Introduction",
+      "evidence_expression": "paraphrase",
+      "note": "Documents impenetrable jargon and misused technical vocabulary functioning as unearned authority. Contested criticism, used only as documented professional criticism, never as sole support."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Every form that uses abstraction for authority, especially academic-adjacent and marketing copy.",
+  "exceptions": [
+    "Genuinely difficult ideas are not pseudo-profound; the diagnostic is whether a concrete consequence can be stated, not whether the sentence is hard."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/philosophical.md#7--failure-modes-and-revision",
+    "tones/philosophical.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "clm-tone-inspirational-elevation-prosocial",
+  "craft_claim": "Staging credible moral excellence (a person choosing well under pressure) elicits elevation and an emulative, prosocial action tendency, which is the core engine of the inspirational voice.",
+  "tone_ids": [
+    "tone-inspirational"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-inspirational-haidt-elevation-2000",
+      "location": "Prevention & Treatment 3(1), article 33c",
+      "evidence_expression": "paraphrase",
+      "note": "Haidt introduces elevation as the positive emotion triggered by witnessing acts of human moral beauty or virtue and frames it as the opposite of social disgust."
+    },
+    {
+      "evidence_id": "src-inspirational-algoe-haidt-2009",
+      "location": "The Journal of Positive Psychology 4(2):105-127, Studies 1-4",
+      "evidence_expression": "synthesis",
+      "note": "Across recall, video-induction, diary, and letter-writing studies, elevation is a distinct 'other-praising' emotion that motivates prosocial and affiliative behaviour and a desire to emulate the exemplar."
+    },
+    {
+      "evidence_id": "work-i-have-a-dream",
+      "location": "Delivered address, 28 August 1963, closing movement",
+      "evidence_expression": "synthesis",
+      "note": "King's public address grounds its forward call in concrete, embodied figures and places rather than abstract assertion, matching the elevation mechanism of witnessed excellence."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-inspirational-pohling-diessner-2016",
+      "note": "The 16-year review finds strong evidence that elevation broadens the thought-action repertoire but only relatively weak evidence that it builds lasting resources."
+    },
+    {
+      "evidence_id": "src-inspirational-algoe-haidt-2009",
+      "note": "Study 1 did not support the specific prediction of higher warm-chest sensations for elevation, so physiological markers are not reliable diagnostics of the tone."
+    }
+  ],
+  "scope": "Narrative, civic, and inspirational prose that displays virtue or virtue-in-action; weakest where no credible model can be shown.",
+  "exceptions": [
+    "Tonal contexts that frame virtue ironically (satirical-literature mode) deliberately suppress the emulative response.",
+    "Audiences in acute distress where a displayed exemplar reads as comparison pressure rather than invitation."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/inspirational.md#2--why-it-works--the-mechanism",
+    "tones/inspirational.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clm-tone-detached-affective-distance",
+  "craft_claim": "Aesthetic/psychical distance produces the objective reception detached prose seeks, but distance has an antinomy: past a threshold it collapses the viewer's personal relation to the object.",
+  "tone_ids": ["tone-detached"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-detached-bullough-psychical-distance-1912",
+      "location": "Part II, sections 2-3 ('The antinomy of Distance'; 'The variability of Distance'), pp. 87-118",
+      "evidence_expression": "paraphrase",
+      "note": "Bullough argues aesthetic experience depends on distance from the practical self, permitting attention to objective features, while naming an antinomy: too little distance is sentimental, too much leaves the object cold and unpersuasive."
+    },
+    {
+      "evidence_id": "src-detached-trope-liberman-clt-2010",
+      "location": "Psychological Review 117(2), 440-463",
+      "evidence_expression": "synthesis",
+      "note": "Construal Level Theory generalizes the finding that greater psychological distance yields more abstract, higher-level construal, providing a general-psychology basis for the distance-to-abstraction tradeoff."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-detached-bullough-psychical-distance-1912",
+      "note": "Section B 'Honest limit' and section H record that no study located measures an optimal distance ratio or the threshold at which the viewer's personal relation collapses, so the antinomy's collapse half is a theoretical postulate rather than a measured finding."
+    }
+  ],
+  "scope": "Aesthetic reception and narratorial stance in prose.",
+  "exceptions": [
+    "Deliberate Brechtian alienation, which wants the disengaging effect for political purposes."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/detached.md#2--why-it-works--the-mechanism",
+    "tones/detached.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "src-compassionate-rogers-1957",
+  "title": null,
+  "creators": [
+    "Rogers"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Consulting Psychology, vol. 21, no. 2, pp. 95-103",
+    "published_date": "1957",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [],
+  "access": {
+    "locator": null,
+    "accessed_at": "2026-09-24",
+    "access_conditions": null
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": null,
+    "verified_by": "Tone Layer researcher (tone-compassionate)",
+    "verification_notes": "Citation recorded from the dossier claims matrix and section C: Rogers's client-centred conditions (congruence, unconditional positive regard, accurate empathic understanding) treat care as a stance, not advice-imposition. The dossier states no article title, DOI, author given name, region, or verification, so those fields are null; no access locator is recorded because the dossier gives none."
+  },
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "claim_ids": [
+    "clm-tone-compassionate-pastoral-care-conditions"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Journal article; analytical citation only; no text reproduced."
+  }
+}

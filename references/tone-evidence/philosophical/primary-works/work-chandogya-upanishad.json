@@ -1,0 +1,38 @@
+{
+  "id": "work-chandogya-upanishad",
+  "title": "Chandogya Upanisad",
+  "creators": [
+    "Anonymous (Vedic tradition)"
+  ],
+  "work_type": "philosophical-dialogue-text",
+  "published_date": "c. 8th-6th century BCE (early Upanisadic period)",
+  "languages": [
+    "sa"
+  ],
+  "regions": [
+    "India"
+  ],
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "period_role": "classical",
+  "source_id": "src-philosophical-olivelle-upanisads-1996",
+  "access": {
+    "edition_or_version": "Upanisads, trans. Patrick Olivelle (Oxford World's Classics, 1996)",
+    "language_used": "en",
+    "translator": "Patrick Olivelle",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "The nature of the self and of ultimate reality taught through teacher-student dialogue.",
+    "argumentative_stance": "Gradual generalisation: a concrete lesson or experiment is drawn toward an abstract claim about self and being.",
+    "point_of_view": "Dialogue between guru and student (e.g., Uddalaka and Svetaketu); the questioner's understanding models the reader's.",
+    "structure": "Serial teaching exchanges, each building a concept through question, analogy and repetition of a refrain.",
+    "dialogue": "Question-and-answer leading the student to infer the principle rather than receive it as a proposition.",
+    "imagery": "Domestic experiment and natural analogy (salt in water, seed, rivers) embodying abstract identity claims.",
+    "emotional_progression": "Confusion and persistence yielding insight.",
+    "critical_reception": "One of the principal early Upanisads; a standard example of dialogic philosophical instruction.",
+    "failure_or_misuse_signals": "Analogy left unexplained, or instruction with no inferential step, becomes dogma rather than philosophy."
+  }
+}

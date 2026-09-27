@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-brooks-troubling-confessions-2000",
+  "title": "Troubling Confessions: Speaking Guilt in Law and Literature",
+  "creators": ["Peter Brooks"],
+  "source_type": "scholarly-book",
+  "source_roles": ["recognition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "University of Chicago Press",
+    "published_date": "2000",
+    "edition": "First edition, x + 207 pp.",
+    "doi": null,
+    "isbn": "9780226075860"
+  },
+  "languages": ["en"],
+  "regions": ["United States", "France"],
+  "access": {
+    "locator": "https://press.uchicago.edu/ucp/books/book/chicago/T/bo3627888.html",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "University of Chicago Press page and multiple scholarly reviews verified the book's argument on confession's contested truth-status and the readings of Rousseau and Dostoevsky."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-confession-truth-mode"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scholarly monograph; analytical paraphrase only, no text reproduced."
+  }
+}

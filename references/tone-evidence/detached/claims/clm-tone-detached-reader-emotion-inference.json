@@ -1,0 +1,36 @@
+{
+  "id": "clm-tone-detached-reader-emotion-inference",
+  "craft_claim": "Readers automatically infer a character's emotional state from described behavior, objects, and situation even when no emotion word appears; a mismatching emotion word slows comprehension.",
+  "tone_ids": ["tone-detached"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-detached-gernsbacher-emotion-inference-1992",
+      "location": "Experiments 1-3 and general discussion, pp. 89-111",
+      "evidence_expression": "synthesis",
+      "note": "Across priming and reading-time experiments, readers represented characters' emotional states; emotion words that mismatched the implied state produced slower responding, indicating the expected emotion was already represented."
+    },
+    {
+      "evidence_id": "src-detached-miall-kuiken-foregrounding-1994",
+      "location": "Study 1-4 findings, pp. 389-407",
+      "evidence_expression": "synthesis",
+      "note": "Foregrounded textual features reliably evoked feeling in readers, supporting the view that selected surface detail, not stated emotion, drives affective response."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-detached-green-brock-transportation-2000",
+      "note": "Inference still depends on some emotional involvement; if the surrounding narrative has produced no transportation, the inferred emotion may not be felt."
+    }
+  ],
+  "scope": "Narrative comprehension across fiction and narrative nonfiction.",
+  "exceptions": [
+    "Technical exposition or pure dialogue in which no situation model of a character is established."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/detached.md#2--why-it-works--the-mechanism",
+    "tones/detached.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "src-warm-leech-pragmatics-2014",
+  "title": "The Pragmatics of Politeness",
+  "creators": [
+    "Geoffrey N. Leech"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Oxford University Press",
+    "published_date": "2014",
+    "edition": "Oxford Studies in Sociolinguistics",
+    "doi": null,
+    "isbn": "978-0195341386"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://books.google.com/books/about/The_Pragmatics_of_Politeness.html?id=cCyTAwAAQBAJ",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-warm)",
+    "verification_notes": "Confirmed author, publisher, series and year. Verified the sociopragmatic politeness scale that registers overpoliteness as a potential sarcasm, alongside underpoliteness and situation-appropriate politeness."
+  },
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "claim_ids": [
+    "clm-tone-warm-positive-politeness",
+    "clm-tone-warm-warmth-without-substance"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Oxford University Press book; analytical citation only."
+  }
+}

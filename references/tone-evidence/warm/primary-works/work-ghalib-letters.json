@@ -1,0 +1,39 @@
+{
+  "id": "work-ghalib-letters",
+  "title": "Letters of Ghalib (Khutoot-e-Ghalib)",
+  "creators": [
+    "Mirza Asadullah Khan Ghalib"
+  ],
+  "work_type": "letter-collection",
+  "published_date": "19th century",
+  "languages": [
+    "ur",
+    "fa"
+  ],
+  "regions": [
+    "India",
+    "Delhi",
+    "Mughal Empire"
+  ],
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "period_role": "formative",
+  "source_id": "src-warm-ghalib-letters-2022",
+  "access": {
+    "edition_or_version": "Urdu letters, 19th century; English via Daud Rahbar (Dev Publishers, 2022)",
+    "language_used": "en",
+    "translator": "Daud Rahbar",
+    "access_conditions": "library"
+  },
+  "analysis_status": "partial",
+  "mechanics": {
+    "reader_promise": "Talk-like companionship across distance: the letter as a substitute for conversation with a friend.",
+    "point_of_view": "First-person epistolary address to named friends and acquaintances, often beginning informally.",
+    "psychic_distance": "Close and equal: the addressee is treated as a confidant capable of sharing a joke.",
+    "dialogue": "Conversational diction and humour; the letter 'talks' as if spoken rather than performed.",
+    "style_and_devices": "Rejected the formal mursala convention; easy, simple, conversational Urdu prose; humour and self-deprecation; aspiration to write lines the reader will enjoy.",
+    "emotional_progression": "Episodic and associative, accumulating relationship across many letters rather than building a single arc.",
+    "tone_markers": "Informal opening, conversational register, humour, equality with the addressee, pleasure-oriented address."
+  }
+}

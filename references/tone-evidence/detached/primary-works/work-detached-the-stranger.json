@@ -1,0 +1,27 @@
+{
+  "id": "work-detached-the-stranger",
+  "title": "The Stranger (L'Étranger)",
+  "creators": ["Albert Camus"],
+  "work_type": "novel",
+  "published_date": "1942",
+  "languages": ["fr", "en"],
+  "regions": ["France", "Algeria"],
+  "axis_ids": ["tone-detached"],
+  "period_role": "formative",
+  "source_id": null,
+  "access": {
+    "edition_or_version": "English translation by Matthew Ward (Vintage, 1988/1989)",
+    "language_used": "en",
+    "translator": "Matthew Ward",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "point_of_view": "First-person narration (Meursault) that reports action, sensation, and procedure without naming affect.",
+    "style_and_devices": "Behavior-and-object substitution; paratactic declaratives; held mid-to-far psychic distance; affect inferred by the reader rather than stated.",
+    "emotional_progression": "A flat, procedural surface is sustained across grief, violence, and trial; the reader supplies the withheld response from event and consequence.",
+    "dialogue": "Minimal, literal exchanges; Meursault often answers with physical or practical statements instead of emotional ones.",
+    "tone_mechanism": "Demonstrates clm-tone-detached-psychic-distance and clm-tone-detached-reader-emotion-inference.",
+    "verification_note": "Canonical exemplar of affect-withheld narration; Matthew Ward's translation is noted for fidelity to Camus's tone."
+  }
+}

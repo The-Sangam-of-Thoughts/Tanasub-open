@@ -1,0 +1,59 @@
+{
+  "id": "src-warm-cicero-familiares-1928",
+  "title": "Epistulae ad Familiares (Letters to Friends)",
+  "creators": [
+    "Marcus Tullius Cicero",
+    "W. Glynn Williams (translator)"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Loeb Classical Library / Harvard University Press (Perseus Digital Library text)",
+    "published_date": "1928",
+    "edition": "Letters written 62-43 BCE; collected and published by Tiro after 43 BCE; Loeb translation 1928",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "la",
+    "en"
+  ],
+  "regions": [
+    "Roman Republic",
+    "Italy"
+  ],
+  "access": {
+    "locator": "https://catalog.perseus.org/catalog/urn:cts:latinLit:phi0474.phi056.opp-eng2",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-warm)",
+    "verification_notes": "Confirmed the 16-book collection of letters to friends/family, the 62-43 BCE span, publication by Cicero's freedman Tiro, and the Loeb/Perseus edition. Latin original public domain; technique described, no text reproduced."
+  },
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "claim_ids": [
+    "clm-tone-warm-companionable-essay-letter"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "la",
+    "translator": "W. Glynn Williams (Loeb, 1928)",
+    "limitations": [
+      "Roman epistolary conventions differ from modern informal letters; the 'familiar' register is not identical to contemporary conversational prose."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": true,
+    "notes": "Latin text public domain; the 1928 Loeb translation may be copyrighted and is not reproduced."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "src-natyashastra-ghosh-1951",
+  "title": "The Natyasastra: A Treatise on Hindu Dramaturgy and Histrionics, Vol. I & II",
+  "creators": [
+    "Bharata Muni",
+    "Manomohan Ghosh"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "definition"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Royal Asiatic Society of Bengal",
+    "published_date": "1951",
+    "edition": "Bibliotheca Indica edition",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "sa"
+  ],
+  "regions": [
+    "India",
+    "South Asia"
+  ],
+  "access": {
+    "locator": "https://archive.org/details/natyasastra-manomohan-ghosh",
+    "accessed_at": "2026-09-12",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-12T12:30:00Z",
+    "verified_by": "Codex S05 taxonomy harvest agent",
+    "verification_notes": "Directly verified against Ghosh's critical translation of the Natyashastra chapters on drama (Rupaka) types."
+  },
+  "axis_ids": [
+    "axis-nataka-drama",
+    "axis-prakarana-drama"
+  ],
+  "claim_ids": [],
+  "translation": {
+    "is_translation": true,
+    "original_language": "sa",
+    "translator": "Manomohan Ghosh",
+    "limitations": [
+      "Classical Sanskrit dramatic classification translated into English terminology; Sanskrit designations preserved as primary canonical terms."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": true,
+    "notes": "Original ancient text in public domain; 1951 translation public domain under applicable Indian term."
+  }
+}

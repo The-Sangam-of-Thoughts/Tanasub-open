@@ -1,0 +1,35 @@
+{
+  "id": "clm-tone-reflective-ashoka-regret",
+  "craft_claim": "Turning inward to evaluate one's own past conduct and revise policy on the basis of that evaluation is attested in ancient India's most public genre: Ashoka's Kalinga edict makes a ruler's first-person reflection on the consequences of his actions the engine of his proclamation.",
+  "tone_ids": ["tone-reflective"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "work-ashoka-kalinga-edict",
+      "location": "Major Rock Edict XIII (Kalinga edict); Hultzsch 1925 ed. and trans., p. 43 (public domain); associated policy statements",
+      "evidence_expression": "synthesis",
+      "note": "The edict narrates Ashoka's earlier conquest-mindedness, his reckoning of the war's human cost, remorse, and the turn to conquest by dhamma — private evaluation of one's own past action staged as the reason for public change (paraphrased; no inscription text reproduced). The Kalinga campaign falls in Ashoka's eighth regnal year (conventionally c. 262-261 BCE, verified 2026-09-24); the edicts name the king 'Devanampiya Priyadasi'."
+    },
+    {
+      "evidence_id": "src-reflective-thapar-ashoka-2015",
+      "location": "chapters on the Kalinga campaign, the edicts, and their interpretation",
+      "evidence_expression": "paraphrase",
+      "note": "Thapar's scholarly study analyzes the edicts' composition, the Kalinga campaign, and Ashoka's self-presentation, providing the historical anchor for reading the edict's reflective self-evaluation critically rather than at face value."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-reflective-thapar-ashoka-2015",
+      "note": "The edict is state proclamation as well as introspection: the remorse narrative legitimates Mauryan dhamma policy, and a skeptical reading treats the reflection as political rhetoric rather than evidence of private motive. The tone-analogue survives (the genre performs inward evaluation); the biographical claim does not."
+    }
+  ],
+  "scope": "Cross-cultural historical attestation that the reflective gesture (inward evaluation of personal past conduct) is not exclusively modern or Western; feeds card section 8.",
+  "exceptions": [
+    "Public, rule-voiced reflection differs from the tone's default private address; cite as attestation of the attitude, not as a model of narrator voice."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/reflective.md#8--cultural-scope"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

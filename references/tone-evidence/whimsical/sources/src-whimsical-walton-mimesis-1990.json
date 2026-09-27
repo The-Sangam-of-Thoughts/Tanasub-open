@@ -1,0 +1,56 @@
+{
+  "id": "src-whimsical-walton-mimesis-1990",
+  "title": "Mimesis as Make-Believe: On the Foundations of the Representational Arts",
+  "creators": [
+    "Kendall L. Walton"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Harvard University Press",
+    "published_date": "1990",
+    "edition": null,
+    "doi": null,
+    "isbn": "9780674576193"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://www.hup.harvard.edu/books/9780674576032",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-whimsical)",
+    "verification_notes": "Confirmed authorship, publisher, year, and the core theses (props, principles of generation, fictional truths, continuity with children's games of make-believe) via publisher record, PhilPapers, and secondary commentary."
+  },
+  "axis_ids": [
+    "tone-whimsical"
+  ],
+  "claim_ids": [
+    "clm-tone-whimsical-make-believe-props",
+    "clm-tone-whimsical-tonal-clash-stakes"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Harvard University Press monograph; analytical citation only."
+  }
+}

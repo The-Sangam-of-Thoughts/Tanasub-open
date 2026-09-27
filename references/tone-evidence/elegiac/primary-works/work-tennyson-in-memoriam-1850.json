@@ -1,0 +1,34 @@
+{
+  "id": "work-tennyson-in-memoriam-1850",
+  "title": "In Memoriam A.H.H.",
+  "creators": ["Alfred, Lord Tennyson"],
+  "work_type": "poem-sequence",
+  "published_date": "1850",
+  "languages": ["en"],
+  "regions": ["United Kingdom", "England"],
+  "axis_ids": ["tone-elegiac"],
+  "period_role": "formative",
+  "source_id": "src-sacks-english-elegy-1985",
+  "access": {
+    "edition_or_version": "First published 1850 by Edward Moxon; public-domain text (Project Gutenberg, Wikisource)",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "sustained elegiac sequence rather than single poem: grief revisited across anniversaries",
+      "the 'In Memoriam stanza' (iambic tetrameter quatrains, ABBA) as a slowed rhythm of return",
+      "delayed and doubted consolation; faith held alongside grief and scientific doubt",
+      "apostrophe to the dead friend and to abstractions (Love, Nature)",
+      "oscillation between loss-oriented cantos and restoration-oriented domestic/seasonal cantos"
+    ],
+    "emotional_progression": "Funeral and numbness -> anniversary cycles of renewed grief -> crisis of faith and nature's indifference -> guarded vision and consolation.",
+    "point_of_view": "First-person meditative lyric voice, addressed partly to the dead and partly to the self.",
+    "rhythm_and_cadence": "Iambic tetrameter ABBA stanzas; the enclosing rhyme produces a returning, circular movement suited to recurrent grief.",
+    "psychic_distance": "Alternates intimate address with cosmic abstraction, giving the reader rest from raw grief.",
+    "style_and_devices": "Refrain-like seasonal imagery; personified Nature; debate with doubt; the elegy widened from private friend to national/cosmic frame.",
+    "copyright_note": "Public domain. Described by technique only; no passage reproduced."
+  }
+}

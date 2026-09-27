@@ -1,0 +1,59 @@
+{
+  "id": "src-reverent-keltner-haidt-2003",
+  "title": "Approaching awe, a moral, spiritual, and aesthetic emotion",
+  "creators": [
+    "Dacher Keltner",
+    "Jonathan Haidt"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Cognition and Emotion 17(2):297-314 (Taylor & Francis)",
+    "published_date": "2003",
+    "edition": null,
+    "doi": "10.1080/02699930302297",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1080/02699930302297",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reverent)",
+    "verification_notes": "Bibliographic details (journal, volume, issue, pages, DOI, PMID) cross-checked against the Wikipedia 'Awe' reference list on 2026-09-24. Conceptual content (epistemic emotion; perceived vastness and need for accommodation; primordial awe; five flavours: threat, beauty, ability, virtue, supernatural) cross-checked against the same secondary account and the paper's abstract."
+  },
+  "axis_ids": [
+    "tone-reverent"
+  ],
+  "claim_ids": [
+    "clm-tone-reverent-awe-vastness-accommodation",
+    "clm-tone-reverent-small-self",
+    "clm-tone-reverent-sacred-vs-threat-awe"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Peer-reviewed article; analytical citation only; no passages reproduced."
+  }
+}

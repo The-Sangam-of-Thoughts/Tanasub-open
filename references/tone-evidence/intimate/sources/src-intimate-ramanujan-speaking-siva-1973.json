@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-ramanujan-speaking-siva-1973",
+  "title": "Speaking of Siva",
+  "creators": ["A. K. Ramanujan", "Basavanna", "Devara Dasimayya", "Mahadeviyakka", "Allama Prabhu"],
+  "source_type": "critical-edition",
+  "source_roles": ["recognition", "craft-support", "indian-context"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Penguin Classics",
+    "published_date": "1973",
+    "edition": "Penguin Classics, 199 pp.",
+    "doi": null,
+    "isbn": "9780140442700"
+  },
+  "languages": ["en", "kn"],
+  "regions": ["India", "South Asia"],
+  "access": {
+    "locator": "https://www.penguin.co.uk/books/34926/speaking-of-siva-by-trans-ak-ramanujan/9780140442700",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "Penguin and Internet Archive records plus scholarly references verified the Ramanujan translation of Virasaiva vacanas and its intimate, plainspoken address to Siva. Tier 2: critical edition; translation scoped."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-crosscultural-norms"],
+  "translation": {
+    "is_translation": true,
+    "original_language": "kn",
+    "translator": "A. K. Ramanujan",
+    "limitations": ["Medieval Kannada free verse into English; the signature 'lord of the meeting rivers' address and oral cadence are approximated, not reproduced."]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Translation copyrighted; analytical paraphrase only, no text reproduced."
+  }
+}

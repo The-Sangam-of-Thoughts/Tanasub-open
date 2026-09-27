@@ -1,0 +1,50 @@
+{
+  "id": "src-reflective-morris-pillow-book-1967",
+  "title": "The Pillow Book of Sei Shonagon",
+  "creators": [
+    "Sei Shonagon",
+    "Ivan Morris"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Columbia University Press, New York",
+    "published_date": "1967",
+    "edition": "ed. and trans. Ivan Morris (two volumes); later one-volume printing, Columbia University Press, 1991",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en", "ja"],
+  "regions": ["Japan"],
+  "access": {
+    "locator": "Library record: The Pillow Book of Sei Shonagon (Columbia University Press, 1967); confirmed via Brill and Cambridge scholarly citations",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reflective)",
+    "verification_notes": "Publication (New York: Columbia University Press, 1967), Morris as editor-translator, and a 1991 Columbia printing confirmed via Brill endnote citing the Morris translation and independent academic citations; zuihitsu classification confirmed via the Cambridge History chapter record (ch. 14)."
+  },
+  "axis_ids": ["tone-reflective"],
+  "claim_ids": ["clm-tone-reflective-nonanglophone-analogues"],
+  "translation": {
+    "is_translation": true,
+    "original_language": "ja",
+    "translator": "Ivan Morris",
+    "limitations": [
+      "Early-modern Japanese court prose: paratactic juxtaposition, punning, and list rhythm are only partly recoverable in English; the reflective-evaluative stance arrives with the translator's diction."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Columbia University Press translation copyrighted; original Japanese text is long in the public domain. Described only; no passages reproduced."
+  }
+}

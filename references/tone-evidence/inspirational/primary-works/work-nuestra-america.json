@@ -1,0 +1,38 @@
+{
+  "id": "work-nuestra-america",
+  "title": "Nuestra America (essay)",
+  "creators": [
+    "Jose Marti"
+  ],
+  "work_type": "essay",
+  "published_date": "1891-01-10",
+  "languages": [
+    "es"
+  ],
+  "regions": [
+    "Cuba",
+    "Latin America"
+  ],
+  "axis_ids": [
+    "tone-inspirational"
+  ],
+  "period_role": "formative",
+  "source_id": "src-inspirational-marti-1891",
+  "access": {
+    "edition_or_version": "First publication in La Revista Ilustrada de Nueva York (10 Jan 1891); later El Partido Liberal, Mexico (30 Jan 1891)",
+    "language_used": "es",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A call for Latin American self-knowledge and unity addressed to a continental readership, written against imported political models and outside domination.",
+    "emotional_progression": "Diagnosis of internal division and dependency yields to an imperative of awakening and unified action.",
+    "style_and_devices": "Vivid metaphor (ideas as trenches, the seven-league giant), antithesis of authentic and imported, imperative address, sustained collective 'we'; aphoristic compression.",
+    "dialogue": "Direct exhortation to 'our America' and its peoples.",
+    "point_of_view": "First-person plural continental voice with prophetic authority.",
+    "tone_relevant_techniques": "Balanced vision that names real obstacles alongside the forward ideal (possible-selves balance); imperative move-to-action; civic rather than sacred warrant.",
+    "critical_reception": "A foundational text of Latin American identity and a canonical specimen of Spanish-language civic prose.",
+    "copyright_note": "Public domain; no passage reproduced."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "clm-tone-reflective-essay-as-self-trial",
+  "craft_claim": "The essay form since Montaigne treats the self as the material of a trial of thought — provisional judgment, self-questioning, and visible revision are its load-bearing devices — which is how the voice can be personal and outward-directed at once without becoming abstract.",
+  "tone_ids": ["tone-reflective"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "work-montaigne-essais",
+      "location": "Essais I.26 (De l'institution des enfants), III.13 (De l'expérience), and the author's address to the reader",
+      "evidence_expression": "paraphrase",
+      "note": "Montaigne makes himself the matter of the book, tests general questions against his own habits and body, marks revisions across the 1580/1588/1595 edition layers, and holds his inquiry under a questioning motto; essays proceed by example-from-life, not argument-from-principle."
+    },
+    {
+      "evidence_id": "src-reflective-lopate-personal-essay-1994",
+      "location": "Introduction (author-published excerpt reviewed, ReadingGroupGuides, accessed 2026-09-24)",
+      "evidence_expression": "paraphrase",
+      "note": "Lopate frames the anthology as putting forward and interpreting the personal-essay tradition from the classical era to the present; characterizes the essayist as a reliable narrator who has done introspective homework; describes the form as flexible and digressive, circling its subject from all angles; and presents the personal essay as basic research on the self — a mode of inquiry allied with but distinct from philosophy and science."
+    },
+    {
+      "evidence_id": "src-reflective-adorno-notes-literature-1991",
+      "location": "'The Essay as Form', Notes to Literature vol. 1, pp. 29-47",
+      "evidence_expression": "paraphrase",
+      "note": "Adorno defends the essay's method: it does not apply a pre-given method to its object but lets the object come into focus through provisional, non-systematic thought — form as exploration rather than demonstration."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-reflective-adorno-notes-literature-1991",
+      "note": "Adorno also records the standing charge (condemnation of the essay in German letters) that the form is intellectually irresponsible; the essay's legitimacy is argued, not granted, so the card cannot treat reflective provisionality as self-evidently virtuous."
+    },
+    {
+      "evidence_id": "src-reflective-lopate-personal-essay-1994",
+      "location": "Introduction",
+      "evidence_expression": "paraphrase",
+      "note": "Lopate names intimacy as the personal essay's hallmark and its reader-relationship as a kind of dialogue or friendship — the tradition's own leading theorist pulls the form toward the tone-intimate side, so this taxonomy's reflective/intimate split (inward thinking vs addressed disclosure) is a deliberate narrowing, not a fact about the tradition."
+    }
+  ],
+  "scope": "Nonfiction essay (personal and literary); extends to essayistic reflective passages in fiction, poetry, and copy that borrow the trial-of-thought method.",
+  "exceptions": [
+    "Aphoristic traditions (Bacon, La Rochefoucauld) are essay-adjacent but compressed, general, and outward — philosophical register, not reflective.",
+    "The confessional essay (tone-intimate) discloses for closeness; the reflective essay thinks aloud whether or not the reader is addressed."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/reflective.md#1--definition-and-boundaries",
+    "tones/reflective.md#2--why-it-works--the-mechanism"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

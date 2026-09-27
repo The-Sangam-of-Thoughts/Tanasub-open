@@ -1,0 +1,47 @@
+{
+  "id": "src-reflective-trapnell-campbell-1999",
+  "title": "Private Self-Consciousness and the Five-Factor Model of Personality: Distinguishing Rumination from Reflection",
+  "creators": [
+    "Paul D. Trapnell",
+    "James D. Campbell"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Personality and Social Psychology",
+    "published_date": "1999-02",
+    "edition": "76(2), pp. 284-304",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["Canada"],
+  "access": {
+    "locator": "https://pubmed.ncbi.nlm.nih.gov/10074710/",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reflective)",
+    "verification_notes": "Volume, issue, and pages confirmed via PubMed record 10074710 (J Pers Soc Psychol. 1999 Feb;76(2):284-304) and the APA PsycNet record; abstract confirms the rumination/reflection distinction. Full text not read this pass; used for the construct distinction it is cited for in the literature."
+  },
+  "axis_ids": ["tone-reflective"],
+  "claim_ids": ["clm-tone-reflective-reflection-vs-rumination"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA article; analytical citations only."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "work-godan",
+  "title": "Godan (The Gift of a Cow)",
+  "creators": [
+    "Premchand"
+  ],
+  "work_type": "novel",
+  "published_date": "1936",
+  "languages": [
+    "hi"
+  ],
+  "regions": [
+    "India",
+    "Uttar Pradesh"
+  ],
+  "axis_ids": [
+    "axis-historical-fiction",
+    "axis-psychological-fiction"
+  ],
+  "period_role": "formative",
+  "source_id": "src-sahitya-akademi-forms-2015",
+  "access": {
+    "edition_or_version": "Sahitya Akademi edition translated by Gordon C. Roadarmel",
+    "language_used": "en",
+    "translator": "Gordon C. Roadarmel",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "An impoverished Indian peasant dreams of owning a milch cow to fulfill household pride and religious duty, but is crushed by colonial-feudal debt.",
+    "reader_promise": "Unsparing, deeply empathetic portrait of rural peasant struggle against systemic exploitation by moneylenders, landlords, and caste hierarchy.",
+    "opening": "Hori prepares to take bamboo sticks to sell in town, deliberating over his mounting indebtedness and peasant dignity.",
+    "point_of_view": "Third-person omniscient realist narrative moving between rural village and urban Lucknow intellectual society.",
+    "character_system": "Hori Mahato (enduring peasant), Dhania (fierce, pragmatic wife), Gobar (rebellious son), Rai Sahib (feudal landlord), Pandit Datadin (exploitative priest).",
+    "conflict_and_stakes": "Dignity and economic survival of a rural family against systemic usury and caste sanctions.",
+    "structure": "Dual parallel plotlines contrasting village peasant reality with urban bourgeois and intellectual hypocrisies.",
+    "scene_movement": "Village courtyard, agricultural fields, panchayat hearings, Lucknow salons, sugar mill.",
+    "dialogue": "Authentic Awadhi-inflected Hindi/Urdu idioms capturing rural vernacular grit and urban affectation.",
+    "setting": "Belari village and Lucknow in 1930s colonial British India.",
+    "style_and_devices": "Social realism, tragic irony, economic materialism, symbolic weight of the sacred cow.",
+    "emotional_progression": "Persistent hope despite adversity -> mounting debt crisis -> physical exhaustion -> devastating tragic quietude.",
+    "suspense_or_anticipation": "Whether Hori's tireless labor and moral integrity can stave off total land dispossession.",
+    "climax": "Hori collapses from heatstroke while laboring on road construction to earn cash for landlord interest.",
+    "ending": "As Hori lies dying, Brahmin priest demands cow donation for his salvation; Dhania places her last 20 paise in his hand and faints.",
+    "conventions": "Masterwork of Indian social realism; refuses easy romanticization of peasant life or didactic revolutionary melodrama.",
+    "innovation_or_subversion": "Subverts Hindu religious ritual of godan into a devastating critique of institutional exploitation at the moment of death.",
+    "critical_reception": "Widely acknowledged as the greatest modern Hindi novel and towering achievement of Indian literary realism.",
+    "audience_reception": "Profound cultural touchstone in South Asian literature and sociology."
+  }
+}

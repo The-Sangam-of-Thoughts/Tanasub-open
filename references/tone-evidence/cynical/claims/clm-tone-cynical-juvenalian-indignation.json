@@ -1,0 +1,51 @@
+{
+  "id": "clm-tone-cynical-juvenalian-indignation",
+  "craft_claim": "Juvenal's Satires supply the indignation register of the cynical voice — moralized, controlled rage at vice stated in terms of violated standards — distinct from Horatian amusement; borrowed into prose it is the tone's high, accusatory register.",
+  "tone_ids": [
+    "tone-cynical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-cynical-braund-juvenal-satires-1996",
+      "location": "Introduction and commentary on Satire 1 (CUP 1996)",
+      "evidence_expression": "paraphrase",
+      "note": "The commentary documents the invective mode of Satire 1: a speaker cataloguing Roman vices in a moralized, indignant key, with outrage organized as argument rather than as raw complaint."
+    },
+    {
+      "evidence_id": "src-cynical-braund-juvenal-loeb-2004",
+      "location": "Loeb LCL 91, introduction and the Satires (Books 1-5)",
+      "evidence_expression": "paraphrase",
+      "note": "The standard facing-page edition establishes the Satires' moralizing, accusatory register as the collection's organizing stance; this is the locating text for the mode cited here."
+    },
+    {
+      "evidence_id": "src-cynical-oxford-companion-lit-2009",
+      "location": "Entries on satire and satirical modes",
+      "evidence_expression": "paraphrase",
+      "note": "Reference entries distinguish Juvenalian satire (provocative moral indictment) from Horatian (gentle, amused correction) and Menippean (structural assault on systems), fixing the vocabulary the tone borrows."
+    },
+    {
+      "evidence_id": "work-juvenal-satires",
+      "location": "Satires, six books (c. 100-130 CE)",
+      "evidence_expression": "synthesis",
+      "note": "The Satires perform the mode itself: indignation sustained across books by catalogue, apostrophe, and the consistency of a speaker who expects better of Rome and gets none."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-cynical-braund-juvenal-satires-1996",
+      "note": "Modern commentary reads the satirist's fury as a constructed speakerly persona; indignant directness belongs to a voice the poet assigns, which cautions against reading Juvenalian rage as unmasked authorial opinion."
+    }
+  ],
+  "scope": "The high register of the cynical voice; also the tonal seam where the tone meets the satirical genre's target-prosecuting engine.",
+  "exceptions": [
+    "Borrowed without a target, Juvenalian indignation degenerates into generalized misanthropy (see the failure claim).",
+    "Horatian and Menippean registers are alternative satirical voices the cynical tone can wear when indictment would be overkill."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/cynical.md#5--how-to-use-it--operators",
+    "tones/cynical.md#6--combination-rules"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

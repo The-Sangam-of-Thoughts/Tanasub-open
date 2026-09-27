@@ -1,0 +1,61 @@
+{
+  "id": "src-irreverent-bakhtin-rabelais-1968",
+  "title": "Rabelais and His World",
+  "creators": [
+    "M. M. Bakhtin"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "MIT Press (English translation); Indiana University Press reprint",
+    "published_date": "1968",
+    "edition": "Translated by Hélène Iswolsky; Indiana reprint ISBN 0253203414",
+    "doi": null,
+    "isbn": "0253203414"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Soviet Union",
+    "France"
+  ],
+  "access": {
+    "locator": "https://openlibrary.org/works/OL10458335W",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "English-edition identity confirmed via Open Library work record OL10458335W (first publication 1968) and the standard Iswolsky translation data earlier in the research session; the carnival framing paragraph was confirmed at p. 10 via peer-reviewed citations that quote it (pagination differs across editions — p. 7 in some printings). Chapter-title and term-level locators (e.g., the 'material bodily lower stratum' chapters) were NOT verified this session and are not cited."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [
+    "clm-tone-irreverent-carnival-debasement",
+    "clm-tone-irreverent-licensed-frame",
+    "clm-tone-irreverent-no-sustained-target",
+    "clm-tone-irreverent-hierarchy-leveling"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "ru",
+    "translator": "Hélène Iswolsky",
+    "limitations": [
+      "Cited only at the level of the verified p. 10 carnival paragraph; edition pagination varies, and chapter-level locators remain unverified."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Copyrighted English translation; paraphrased only, no passages reproduced."
+  }
+}

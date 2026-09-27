@@ -1,0 +1,56 @@
+{
+  "id": "src-cynical-friestad-wright-pkm-1994",
+  "title": "The Persuasion Knowledge Model: How People Cope with Persuasion Attempts",
+  "creators": [
+    "Marian Friestad",
+    "Peter Wright"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Consumer Research",
+    "published_date": "1994-06",
+    "edition": "Vol. 21, No. 1, pp. 1-31",
+    "doi": "10.1086/209380",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1086/209380",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-cynical)",
+    "verification_notes": "Bibliographic metadata (authors, container, 21(1):1-31, DOI) confirmed via Crossref on 2026-09-24; full text not inspected. The Persuasion Knowledge Model holds that people develop and apply knowledge about persuasion attempts, monitoring messages and message agents for persuasive intent, and coping with a repertoire that can include resistance as well as compliance. Used here for the reader-side analogue of the cynical stance: audiences already monitor stated motives. No passage quoted."
+  },
+  "axis_ids": [
+    "tone-cynical"
+  ],
+  "claim_ids": [
+    "clm-tone-cynical-distrust-attribution",
+    "clm-tone-cynical-dosage-saturation"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Journal of Consumer Research / University of Chicago Press; analytical citation only."
+  }
+}

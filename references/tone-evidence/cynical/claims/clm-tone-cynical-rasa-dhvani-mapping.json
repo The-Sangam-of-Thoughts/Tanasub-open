@@ -1,0 +1,45 @@
+{
+  "id": "clm-tone-cynical-rasa-dhvani-mapping",
+  "craft_claim": "Indian poetics offers no cynicism rasa among the nine; the cynical attitude maps instead onto deflation carried by dhvani (suggested meaning), with hasya and vibhatsa adjacent but not equivalent — so the tone should be suggested rather than announced.",
+  "tone_ids": [
+    "tone-cynical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-cynical-natyashastra-ghosh-1951",
+      "location": "Chapter 6: The Sentiments (Rasa), pp. 100-118",
+      "evidence_expression": "paraphrase",
+      "note": "The enumerated rasas include hasya (the comic) and vibhatsa (the odious or repugnant) but no sentiment of distrust or deflation; sustained cynical attitude is therefore not a classical rasa category, and mapping it onto rasa must be analogical."
+    },
+    {
+      "evidence_id": "src-cynical-dhvanyaloka-1990",
+      "location": "Uddyota 1 (dhvani as the soul of poetry)",
+      "evidence_expression": "paraphrase",
+      "note": "Anandavardhana holds suggested meaning above literal statement; a deflation arranged to be inferred lands harder than one asserted, which is the dhvani rule the cynical voice inherits."
+    },
+    {
+      "evidence_id": "work-inspector-matadeen-on-the-moon",
+      "location": "Stories in the collection",
+      "evidence_expression": "synthesis",
+      "note": "Parsai's flat municipal narration performs its exposure without announcing judgement: the reader supplies the derision the narrator withholds — deflation as suggested meaning."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-cynical-natyashastra-ghosh-1951",
+      "note": "Section E translation limit: Ghosh renders the Sanskrit aesthetic terms without one-to-one equivalents, so the negative finding (no rasa of distrust or deflation) and the hasya/vibhatsa adjacency are read through a translation rather than the unmediated taxonomy."
+    }
+  ],
+  "scope": "Indian dramatic and poetic traditions; transferable to any tradition that distinguishes evoked from stated attitude.",
+  "exceptions": [
+    "Rasa is a spectator-relished aesthetic emotion in a ritualized poetics; mapping a modern voice attitude onto it is analogical, not translation (cross-link clm-rasa-emotional-aesthetic).",
+    "Vibhatsa targets the repugnant and hasya teases; neither is distrust of stated motives, so neither can be renamed 'cynical rasa'."
+  ],
+  "confidence": "limited",
+  "report_locations": [
+    "tones/cynical.md#8--cultural-scope",
+    "tones/cynical.md#2--why-it-works--the-mechanism"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

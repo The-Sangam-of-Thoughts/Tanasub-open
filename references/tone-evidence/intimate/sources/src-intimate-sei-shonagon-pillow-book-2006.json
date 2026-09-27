@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-sei-shonagon-pillow-book-2006",
+  "title": "The Pillow Book",
+  "creators": ["Sei Shonagon", "Meredith McKinney"],
+  "source_type": "critical-edition",
+  "source_roles": ["recognition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Penguin Classics",
+    "published_date": "2006",
+    "edition": "McKinney translation, 416 pp.",
+    "doi": null,
+    "isbn": "9780140448061"
+  },
+  "languages": ["en", "ja"],
+  "regions": ["Japan", "East Asia"],
+  "access": {
+    "locator": "https://www.penguinrandomhouse.com/books/300922/the-pillow-book-by-sei-shonagon",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "Penguin Random House and multiple scholarly records verified the McKinney translation and the zuihitsu genre of private observation and lists. Public/private status of the work is disputed and is disclosed as a limitation."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-crosscultural-norms"],
+  "translation": {
+    "is_translation": true,
+    "original_language": "ja",
+    "translator": "Meredith McKinney",
+    "limitations": ["Heian Japanese honorifics, poetic allusion, and register markers are only partly recoverable in English; the work's intended audience (private vs. courtly) is contested."]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Translation copyrighted; analytical paraphrase only, no text reproduced."
+  }
+}

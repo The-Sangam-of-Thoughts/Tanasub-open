@@ -1,0 +1,45 @@
+{
+  "id": "work-ramcharitmanas",
+  "title": "Rāmcharitmānas",
+  "creators": [
+    "Tulsidas"
+  ],
+  "work_type": "devotional-epic",
+  "published_date": "16th century (c. 1574)",
+  "languages": [
+    "hi",
+    "awa"
+  ],
+  "regions": [
+    "India",
+    "Awadh",
+    "South Asia"
+  ],
+  "axis_ids": [
+    "tone-reverent"
+  ],
+  "period_role": "formative",
+  "source_id": "src-reverent-rupa-goswami-brs",
+  "access": {
+    "edition_or_version": "Gita Press, Gorakhpur editions; Avadhi text with Hindi commentary",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A vernacular retelling of the Rama story as an act of devotion, moving through narrative episodes toward the establishment of devotion (bhakti) as the goal.",
+    "reader_promise": "Devotional participation in a sacred narrative whose rhythms are designed for recitation and communal hearing.",
+    "point_of_view": "A devotional narrator who addresses Ram directly and invites the audience into the narration.",
+    "style_and_devices": "Alternating doha and chaupai metres; refrain and parallel verse; vocative invocation of the deity as narrative frame.",
+    "emotional_progression": "Invocation -> sacred narrative -> crises and separations -> the triumph of devotion and grace.",
+    "sacred_or_profound_object": "Ram, addressed and invoked as a present divine lord rather than narrated as a distant figure.",
+    "devotional_or_apophatic_mode": "Devotional (saguna) with direct vocative address; the sacred is personal and named.",
+    "cadence_and_form": "Avadhi devotional metre built for recitation; ring structure framing the narrative with praise.",
+    "figuration": "Analogy and devotional comparison drawn from everyday Awadhi life; repetition as liturgical structure.",
+    "vocative_address": "Opening and closing invocations address the deity; devotion is grammatically directed.",
+    "cultural_scope": "North Indian Vaishnava bhakti; a vernacular challenge to Sanskrit literary monopoly, historically recited across social strata.",
+    "translation_notes": "Metre, refrain, and Avadhi idiom are not recoverable in English translation; claims here are structural (vocative frame, ritual repetition).",
+    "copyright_note": "Techniques described, never quoted; modern editions/translations copyrighted."
+  }
+}

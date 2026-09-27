@@ -1,0 +1,56 @@
+{
+  "id": "src-urgent-joint-commission-alarm-2013",
+  "title": "Sentinel Event Alert, Issue 50: Medical Device Alarm Safety in Hospitals",
+  "creators": [
+    "The Joint Commission"
+  ],
+  "source_type": "institutional-guidance",
+  "source_roles": [
+    "recognition",
+    "counterevidence",
+    "dosage"
+  ],
+  "reliability_tier": 3,
+  "publication": {
+    "publisher_or_container": "The Joint Commission",
+    "published_date": "2013-04-08",
+    "edition": "Sentinel Event Alert, Issue 50",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "healthcare safety"
+  ],
+  "access": {
+    "locator": "The Joint Commission, Sentinel Event Alert Issue 50 (2013); jointcommission.org.",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-urgent)",
+    "verification_notes": "Institutional alert on alarm fatigue credited in the mainstream alarm-fatigue literature; issue number and year are the standard citation. Content summarized from the alarm-fatigue concept record (desensitization to frequent alarms, including false ones), not from page inspection."
+  },
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "claim_ids": [
+    "clm-tone-urgent-false-alarm-habituation"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "open-access",
+    "repository_copy_allowed": false,
+    "notes": "Institutional safety alert; no text reproduced."
+  }
+}

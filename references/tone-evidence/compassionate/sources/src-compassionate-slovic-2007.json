@@ -1,0 +1,54 @@
+{
+  "id": "src-compassionate-slovic-2007",
+  "title": null,
+  "creators": [
+    "Slovic"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support",
+    "dosage"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Judgment and Decision Making, vol. 2, no. 2, pp. 79-95",
+    "published_date": "2007",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [],
+  "access": {
+    "locator": null,
+    "accessed_at": "2026-09-24",
+    "access_conditions": null
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": null,
+    "verified_by": "Tone Layer researcher (tone-compassionate)",
+    "verification_notes": "Citation recorded from the dossier claims matrix and sections B, G, and H (psychic numbing; affect does not scale, so mass figures flatten feeling). The dossier states no article title, DOI, author given name, region, or access locator, so those fields are null/empty; no direct verification is recorded in the dossier, so verified_at is null."
+  },
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "claim_ids": [
+    "clm-tone-compassionate-identifiable-victim",
+    "clm-tone-compassionate-dosage-saturation"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Journal article; analytical citation only; no text reproduced."
+  }
+}

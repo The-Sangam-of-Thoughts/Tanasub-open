@@ -1,0 +1,61 @@
+{
+  "id": "src-reverent-rupa-goswami-brs",
+  "title": "Bhaktirasamrtasindhu (The Nectar of Devotional Rasa)",
+  "creators": [
+    "Rupa Goswami",
+    "David L. Haberman"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "definition",
+    "craft-support",
+    "indian-context"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Indira Gandhi National Centre for the Arts / Motilal Banarsidass (also Gita Press and other editions)",
+    "published_date": "2003",
+    "edition": "16th-century Sanskrit text; Haberman edition and translation; Motilal Banarsidass printings",
+    "doi": null,
+    "isbn": "9788120819856"
+  },
+  "languages": [
+    "en",
+    "sa"
+  ],
+  "regions": [
+    "India",
+    "South Asia"
+  ],
+  "access": {
+    "locator": "https://openlibrary.org/search?q=Rupa+Goswami+Bhaktirasamrtasindhu+Haberman",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reverent)",
+    "verification_notes": "Work and editions verified via Open Library (Motilal Banarsidass / Indira Gandhi National Centre for the Arts). Used for the Gaudiya Vaishnava systematization of bhakti as the supreme rasa and for the named, personal object of devotional relish; conceptual claims only."
+  },
+  "axis_ids": [
+    "tone-reverent"
+  ],
+  "claim_ids": [
+    "clm-tone-reverent-bhakti-named-address",
+    "clm-tone-reverent-rasa-dhvani-suggestion"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "sa",
+    "translator": "David L. Haberman (edition/translation); other translations exist",
+    "limitations": [
+      "Sanskrit aesthetic terminology (bhakti-rasa, sthayi-bhava) resists single-word English equivalents; claims concern structure and function, not lexical equivalence."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "16th-century text; modern editions/translations copyrighted; analytical citation only; no passages reproduced."
+  }
+}

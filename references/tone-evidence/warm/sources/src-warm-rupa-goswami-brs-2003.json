@@ -1,0 +1,62 @@
+{
+  "id": "src-warm-rupa-goswami-brs-2003",
+  "title": "The Bhaktirasamrtasindhu of Rupa Gosvamin (Bhakti-rasamrita-sindhu)",
+  "creators": [
+    "Rupa Gosvamin",
+    "David L. Haberman (translator)"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support",
+    "indian-context"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Indira Gandhi National Centre for the Arts / Motilal Banarsidass",
+    "published_date": "2003",
+    "edition": "Sanskrit text with English translation (2 vols. in 1)",
+    "doi": null,
+    "isbn": "812081861X"
+  },
+  "languages": [
+    "sa",
+    "en"
+  ],
+  "regions": [
+    "India",
+    "Bengal",
+    "Vrindavan"
+  ],
+  "access": {
+    "locator": "https://religiousstudies.indiana.edu/research/publications/faculty-publications/2003-bhaktirasamrtasindhu.html",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-warm)",
+    "verification_notes": "Confirmed Rupa Gosvamin's authorship, the Haberman translation (IGNCA/Motilal Banarsidass, 2003, ISBN 812081861X), and the sakhya-rasa / visrambha definition: affectionate exchange between equals, devoid of reverence and deference, full of love, trust and confidence. Technique/definition described, no text reproduced."
+  },
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "claim_ids": [
+    "clm-tone-warm-indian-sakhya-conversational"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "sa",
+    "translator": "David L. Haberman",
+    "limitations": [
+      "Sanskrit aesthetic terms (sakhya, visrambha, sthayi-bhava) do not map cleanly onto the English word 'warmth'; the translation is scholarly but interpretive."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Modern translation copyrighted; original Sanskrit public domain; analytical citation only."
+  }
+}

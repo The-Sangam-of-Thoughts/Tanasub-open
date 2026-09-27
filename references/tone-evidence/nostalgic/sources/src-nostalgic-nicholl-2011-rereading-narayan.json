@@ -1,0 +1,55 @@
+{
+  "id": "src-nostalgic-nicholl-2011-rereading-narayan",
+  "title": "Rereading: RK Narayan",
+  "creators": [
+    "Charles Nicholl"
+  ],
+  "source_type": "journalism",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 5,
+  "publication": {
+    "publisher_or_container": "The Guardian",
+    "published_date": "2011-05-14",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "India",
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://www.theguardian.com/books/2011/may/14/rk-narayan-malgudi-south-india",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-nostalgic)",
+    "verification_notes": "Full text fetched and read 2026-09-24: byline Charles Nicholl, dated Sat 14 May 2011 (earlier secondary records showed 13 May 2011; the URL path /2011/may/14 and the byline date agree on 14 May). The relayed Naipaul characterizations - the 'stasis' of Narayan's work, the world he depicts as 'a fable', and Narayan's interest in 'the lesser life that goes on below' - confirmed verbatim in the fetched text, as is the rereading-as-return framing of Malgudi. Tier-5 journalism: corroborating only, never sole support for a claim."
+  },
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "claim_ids": [
+    "clm-tone-nostalgic-restorative-reflective"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Newspaper review essay; only short attributed phrases quoted, no passage reproduced."
+  }
+}

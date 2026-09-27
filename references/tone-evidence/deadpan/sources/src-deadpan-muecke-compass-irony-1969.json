@@ -1,0 +1,55 @@
+{
+  "id": "src-deadpan-muecke-compass-irony-1969",
+  "title": "The Compass of Irony",
+  "creators": [
+    "D. C. Muecke"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "counterevidence"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Methuen",
+    "published_date": "1969",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "Library record: The Compass of Irony (Methuen, 1969)",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-deadpan)",
+    "verification_notes": "Catalog of ironic devices (litotes, meiosis, deadpan) and the stable/volatile delivery continuum. Used as device-inventory support for understatement-operators and as counterevidence to incongruity-gap (delivery alone is not the discriminator — the content-surface gap is). Publisher/year (Methuen, 1969) standard bibliographic data; page-level locators not re-verified this session."
+  },
+  "axis_ids": [
+    "tone-deadpan"
+  ],
+  "claim_ids": [
+    "clm-tone-deadpan-incongruity-gap",
+    "clm-tone-deadpan-understatement-operators"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "1969 Methuen monograph; citation and paraphrase only."
+  }
+}

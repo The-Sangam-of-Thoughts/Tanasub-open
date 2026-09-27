@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-brown-daring-greatly-2012",
+  "title": "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",
+  "creators": ["Brene Brown"],
+  "source_type": "practitioner-work",
+  "source_roles": ["counterevidence", "recognition"],
+  "reliability_tier": 4,
+  "publication": {
+    "publisher_or_container": "Gotham Books",
+    "published_date": "2012",
+    "edition": "First edition, 256 pp.",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://brenebrown.com/the-research",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "Publisher and author records verified the book and its central vulnerability thesis. Tiered deliberately at 4: popular synthesis, not peer-reviewed, and never used as sole support for a consequential claim. A 2015 Guardian interview notes public debate over independent validation of the work."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-catharsis-null"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Trade book; recorded for tiering transparency only, no text reproduced."
+  }
+}

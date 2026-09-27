@@ -1,0 +1,57 @@
+{
+  "id": "src-inspirational-vivekananda-1893",
+  "title": "Response to Welcome (Address at the World's Parliament of Religions, Chicago)",
+  "creators": [
+    "Swami Vivekananda"
+  ],
+  "source_type": "primary-source",
+  "source_roles": [
+    "recognition",
+    "indian-context",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "The Complete Works of Swami Vivekananda, vol. 1 (Addresses at the Parliament of Religions)",
+    "published_date": "1893",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "India",
+    "United States"
+  ],
+  "access": {
+    "locator": "https://en.wikisource.org/wiki/The_Complete_Works_of_Swami_Vivekananda/Volume_1/Addresses_at_The_Parliament_of_Religions/Response_to_Welcome",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-inspirational)",
+    "verification_notes": "Delivered 11 September 1893 at the World's Parliament of Religions, Chicago; date, venue, and textual tradition confirmed via Wikisource, the Parliament of the World's Religions, and the Art Institute of Chicago. Contemporary newspaper reports of the address exist; the received version is a later reconstruction. No passage reproduced."
+  },
+  "axis_ids": [
+    "tone-inspirational"
+  ],
+  "claim_ids": [
+    "clm-tone-inspirational-crosscultural-civic-uplift",
+    "clm-tone-inspirational-self-efficacy-models"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": false,
+    "notes": "Vivekananda died 1902; the address text is in the public domain. No passage reproduced regardless."
+  }
+}

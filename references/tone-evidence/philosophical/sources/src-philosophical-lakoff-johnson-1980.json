@@ -1,0 +1,54 @@
+{
+  "id": "src-philosophical-lakoff-johnson-1980",
+  "title": "Metaphors We Live By",
+  "creators": [
+    "George Lakoff",
+    "Mark Johnson"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "University of Chicago Press",
+    "published_date": "1980",
+    "edition": "revised edition with afterword, 2003",
+    "doi": null,
+    "isbn": "0-226-46801-1"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://press.uchicago.edu/ucp/books/book/chicago/M/bo3637992.html",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-philosophical)",
+    "verification_notes": "Confirmed the book's thesis that metaphor is a fundamental mechanism of thought that lets concrete physical and social experience structure abstract domains; the theory is influential but contested in parts, so claims are scoped to the mechanism, not to universal conceptual claims."
+  },
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "claim_ids": [
+    "clm-tone-philosophical-conceptual-metaphor"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "University of Chicago Press; analytical citation only."
+  }
+}

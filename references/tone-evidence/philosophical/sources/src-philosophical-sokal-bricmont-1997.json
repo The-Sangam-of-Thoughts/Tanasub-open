@@ -1,0 +1,58 @@
+{
+  "id": "src-philosophical-sokal-bricmont-1997",
+  "title": "Impostures Intellectuelles (English: Fashionable Nonsense: Postmodern Intellectuals' Abuse of Science)",
+  "creators": [
+    "Alan Sokal",
+    "Jean Bricmont"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "counterevidence"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Editions Odile Jacob (fr); St. Martin's Press (en, 1998)",
+    "published_date": "1997",
+    "edition": null,
+    "doi": null,
+    "isbn": "9780312195458"
+  },
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "regions": [
+    "France",
+    "United States"
+  ],
+  "access": {
+    "locator": "https://monoskop.org/images/5/53/Sokal_Alan_Bricmont_Jean_Fashionable_Nonsense.pdf",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-philosophical)",
+    "verification_notes": "Confirmed publication (1997 French original, 1998 English) and that the book documents impenetrable jargon and misuse of scientific terms as a mode of unearned authority. Contested as criticism; used only as documented professional criticism, never as sole support for a universal claim."
+  },
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "claim_ids": [
+    "clm-tone-philosophical-pseudo-profundity"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "fr",
+    "translator": "authors' English edition",
+    "limitations": [
+      "Polemical source; the criticism is contested within the humanities."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Trade book; analytical citation only."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-inspirational-peroration-late-climax",
+  "craft_claim": "Classical rhetorical theory locates the emotional peak in the peroration, after the case is made, which is why the inspirational call works best as the closing movement rather than an opening assertion.",
+  "tone_ids": [
+    "tone-inspirational"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-inspirational-aristotle-rhetoric-1991",
+      "location": "Books II-III: pathos and arrangement/style",
+      "evidence_expression": "synthesis",
+      "note": "Aristotle treats pathos as a designed means of persuasion and Book III treats arrangement and style, establishing that emotional appeal is placed within a designed order."
+    },
+    {
+      "evidence_id": "work-tryst-with-destiny",
+      "location": "Closing movement of the 1947 address",
+      "evidence_expression": "synthesis",
+      "note": "Nehru's address resolves into a collective pledge, moving from recollection and diagnosis into commitment, an emotional rise placed at the close."
+    },
+    {
+      "evidence_id": "work-i-have-a-dream",
+      "location": "Closing movement of the 1963 address",
+      "evidence_expression": "synthesis",
+      "note": "King's closing builds cumulative pressure through repeated clause-initial refrains, the classic peroration pattern described in the homiletic scholarship."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-inspirational-bitzer-1968",
+      "note": "Placing emotional appeal at the close does not license inventing a deadline; the closing still depends on a real exigence to be legitimate."
+    }
+  ],
+  "scope": "Speech, essay, and long-form copy closings.",
+  "exceptions": [
+    "Short social or aphoristic forms may lead with the call, but then rely on compression rather than a built peroration."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/inspirational.md#5--how-to-use-it--operators",
+    "tones/inspirational.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "src-bisac-fiction-2024",
+  "title": "BISAC Subject Headings: Fiction Categories",
+  "creators": [
+    "Book Industry Study Group Subject Codes Committee"
+  ],
+  "source_type": "industry-classification",
+  "source_roles": [
+    "recognition",
+    "definition"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Book Industry Study Group (BISG)",
+    "published_date": "2024",
+    "edition": "2024 edition",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "global"
+  ],
+  "access": {
+    "locator": "https://bisg.org/page/Fiction",
+    "accessed_at": "2026-09-12",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-12T12:00:00Z",
+    "verified_by": "Codex S05 taxonomy harvest agent",
+    "verification_notes": "Directly verified against the official Book Industry Study Group BISAC online category directory."
+  },
+  "axis_ids": [
+    "axis-cozy-mystery",
+    "axis-space-opera",
+    "axis-urban-fantasy",
+    "axis-psychological-thriller",
+    "axis-cyberpunk"
+  ],
+  "claim_ids": [],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "BISG standard subject vocabulary; fair-use category recognition indexing only."
+  }
+}

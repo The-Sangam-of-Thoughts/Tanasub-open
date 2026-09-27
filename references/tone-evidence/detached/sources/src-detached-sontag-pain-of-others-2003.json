@@ -1,0 +1,41 @@
+{
+  "id": "src-detached-sontag-pain-of-others-2003",
+  "title": "Regarding the Pain of Others",
+  "creators": ["Susan Sontag"],
+  "source_type": "scholarly-book",
+  "source_roles": ["craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Farrar, Straus and Giroux (Picador)",
+    "published_date": "2003",
+    "edition": "First edition",
+    "doi": null,
+    "isbn": "0-312-42219-9"
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://archive.org/details/regardingpainofo00sont",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-detached)",
+    "verification_notes": "Book, year, publisher and ISBN confirmed. Used for the ethical caution that recorded suffering can numb or produce voyeurism rather than moral engagement."
+  },
+  "axis_ids": ["tone-detached"],
+  "claim_ids": ["clm-tone-detached-indian-clinical-manto"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Farrar, Straus and Giroux; synthesis only."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "work-ghashiram-kotwal",
+  "title": "Ghashiram Kotwal",
+  "creators": [
+    "Vijay Tendulkar"
+  ],
+  "work_type": "play",
+  "published_date": "1972",
+  "languages": [
+    "mr",
+    "en"
+  ],
+  "regions": [
+    "India",
+    "Maharashtra"
+  ],
+  "axis_ids": [
+    "tone-grim",
+    "axis-nataka-drama",
+    "axis-prakarana-drama"
+  ],
+  "period_role": "canonical",
+  "source_id": "src-grim-natyashastra-ghosh-1951",
+  "access": {
+    "edition_or_version": "English translation by Jayant Karve and Eleanor Zelliot (Calcutta, 1984)",
+    "language_used": "en",
+    "translator": "Jayant Karve and Eleanor Zelliot",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A Brahmin outsider rises to police chief of Pune by serving a minister's appetite for control, then is destroyed by the same power once he becomes inconvenient.",
+    "point_of_view": "Dramatic; no single narrator, but the chorus and the machinery of power frame events.",
+    "style_and_devices": "Uses song, folk-theatre (tamasha) forms, and a chorus against an unflinching account of political instrumentality and caste violence; the historical setting carries a satirical charge aimed at contemporary politics.",
+    "emotional_progression": "Desire for status -> complicity -> degradation -> collective destruction, without redemption.",
+    "dialogue": "Public and performative; private integrity is largely unavailable to the characters.",
+    "setting": "Eighteenth-century Peshwa Pune, staged through folk performance conventions.",
+    "tone_mechanisms": [
+      "political instrumentality",
+      "caste violence",
+      "folk-form estrangement",
+      "unredeemed ending",
+      "chorus"
+    ],
+    "critical_reception": "A landmark of modern Indian theatre; first performed 16 December 1972 in Pune; Jabbar Patel's 1973 production is considered a classic. Translated into English in 1984.",
+    "verification_note": "Existence, date, authorship, translator, and premise confirmed via Wikipedia 'Ghashiram Kotwal' API extract. Described only; no text reproduced. Translation limits: Marathi folk and caste idiom do not fully transfer into English."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "src-cynical-diogenes-laertius-lives-1925",
+  "title": "Lives and Opinions of Eminent Philosophers, Book VI (The Cynics)",
+  "creators": [
+    "Diogenes Laertius",
+    "R. D. Hicks"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "history"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Harvard University Press (Loeb Classical Library); Perseus and ToposText witnesses",
+    "published_date": "1925",
+    "edition": "trans. R. D. Hicks, 2 vols., 1925; work composed c. 3rd century CE",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "grc",
+    "en"
+  ],
+  "regions": [
+    "Greece",
+    "Roman Empire"
+  ],
+  "access": {
+    "locator": "https://www.topostext.org/work/221 (public-domain Greek text; Book VI consulted at §6.103ff)",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-cynical)",
+    "verification_notes": "Work identity and status as the foremost surviving source for ancient Greek philosophy confirmed via Wikipedia API extract (Diogenes Laertius) on 2026-09-24; ToposText locator for Book VI consulted (section 6.103 seen); Hicks Loeb edition identified from catalog metadata. Book VI transmits the life, sayings, and practiced provocations of Diogenes of Sinope and the Cynic school. Greek text public domain; no passage reproduced."
+  },
+  "axis_ids": [
+    "tone-cynical"
+  ],
+  "claim_ids": [
+    "clm-tone-cynical-cynic-philosophy-lineage"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "grc",
+    "translator": "R. D. Hicks",
+    "limitations": [
+      "Laertius compiles earlier reports without consistent critical evaluation; anecdote and doctrine are not cleanly separable, and the 1925 English is dated."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": true,
+    "notes": "Greek text public domain; 1925 Loeb translation may be under copyright in places and is not reproduced."
+  }
+}

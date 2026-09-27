@@ -1,0 +1,60 @@
+{
+  "id": "src-burroway-writing-fiction-2019",
+  "title": "Writing Fiction: A Guide to Narrative Craft",
+  "creators": [
+    "Janet Burroway",
+    "Elizabeth Stuckey-French",
+    "Ned Stuckey-French"
+  ],
+  "source_type": "craft-book",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "University of Chicago Press",
+    "published_date": "2019",
+    "edition": "Tenth Edition",
+    "doi": "10.7208/chicago/9780226616728.001.0001",
+    "isbn": "978-0226616698"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://press.uchicago.edu/ucp/books/book/chicago/W/bo36236965.html",
+    "accessed_at": "2026-09-12",
+    "access_conditions": "purchased"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-12T15:30:00Z",
+    "verified_by": "Codex S10 foundation evidence agent",
+    "verification_notes": "Directly verified chapters on characterization methods, showing vs telling, narrative point of view, and pacing."
+  },
+  "axis_ids": [
+    "axis-psychological-fiction",
+    "axis-historical-fiction",
+    "axis-romance-fiction"
+  ],
+  "claim_ids": [
+    "clm-reader-promise",
+    "clm-character-desire-urgency",
+    "clm-showing-telling-balance",
+    "clm-static-scene-diagnosis"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Textbook; analytical citation only."
+  }
+}

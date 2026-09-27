@@ -1,0 +1,46 @@
+{
+  "id": "src-detached-miall-kuiken-foregrounding-1994",
+  "title": "Foregrounding, defamiliarization, and affect: Response to literary stories",
+  "creators": ["David S. Miall", "Don Kuiken"],
+  "source_type": "peer-reviewed-article",
+  "source_roles": ["recognition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Poetics",
+    "published_date": "1994",
+    "edition": "Vol. 22, No. 5, pp. 389-407",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["Canada"],
+  "access": {
+    "locator": "https://web-archive.southampton.ac.uk/cogprints.org/737/1/foregrd.htm",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-detached)",
+    "verification_notes": "Author-held copy and citation records confirm journal, volume, page range and the foregrounding -> defamiliarization -> affect findings."
+  },
+  "axis_ids": ["tone-detached"],
+  "claim_ids": [
+    "clm-tone-detached-restraint-vs-absence",
+    "clm-tone-detached-reader-emotion-inference",
+    "clm-tone-detached-defamiliarization",
+    "clm-tone-detached-ai-slop-flatline"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Elsevier; synthesis only."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "src-irreverent-jay-taboo-2009",
+  "title": "The Utility and Ubiquity of Taboo Words",
+  "creators": [
+    "Timothy Jay"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Perspectives on Psychological Science, Vol. 4, No. 2",
+    "published_date": "2009",
+    "edition": "pp. 153-161",
+    "doi": "10.1111/j.1745-6924.2009.01115.x",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1111/j.1745-6924.2009.01115.x",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "Title, author, journal, volume, issue, pages, year, DOI, and abstract confirmed via Crossref on 2026-09-24; the abstract states that taboo words are defined and sanctioned by institutions of power (p. 153) and that a stable set of about ten words accounts for most public swearing. Abstract-level citation."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [
+    "clm-tone-irreverent-taboo-register-breach"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "SAGE journal article; abstract paraphrased only."
+  }
+}

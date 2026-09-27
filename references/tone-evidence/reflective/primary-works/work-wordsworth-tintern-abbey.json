@@ -1,0 +1,42 @@
+{
+  "id": "work-wordsworth-tintern-abbey",
+  "title": "Lines Composed a Few Miles above Tintern Abbey, on Revisiting the Banks of the Wye during a Tour, July 13, 1798",
+  "creators": [
+    "William Wordsworth"
+  ],
+  "work_type": "lyric poem",
+  "published_date": "1798",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "England",
+    "Wales"
+  ],
+  "axis_ids": [
+    "tone-reflective"
+  ],
+  "period_role": "formative",
+  "source_id": "src-reflective-wordsworth-preface-1800",
+  "access": {
+    "edition_or_version": "First published 1798 in the first edition of Lyrical Ballads (publication year verified 2026-09-24); public-domain text. Claims use whole-poem description, not line numbers.",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "secondary-attested",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "recollected-in-tranquillity composition: sensation remembered in the absence of the scene, feeding present thought",
+      "dated revisits: the poem's title pins the reflective stance to a specific occasion (July 13, 1798)",
+      "three stacked time layers in one utterance — earlier visit, later visit, present recollection",
+      "earlier selves corrected rather than idealized — the anti-nostalgia use of memory"
+    ],
+    "point_of_view": "First-person speaker revisiting a remembered landscape, observing his own changing relation to it across time.",
+    "tense_and_structure": "Subordinate past-tense frames hold a present-tense core: grammatical embodiment of memory feeding the present; the title supplies the date that keeps reflection from floating.",
+    "rhythm_and_cadence": "Blank-verse periods with caesura pauses marking the turn between time layers; reflective pacing slows the middle of the poem.",
+    "psychic_distance": "Medium-close, but diachronic: the speaker regards his own younger selves from the standpoint of the present — self-distance produced by time, not pronoun.",
+    "style_and_devices": "Landscape as anchor for moral memory; similes that compare states of mind across years rather than decorate scenery.",
+    "copyright_note": "Public domain. Described by technique only; no lines reproduced."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "src-norinaga-genji-tama-ogushi",
+  "title": "Genji monogatari tama no ogushi (The Jeweled Comb of The Tale of Genji)",
+  "creators": ["Motoori Norinaga"],
+  "source_type": "critical-edition",
+  "source_roles": ["definition", "recognition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Motoori Norinaga zenshu (Complete Works of Motoori Norinaga), vol. 4, ed. Ono Susumu, Chikuma Shobo",
+    "published_date": "1969",
+    "edition": "Modern collected-works edition of a work completed in the late 1790s",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["ja"],
+  "regions": ["Japan"],
+  "access": {
+    "locator": "Motoori Norinaga zenshu vol. 4 (1969); passages cited in recent peer-reviewed scholarship on Norinaga and mono no aware",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-elegiac)",
+    "verification_notes": "The primary text itself was not inspected in the original Japanese. Verified via recent peer-reviewed scholarship that quotes and locates the relevant passages: the definition of aware as being moved by things, the claim that its most profound aspect is the emotion that arises when events do not go as one desires (p. 202), the critique of Confucian emotional suppression (p. 193), and the completion date in the late 1790s, with the edition being Motoori Norinaga zenshu vol. 4, Chikuma Shobo, 1969. Confidence is restricted accordingly; direct inspection is an open verification gap."
+  },
+  "axis_ids": ["tone-elegiac"],
+  "claim_ids": ["clm-tone-elegiac-mono-no-aware"],
+  "translation": {
+    "is_translation": true,
+    "original_language": "ja",
+    "translator": null,
+    "limitations": [
+      "Verified through scholarly quotation and translation into English, not through direct reading of the 1969 Japanese edition.",
+      "mono no aware resists single-word English rendering; 'pathos of things' and 'being moved by things' are approximations.",
+      "translator left null rather than guessed: the source was read through the English scholarly rendering cited in the dossier, and no translator is identified for that rendering in this record."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Modern collected-works edition; analytical paraphrase via secondary scholarship only."
+  }
+}

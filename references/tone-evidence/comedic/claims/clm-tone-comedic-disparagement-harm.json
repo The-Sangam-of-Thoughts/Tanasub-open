@@ -1,0 +1,45 @@
+{
+  "id": "clm-tone-comedic-disparagement-harm",
+  "craft_claim": "Disparagement humour aimed at lower-power targets can normalize prejudice in audiences, making 'punching down' a documented ethical and craft failure rather than a matter of taste alone.",
+  "tone_ids": [
+    "tone-comedic"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-comedic-ford-ferguson-2004",
+      "location": "Prejudiced norm theory",
+      "evidence_expression": "paraphrase",
+      "note": "Exposure to disparagement humour can establish a norm of levity around prejudice and increase tolerance of discrimination, especially for high-prejudice audiences."
+    },
+    {
+      "evidence_id": "src-comedic-mcternan-punching-down-2024",
+      "location": "Argument on punching down and the duties of comedians",
+      "evidence_expression": "paraphrase",
+      "note": "Philosophical analysis refines the 'don't punch down' ethic and tracks which jokes target those with less power."
+    },
+    {
+      "evidence_id": "src-comedic-martin-humor-styles-2003",
+      "location": "Aggressive humour style dimension",
+      "evidence_expression": "synthesis",
+      "note": "Distinguishes aggressive (maladaptive) from affiliative (adaptive) humour styles, supporting the craft distinction between diminishing and bonding humour."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-comedic-morreall-sep-2012",
+      "note": "Some humour theory treats mockery as benign in-group bonding; effects are audience-relative and not uniformly harmful."
+    }
+  ],
+  "scope": "Humour targeting persons or groups, especially across power differences.",
+  "exceptions": [
+    "Self-deprecation and in-group humour experienced as affiliative rather than diminishing.",
+    "Punching up at power is outside the documented harm pattern of this claim."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/comedic.md#4--when-to-show-restraint",
+    "tones/comedic.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

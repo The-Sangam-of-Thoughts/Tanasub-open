@@ -1,0 +1,39 @@
+{
+  "id": "work-annihilation-of-caste",
+  "title": "Annihilation of Caste",
+  "creators": [
+    "B. R. Ambedkar"
+  ],
+  "work_type": "speech",
+  "published_date": "15 May 1936",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "India"
+  ],
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "period_role": "canonical",
+  "source_id": "src-defiant-ambedkar-critical-edition-2014",
+  "access": {
+    "edition_or_version": "Undelivered speech, self-published 15 May 1936; the dossier does not name a consulted edition",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": null
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "indictment catalog with parallel syntax: cumulative parallel clauses enumerate caste's effects before the refusal",
+      "negation/antithesis marking the boundary of what is refused",
+      "moral warrant: resistance argued from a stated principle, not from a mood",
+      "concrete named power and concrete stake: the Shastras and the caste order named rather than an abstraction; the stake is social emancipation"
+    ],
+    "emotional_progression": "Cumulative indictment builds pressure toward an explicit refusal (dossier section D).",
+    "warrant_note": "Caste and religious authority are the warrant: caste subordinates ethical and public life, so its foundation must be destroyed for emancipation (dossier section E).",
+    "language_note": "English-language Indian text: the warrant is Indian even where the language is not, an explicit limit on any 'non-Anglophone' claim (dossier section E).",
+    "verification_note": "Undelivered speech, refused by the Jat-Pat Todak Mandal and self-published 15 May 1936; verified via publisher/archive records; no text reproduced (dossier section F)."
+  }
+}

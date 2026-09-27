@@ -1,0 +1,67 @@
+{
+  "id": "clm-character-desire-urgency",
+  "craft_claim": "Proactive character agency arises when a protagonist possesses an urgent, concrete goal encountering escalating opposition.",
+  "axis_ids": [
+    "axis-bildungsroman",
+    "axis-cozy-mystery",
+    "axis-cyberpunk",
+    "axis-dastan-tradition",
+    "axis-detective-and-mystery-fiction",
+    "axis-episodic-television-script",
+    "axis-epistolary-fiction",
+    "axis-fantasy-fiction",
+    "axis-feature-screenplay",
+    "axis-flash-fiction",
+    "axis-frame-narrative",
+    "axis-ghazal-sequence",
+    "axis-gothic-fiction",
+    "axis-horror-fiction",
+    "axis-interactive-fiction",
+    "axis-katha-tradition",
+    "axis-nataka-drama",
+    "axis-pastoral-literature",
+    "axis-prakarana-drama",
+    "axis-psychological-thriller",
+    "axis-romance-fiction",
+    "axis-science-fiction",
+    "axis-solarpunk",
+    "axis-space-opera",
+    "axis-speculative-fiction",
+    "axis-thriller-fiction",
+    "axis-urban-fantasy",
+    "axis-vachana-poetry"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-egri-art-dramatic-writing-1946",
+      "location": "Chapter 2: Character, pp. 32-85",
+      "evidence_expression": "paraphrase",
+      "note": "Egri shows that a character without intense conviction or desperate desire cannot sustain dynamic conflict."
+    },
+    {
+      "evidence_id": "work-godan",
+      "location": "Chapters 1-6",
+      "evidence_expression": "synthesis",
+      "note": "Hori's concrete, desperate yearning for a cow drives his disastrous decisions with moneylenders."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "work-the-guide",
+      "location": "Temple sequence",
+      "evidence_expression": "synthesis",
+      "note": "Raju is initially passive and reactive, yet achieves agency through surrender to community faith."
+    }
+  ],
+  "scope": "Plot-driven and character-driven dramatic fiction.",
+  "exceptions": [
+    "Picaresque rogues or absurdist anti-heroes who drift reactively through societal encounters."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "06-character-relationships-and-arcs.md#character-relationships-and-arcs-preferred_label",
+    "00-how-to-write.md#plan-the-work"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-12"
+}

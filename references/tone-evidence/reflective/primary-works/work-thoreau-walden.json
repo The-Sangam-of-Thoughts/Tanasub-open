@@ -1,0 +1,42 @@
+{
+  "id": "work-thoreau-walden",
+  "title": "Walden; or, Life in the Woods",
+  "creators": [
+    "Henry David Thoreau"
+  ],
+  "work_type": "book-length essay / memoir",
+  "published_date": "1854",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "New England"
+  ],
+  "axis_ids": [
+    "tone-reflective"
+  ],
+  "period_role": "canonical",
+  "source_id": null,
+  "access": {
+    "edition_or_version": "First published 9 August 1854, Ticknor and Fields, Boston (imprint verified 2026-09-24); public-domain text.",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "aphoristic declaratives and interrogatives addressed to an implied reader, arising from concrete measured detail",
+      "alternation of exact observational catalogues (dimensions, dates, costs) with expansive reflective periods — concreteness licenses generalization",
+      "narrated past of the two-year sojourn punctuated by timeless-present aphorism",
+      "life-as-experiment self-monitoring frame: the narrator tests his own life at a slight distance"
+    ],
+    "point_of_view": "First person, didactic and self-experimenting; reflection tied to seasonal and diary time so meditation never floats free.",
+    "tense_and_structure": "Past narration of the sojourn against gnomic present-tense axioms; the movement between the two is the reflective rhythm, and periodization (chapters paced as walks) keeps it anchored.",
+    "rhythm_and_cadence": "Slow, accretive cadence with the aphorism as resting point; chapters pace as walks.",
+    "psychic_distance": "Close on experience but explicitly self-monitoring — the tested-life frame is self-distancing (see clm-tone-reflective-self-distanced-reflection).",
+    "style_and_devices": "Analogy between outer labor and inner economy; metaphor of measurement (ruling, counting) applied to the examined life; figure grown from observed detail — a pond, an ant, a thaw.",
+    "copyright_note": "Public domain. Described by technique only; no passage reproduced."
+  }
+}

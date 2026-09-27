@@ -1,0 +1,32 @@
+{
+  "id": "clm-tone-grim-dread-looming",
+  "craft_claim": "Dread is produced less by violence already present than by threat appraised as rapidly looming—rising, approaching, and hard to forestall—so grim prose builds dread by making danger accelerate toward the present moment.",
+  "tone_ids": [
+    "tone-grim"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-grim-riskind-looming-1997",
+      "location": "Behaviour Research and Therapy 35(8):685-702",
+      "evidence_expression": "paraphrase",
+      "note": "Riskind's looming vulnerability model defines anxiety-relevant threat appraisal as the perception that danger is rapidly growing and moving closer in time and space, and that one's ability to forestall it is shrinking. The model is operative in anxiety generally, not only in clinical populations."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-grim-riskind-looming-1997",
+      "note": "Section H item 1: dread requires approach and decays, so a threat that has already arrived is horror or grief rather than dread, and sustained acceleration without pauses makes the reader stop appraising and start enduring; the lever holds only in the approach phase."
+    }
+  ],
+  "scope": "Suspense and dread construction in prose, screenwriting, and poetry.",
+  "exceptions": [
+    "Static, contemplative bleakness (for example landscape elegy) may deliberately refuse acceleration and hold dread as atmosphere rather than trajectory."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/grim.md#2--why-it-works--the-mechanism",
+    "tones/grim.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

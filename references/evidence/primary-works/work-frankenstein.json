@@ -1,0 +1,54 @@
+{
+  "id": "work-frankenstein",
+  "title": "Frankenstein; or, The Modern Prometheus",
+  "creators": [
+    "Mary Shelley"
+  ],
+  "work_type": "novel",
+  "published_date": "1818",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom",
+    "Switzerland",
+    "Arctic"
+  ],
+  "axis_ids": [
+    "axis-epistolary-fiction",
+    "axis-frame-narrative",
+    "axis-gothic-fiction",
+    "axis-horror-fiction",
+    "axis-science-fiction"
+  ],
+  "period_role": "formative",
+  "source_id": "src-forster-aspects-novel-1927",
+  "access": {
+    "edition_or_version": "1818 Original Text, Oxford World's Classics",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "An ambitious natural philosopher discovers the secret of animating matter, creates a sapient creature, and abandons it, unleashing catastrophic vengeance.",
+    "reader_promise": "Chilling moral exploration of scientific hubris, parental abandonment, and the violent consequences of loneliness.",
+    "opening": "Epistolary letters from Captain Robert Walton to his sister Margaret Saville from an Arctic exploration vessel.",
+    "point_of_view": "Triple concentric frame narrative: Walton -> Victor Frankenstein -> the Creature.",
+    "character_system": "Victor (obsessive creator), Creature (eloquent, neglected creation), Walton (ambitious explorer foil), Elizabeth Lavenza (sacrificial innocent).",
+    "conflict_and_stakes": "Scientific mastery versus natural/moral boundaries; survival of Victor's family and human community.",
+    "structure": "Concentric Russian-doll framing where the creature's core monologue forms the ethical heart of the work.",
+    "scene_movement": "Geneva to Ingolstadt laboratory, Alpine glaciers, remote Orkneys, culminating in Arctic wastes.",
+    "dialogue": "Miltonic, philosophical debates over moral duty, social contract, and existential loneliness.",
+    "setting": "Bleak Alpine mountains, charnel houses, desolate Orkney islands, and frozen Arctic pack ice.",
+    "style_and_devices": "Gothic sublime, epistolary framing, doubling/doppelganger dynamics, Prometheus mythic inversion.",
+    "emotional_progression": "Feverish ambition -> revulsion -> terror -> mutual existential revenge -> exhausted reconciliation in death.",
+    "suspense_or_anticipation": "Creature's vow: 'I will be with you on your wedding-night' hangs over Victor's subsequent relationships.",
+    "climax": "Murder of Elizabeth on wedding night; Victor resolves to dedicate his remaining life to hunting the creature.",
+    "ending": "Victor dies aboard Walton's ship; Creature weeps over his creator's corpse and departs across the ice to immolate himself.",
+    "conventions": "Founds modern science fiction while deeply engaging Gothic horror conventions of sublime dread and body horror.",
+    "innovation_or_subversion": "Grants the monstrous creation sophisticated voice, literacy, and moral reasoning, exposing the human creator as the true moral monster.",
+    "critical_reception": "Initially received with mixed reviews, now recognized as foundational masterpiece of science fiction and Gothic literature.",
+    "audience_reception": "Global cultural archetype continually adapted across stage, cinema, and modern mythology."
+  }
+}

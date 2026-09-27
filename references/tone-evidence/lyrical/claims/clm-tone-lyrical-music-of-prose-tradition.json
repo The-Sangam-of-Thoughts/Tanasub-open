@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-lyrical-music-of-prose-tradition",
+  "craft_claim": "Classical rhetoric theorizes prose rhythm, euphony, and word-order as constitutive of sublimity, not as ornament added after the sense is fixed.",
+  "tone_ids": [
+    "tone-lyrical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-lyrical-longinus-sublime-1927",
+      "location": "On the Sublime, sections on rhythm, euphony, and word-arrangement",
+      "evidence_expression": "paraphrase",
+      "note": "Longinus treats the music of language — rhythm, sound, and the ordering of words — as one of the sources of the sublime."
+    },
+    {
+      "evidence_id": "src-lyrical-dionysius-composition-1910",
+      "location": "On Literary Composition, on the melody of prose and the choice/arrangement of sounds",
+      "evidence_expression": "paraphrase",
+      "note": "Dionysius devotes a systematic treatise to the 'music' of prose, analysing how the selection and ordering of sounds and rhythms produce effects distinct from the thought."
+    },
+    {
+      "evidence_id": "src-lyrical-horace-ars-poetica-1926",
+      "location": "Ars Poetica, lines 14-23 (the 'purple patch')",
+      "evidence_expression": "paraphrase",
+      "note": "Horace's warning against a brilliant passage sewn in for display shows that classical theory treats sound/ornament as governed by the whole."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Western rhetorical and literary tradition; applicable to any prose that aims at elevation through sound.",
+  "exceptions": [
+    "Plain-style traditions (e.g., Attic restraint) that deliberately suppress rhythm as a value."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/lyrical.md#2--why-it-works--the-mechanism",
+    "tones/lyrical.md#2--why-it-works--the-mechanism"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

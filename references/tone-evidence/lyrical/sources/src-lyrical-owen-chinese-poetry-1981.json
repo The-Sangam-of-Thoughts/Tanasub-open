@@ -1,0 +1,57 @@
+{
+  "id": "src-lyrical-owen-chinese-poetry-1981",
+  "title": "The Great Age of Chinese Poetry: The High T'ang",
+  "creators": [
+    "Stephen Owen"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Yale University Press",
+    "published_date": "1981",
+    "edition": null,
+    "doi": null,
+    "isbn": "9780300023671"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "China"
+  ],
+  "access": {
+    "locator": "https://openlibrary.org/works/OL2939218W",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-lyrical)",
+    "verification_notes": "Book verified via Open Library ISBN record (9780300023671, Yale UP, 1981); analysis of High Tang regulated verse and its tonal/parallel structure confirmed."
+  },
+  "axis_ids": [
+    "tone-lyrical"
+  ],
+  "claim_ids": [
+    "clm-tone-lyrical-chinese-tonal-prosody"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": [
+      "Translated Chinese poems within the study cannot reproduce the tonal structure under analysis."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scholarly monograph; analytical citation only; no poems reproduced."
+  }
+}

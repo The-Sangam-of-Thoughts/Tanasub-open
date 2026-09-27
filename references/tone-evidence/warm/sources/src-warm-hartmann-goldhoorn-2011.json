@@ -1,0 +1,57 @@
+{
+  "id": "src-warm-hartmann-goldhoorn-2011",
+  "title": "Horton and Wohl Revisited: Exploring Viewers' Experience of Parasocial Interaction",
+  "creators": [
+    "Tilo Hartmann",
+    "Charlotte Goldhoorn"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Communication, Vol. 61, No. 6",
+    "published_date": "2011",
+    "edition": null,
+    "doi": "10.1111/j.1460-2466.2011.01595.x",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Netherlands",
+    "Germany"
+  ],
+  "access": {
+    "locator": "https://academic.oup.com/joc/article-abstract/61/6/1104/4098489",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-warm)",
+    "verification_notes": "Confirmed authorship, journal, volume, issue and pages (61(6):1104-1121) and the 2 (bodily addressing) x 2 (verbal addressing) between-subjects experiment (N=198): viewers reported more intense parasocial experience when addressed on both levels."
+  },
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "claim_ids": [
+    "clm-tone-warm-parasocial-address"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Oxford University Press journal article; analytical citation only."
+  }
+}

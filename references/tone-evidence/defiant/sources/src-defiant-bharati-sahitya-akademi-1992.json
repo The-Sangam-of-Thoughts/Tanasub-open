@@ -1,0 +1,58 @@
+{
+  "id": "src-defiant-bharati-sahitya-akademi-1992",
+  "title": "Encyclopaedia of Indian Literature: Sasay to Zorgot (entry on Subramania Bharati)",
+  "creators": [
+    "Mohan Lal (ed.)"
+  ],
+  "source_type": "reference-work",
+  "source_roles": [
+    "indian-context",
+    "recognition"
+  ],
+  "reliability_tier": 3,
+  "publication": {
+    "publisher_or_container": "Sahitya Akademi",
+    "published_date": "1992",
+    "edition": "pp. 4191-4193",
+    "doi": null,
+    "isbn": "978-8-126-01221-3"
+  },
+  "languages": [
+    "en",
+    "ta"
+  ],
+  "regions": [
+    "India",
+    "Tamil Nadu"
+  ],
+  "access": {
+    "locator": "https://en.wikipedia.org/wiki/Subramania_Bharati",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-defiant)",
+    "verification_notes": "Sahitya Akademi encyclopedia entry documented as the source for Bharati's dates (1882-1921), Tamil-medium reformist and patriotic poetry, Nondi Chindu metre, and anti-caste and women's-emancipation themes; encyclopedia not inspected page-by-page, identity confirmed via citation records and Tamil Virtual University."
+  },
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "claim_ids": [
+    "clm-tone-defiant-crosscultural-warrants"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": [
+      "Bharati's poems are Tamil; prosody and register claims rest on secondary description, not original-language analysis."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Sahitya Akademi reference work; analytical citation only."
+  }
+}

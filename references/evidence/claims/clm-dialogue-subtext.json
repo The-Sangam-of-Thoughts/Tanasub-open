@@ -1,0 +1,66 @@
+{
+  "id": "clm-dialogue-subtext",
+  "craft_claim": "Compelling dialogue operates primarily through subtext where characters pursue tactical objectives indirectly without stating literal feelings.",
+  "axis_ids": [
+    "axis-bildungsroman",
+    "axis-cyberpunk",
+    "axis-dastan-tradition",
+    "axis-detective-and-mystery-fiction",
+    "axis-epistolary-fiction",
+    "axis-fantasy-fiction",
+    "axis-frame-narrative",
+    "axis-ghazal-sequence",
+    "axis-gothic-fiction",
+    "axis-historical-fiction",
+    "axis-horror-fiction",
+    "axis-interactive-fiction",
+    "axis-katha-tradition",
+    "axis-nataka-drama",
+    "axis-pastoral-literature",
+    "axis-picaresque-literature",
+    "axis-prakarana-drama",
+    "axis-psychological-fiction",
+    "axis-psychological-thriller",
+    "axis-romance-fiction",
+    "axis-satirical-literature",
+    "axis-science-fiction",
+    "axis-solarpunk",
+    "axis-space-opera",
+    "axis-speculative-fiction",
+    "axis-thriller-fiction",
+    "axis-urban-fantasy",
+    "axis-vachana-poetry"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-prose-reading-writer-2006",
+      "location": "Chapter 6: Dialogue, pp. 109-136",
+      "evidence_expression": "paraphrase",
+      "note": "Prose shows that dialogue functions best when what is said serves as an oblique mask for what is felt."
+    },
+    {
+      "evidence_id": "src-anandavardhana-dhvanyaloka-1990",
+      "location": "Uddyota 2, pp. 120-145",
+      "evidence_expression": "paraphrase",
+      "note": "Subtext aligns with dhvani where the unexpressed suggestion (vyangya artha) supersedes explicit denotation."
+    },
+    {
+      "evidence_id": "work-charulata",
+      "location": "Garden swing conversation between Charu and Amal",
+      "evidence_expression": "synthesis",
+      "note": "Amal and Charu debate literature and poetry while the actual exchange communicates illicit romantic yearning."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Dramatic dialogue across stage, screen, and fiction.",
+  "exceptions": [
+    "Formal legal, military, or procedural exchanges where explicit clarity is mandated by the setting."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "07-voice-style-dialogue-and-point-of-view.md#voice-style-dialogue-and-point-of-view-preferred_label",
+    "00-how-to-write.md#voice-point-of-view-and-dialogue"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-12"
+}

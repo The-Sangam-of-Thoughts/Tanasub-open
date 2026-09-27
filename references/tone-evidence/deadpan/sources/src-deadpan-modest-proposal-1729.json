@@ -1,0 +1,53 @@
+{
+  "id": "src-deadpan-modest-proposal-1729",
+  "title": "A Modest Proposal: For Preventing the Children of Poor People in Ireland from Being a Burden to Their Parents or Country, and for Making Them Beneficial to the Public",
+  "creators": [
+    "Jonathan Swift"
+  ],
+  "source_type": "primary-document",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "S. Harding",
+    "published_date": "1729",
+    "edition": "16 pp.",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Ireland"
+  ],
+  "access": {
+    "locator": "Project Gutenberg eBook #1080",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-deadpan)",
+    "verification_notes": "Identity verified 2026-09-24: printed 1729 by S. Harding, 16 pp.; full text at Project Gutenberg eBook #1080 (also reissued as #19508 and #9273 — #1080 is the canonical ID used here). Wikisource also hosts the full text. Public domain; short fragments quotable, but this dossier describes the technique rather than reproducing it. Wikipedia's article on the essay notes the phrase 'conventionally an allusion to this style of deadpan satire' (tier 5 corroboration, recorded in the lexicon source, not here)."
+  },
+  "axis_ids": [
+    "tone-deadpan"
+  ],
+  "claim_ids": [
+    "clm-tone-deadpan-incongruity-gap"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": false,
+    "notes": "Public domain (1729); short fragments quotable, technique described rather than reproduced."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "src-reverent-zeami-rimer-yamazaki-1984",
+  "title": "On the Art of the No Drama: The Major Treatises of Zeami",
+  "creators": [
+    "Zeami Motokiyo",
+    "J. Thomas Rimer",
+    "Masakazu Yamazaki"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Princeton University Press",
+    "published_date": "1984",
+    "edition": "Translations of the major treatises, including Fushikaden/Kadensho; reissued 2020",
+    "doi": null,
+    "isbn": "9780691065823"
+  },
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "regions": [
+    "Japan"
+  ],
+  "access": {
+    "locator": "https://openlibrary.org/search?q=On+the+Art+of+the+No+Drama+Rimer+Yamazaki",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reverent)",
+    "verification_notes": "Translators, publisher, and 1984 date verified via Open Library. Used for yugen (profound grace and subtlety; the beauty of what is only suggested) and the Noh aesthetics of restraint and implicit meaning; the Kuscholarworks essay 'Zeami and the Transition of the Concept of Yugen' corroborates the interpretation of yugen as beyond statement yet of this world."
+  },
+  "axis_ids": [
+    "tone-reverent"
+  ],
+  "claim_ids": [
+    "clm-tone-reverent-yugen-suggestion",
+    "clm-tone-reverent-translation-limits"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "ja",
+    "translator": "J. Thomas Rimer and Masakazu Yamazaki",
+    "limitations": [
+      "Yugen's acoustic and imagistic texture is not fully recoverable in English; the dossier claims the aesthetics of suggestion, not exact terminology."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Treatises public domain; Rimer/Yamazaki translation copyrighted; analytical citation only; no passages reproduced."
+  }
+}

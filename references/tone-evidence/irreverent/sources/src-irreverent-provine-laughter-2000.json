@@ -1,0 +1,54 @@
+{
+  "id": "src-irreverent-provine-laughter-2000",
+  "title": "Laughter: A Scientific Investigation",
+  "creators": [
+    "Robert R. Provine"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Viking (New York)",
+    "published_date": "2000",
+    "edition": "ISBN 0670893757",
+    "doi": null,
+    "isbn": "0670893757"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://openlibrary.org/works/OL7985983W",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "Bibliographic identity confirmed via Open Library (OL7985983W, Robert R. Provine, 'Laughter') and Google Books (Viking 2000, ISBN 0670893757) earlier in this research session. Open Library shows a 1999 first-publication year alongside the 2000 Viking edition; the edition history was not fully resolved, and the discrepancy is recorded rather than smoothed over. Trade book by a research scientist — Tier 2: used only for its well-known book-level characterization of laughter as social and conversational, and scoped accordingly; full text not consulted this session."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [
+    "clm-tone-irreverent-co-conspirator-distance"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "In copyright; paraphrased only."
+  }
+}

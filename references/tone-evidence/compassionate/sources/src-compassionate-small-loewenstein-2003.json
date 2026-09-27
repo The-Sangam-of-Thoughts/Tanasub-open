@@ -1,0 +1,55 @@
+{
+  "id": "src-compassionate-small-loewenstein-2003",
+  "title": "Helping a Victim or Helping the Victim: Altruism and Identifiability",
+  "creators": [
+    "Deborah A. Small",
+    "George Loewenstein"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Risk and Uncertainty, vol. 26, no. 1, pp. 5-16",
+    "published_date": "2003",
+    "edition": null,
+    "doi": "10.1023/A:1022299422219",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1023/A:1022299422219",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-compassionate)",
+    "verification_notes": "Crossref record confirmed title, authors, journal, volume, issue, pages, year, and DOI; establishes greater helping toward an identified individual than a statistical victim."
+  },
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "claim_ids": [
+    "clm-tone-compassionate-identifiable-victim"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Springer journal article; analytical citation only."
+  }
+}

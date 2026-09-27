@@ -1,0 +1,48 @@
+{
+  "id": "src-reflective-thapar-ashoka-2015",
+  "title": "Ashoka and the Decline of the Mauryas",
+  "creators": [
+    "Romila Thapar"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "indian-context"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Oxford University Press",
+    "published_date": "1961",
+    "edition": "first ed. 1961 (Oxford); revised editions include rev. ed. 1973 and a New Delhi OUP printing (2015) — edition history cited inconsistently across records; no direct quotation taken",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["India", "South Asia"],
+  "access": {
+    "locator": "Library record: Oxford University Press catalogue (Ashoka and the Decline of the Mauryas); edition history confirmed via Brill bibliography and institutional records",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reflective)",
+    "verification_notes": "Existence, author, publisher, and edition history (first published Oxford 1961; revised editions 1973 and later OUP printings) confirmed via multiple independent records (Brill bibliography, institutional CV, reviews). Book not read directly this pass; used for the scope of its analysis (Kalinga campaign, edicts, Ashoka's self-presentation) as characterized in citing literature. Any direct quotation is prohibited; the edict claim paraphrases only."
+  },
+  "axis_ids": ["tone-reflective"],
+  "claim_ids": ["clm-tone-reflective-ashoka-regret"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": [
+      "Analyzes Prakrit inscriptions in English translation; the record avoids quoting any translation."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Oxford University Press; analytical citations only."
+  }
+}

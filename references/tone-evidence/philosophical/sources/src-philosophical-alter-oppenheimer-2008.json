@@ -1,0 +1,54 @@
+{
+  "id": "src-philosophical-alter-oppenheimer-2008",
+  "title": "Effects of Fluency on Psychological Distance and Mental Construal (or Why New York Is a Large City, but New York Is a Civilized Jungle)",
+  "creators": [
+    "Adam L. Alter",
+    "Daniel M. Oppenheimer"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychological Science, Vol. 19, No. 3",
+    "published_date": "2008",
+    "edition": null,
+    "doi": "10.1111/j.1467-9280.2008.02062.x",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://pages.stern.nyu.edu/~aalter/effectsoffluency.pdf",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-philosophical)",
+    "verification_notes": "Confirmed that experienced cognitive disfluency (difficulty of processing) biases interpretation toward more abstract, higher-level construal across three fluency instantiations."
+  },
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "claim_ids": [
+    "clm-tone-philosophical-construal-distance"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "SAGE journal article; analytical citation only."
+  }
+}

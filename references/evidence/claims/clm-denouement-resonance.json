@@ -1,0 +1,40 @@
+{
+  "id": "clm-denouement-resonance",
+  "craft_claim": "The denouement must provide emotional grounding and cathartic integration rather than rushed abandonment or over-explained exposition.",
+  "axis_ids": [
+    "axis-katha-tradition",
+    "axis-nataka-drama",
+    "axis-prakarana-drama"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-field-screenplay-2005",
+      "location": "Chapter 13: Resolution, pp. 245-256",
+      "evidence_expression": "paraphrase",
+      "note": "Field explains resolution as bringing the character to their new equilibrium so the audience understands the emotional aftermath."
+    },
+    {
+      "evidence_id": "src-aristotle-poetics-1996",
+      "location": "Chapter 6: Catharsis",
+      "evidence_expression": "paraphrase",
+      "note": "Catharsis requires emotional purgation and cognitive balance following tragic turmoil."
+    },
+    {
+      "evidence_id": "work-abhijnanasakuntalam",
+      "location": "Act 7 Bharata-vakya (concluding benediction)",
+      "evidence_expression": "synthesis",
+      "note": "Reunion on Hemakuta mountain establishes cosmic harmony before closing benediction."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Dramatic, narrative, and cinematic storytelling.",
+  "exceptions": [
+    "Cliffhanger episodes in serialized franchise media designed to withhold resolution for future installments."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "10-titles-openings-climaxes-and-endings.md#titles-openings-climaxes-and-endings-preferred_label"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-12"
+}

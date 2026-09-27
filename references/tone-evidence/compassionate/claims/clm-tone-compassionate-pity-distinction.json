@@ -1,0 +1,38 @@
+{
+  "id": "clm-tone-compassionate-pity-distinction",
+  "craft_claim": "Compassion is action-oriented and assumes shared vulnerability, whereas pity is hierarchical and distancing and can serve the observer's sentiment, so the compassionate voice must not place the sufferer beneath the speaker.",
+  "tone_ids": [
+    "tone-compassionate"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-compassionate-nussbaum-2001",
+      "location": "Upheavals of Thought, ch. 6, compassion as a cognitive/eudaimonistic judgement",
+      "evidence_expression": "synthesis",
+      "note": "Nussbaum analyzes compassion as a judgement that another's suffering is serious, undeserved, and relevant to one's own flourishing, with an assumption of similar possibilities; this distinguishes it from pity's condescension."
+    },
+    {
+      "evidence_id": "src-compassionate-arendt-1963",
+      "location": "On Revolution, chapter on the social question (compassion vs pity)",
+      "evidence_expression": "synthesis",
+      "note": "Arendt distinguishes compassion, which is directed at a particular sufferer, from pity, which can be generalized and enjoyed as an emotion of the observer."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-compassionate-arendt-1963",
+      "note": "The compassion/pity distinction is interpretive and contested across the philosophical literature; there is no single canonical empirical test, so confidence is moderate."
+    }
+  ],
+  "scope": "Narrator stance toward a sufferer in essay, reportage, and narrative.",
+  "exceptions": [
+    "Ironic or satirical uses that deliberately stage pity in order to critique it."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/compassionate.md#1--definition-and-boundaries",
+    "tones/compassionate.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

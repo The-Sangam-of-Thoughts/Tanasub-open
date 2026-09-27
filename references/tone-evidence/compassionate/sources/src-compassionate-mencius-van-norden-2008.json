@@ -1,0 +1,57 @@
+{
+  "id": "src-compassionate-mencius-van-norden-2008",
+  "title": "Mengzi / Mencius",
+  "creators": [
+    "Mencius"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": null,
+    "published_date": "2008",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "regions": [
+    "China"
+  ],
+  "access": {
+    "locator": null,
+    "accessed_at": "2026-09-24",
+    "access_conditions": null
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-compassionate)",
+    "verification_notes": "Dossier section F records that the Van Norden 2008 translation (with the 2024 SEP entry) confirms passages 2A6 (child at the well), 6A6 (compassion as sprout of ren), and 1A7 (extension from ox to subjects). Title follows section F ('Mengzi / Mencius'); Chinese original follows section E's heading and its 'Chinese terms' limit note. The publisher is not stated in the dossier, so it is null."
+  },
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "claim_ids": [
+    "clm-tone-compassionate-confucian-ren-extension"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "zh",
+    "translator": "Van Norden",
+    "limitations": [
+      "Dossier limits note: ren is a broader virtue than the English 'compassion' and is bound to a Confucian role ethic, so it must not be universalized into a generic compassion."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Modern translation of a classical Chinese text; analytical citation only; no text reproduced."
+  }
+}

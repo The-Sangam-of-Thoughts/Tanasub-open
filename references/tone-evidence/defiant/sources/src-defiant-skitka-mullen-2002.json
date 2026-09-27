@@ -1,0 +1,56 @@
+{
+  "id": "src-defiant-skitka-mullen-2002",
+  "title": "The Dark Side of Moral Conviction",
+  "creators": [
+    "Linda J. Skitka",
+    "Elizabeth Mullen"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Analyses of Social Issues and Public Policy, Vol. 2, No. 1",
+    "published_date": "2002",
+    "edition": null,
+    "doi": "10.1111/j.1530-2415.2002.00024.x",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1111/j.1530-2415.2002.00024.x",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-defiant)",
+    "verification_notes": "Bibliographic record (2(1):35-41) and abstract confirmed via publisher DOI record and author publication lists; reviews how moral mandates can lead people to disregard procedural safeguards."
+  },
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "claim_ids": [
+    "clm-tone-defiant-moral-conviction",
+    "clm-tone-defiant-slogan-stakes"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Wiley/SPSSI journal article; analytical citation only."
+  }
+}

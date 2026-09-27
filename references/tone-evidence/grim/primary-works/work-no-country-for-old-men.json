@@ -1,0 +1,47 @@
+{
+  "id": "work-no-country-for-old-men",
+  "title": "No Country for Old Men",
+  "creators": [
+    "Cormac McCarthy"
+  ],
+  "work_type": "novel",
+  "published_date": "2005",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "Mexico"
+  ],
+  "axis_ids": [
+    "tone-grim",
+    "axis-thriller-fiction",
+    "axis-detective-and-mystery-fiction"
+  ],
+  "period_role": "contemporary",
+  "source_id": "src-grim-bell-mccarthy-1988",
+  "access": {
+    "edition_or_version": "Vintage Books edition",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A drug deal collapses in the Texas desert; a hunter takes the money, a relentless killer pursues him, and an aging sheriff confronts a violence he cannot comprehend.",
+    "point_of_view": "Third person shifting among pursuer, pursued, and sheriff; the sheriff's first-person-sounding interior monologue frames the moral reckoning.",
+    "style_and_devices": "Lean, screenplay-derived dialogue; understated procedural detail; sudden violence rendered without editorialising; a sheriff whose dread is expressed through memory and weariness rather than analysis.",
+    "emotional_progression": "Ordinary routine -> encroaching menace -> methodical violence -> elegiac resignation about a world that has outrun its old men.",
+    "dialogue": "Clipped, idiomatic, often small-talk that defers the threat; menace carried by what is not said.",
+    "setting": "Hard border country, motels, and desert roads; the noir register transposed to rural Texas.",
+    "tone_mechanisms": [
+      "understatement",
+      "procedural detail",
+      "delayed menace",
+      "elegiac resignation",
+      "withheld commentary"
+    ],
+    "critical_reception": "Adapted by the Coen brothers into the 2007 Oscar-winning film. The novel's style is noted as simpler than McCarthy's earlier work because it began as a screenplay.",
+    "verification_note": "Existence, date, publisher, and origin as a screenplay confirmed via Wikipedia 'No Country for Old Men (novel)' API extract. No text reproduced."
+  }
+}

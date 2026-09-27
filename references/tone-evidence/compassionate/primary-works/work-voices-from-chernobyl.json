@@ -1,0 +1,36 @@
+{
+  "id": "work-voices-from-chernobyl",
+  "title": "Chernobyl Prayer / Voices from Chernobyl",
+  "creators": [
+    "Svetlana Alexievich"
+  ],
+  "work_type": "testimony",
+  "published_date": "1997; Eng. 2005",
+  "languages": [
+    "ru"
+  ],
+  "regions": [],
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "period_role": "recognized",
+  "source_id": null,
+  "access": {
+    "edition_or_version": "Russian original 1997 confirmed via Open Library; English trans. Keith Gessen 2005",
+    "language_used": "en",
+    "translator": "Keith Gessen",
+    "access_conditions": null
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "Each chapter is built around a single named speaker, so a catastrophe is experienced one voice at a time (dossier section D).",
+    "tone_mechanisms_observed": [
+      "individuated speakers: catastrophe carried one voice at a time through single named speakers rather than aggregates (dossier sections D, F)",
+      "concrete objects: speakers are characterized by ordinary objects and small actions, so empathy attaches to the concrete (dossier section D)",
+      "polyphonic, agency-preserving witness: speakers narrate themselves and the compiler does not speak over them (dossier sections D, F)"
+    ],
+    "point_of_view": "Polyphonic testimony: speakers narrate themselves; the compiler builds each chapter around a single named speaker and does not speak over them (dossier section D).",
+    "scope_note": "Region is not stated in the dossier and is recorded as [] rather than inferred; source_id is null because the dossier declares no source record for this work (dossier sections F, I). No publisher, page, or DOI was added.",
+    "verification_note": "Russian original 1997 confirmed (Open Library); English trans. Keith Gessen 2005; described, not quoted (dossier section F)."
+  }
+}

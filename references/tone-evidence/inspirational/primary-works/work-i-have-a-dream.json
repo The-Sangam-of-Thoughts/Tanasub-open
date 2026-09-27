@@ -1,0 +1,37 @@
+{
+  "id": "work-i-have-a-dream",
+  "title": "I Have a Dream (address at the March on Washington for Jobs and Freedom)",
+  "creators": [
+    "Martin Luther King Jr."
+  ],
+  "work_type": "speech",
+  "published_date": "1963-08-28",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "axis_ids": [
+    "tone-inspirational"
+  ],
+  "period_role": "canonical",
+  "source_id": "src-inspirational-lischer-1995",
+  "access": {
+    "edition_or_version": "Delivered address, Lincoln Memorial, Washington, D.C.; transcriptions held by civil-rights archives",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "At the climax of the March on Washington, the speaker reframes the unmet promise of American equality as a debt still owed and a future still reachable.",
+    "emotional_progression": "Indictment of present injustice gives way to an escalating vision of resolution, ending on a note of collective freedom.",
+    "style_and_devices": "Anaphora (repeated clause-initial refrains), parallel clause series, metaphor clusters of light/dark and journey, scriptural and civic allusions; a rising cadence that functions as a peroration.",
+    "dialogue": "Direct address to the assembled marchers and to the nation; call-and-response residues of the Black folk pulpit.",
+    "point_of_view": "First-person plural 'we' fused with a prophetic first-person vision.",
+    "tone_relevant_techniques": "Model and place naming rather than abstraction; honest indictment paired with forward promise (jeremiad structure); emotional peak deferred to the close; rhythm built through repetition.",
+    "critical_reception": "Widely ranked among the most significant American speeches of the twentieth century; analysed as a fusion of prophetic preaching and civic rhetoric.",
+    "copyright_note": "Speech text remains under copyright and is not reproduced anywhere in this dossier or its records."
+  }
+}

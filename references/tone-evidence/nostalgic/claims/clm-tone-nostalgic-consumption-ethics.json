@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-nostalgic-consumption-ethics",
+  "craft_claim": "Nostalgia measurably weakens the desire for money and loosens spending, which is why marketing runs on it. The ethical line for the tone: nostalgic prose that serves the reader's felt past is craft; nostalgic prose engineered to attach the reader to a shared past they never had - especially a brand-bound one - is manipulation.",
+  "tone_ids": [
+    "tone-nostalgic"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-nostalgic-lasaleta-2014-desire-money",
+      "location": "Journal of Consumer Research 41(3):713-729, Experiments 1-6",
+      "evidence_expression": "paraphrase",
+      "note": "Six experiments show feeling nostalgic decreases the desire for money (willingness to pay more, parting with more money, valuing money less, less effort to obtain it), and process evidence ties the effect to nostalgia's fostering of social connectedness - the exact pathway marketing seeks to trigger."
+    },
+    {
+      "evidence_id": "src-nostalgic-yano-2002-tears-of-longing",
+      "location": "Tears of Longing (Harvard University Asia Center, 2002), introduction and ch. on enka's imaginary",
+      "evidence_expression": "synthesis",
+      "note": "Yano foregrounds the powerful commercial forces that since the 1970s have shaped the consumption of enka and its version of national identity - a documented case of an industry curating a populace's felt past."
+    },
+    {
+      "evidence_id": "src-nostalgic-robertson-1988-furusato",
+      "location": "International Journal of Politics, Culture, and Society 1(4):494-518",
+      "evidence_expression": "synthesis",
+      "note": "Furusato nostalgia is described as one of the most popular symbols used by Japanese politicians, city planners, and advertisers - nostalgic framing explicitly deployed for persuasion and policy ends."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Ethical bounds of nostalgic persuasion in copy, fundraising, and fiction alike; feeds card failure section.",
+  "exceptions": [
+    "Nostalgia's pro-social pull is not inherently manipulative: invoking a real shared event a real audience lived through, in non-commercial context, stays on the craft side of the line.",
+    "Historical fiction reconstructing an era the reader never lived in serves imagination rather than exploitation when it gives the reader truth-conditions (period accuracy, disclosed framing) instead of a curated void."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/nostalgic.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

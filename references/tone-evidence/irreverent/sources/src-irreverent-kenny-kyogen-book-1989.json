@@ -1,0 +1,53 @@
+{
+  "id": "src-irreverent-kenny-kyogen-book-1989",
+  "title": "The Kyogen Book",
+  "creators": [
+    "Don Kenny"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "The Japan Times",
+    "published_date": "1989",
+    "edition": "ISBN 4789004597",
+    "doi": null,
+    "isbn": "4789004597"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Japan"
+  ],
+  "access": {
+    "locator": "https://openlibrary.org/works/OL19006849W",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "Open Library work record OL19006849W fetched on 2026-09-24 (title 'The Kyogen book', author Don Kenny, first publication 1989, subjects: kyōgen plays / translations into English). Bibliographic corroboration of the kyōgen translation tradition only — the text was not consulted and no claim rests on it (Tier 2, scoped)."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [],
+  "translation": {
+    "is_translation": true,
+    "original_language": "ja",
+    "translator": "Don Kenny",
+    "limitations": [
+      "Text not consulted this session; record is bibliographic corroboration only."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "In copyright; bibliographic record only."
+  }
+}

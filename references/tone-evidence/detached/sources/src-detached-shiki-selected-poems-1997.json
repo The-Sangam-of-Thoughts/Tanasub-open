@@ -1,0 +1,43 @@
+{
+  "id": "src-detached-shiki-selected-poems-1997",
+  "title": "Masaoka Shiki: Selected Poems",
+  "creators": ["Masaoka Shiki", "Burton Watson"],
+  "source_type": "critical-edition",
+  "source_roles": ["recognition", "definition", "craft-support"],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Columbia University Press",
+    "published_date": "1997",
+    "edition": "Translated edition",
+    "doi": null,
+    "isbn": "0-231-11090-1"
+  },
+  "languages": ["en", "ja"],
+  "regions": ["Japan", "United States"],
+  "access": {
+    "locator": "https://cup.columbia.edu/book/masaoka-shiki-selected-poems/9780231110914",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-detached)",
+    "verification_notes": "Edition, translator, publisher and ISBN confirmed. Shiki's shasei ('sketch from life') and his rejection of ornament for realistic observation of nature confirmed via reference works on Masaoka Shiki."
+  },
+  "axis_ids": ["tone-detached"],
+  "claim_ids": ["clm-tone-detached-cross-cultural-objectivity"],
+  "translation": {
+    "is_translation": true,
+    "original_language": "ja",
+    "translator": "Burton Watson",
+    "limitations": [
+      "Haiku's compressed syntax, kigo (season word), and kireji (cut) cannot be fully carried into English; claims about rhythm are scoped to the translation."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Columbia University Press; analytical description only."
+  }
+}

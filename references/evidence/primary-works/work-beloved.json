@@ -1,0 +1,52 @@
+{
+  "id": "work-beloved",
+  "title": "Beloved",
+  "creators": [
+    "Toni Morrison"
+  ],
+  "work_type": "novel",
+  "published_date": "1987",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "Ohio"
+  ],
+  "axis_ids": [
+    "axis-gothic-fiction",
+    "axis-historical-fiction",
+    "axis-psychological-fiction",
+    "axis-psychological-thriller"
+  ],
+  "period_role": "contemporary",
+  "source_id": "src-prose-reading-writer-2006",
+  "access": {
+    "edition_or_version": "Alfred A. Knopf First Edition",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "purchased"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "An escaped enslaved woman living in post-Civil War Ohio is haunted by the physical embodiment of the infant daughter she killed to save from recapture.",
+    "reader_promise": "Visceral, polyphonic confrontation with the psychic trauma of chattel slavery, maternal love, and collective historical memory.",
+    "opening": "'124 was spiteful. Full of a baby's venom.' Establishes the haunted house on Bluestone Road immediately.",
+    "point_of_view": "Polyphonic third-person shifting into poetic stream-of-consciousness monologues of Sethe, Denver, and Beloved.",
+    "character_system": "Sethe (traumatized mother), Beloved (haunting daughter/collective trauma), Paul D (fellow survivor), Denver (isolated daughter).",
+    "conflict_and_stakes": "Claiming ownership of one's body, memory, and future against the consuming guilt of inescapable past horror.",
+    "structure": "Non-linear spiraling memory structure ('rememory') slowly encircling the unspeakable shed event.",
+    "scene_movement": "124 Bluestone Road, Sweet Home plantation in Kentucky, clearing in the woods, cold house.",
+    "dialogue": "Lyrical vernacular incorporating African American oral rhythms, biblical cadences, and poetic fragmentation.",
+    "setting": "Rural Cincinnati, Ohio, and plantation Kentucky in the 1850s-1870s.",
+    "style_and_devices": "American Gothic sublime, rememory, polyphonic monologue, visceral tactile prose, maternal horror.",
+    "emotional_progression": "Numb survival -> disruptive arrival of ghost -> obsessive mutual consumption -> community exorcism -> fragile healing.",
+    "suspense_or_anticipation": "Slow revelation of why Sethe's community ostracized her and what happened when schoolteacher arrived at 124.",
+    "climax": "Bodwin approaches 124; Sethe mistakes him for schoolteacher and attacks him with an ice pick instead of killing her children; community women intervene with song.",
+    "ending": "Beloved vanishes; community deliberately forgets her footprints that come and go: 'It was not a story to pass on.'",
+    "conventions": "Fuses slave narrative historical realism with Gothic ghost-story architecture.",
+    "innovation_or_subversion": "Transforms the ghost from an external supernatural shock into an embodied psychological manifestation of collective historical catastrophe.",
+    "critical_reception": "Awarded the Pulitzer Prize for Fiction; central monument in Morrison's 1993 Nobel Prize in Literature.",
+    "audience_reception": "Universally acknowledged as one of the supreme masterpieces of American and world literature."
+  }
+}

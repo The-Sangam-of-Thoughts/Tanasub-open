@@ -1,0 +1,42 @@
+{
+  "id": "clm-tone-reflective-earned-epiphany",
+  "craft_claim": "A reflective passage may announce understanding only after the text has staged impasse and searching; declared epiphany without that staging reads as unearned, and premature verbal closure can block the very insight it imitates.",
+  "tone_ids": ["tone-reflective"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-reflective-kounios-beeman-2014",
+      "location": "Annual Review of Psychology 65:71-93; abstract and antecedent-conditions sections",
+      "evidence_expression": "paraphrase",
+      "note": "Reviews insight ('Aha!' solutions) as a distinct cognitive event with identifiable antecedents — preparation, impasse, and often a background incubation period — followed by a sudden restructuring of representation rather than a slow summation of effort."
+    },
+    {
+      "evidence_id": "src-reflective-schooler-overshadowing-1993",
+      "location": "Journal of Experimental Psychology: General 122(2):166-183; experiments on verbalization during incubation",
+      "evidence_expression": "paraphrase",
+      "note": "Verbalizing an unresolved problem during incubation impairs subsequent solution of insight problems — language 'overshadows' insight — showing that premature verbal closure can displace the understanding it appears to report."
+    },
+    {
+      "evidence_id": "src-gardner-art-fiction-1984",
+      "location": "shared record in references/evidence/sources; cross-link claim clm-melodrama-unearned-emotion",
+      "evidence_expression": "synthesis",
+      "note": "Gardner's fit-to-stakes rule (emotion must not exceed what the situation has established) governs unearned display of feeling generally; understanding is one such display, so the shared melodrama claim extends to unearned epiphany."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-reflective-kounios-beeman-2014",
+      "note": "Not all problem-solving is by insight — incremental analytic solution also exists, and some narrative understandings legitimately accumulate by summation; the claim targets understanding that appears with no prior impasse shown anywhere in the text."
+    }
+  ],
+  "scope": "Reflective turns in all forms where a narrator reports arriving at meaning; not a ban on summarizing understanding in general.",
+  "exceptions": [
+    "Aphoristic and maxim forms (epigram, counsel essay) state understanding as their premise; then the form, not the staging, must carry its authority — that is philosophical register, not reflective."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/reflective.md#2--why-it-works--the-mechanism",
+    "tones/reflective.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "src-irreverent-ford-ferguson-2004",
+  "title": "Social Consequences of Disparagement Humor: A Prejudiced Norm Theory",
+  "creators": [
+    "Thomas E. Ford",
+    "Mark A. Ferguson"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Personality and Social Psychology Review, Vol. 8, No. 1",
+    "published_date": "2004",
+    "edition": "pp. 79-94",
+    "doi": "10.1207/s15327957pspr0801_4",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1207/s15327957pspr0801_4",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "Title, journal, volume, issue, pages, year, DOI, and the prejudiced-norm-theory abstract confirmed via Crossref on 2026-09-24. Abstract-level citation only."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [
+    "clm-tone-irreverent-prejudiced-norm-backfire"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "SAGE journal article; abstract paraphrased only."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "work-mort-1987",
+  "title": "Mort",
+  "creators": [
+    "Terry Pratchett"
+  ],
+  "work_type": "novel",
+  "published_date": "1987",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom"
+  ],
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "period_role": "popular-contemporary",
+  "source_id": "src-irreverent-sfe-entries",
+  "access": {
+    "edition_or_version": "First edition: London, Victor Gollancz in association with Smythe, 1987 (12 November 1987 per bibliographic records verified earlier in this session; SFE entry corroborates London: Victor Gollancz, 1987)",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "Death — the cosmic office most sacred and feared — takes an apprentice and is revealed as a well-meaning, overworked civil servant who struggles with humanity.",
+    "deflation_targets": "The most solemn register of all (mortality itself) domesticated: personified Death is given a household, a job description, and uncomprehending social curiosity, so awe collapses into bureaucracy and small talk.",
+    "licensed_frame": "The established comic-fantasy conventions of the Discworld series (corroborated via the SFE Pratchett entry) license treating the sacred office as a character among others.",
+    "point_of_view": "Omniscient narrator with wide ironic latitude, free to slide between an apprentice's bewilderment and Death's literal-mindedness.",
+    "style_and_devices": "Straight-faced personification; solemn abstraction answered with concrete domestic detail; the deflation carried by narration's calm rather than by anyone mocking aloud.",
+    "dialogue": "Death's uncomprehending literalness turns ceremonial speech into comedy without a single character being derided.",
+    "emotional_progression": "Awe -> amusement at familiarity -> genuine pathos when the deflated office proves capable of caring — the tone yields to feeling at the stakes peak.",
+    "boundaries_and_restraint": "Irreverence aimed at an office/abstraction, never at bereaved people in-scene — a model for the punching-up/no-real-victims boundary; critical context via src-irreverent-butler-guilty-2001 (bibliographic only).",
+    "conventions": "Anchors the Discworld device of running cosmic offices as comic workplaces.",
+    "innovation_or_subversion": "Makes death — the paradigm sacred subject — safe for affectionate deflation while preserving its weight.",
+    "critical_reception": "Established Pratchett's comic reputation beyond parody; scholarly context collection Guilty of Literature (2001) treats him as a critic's subject (record bibliographic only).",
+    "audience_reception": "Among the most-remembered Discworld novels; Death became the series' beloved figure — evidence that licensed deflation can increase, not diminish, affection for the sacred subject."
+  }
+}

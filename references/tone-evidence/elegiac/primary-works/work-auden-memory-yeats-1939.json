@@ -1,0 +1,34 @@
+{
+  "id": "work-auden-memory-yeats-1939",
+  "title": "In Memory of W. B. Yeats",
+  "creators": ["W. H. Auden"],
+  "work_type": "poem",
+  "published_date": "1939",
+  "languages": ["en"],
+  "regions": ["United Kingdom", "United States", "Ireland"],
+  "axis_ids": ["tone-elegiac"],
+  "period_role": "modern",
+  "source_id": "src-ramazani-poetry-mourning-1994",
+  "access": {
+    "edition_or_version": "Written February 1939; collected in Another Time, 1940",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "the ordinary world continuing indifferently while the poet dies (brooks, airports, statues)",
+      "three-part structure moving from impersonal winter scene to eulogy to aphoristic meditation",
+      "apostrophe and direct address to the dead poet, including ambivalent praise",
+      "the refusal of easy consolation: art is granted survival but not power",
+      "tenderness held together with ironic self-criticism"
+    ],
+    "emotional_progression": "Cold impartial scene -> bodily dissolution and death -> public eulogy -> austere statement about art's survival without efficacy.",
+    "point_of_view": "Third-person report that shifts to direct address and then to generalizing reflection.",
+    "rhythm_and_cadence": "Varied line-lengths; clipped declaratives produce a wintry, withheld cadence.",
+    "psychic_distance": "Deliberate coolness in the opening increases tenderness by contrast; grief is delivered under restraint.",
+    "style_and_devices": "Modern elegy's melancholic turn (Ramazani): ambivalence, self-criticism, refusal of compensation. Verified as a documented modern elegy via Ramazani 1994 and Poetry Foundation.",
+    "copyright_note": "Copyrighted (Estate of W. H. Auden). Described by technique only; no passage reproduced."
+  }
+}

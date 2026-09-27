@@ -1,0 +1,52 @@
+{
+  "id": "src-menninghaus-distancing-embracing-2017",
+  "title": "The Distancing-Embracing Model of the Enjoyment of Negative Emotions in Art Reception",
+  "creators": [
+    "Winfried Menninghaus",
+    "Valentin Wagner",
+    "Julian Hanich",
+    "Eugen Wassiliwizky",
+    "Thomas Jacobsen",
+    "Stefan Koelsch"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": ["definition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Behavioral and Brain Sciences, vol. 40, article e347",
+    "published_date": "2017",
+    "edition": null,
+    "doi": "10.1017/S0140525X17000309",
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["Germany", "United States", "cross-cultural"],
+  "access": {
+    "locator": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/distancingembracing-model-of-the-enjoyment-of-negative-emotions-in-art-reception/FAAF19734BAB559CD439BB46F8BDC571",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-elegiac)",
+    "verification_notes": "Authors, journal, volume, article number, year, and DOI verified via Cambridge Core and PubMed. The two-factor structure (distancing mechanisms and embracing components: mixed emotions, medium aesthetic virtues, meaning-making) verified via the publisher abstract and available commentary PDFs."
+  },
+  "axis_ids": ["tone-elegiac"],
+  "claim_ids": [
+    "clm-tone-elegiac-negative-emotion-reward",
+    "clm-tone-elegiac-being-moved",
+    "clm-tone-elegiac-oscillation-dosage"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Peer-reviewed target article; model paraphrased only."
+  }
+}

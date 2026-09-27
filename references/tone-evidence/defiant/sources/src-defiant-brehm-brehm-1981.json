@@ -1,0 +1,56 @@
+{
+  "id": "src-defiant-brehm-brehm-1981",
+  "title": "Psychological Reactance: A Theory of Freedom and Control",
+  "creators": [
+    "Sharon S. Brehm",
+    "Jack W. Brehm"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Academic Press",
+    "published_date": "1981",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://en.wikipedia.org/wiki/Reactance_(psychology)",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-defiant)",
+    "verification_notes": "Bibliographic identity and the four-element formulation (perceived freedom, threat, reactance, restoration) confirmed via review literature citing Brehm & Brehm 1981; full text not inspected."
+  },
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "claim_ids": [
+    "clm-tone-defiant-reactance-restoration",
+    "clm-tone-defiant-dosage-yield"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Academic Press monograph; analytical citation only."
+  }
+}

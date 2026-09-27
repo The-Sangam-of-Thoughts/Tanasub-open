@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-russell-ghalib-2003",
+  "title": "The Oxford India Ghalib: Life, Letters, and Ghazals",
+  "creators": ["Mirza Asadullah Khan Ghalib", "Ralph Russell", "Khurshidul Islam"],
+  "source_type": "critical-edition",
+  "source_roles": ["recognition", "craft-support", "indian-context"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Oxford University Press India",
+    "published_date": "2003",
+    "edition": "Oxford India paperbacks, viii + 572 pp.",
+    "doi": null,
+    "isbn": "9780195635065"
+  },
+  "languages": ["en", "ur", "fa"],
+  "regions": ["India", "South Asia"],
+  "access": {
+    "locator": "https://archive.org/details/oxfordindiaghali0000ghal",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "Internet Archive, WorldCat, and scholarly references verified the Russell/Islam edition and the documented conversational intimacy of Ghalib's Urdu letters ('murasale ko mukalima bana diya')."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-crosscultural-norms"],
+  "translation": {
+    "is_translation": true,
+    "original_language": "ur",
+    "translator": "Ralph Russell and Khurshidul Islam",
+    "limitations": ["Nastaliq Urdu into English loses syntactic and idiomatic weight; the conversational register is difficult to reproduce and varies across editions and translations."]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Translation and editorial matter copyrighted; analytical paraphrase only, no text reproduced."
+  }
+}

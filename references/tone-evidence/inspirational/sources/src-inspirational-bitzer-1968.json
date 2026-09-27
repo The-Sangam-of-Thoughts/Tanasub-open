@@ -1,0 +1,55 @@
+{
+  "id": "src-inspirational-bitzer-1968",
+  "title": "The Rhetorical Situation",
+  "creators": [
+    "Lloyd F. Bitzer"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Philosophy & Rhetoric, vol. 1, no. 1, pp. 1-14 (Penn State University Press)",
+    "published_date": "1968",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://www.jstor.org/stable/40236733",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-inspirational)",
+    "verification_notes": "Citation, journal, volume, pages, and year confirmed via JSTOR and multiple open course copies. Defines exigence as an imperfection marked by urgency that can be modified by discourse."
+  },
+  "axis_ids": [
+    "tone-inspirational"
+  ],
+  "claim_ids": [
+    "clm-tone-inspirational-urgency-not-manufactured",
+    "clm-tone-inspirational-peroration-late-climax"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Penn State University Press journal article; analytical citation only, no text reproduced."
+  }
+}

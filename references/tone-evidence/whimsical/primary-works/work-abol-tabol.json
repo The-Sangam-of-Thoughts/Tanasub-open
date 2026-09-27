@@ -1,0 +1,41 @@
+{
+  "id": "work-abol-tabol",
+  "title": "Abol Tabol (আবোল তাবোল)",
+  "creators": [
+    "Sukumar Ray"
+  ],
+  "work_type": "nonsense verse collection",
+  "published_date": "1923",
+  "languages": [
+    "bn"
+  ],
+  "regions": [
+    "India",
+    "Bengal"
+  ],
+  "axis_ids": [
+    "tone-whimsical"
+  ],
+  "period_role": "formative",
+  "source_id": "src-whimsical-mukherjee-ray-humor-2022",
+  "access": {
+    "edition_or_version": "First edition, U. Ray and Sons, Calcutta, 19 September 1923",
+    "language_used": "bn",
+    "translator": "multiple English translations exist",
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "53 Bengali quatrains of nonsense verse, most composed for the children's magazine Sandesh between 1915 and 1923.",
+    "point_of_view": "A playful verse narrator who follows absurd premises to their logical ends without winking at the reader.",
+    "invented_world_and_props": "Compound creature-names (built by joining two ordinary animals) create new species that behave according to internally consistent absurd rules, functioning as props.",
+    "play_frame": "The book is self-aware as a nonsense game, its first and last poems sharing the title 'Abol Tabol'.",
+    "style_and_devices": "Portmanteau and neologism; faulty cause and effect played straight; reversals; aural suggestiveness; strict metre, rhyme, and syntax holding a base of sense.",
+    "emotional_progression": "Delight in invention sustained across short, self-contained poems rather than developed through narrative.",
+    "dialogue": "Dramatized monologues and reported speech in which characters reason calmly from impossible premises.",
+    "conventions": "Pioneered literary nonsense in Bengali literature, often compared to Carroll and Lear.",
+    "innovation_or_subversion": "Uses nonsense to embed subversive and anti-colonial meanings beneath children's verse, while its whimsy is valued as a positive aesthetic in its own right.",
+    "critical_reception": "Considered a nonsense masterpiece of Bengali literature; recent scholarship emphasizes the complexity of its humour beyond colonial satire.",
+    "audience_reception": "Beloved across generations in Bengal and the Bengali diaspora; continuously translated and anthologized."
+  }
+}

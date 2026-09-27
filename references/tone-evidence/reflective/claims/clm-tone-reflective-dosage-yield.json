@@ -1,0 +1,43 @@
+{
+  "id": "clm-tone-reflective-dosage-yield",
+  "craft_claim": "Reflective passages must yield back to stimulus — scene, event, or a newly opened question — on a regular cadence, because sustained interiority without yield models rumination's escalation and starves the comprehension questions that hold readers; this tone therefore saturates by stalling rather than by intensity.",
+  "tone_ids": ["tone-reflective"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-reflective-treynor-nolenhoeksema-2003",
+      "location": "Cognitive Therapy and Research 27(3):247-259; longitudinal brooding/reflection results",
+      "evidence_expression": "researcher-inference",
+      "note": "Self-focused repetitive negative thinking (brooding) escalates distress over time while purposeful reflection does not — a dose pattern showing that inwardness without progress compounds rather than resolves; prose that models the same pattern invites reader fatigue by analogy."
+    },
+    {
+      "evidence_id": "src-reflective-graesser-inferences-1994",
+      "location": "Psychological Review 101(3):371-395; question-driven comprehension framework",
+      "evidence_expression": "paraphrase",
+      "note": "Comprehension runs on generated why/how/what-next inferences; a text that suspends events without feeding questions leaves that machinery idle, and engagement depends on keeping questions open and progressively answered."
+    },
+    {
+      "evidence_id": "src-reflective-green-brock-transportation-2000",
+      "location": "Journal of Personality and Social Psychology 79(5):701-721; transportation predictors",
+      "evidence_expression": "researcher-inference",
+      "note": "Transportation is fed by engagement with narrative events and imagery; consecutive interiority-only paragraphs lower event and imagery density and with it absorption."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-reflective-green-brock-transportation-2000",
+      "note": "No experiment located varies reflective-passage length against reader fatigue; all numeric thresholds derived from this claim are bounded writer-inference triangulated from adjacent findings, not measured saturation points for the tone."
+    }
+  ],
+  "scope": "Reader-fatigue guidance for sustained reflective narration across forms; thresholds are explicitly heuristic and genre-conditional.",
+  "exceptions": [
+    "Diary, letter, zuihitsu, and one-page essay forms license longer reflective runs by reader contract; there saturation shows as monotony of stance rather than as length.",
+    "At stakes-peaks the tone must yield entirely to scene or urgency per the taxonomy's dominance rule."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/reflective.md#4--when-to-show-restraint",
+    "tones/reflective.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

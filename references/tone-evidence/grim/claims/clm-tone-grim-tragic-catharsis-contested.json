@@ -1,0 +1,45 @@
+{
+  "id": "clm-tone-grim-tragic-catharsis-contested",
+  "craft_claim": "The classical promise that staged pity and fear purges negative emotion is disputed, and venting-style catharsis can intensify rather than discharge anger, so grim writing must not be justified by a release mechanism.",
+  "tone_ids": [
+    "tone-grim"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-grim-aristotle-poetics-1996",
+      "location": "Poetics, chs. 6 and 13-14 (pity, fear, and the catharsis clause)",
+      "evidence_expression": "paraphrase",
+      "note": "Aristotle's definition ties tragedy to the arousal of pity and fear and to a catharsis of such emotions; the term catharsis is famously under-specified and its translation contested (purgation, purification, clarification)."
+    },
+    {
+      "evidence_id": "src-grim-bushman-catharsis-2002",
+      "location": "Personality and Social Psychology Bulletin 28(6):724-731",
+      "evidence_expression": "synthesis",
+      "note": "Bushman's experiments found that venting and rumination increased anger and aggressive responding relative to distraction. Catharsis as emotional discharge is therefore contested at the empirical level."
+    },
+    {
+      "evidence_id": "src-grim-smuts-painful-art-2007",
+      "location": "The Journal of Aesthetic Education 41(3):59-76",
+      "evidence_expression": "synthesis",
+      "note": "The 'paradox of painful art' literature examines why negative affect can be valuable in art without assuming that the negative affect is discharged; value may lie in cognition, form, or significance rather than relief."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-grim-aristotle-poetics-1996",
+      "note": "The Poetics remains the foundational positive account of catharsis; some readers and traditions do experience tragic resolution as purgative, and the dossier does not claim catharsis is impossible, only that it is unreliable as a design premise."
+    }
+  ],
+  "scope": "Tragedy, tragic fiction, and any claim that bleak art is therapeutic.",
+  "exceptions": [
+    "Ritual, liturgical, or communal lament settings where a shared discharge is an agreed social function.",
+    "Genuine clinical expressive-writing protocols, which are a different domain from literary effect."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/grim.md#2--why-it-works--the-mechanism",
+    "tones/grim.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

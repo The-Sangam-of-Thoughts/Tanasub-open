@@ -1,0 +1,35 @@
+{
+  "id": "work-montaigne-essais",
+  "title": "Essais",
+  "creators": [
+    "Michel de Montaigne"
+  ],
+  "work_type": "essay-collection",
+  "published_date": "1580",
+  "languages": [
+    "fr"
+  ],
+  "regions": [
+    "France"
+  ],
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "period_role": "formative",
+  "source_id": "src-warm-montaigne-essais-1580",
+  "access": {
+    "edition_or_version": "First edition, Bordeaux 1580, with 'To the Reader' front matter; public domain",
+    "language_used": "en",
+    "translator": "Various (Florio 1603; Cotton 1686; Frame 1958)",
+    "access_conditions": "open"
+  },
+  "analysis_status": "partial",
+  "mechanics": {
+    "reader_promise": "Informal, equal-standing company: the narrator offers himself plainly without ceremony or performance.",
+    "point_of_view": "First-person essayistic self-examination that turns outward to address a 'Reader' directly.",
+    "psychic_distance": "Close but relaxed: the narrator shares his thoughts and defects while insisting on plainness, not confession for effect.",
+    "style_and_devices": "Direct address in the preface; conversational, informal prose mixing learned vocabulary with popular sayings and local slang; deliberate refusal of artifice.",
+    "emotional_progression": "Free association and digression rather than argument; warmth lies in the unforced, companionable pace.",
+    "tone_markers": "Direct 'you', declared plainness, friendly farewell, absence of expert distance."
+  }
+}

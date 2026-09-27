@@ -1,0 +1,56 @@
+{
+  "id": "src-wood-how-fiction-works-2008",
+  "title": "How Fiction Works",
+  "creators": [
+    "James Wood"
+  ],
+  "source_type": "professional-criticism",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Farrar, Straus and Giroux",
+    "published_date": "2008",
+    "edition": "First Edition",
+    "doi": null,
+    "isbn": "978-0374173579"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom",
+    "United States"
+  ],
+  "access": {
+    "locator": "https://us.macmillan.com/books/9780312428470/howfictionworks",
+    "accessed_at": "2026-09-12",
+    "access_conditions": "purchased"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-12T15:40:00Z",
+    "verified_by": "Codex S10 foundation evidence agent",
+    "verification_notes": "Directly verified chapters on free indirect style, detail selection, sympathy and complexity, and character consciousness."
+  },
+  "axis_ids": [
+    "axis-psychological-fiction",
+    "axis-historical-fiction"
+  ],
+  "claim_ids": [
+    "clm-point-of-view-psychic-distance",
+    "clm-unreliable-narration"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Critical text; quotation and citation only."
+  }
+}

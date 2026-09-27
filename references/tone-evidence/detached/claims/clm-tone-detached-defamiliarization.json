@@ -1,0 +1,42 @@
+{
+  "id": "clm-tone-detached-defamiliarization",
+  "craft_claim": "Reporting familiar or horrific material in stripped, procedural description de-automatizes perception and renews attention (ostranenie); empirical work links foregrounding to felt affect.",
+  "tone_ids": ["tone-detached"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-detached-shklovsky-art-technique-1965",
+      "location": "Opening and sections on Tolstoy's technique",
+      "evidence_expression": "paraphrase",
+      "note": "Shklovsky argues perception is automatized by habit and that art removes objects from automatization, describing events as if for the first time without using the accepted names of their parts."
+    },
+    {
+      "evidence_id": "src-detached-miall-kuiken-foregrounding-1994",
+      "location": "Studies 1-4 and discussion, pp. 389-407",
+      "evidence_expression": "synthesis",
+      "note": "Foregrounded stylistic features predicted defamiliarization, which in turn evoked feeling, supporting the claim that stripped but selected description reactivates attention."
+    },
+    {
+      "evidence_id": "src-detached-manto-selected-stories-2008",
+      "location": "Partition and street narratives (e.g., the flat reporting of atrocity)",
+      "evidence_expression": "synthesis",
+      "note": "Manto reports communal violence through plain declaratives and concrete acts rather than commentary, renewing attention to the event by refusing its conventional emotional framing."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-detached-miall-kuiken-foregrounding-1994",
+      "note": "Section G failure G2: stripping is not sufficient, because where the plain surface carries no foregrounded selection the same foregrounding mechanism yields no affect and the passage reads as machine flatness; section B also labels the 'one charged detail' prediction a card exercise rather than a tested result."
+    }
+  ],
+  "scope": "Description of violence, routine, and over-familiar material.",
+  "exceptions": [
+    "Audiences already unfamiliar with the material gain nothing from estrangement and may need orientation instead."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/detached.md#2--why-it-works--the-mechanism",
+    "tones/detached.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

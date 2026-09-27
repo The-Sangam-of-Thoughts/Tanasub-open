@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-philosophical-aphorism-compression",
+  "craft_claim": "Compressing an idea into an aphoristic unit makes it memorable and provokes interpretation, but an uninterrupted run of such units disintegrates the argument.",
+  "tone_ids": [
+    "tone-philosophical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-philosophical-hui-aphorism-2019",
+      "location": "Introduction, 'A Theory of the Aphorism'",
+      "evidence_expression": "paraphrase",
+      "note": "Hui argues the aphorism is the shortest literary form, at once open and closed, standing before, against, and after philosophy; minimal size is charged with maximal intensity and demands interpretation."
+    },
+    {
+      "evidence_id": "work-bacon-essays",
+      "location": "The Essays, 1597/1625",
+      "evidence_expression": "synthesis",
+      "note": "Bacon's essays are built around condensed, sententious closes that fix a general truth in the memory, ranging from plain statement to epigram."
+    },
+    {
+      "evidence_id": "src-philosophical-bacon-kiernan-1985",
+      "location": "Editorial introduction to the Essays",
+      "evidence_expression": "paraphrase",
+      "note": "Establishes the aphoristic and epigrammatic character of Bacon's prose as a documented stylistic feature."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Essay, blog, copy and poetic-prose forms that need portable formulations of ideas.",
+  "exceptions": [
+    "Aphorism stacking — consecutive unglossed maxims — is a failure mode, not a mechanism (see clm-tone-philosophical-pseudo-profundity)."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/philosophical.md#5--how-to-use-it--operators",
+    "tones/philosophical.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

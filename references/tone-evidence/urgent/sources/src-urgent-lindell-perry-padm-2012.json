@@ -1,0 +1,57 @@
+{
+  "id": "src-urgent-lindell-perry-padm-2012",
+  "title": "The Protective Action Decision Model: Theoretical Modifications and Additional Evidence",
+  "creators": [
+    "Michael K. Lindell",
+    "Ronald W. Perry"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Risk Analysis, Vol. 32, No. 4",
+    "published_date": "2012",
+    "edition": "pp. 616-632",
+    "doi": "10.1111/j.1539-6924.2011.01647.x",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "risk analysis",
+    "disaster science"
+  ],
+  "access": {
+    "locator": "Risk Analysis 32(4): 616-632; DOI 10.1111/j.1539-6924.2011.01647.x",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-urgent)",
+    "verification_notes": "Standard citation for the Protective Action Decision Model. Bibliographic details from the publisher record; not dereferenced. The model's staged sequence (environmental cues and social signals -> attention -> threat and protective-action perception -> information search -> decision) is summarized from established secondary description."
+  },
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "claim_ids": [
+    "clm-tone-urgent-warning-response-determinants"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Journal article; no text reproduced."
+  }
+}

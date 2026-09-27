@@ -1,0 +1,42 @@
+{
+  "id": "work-gitanjali",
+  "title": "Gitanjali (Song Offerings)",
+  "creators": [
+    "Rabindranath Tagore",
+    "W. B. Yeats"
+  ],
+  "work_type": "poetry-collection",
+  "published_date": "1910",
+  "languages": [
+    "bn",
+    "en"
+  ],
+  "regions": [
+    "India",
+    "Bengal",
+    "United Kingdom"
+  ],
+  "axis_ids": [
+    "tone-inspirational"
+  ],
+  "period_role": "formative",
+  "source_id": "src-inspirational-tagore-gitanjali-1912",
+  "access": {
+    "edition_or_version": "Bengali original 1910; English prose translation by the author, India Society 1912 / Macmillan 1913",
+    "language_used": "en",
+    "translator": "Rabindranath Tagore",
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "A sequence of devotional songs rendering the soul's longing for and offering to the divine, moving between supplication and forward hope.",
+    "emotional_progression": "Alternation of longing, humility, and exaltation; the collection's centre of gravity is devotional uplift rather than narrative closure.",
+    "style_and_devices": "Single governing natural image per song, plain declarative syntax undergirded by cadence, repetition, and address; imagery drawn from rivers, seasons, and light.",
+    "dialogue": "Direct address to the divine, making the reader an overhearer of intimate devotion.",
+    "point_of_view": "First-person devotional voice.",
+    "tone_relevant_techniques": "Image-over-doctrine method consistent with transportational persuasion; forward longing rather than static awe; indigenously Bengali, bhakti-adjacent, which distinguishes it from Anglophone uplift and from the worship-directed tone-reverent.",
+    "critical_reception": "English version won the 1913 Nobel Prize in Literature; later critics questioned whether it represents Tagore's strongest work.",
+    "translation_note": "The English is the author's radical rewriting of the Bengali; it omits, reorders, and fuses poems and cannot substitute for the original.",
+    "copyright_note": "English edition public domain; no passage reproduced regardless."
+  }
+}

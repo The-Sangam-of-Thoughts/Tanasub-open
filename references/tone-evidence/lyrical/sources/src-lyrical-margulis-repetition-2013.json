@@ -1,0 +1,54 @@
+{
+  "id": "src-lyrical-margulis-repetition-2013",
+  "title": "On Repeat: How Music Plays the Mind",
+  "creators": [
+    "Elizabeth Hellmuth Margulis"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Oxford University Press",
+    "published_date": "2013",
+    "edition": null,
+    "doi": "10.1093/acprof:oso/9780199990825.001.0001",
+    "isbn": "9780199990825"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1093/acprof:oso/9780199990825.001.0001",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-lyrical)",
+    "verification_notes": "Bibliographic record verified via Crossref; argument confirmed: repetition alters attention and generates the experience of musicality, with effects dependent on spacing and context."
+  },
+  "axis_ids": [
+    "tone-lyrical"
+  ],
+  "claim_ids": [
+    "clm-tone-lyrical-dosage-yield"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scholarly monograph; analytical citation only."
+  }
+}

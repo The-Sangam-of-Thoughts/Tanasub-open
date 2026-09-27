@@ -1,0 +1,60 @@
+{
+  "id": "src-lyrical-dionysius-composition-1910",
+  "title": "On Literary Composition (De compositione verborum)",
+  "creators": [
+    "Dionysius of Halicarnassus",
+    "W. Rhys Roberts"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Macmillan",
+    "published_date": "1910",
+    "edition": "Greek text with English translation and commentary by W. Rhys Roberts",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "grc"
+  ],
+  "regions": [
+    "Greece",
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://archive.org/details/cu31924026465165",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-lyrical)",
+    "verification_notes": "Edition verified via Internet Archive advanced search (Roberts, Macmillan, 1910). Argument confirmed: a systematic treatise on the melody of prose and the choice and arrangement of sounds."
+  },
+  "axis_ids": [
+    "tone-lyrical"
+  ],
+  "claim_ids": [
+    "clm-tone-lyrical-music-of-prose-tradition"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "grc",
+    "translator": "W. Rhys Roberts",
+    "limitations": [
+      "Greek quantitative rhythm is not reproducible in English; the transferable part is the principle, not the specific rhythms."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": false,
+    "notes": "1910 translation in the public domain; no text reproduced."
+  }
+}

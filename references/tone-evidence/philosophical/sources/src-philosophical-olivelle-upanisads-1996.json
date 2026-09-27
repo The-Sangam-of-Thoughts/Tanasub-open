@@ -1,0 +1,60 @@
+{
+  "id": "src-philosophical-olivelle-upanisads-1996",
+  "title": "Upanisads",
+  "creators": [
+    "Anonymous (Vedic tradition)",
+    "Patrick Olivelle"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Oxford University Press (Oxford World's Classics)",
+    "published_date": "1996",
+    "edition": "English translation with introduction and notes; Sanskrit text c. 8th-3rd century BCE",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "sa"
+  ],
+  "regions": [
+    "India",
+    "South Asia"
+  ],
+  "access": {
+    "locator": "https://global.oup.com/academic/product/upanisads-9780199540259",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-philosophical)",
+    "verification_notes": "Confirmed the early Upanisads are taught through dialogues between teacher and student (e.g., Uddalaka and Svetaketu in the Chandogya), progressing by questioning, analogy and experiment toward abstract claims about self and reality."
+  },
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "claim_ids": [
+    "clm-tone-philosophical-dialectic-question"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "sa",
+    "translator": "Patrick Olivelle",
+    "limitations": [
+      "The Upanisadic 'tat tvam asi' and similar formulae are translation-sensitive; claims here concern dialogue structure, not lexical equivalence."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": false,
+    "notes": "Original public domain; Olivelle translation copyrighted; no passages reproduced."
+  }
+}

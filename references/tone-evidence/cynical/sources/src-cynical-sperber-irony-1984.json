@@ -1,0 +1,55 @@
+{
+  "id": "src-cynical-sperber-irony-1984",
+  "title": "Verbal irony: Pretense or echoic mention?",
+  "creators": [
+    "Dan Sperber"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Experimental Psychology: General",
+    "published_date": "1984",
+    "edition": "Vol. 113, No. 1, pp. 130-136",
+    "doi": "10.1037/0096-3445.113.1.130",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "France",
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1037/0096-3445.113.1.130",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-cynical)",
+    "verification_notes": "Metadata confirmed via Crossref API; volume/issue/pagination (113(1):130-136) confirmed 2026-09-24. The echoic-mention account holds that verbal irony echoes an actual or attributed thought while signalling a dissociated attitude toward it; irony is therefore interpretive rather than literal inversion. This is the mechanism by which bitter irony targets a stated ideal. Full text not re-inspected; no passage quoted."
+  },
+  "axis_ids": [
+    "tone-cynical"
+  ],
+  "claim_ids": [
+    "clm-tone-cynical-irony-echoic"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical citation only."
+  }
+}

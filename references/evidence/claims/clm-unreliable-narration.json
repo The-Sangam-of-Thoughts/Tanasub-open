@@ -1,0 +1,34 @@
+{
+  "id": "clm-unreliable-narration",
+  "craft_claim": "Unreliable narration generates dramatic irony and psychological tension by establishing a discernible discrepancy between narrator perception and narrative reality.",
+  "axis_ids": [
+    "axis-detective-and-mystery-fiction",
+    "axis-picaresque-literature",
+    "axis-psychological-thriller"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-booth-rhetoric-fiction-1983",
+      "location": "Chapter 6: Types of Narration, pp. 149-165",
+      "evidence_expression": "quotation",
+      "note": "Booth defines an unreliable narrator as one whose norms diverge significantly from those of the implied author."
+    },
+    {
+      "evidence_id": "work-the-guide",
+      "location": "Raju's retrospective confession to Velan",
+      "evidence_expression": "synthesis",
+      "note": "Raju self-servingly rationalizes his manipulation of Rosie and Marco, while the narrative framing exposes his vanity."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "First-person and limited third-person narrative fiction.",
+  "exceptions": [
+    "Authoritative third-person objective historical chronicles."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "07-voice-style-dialogue-and-point-of-view.md#voice-style-dialogue-and-point-of-view-preferred_label"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-12"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "src-inspirational-tagore-gitanjali-1912",
+  "title": "Gitanjali (Song Offerings): A Collection of Prose Translations Made by the Author from the Original Bengali",
+  "creators": [
+    "Rabindranath Tagore",
+    "W. B. Yeats"
+  ],
+  "source_type": "primary-source",
+  "source_roles": [
+    "recognition",
+    "indian-context",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "The India Society, London (later Macmillan & Co.)",
+    "published_date": "1912",
+    "edition": "First English edition (Bengali original Gitanjali, 1910)",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "bn"
+  ],
+  "regions": [
+    "India",
+    "Bengal",
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://www.gutenberg.org/ebooks/7164",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-inspirational)",
+    "verification_notes": "Bengali original published 4 August 1910; English prose translation first published by the India Society in November 1912 and by Macmillan in 1913; awarded the 1913 Nobel Prize in Literature. Confirmed via Project Gutenberg, Britannica, and the Nobel Prize archive. The English is the author's own radical rewriting, not a literal translation."
+  },
+  "axis_ids": [
+    "tone-inspirational"
+  ],
+  "claim_ids": [
+    "clm-tone-inspirational-crosscultural-civic-uplift",
+    "clm-tone-inspirational-narrative-transportation"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "bn",
+    "translator": "Rabindranath Tagore (author)",
+    "limitations": [
+      "The English prose version omits, reorders, and fuses Bengali poems and cannot stand in for the original Bengali; analysis here does not rely on the English wording alone."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": false,
+    "notes": "English Gitanjali (1912) is in the public domain in the USA; no text is reproduced in this dossier regardless."
+  }
+}

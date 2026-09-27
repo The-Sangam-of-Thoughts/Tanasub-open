@@ -1,0 +1,54 @@
+{
+  "id": "src-deadpan-winner-point-of-words-1988",
+  "title": "The Point of Words: Children's Understanding of Metaphor and Irony",
+  "creators": [
+    "Ellen Winner"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Harvard University Press",
+    "published_date": "1988",
+    "edition": "ch. 4, pp. 104–142",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "Open Library record OL2980792W",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-deadpan)",
+    "verification_notes": "OpenLibrary identity (OL2980792W) checked 2026-09-24; publisher/year confirmed as Harvard University Press, 1988. Chapter/section locator (ch. 4, pp. 104–142) is from the standard table of contents and was not re-verified page-by-page this session — evidence-incomplete at page grain. Developmental account of learning nonliteral intent supports the withheld-play-frame and literal-read-failure claims."
+  },
+  "axis_ids": [
+    "tone-deadpan"
+  ],
+  "claim_ids": [
+    "clm-tone-deadpan-withheld-play-frame",
+    "clm-tone-deadpan-literal-read-failure"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "1988 Harvard University Press monograph; citation and paraphrase only."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "src-reverent-rumi-nicholson-masnavi",
+  "title": "The Mathnawi of Jalalu'ddin Rumi",
+  "creators": [
+    "Jalal al-Din Rumi",
+    "Reynold Alleyne Nicholson"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "E.J.W. Gibb Memorial / Luzac & Co. (later Gibb Memorial Trust)",
+    "published_date": "1925",
+    "edition": "Nicholson critical edition and translation, 8 volumes (1925-1940)",
+    "doi": null,
+    "isbn": "9780906094082"
+  },
+  "languages": [
+    "en",
+    "fa"
+  ],
+  "regions": [
+    "Iran",
+    "Persia",
+    "Turkey",
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://openlibrary.org/search?q=Rumi+Masnavi+Nicholson",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reverent)",
+    "verification_notes": "Nicholson's Gibb Memorial edition (first volume 1925) verified via Open Library. Used for the Sufi didactic-sacred form: homely anecdote turning into ecstatic figure (the reed cut from its bed; sun and ocean), and union framed as self-annihilation; described structurally, no passages reproduced."
+  },
+  "axis_ids": [
+    "tone-reverent"
+  ],
+  "claim_ids": [
+    "clm-tone-reverent-liturgical-parallelism"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "fa",
+    "translator": "Reynold Alleyne Nicholson",
+    "limitations": [
+      "Persian prosody, pun, and Qur'anic allusion are not fully recoverable; later popular translations (e.g. loose English 'versions') are unreliable for acoustic claims. This dossier uses Nicholson's scholarly edition."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Gibb Memorial edition/translation rights vary; analytical citation only; no passages reproduced."
+  }
+}

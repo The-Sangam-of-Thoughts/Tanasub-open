@@ -1,0 +1,54 @@
+{
+  "id": "src-irreverent-berlyne-aesthetics-1971",
+  "title": "Aesthetics and Psychobiology",
+  "creators": [
+    "D. E. Berlyne"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Appleton-Century-Crofts",
+    "published_date": "1971",
+    "edition": "xiv + 336 pp.",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://archive.org/details/aestheticspsycho0000berl",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "Bibliographic identity confirmed on 2026-09-24 via Internet Archive advanced search (identifier aestheticspsycho0000berl, year 1971) and Open Library (first publication 1971). Cited at whole-work level only for its arousal-potential / collative-variable / satiation framework; chapter and page locators were not verified and no section-level claims rest on this source. Text not consulted this session (lending copy)."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [
+    "clm-tone-irreverent-dosage-habituation"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "In copyright; framework paraphrased at whole-work level only."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "src-compassionate-kogut-ritov-2005",
+  "title": null,
+  "creators": [
+    "Kogut",
+    "Ritov"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "counterevidence"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": null,
+    "published_date": "2005",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [],
+  "access": {
+    "locator": null,
+    "accessed_at": "2026-09-24",
+    "access_conditions": null
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": null,
+    "verified_by": "Tone Layer researcher (tone-compassionate)",
+    "verification_notes": "Recorded from dossier sections B and I: Kogut and Ritov (2005) found the identified-victim effect tracked singular identification, not group identification, and is recorded as counterevidence/boundary rather than refutation. The dossier states no title, container, author given names, region, or verification, so those fields are null/empty; classified as a peer-reviewed article from its presentation as empirical research at the claims-matrix tier."
+  },
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "claim_ids": [
+    "clm-tone-compassionate-identifiable-victim"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Journal article; analytical citation only; no text reproduced."
+  }
+}

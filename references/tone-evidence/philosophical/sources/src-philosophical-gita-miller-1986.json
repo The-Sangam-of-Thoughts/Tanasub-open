@@ -1,0 +1,60 @@
+{
+  "id": "src-philosophical-gita-miller-1986",
+  "title": "The Bhagavad-Gita: Krishna's Counsel in Time of War",
+  "creators": [
+    "Anonymous (Vedic tradition)",
+    "Barbara Stoler Miller"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Bantam Classics / Columbia University Press",
+    "published_date": "1986",
+    "edition": "English translation with introduction and afterword",
+    "doi": null,
+    "isbn": "9780553213652"
+  },
+  "languages": [
+    "en",
+    "sa"
+  ],
+  "regions": [
+    "India",
+    "South Asia"
+  ],
+  "access": {
+    "locator": "https://www.penguinrandomhouse.com/books/566699/the-bhagavad-gita-by-translated-by-barbara-stoler-miller/",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-philosophical)",
+    "verification_notes": "Confirmed the Gita is a Sanskrit philosophical dialogue in verse between Krishna and Arjuna, set on a battlefield, in which instruction steadily generalises from the immediate crisis to principle (action, duty, self)."
+  },
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "claim_ids": [
+    "clm-tone-philosophical-instruction-voice"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "sa",
+    "translator": "Barbara Stoler Miller",
+    "limitations": [
+      "Claims concern the structure of instruction and address, not Sanskrit prosody."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": false,
+    "notes": "Original public domain; Miller translation copyrighted; no passages reproduced."
+  }
+}

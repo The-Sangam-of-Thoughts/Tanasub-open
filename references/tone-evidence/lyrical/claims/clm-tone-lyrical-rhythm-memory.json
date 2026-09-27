@@ -1,0 +1,26 @@
+{
+  "id": "clm-tone-lyrical-rhythm-memory",
+  "craft_claim": "Metre and rhythmic structure aid encoding, recall, and performance, which is why cadenced language feels like it is carrying meaning rather than decorating it.",
+  "tone_ids": [
+    "tone-lyrical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-lyrical-rubin-oral-memory-1995",
+      "location": "Memory in Oral Traditions (Oxford University Press), chapters on metre, rhyme, and formula",
+      "evidence_expression": "synthesis",
+      "note": "Rubin assembles experimental and corpus evidence that metre, rhyme, and formulaic structure function as encoding and retrieval devices that make long verbal works performable and memorable."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Verse, refrain, chant, memorable prose, and any long text designed to be remembered or performed.",
+  "exceptions": [
+    "Modern bureaucratic or reference prose, where memorability is not a goal and regularity may impede scanning."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/lyrical.md#2--why-it-works--the-mechanism"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

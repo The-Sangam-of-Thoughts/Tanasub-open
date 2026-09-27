@@ -1,0 +1,56 @@
+{
+  "id": "src-routledge-narrative-theory-2005",
+  "title": "Routledge Encyclopedia of Narrative Theory",
+  "creators": [
+    "David Herman",
+    "Manfred Jahn",
+    "Marie-Laure Ryan"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "definition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Routledge",
+    "published_date": "2005",
+    "edition": "1st ed.",
+    "doi": "10.4324/9780203432037",
+    "isbn": "9780415282598"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "global"
+  ],
+  "access": {
+    "locator": "Routledge Handbooks Online / DOI: 10.4324/9780203432037",
+    "accessed_at": "2026-09-12",
+    "access_conditions": "licensed"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-12T10:45:00Z",
+    "verified_by": "Codex S04 taxonomy harvest agent",
+    "verification_notes": "Inspected structural and narrative taxonomy entries: frame narratives, epistolary fiction, psychological fiction."
+  },
+  "axis_ids": [
+    "axis-epistolary-fiction",
+    "axis-psychological-fiction",
+    "axis-frame-narrative"
+  ],
+  "claim_ids": [],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Copyright Routledge; theoretical taxonomy definitions cited."
+  }
+}

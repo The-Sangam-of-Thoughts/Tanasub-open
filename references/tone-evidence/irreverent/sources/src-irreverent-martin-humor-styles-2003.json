@@ -1,0 +1,58 @@
+{
+  "id": "src-irreverent-martin-humor-styles-2003",
+  "title": "Individual differences in uses of humor and their relation to psychological well-being: Development of the Humor Styles Questionnaire",
+  "creators": [
+    "Rod A. Martin",
+    "Patricia Puhlik-Doris",
+    "Gwen Larsen",
+    "Jeanette Gray",
+    "Kelly Weir"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Research in Personality, Vol. 37, No. 1",
+    "published_date": "2003",
+    "edition": "pp. 48-75",
+    "doi": "10.1016/S0092-6566(02)00534-2",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "international"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1016/S0092-6566(02)00534-2",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "Full author list, journal, volume, issue, pages, year, and DOI confirmed via Crossref on 2026-09-24. Sample region not verified from the record; region recorded as international. Abstract-level citation; findings used at construct level (affiliative vs aggressive humor styles), not for prose-level effects."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [
+    "clm-tone-irreverent-aggressive-style-drift"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Elsevier journal article; paraphrased at construct level only."
+  }
+}

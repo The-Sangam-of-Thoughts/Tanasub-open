@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-elegiac-negative-emotion-reward",
+  "craft_claim": "Audiences can prize sad art because art/representation schemata create distance and safety while compositional mixed emotion and meaning-making let them embrace grief as an aesthetic reward.",
+  "tone_ids": ["tone-elegiac"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-menninghaus-distancing-embracing-2017",
+      "location": "Behavioral and Brain Sciences 40:e347, Sections 3-4 (distancing and embracing factors)",
+      "evidence_expression": "paraphrase",
+      "note": "Negative emotions secure attention, involvement, and memorability; the art schema supplies psychological distance and control, and compositional interplays of positive and negative emotion plus meaning-making render reception more intense, moving, and profound."
+    },
+    {
+      "evidence_id": "src-cova-deonna-being-moved-2014",
+      "location": "Philosophical Studies 169(3):447-466",
+      "evidence_expression": "paraphrase",
+      "note": "Being moved is predominantly positive in valence and typically mixed, which explains why grief art can feel good rather than merely painful."
+    },
+    {
+      "evidence_id": "src-huron-sad-music-2011",
+      "location": "Musicae Scientiae 15(2):146-158",
+      "evidence_expression": "paraphrase",
+      "note": "Huron proposes a consoling mechanism for the enjoyment of sad music, giving one candidate account of the pleasure."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-ladinig-prolactin-test-2021",
+      "note": "The prolactin account did not replicate in a direct test; the reward mechanism should be stated at the level of distancing and meaning-making, not a specific hormone."
+    }
+  ],
+  "scope": "All aesthetic forms; the mechanism is general to art reception, not specific to elegy, so it explains the tone's viability rather than defining it.",
+  "exceptions": [
+    "Recipients who are currently bereaved may experience elegiac material as raw distress rather than aesthetic reward."
+  ],
+  "confidence": "strong",
+  "report_locations": ["tones/elegiac.md#2--why-it-works--the-mechanism"],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

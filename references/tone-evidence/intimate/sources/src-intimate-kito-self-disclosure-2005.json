@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-kito-self-disclosure-2005",
+  "title": "Self-Disclosure in Romantic Relationships and Friendships Among American and Japanese College Students",
+  "creators": ["Mie Kito"],
+  "source_type": "peer-reviewed-article",
+  "source_roles": ["recognition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "The Journal of Social Psychology",
+    "published_date": "2005-04",
+    "edition": "Vol. 145, No. 2, pp. 127-140",
+    "doi": "10.3200/SOCP.145.2.127-140",
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["Japan", "United States"],
+  "access": {
+    "locator": "https://pubmed.ncbi.nlm.nih.gov/15816343",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "PubMed record, DOI, and abstract verified; the finding that Japanese students disclosed less than American students across four relationship types confirmed."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-crosscultural-norms"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Journal article; analytical paraphrase only, no text reproduced."
+  }
+}

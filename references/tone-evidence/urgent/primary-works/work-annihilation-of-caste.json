@@ -1,0 +1,37 @@
+{
+  "id": "work-annihilation-of-caste",
+  "title": "Annihilation of Caste",
+  "creators": [
+    "B. R. Ambedkar"
+  ],
+  "work_type": "speech",
+  "published_date": "1936",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "India"
+  ],
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "period_role": "canonical",
+  "source_id": "src-urgent-ambedkar-annihilation-caste-1936",
+  "access": {
+    "edition_or_version": "Self-published 1936 (undelivered); widely reprinted; public domain in India",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "An undelivered anti-caste address that argues social reform cannot wait on gradual moral persuasion and must confront the structure of caste directly.",
+    "tone_function": "Reformist urgency fused with argument: the text presses for immediate structural change while reasoning in public about means and ends.",
+    "time_handling": "Refuses the gradualism of 'reform in good time'; frames delay as complicity.",
+    "syntax_and_rhythm": "Argumentative paragraphs with pointed, epigrammatic closings; rhetorical questions that force the reader to take a position.",
+    "lexical_fields": "Reform, urgency, reason, rights, annihilation; institutional and legal vocabulary.",
+    "rhetorical_situation": "The withdrawal of the invitation to speak becomes part of the text's own argument that the reform is being deferred; the document's publication history enacts its urgency.",
+    "efficacy_pairing": "Demands are tied to concrete proposals (political and social action), not to atmosphere alone.",
+    "verification_note": "Author, 1936 undelivered-speech status and self-publication verified via reference summary. No passage reproduced."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "clm-tone-whimsical-hasya-camatkara",
+  "craft_claim": "Indian poetics supplies named categories for the delight at play in whimsy: hasya (the comic sentiment, whose stable state is mirth) and camatkara (aesthetic wonder as unobstructed awareness).",
+  "tone_ids": [
+    "tone-whimsical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-natyashastra-ghosh-1951",
+      "location": "Chapter 6: The Sentiments (Rasa), on hasya",
+      "evidence_expression": "paraphrase",
+      "note": "Bharata's Natyashastra names hasya among the rasas, rooted in the stable state of mirth (hasa) and arising from incongruous, unseemly, or absurd determinants; this gives a classical Indian name to comic delight."
+    },
+    {
+      "evidence_id": "src-whimsical-prueitt-abhinavagupta-2026",
+      "location": "Religious Studies (2026), pp. 1-16, doi 10.1017/S0034412526101656",
+      "evidence_expression": "paraphrase",
+      "note": "Prueitt shows Abhinavagupta describing the peak of aesthetic experience as camatkara, an 'unobstructed awareness' of aesthetic wonder that moves the spectator beyond the limited self."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-natyashastra-ghosh-1951",
+      "note": "Hasya is the comic sentiment, broader and more socially marked than whimsy; whimsy sits nearer its lighter end and toward camatkara's delight, so the relation is a framing rather than an equivalence."
+    }
+  ],
+  "scope": "Indian aesthetic framing for cross-cultural card section 8.",
+  "exceptions": [
+    "Whimsy should not be collapsed into full comic rasa; the jester's pointed satire belongs to tone-comedic or the satirical mode."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/whimsical.md#8--cultural-scope"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

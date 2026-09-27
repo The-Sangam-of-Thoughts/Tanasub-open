@@ -1,0 +1,56 @@
+{
+  "id": "src-comedic-lawson-xiangsheng-2020",
+  "title": "Hidden Musicality in Chinese Xiangsheng: A Response to the Call for Interdisciplinary Research in Studying Speech and Song",
+  "creators": [
+    "Francesca R. Sborgi Lawson"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Humanities and Social Sciences Communications, 7 (article 38), Palgrave Macmillan",
+    "published_date": "2020",
+    "edition": "Open access",
+    "doi": "10.1057/s41599-020-0528-y",
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "regions": [
+    "China"
+  ],
+  "access": {
+    "locator": "https://www.nature.com/articles/s41599-020-0528-y",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-comedic)",
+    "verification_notes": "Peer-reviewed open-access article; abstract and bibliographic details inspected. Demonstrates that xiangsheng speech carries patterned rhythm and sound features central to its comic effect."
+  },
+  "axis_ids": [
+    "tone-comedic"
+  ],
+  "claim_ids": [
+    "clm-tone-comedic-crosscultural-oral"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": [
+      "Chinese-language wordplay and prosody are assessed through an English-language scholarly analysis; original performance not inspected."
+    ]
+  },
+  "copyright": {
+    "status": "open-access",
+    "repository_copy_allowed": false,
+    "notes": "Open-access peer-reviewed article; citation and paraphrase only."
+  }
+}

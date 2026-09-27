@@ -1,0 +1,49 @@
+{
+  "id": "clm-tone-defiant-dosage-yield",
+  "craft_claim": "Controlling, high-threat language raises reactance in the form of anger and counterarguing, and sustained moral absolutism lowers tolerance of dissenters, so high-intensity defiance must be dosed and must yield at stakes peaks.",
+  "tone_ids": [
+    "tone-defiant"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-defiant-dillard-shen-2005",
+      "location": "Communication Monographs 72(2):144-168",
+      "evidence_expression": "paraphrase",
+      "note": "Dillard and Shen show reactance is intertwined cognition and affect, measurable by self-report and linked to anger directed at the message source; controlling language and threats raise it and increase counterarguing."
+    },
+    {
+      "evidence_id": "src-defiant-brehm-brehm-1981",
+      "location": "Psychological Reactance: A Theory of Freedom and Control, ch. 2",
+      "evidence_expression": "synthesis",
+      "note": "Reactance magnitude grows with the importance and proportion of freedoms threatened, so piling on threats compounds resistance rather than persuasion."
+    },
+    {
+      "evidence_id": "src-defiant-skitka-bauman-sargis-2005",
+      "location": "Journal of Personality and Social Psychology 88(6):895-917",
+      "evidence_expression": "synthesis",
+      "note": "Moral mandates predict greater preferred distance from attitudinally dissimilar others, so holding a reader in sustained absolutism narrows the audience the text can reach."
+    },
+    {
+      "evidence_id": "src-defiant-drury-reicher-2005",
+      "location": "European Journal of Social Psychology 35(1):35-58",
+      "evidence_expression": "synthesis",
+      "note": "Enduring empowerment depends on action expressing social identity, so repetition without an articulated 'we' produces slogans rather than empowerment, an argument for dosing the register."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-defiant-vanzomeren-simca-2008",
+      "note": "Anger is itself a mobilizer when joined to efficacy and identity, so the dosage concern is excess intensity without those terms, not anger as such."
+    }
+  ],
+  "scope": "Long-form, serial, and persuasion-of-undecided content across all forms.",
+  "exceptions": [
+    "Very short forms (epigram, chant, poem) may legitimately hold a single high-intensity note; the dosage findings concern sustained prose."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/defiant.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

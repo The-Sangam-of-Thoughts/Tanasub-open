@@ -1,0 +1,62 @@
+{
+  "id": "src-nostalgic-sedikides-2015-to-nostalgize",
+  "title": "To Nostalgize: Mixing Memory with Affect and Desire",
+  "creators": [
+    "Constantine Sedikides",
+    "Tim Wildschut",
+    "Clay Routledge",
+    "Jamie Arndt",
+    "Erica G. Hepper",
+    "Xinyue Zhou"
+  ],
+  "source_type": "book-chapter",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Advances in Experimental Social Psychology, Vol. 51",
+    "published_date": "2015",
+    "edition": "pp. 189-273",
+    "doi": "10.1016/bs.aesp.2014.10.001",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom",
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1016/bs.aesp.2014.10.001",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-nostalgic)",
+    "verification_notes": "Chapter citation (volume 51, pp. 189-273, DOI) and section-level content verified via the open author PDF at Southampton (surfaced in web search 2026-09-24): the bittersweet-but-predominantly-positive-and-social definition, narrative analyses showing more first-person plural pronouns and social words in nostalgic recollections, the frequency data, and the self-positivity section on idealized pasts. PDF not read end-to-end; all notes are paraphrases."
+  },
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "claim_ids": [
+    "clm-tone-nostalgic-bittersweet-structure",
+    "clm-tone-nostalgic-social-cast",
+    "clm-tone-nostalgic-rosey-retrospection"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Elsevier chapter; analytical citation only, no reproduction."
+  }
+}

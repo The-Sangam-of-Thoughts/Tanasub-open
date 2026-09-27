@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-grim-eudaimonic-painful-art",
+  "craft_claim": "Audiences seek meaning as well as pleasure, so bleak works can be valued rather than merely endured; the grim tone succeeds when it converts suffering into significance, not when it merely administers pain.",
+  "tone_ids": [
+    "tone-grim"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-grim-oliver-raney-eudaimonic-2011",
+      "location": "Journal of Communication 61(5):984-1004",
+      "evidence_expression": "synthesis",
+      "note": "Oliver and Raney distinguish hedonic motivations (pleasure, enjoyment) from eudaimonic motivations (meaning, insight, poignancy) in entertainment selection, providing the framework for why audiences choose difficult works."
+    },
+    {
+      "evidence_id": "src-grim-smuts-painful-art-2007",
+      "location": "The Journal of Aesthetic Education 41(3):59-76",
+      "evidence_expression": "synthesis",
+      "note": "Smuts surveys the paradox of painful art: negative responses need not reduce artistic value, and appreciation can rest on cognitive or formal rewards."
+    },
+    {
+      "evidence_id": "src-grim-dewied-zillmann-tragedy-1995",
+      "location": "Poetics 23(1-2):91-106",
+      "evidence_expression": "researcher-inference",
+      "note": "This study of empathic distress and cinematic tragedy anchors the 'sad film' line of research: tragic pleasure is investigated as arising in relation to, not simply in the absence of, empathic distress."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-grim-oliver-raney-eudaimonic-2011",
+      "note": "Section B cites Oliver and Raney for hedonic versus eudaimonic motivations in entertainment selection rather than for how a given bleak work is appraised once consumed, and section C records as contested whether unrelieved bleakness can still carry meaning or only sensation, so 'valued rather than endured' is a possibility rather than a property of the material."
+    }
+  ],
+  "scope": "Film, fiction, drama, and any narrative that asks the audience to accept sustained negative affect.",
+  "exceptions": [
+    "Instrumental or deliberate suffering without significance (torture-focused spectacle) may attract only curiosity or habituation, not eudaimonic value."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/grim.md#2--why-it-works--the-mechanism",
+    "tones/grim.md#3--when-it-works"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

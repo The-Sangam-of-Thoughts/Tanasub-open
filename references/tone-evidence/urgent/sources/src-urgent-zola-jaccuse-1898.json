@@ -1,0 +1,58 @@
+{
+  "id": "src-urgent-zola-jaccuse-1898",
+  "title": "J'Accuse...! (open letter to President Félix Faure)",
+  "creators": [
+    "Émile Zola"
+  ],
+  "source_type": "primary-document",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "L'Aurore (Paris daily), front page",
+    "published_date": "1898-01-13",
+    "edition": "Original newspaper publication",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "fr"
+  ],
+  "regions": [
+    "France",
+    "Europe"
+  ],
+  "access": {
+    "locator": "L'Aurore, 13 January 1898; public domain. Facsimile archived by French national collections.",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-urgent)",
+    "verification_notes": "Historic facts verified against a reference summary: open letter by Zola on the Dreyfus affair, published 13 January 1898 in L'Aurore, addressed to President Félix Faure, naming officials and alleging judicial errors. Full text not inspected; used as a documented exemplar of urgent civic indictment, not quoted."
+  },
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "claim_ids": [
+    "clm-tone-urgent-lexical-grammatical-profile",
+    "clm-tone-urgent-deadline-framing"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": [
+      "Tone claims rest on the French original; only the letter's documented structure and reception were verified, not close stylistic features."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": true,
+    "notes": "Author died 1902; public domain. No passage reproduced."
+  }
+}

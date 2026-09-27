@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-comedic-superiority-limits",
+  "craft_claim": "Superiority or mockery explains only part of humour and fails as comedy when the audience identifies with a non-benign target rather than with the mocker.",
+  "tone_ids": [
+    "tone-comedic"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-comedic-lintott-superiority-2016",
+      "location": "Argument against the sufficiency of superiority theory",
+      "evidence_expression": "paraphrase",
+      "note": "Superiority theories capture a subset of humour and require refinement rather than serving as a general account."
+    },
+    {
+      "evidence_id": "src-comedic-oquin-aronoff-1981",
+      "location": "Findings on humour and persuasion",
+      "evidence_expression": "paraphrase",
+      "note": "Humour's influence on persuasion is small and condition-dependent, so comedy cannot be assumed to win assent or goodwill."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-comedic-morreall-sep-2012",
+      "note": "Superiority remains one of the three classical families and is a legitimate partial explanation of mockery-based humour."
+    }
+  ],
+  "scope": "Humour aimed at persons or groups, and comic material used to persuade.",
+  "exceptions": [
+    "Self-deprecating humour where the audience shares the narrator's position.",
+    "In-group humour that the in-group experiences as affiliative rather than diminishing."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/comedic.md#2--why-it-works--the-mechanism",
+    "tones/comedic.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

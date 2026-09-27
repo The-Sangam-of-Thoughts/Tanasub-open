@@ -1,0 +1,38 @@
+{
+  "id": "clm-tone-compassionate-pastoral-care-conditions",
+  "craft_claim": "The pastoral and clinical-care traditions codify effective care-in-suffering as congruent presence, unconditional positive regard, and accurate empathy rather than advice-imposition, so the compassionate voice should accompany instead of prescribe.",
+  "tone_ids": [
+    "tone-compassionate"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-compassionate-rogers-1957",
+      "location": "Journal of Consulting Psychology 21(2):95-103, necessary and sufficient conditions",
+      "evidence_expression": "synthesis",
+      "note": "Rogers specifies congruence, unconditional positive regard, and accurate empathic understanding as the relational conditions for therapeutic change, i.e., a stance rather than a technique of advice."
+    },
+    {
+      "evidence_id": "src-compassionate-clebsch-jaekle-1964",
+      "location": "Pastoral Care in Historical Perspective, functions of pastoral care",
+      "evidence_expression": "synthesis",
+      "note": "Clebsch and Jaekle trace healing, sustaining, guiding, and reconciling across eras, identifying 'sustaining' — staying with the person — as the historic core."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-compassionate-clebsch-jaekle-1964",
+      "note": "Section C traces four functions of pastoral care in Clebsch and Jaekle (healing, sustaining, guiding and reconciling), so the tradition the claim cites includes guidance alongside accompaniment and 'accompany instead of prescribe' overstates the source."
+    }
+  ],
+  "scope": "Second-person address of distress; essays and copy that console a reader.",
+  "exceptions": [
+    "Crisis or medical guidance where accurate, specific instruction is the actual need; there, unrequested advice is replaced by requested information, not by the compassionate register."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/compassionate.md#5--how-to-use-it--operators",
+    "tones/compassionate.md#2--why-it-works--the-mechanism"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

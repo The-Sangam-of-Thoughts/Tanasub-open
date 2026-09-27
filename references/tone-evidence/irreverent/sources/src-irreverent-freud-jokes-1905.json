@@ -1,0 +1,58 @@
+{
+  "id": "src-irreverent-freud-jokes-1905",
+  "title": "Jokes and Their Relation to the Unconscious",
+  "creators": [
+    "Sigmund Freud"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Standard Edition, Vol. VIII (Hogarth Press, London)",
+    "published_date": "1905",
+    "edition": "English Standard Edition translated by James Strachey (1960)",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Austria",
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://archive.org/details/jokestheirrelati0000freu",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "Internet Archive item record and the volume's three-part structure (the analytical part, the theoretical part, on the purpose of jokes) verified on 2026-09-24. Cited at whole-work level only: chapter/page locators within the Standard Edition volume were not verified, so no section-level claims rest on this source."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [
+    "clm-tone-irreverent-taboo-register-breach",
+    "clm-tone-irreverent-co-conspirator-distance"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "de",
+    "translator": "James Strachey",
+    "limitations": [
+      "Standard Edition pagination not verified; whole-work citation only."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Standard Edition is in copyright; paraphrased at whole-work level only."
+  }
+}

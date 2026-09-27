@@ -1,0 +1,50 @@
+{
+  "id": "src-reflective-cambridge-japanese-literature-2016",
+  "title": "The Cambridge History of Japanese Literature",
+  "creators": [
+    "Haruo Shirane",
+    "Tomi Suzuki",
+    "David Lurie"
+  ],
+  "source_type": "reference-work",
+  "source_roles": [
+    "recognition",
+    "definition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Cambridge University Press",
+    "published_date": "2016",
+    "edition": "eds. Haruo Shirane, Tomi Suzuki, David Lurie (some records cite 2015 publication)",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en", "ja"],
+  "regions": ["Japan"],
+  "access": {
+    "locator": "Library record: The Cambridge History of Japanese Literature (Cambridge University Press); chapter list confirmed via Cambridge Core",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reflective)",
+    "verification_notes": "Editors (Shirane, Suzuki, Lurie) confirmed via Cambridge Core and Columbia institutional records; ch. 14 (Haruo Shirane, 'The Pillow Book of Sei Shonagon') and ch. 15 (Sonja Arntzen, 'Heian literary diaries: from Tosa nikki to Sarashina nikki') confirmed via table-of-contents reproductions. Chapters not read in full this pass; used for genre canon framing."
+  },
+  "axis_ids": ["tone-reflective"],
+  "claim_ids": ["clm-tone-reflective-nonanglophone-analogues"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": [
+      "Essays are in English; Japanese primary texts are discussed in translation throughout, so genre descriptions carry the contributors' translation choices."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Cambridge University Press; analytical citations only."
+  }
+}

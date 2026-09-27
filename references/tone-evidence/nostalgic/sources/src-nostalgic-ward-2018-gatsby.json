@@ -1,0 +1,54 @@
+{
+  "id": "src-nostalgic-ward-2018-gatsby",
+  "title": "Jay Gatsby: A Dreamer Doomed to Be Excluded. The Novelist Jesmyn Ward Explains.",
+  "creators": [
+    "Jesmyn Ward"
+  ],
+  "source_type": "journalism",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 5,
+  "publication": {
+    "publisher_or_container": "The New York Times (Book Review)",
+    "published_date": "2018-04-12",
+    "edition": "Adapted from the author's introduction to a new Scribner edition of The Great Gatsby (April 2018); print version headlined 'The Doomed Dreamer', Page 10 of the Sunday Book Review",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://www.nytimes.com/2018/04/12/books/review/jesmyn-ward-great-gatsby.html",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-nostalgic)",
+    "verification_notes": "Full text fetched and read 2026-09-24: title, byline (Jesmyn Ward), date (April 12, 2018), and the essay's reading of Gatsby - fixation on recreating the moment when his life was most open to possibility, fossilization into a single version of himself, an identity 'bound by one perfect moment' - confirmed directly, as is the note that the essay adapts Ward's introduction to a 2018 Scribner edition. Tier-5 journalism: corroborating only, never sole support for a claim."
+  },
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "claim_ids": [
+    "clm-tone-nostalgic-self-continuity-frame"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Newspaper essay; paraphrased, only short attributed phrases, no passage reproduced."
+  }
+}

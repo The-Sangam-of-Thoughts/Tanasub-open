@@ -1,0 +1,37 @@
+{
+  "id": "clm-tone-intimate-catharsis-null",
+  "craft_claim": "There is no reliable evidence that writing one's disclosures produces a therapeutic benefit; the intimate tone must be justified as reader-facing craft, not as catharsis or self-help.",
+  "tone_ids": ["tone-intimate"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-intimate-mogk-expressive-writing-2009",
+      "location": "GMS Psycho-Social-Medicine; meta-analysis of 30 randomized controlled trials (PMC2736499)",
+      "evidence_expression": "paraphrase",
+      "note": "The meta-analysis found minor-to-no significant effects of expressive writing on somatic or psychological health, contradicting the earlier confident therapeutic claim."
+    },
+    {
+      "evidence_id": "src-intimate-pennebaker-beall-1986",
+      "location": "Journal of Abnormal Psychology 95(3): 274-281",
+      "evidence_expression": "synthesis",
+      "note": "The original study reported fewer health-centre visits after writing about trauma, but the authors labelled the findings preliminary; it is the origin of a claim later not robustly replicated."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-intimate-pennebaker-beall-1986",
+      "note": "Some physical-health benefits have been reported, and expressive writing may help some writers; the null is about reliable therapeutic benefit, not about whether writing can feel useful."
+    },
+    {
+      "evidence_id": "src-intimate-brown-daring-greatly-2012",
+      "note": "Popular vulnerability literature (Tier 4) asserts a cathartic/connective benefit, but it is not peer-reviewed evidence and is not used here to support the mechanism."
+    }
+  ],
+  "scope": "Any author-side justification for using the tone; prevents 'writing it out heals' reasoning from entering card §2 or §4.",
+  "exceptions": [
+    "Reflective or therapeutic private writing whose audience is the writer alone; that is tone-reflective, not tone-intimate."
+  ],
+  "confidence": "moderate",
+  "report_locations": ["tones/intimate.md#2--why-it-works--the-mechanism", "tones/intimate.md#7--failure-modes-and-revision"],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

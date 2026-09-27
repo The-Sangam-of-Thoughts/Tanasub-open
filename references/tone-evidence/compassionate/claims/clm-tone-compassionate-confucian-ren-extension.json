@@ -1,0 +1,38 @@
+{
+  "id": "clm-tone-compassionate-confucian-ren-extension",
+  "craft_claim": "Confucian ren is innate but incipient (the 'sprouts') and must be extended from the near case to the distant, so the voice can begin from a concrete, spontaneous response to one sufferer and extend the reader's concern outward.",
+  "tone_ids": [
+    "tone-compassionate"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "work-mengzi",
+      "location": "Mengzi 2A6 (child at the well), 6A6 (feeling of compassion as the sprout of ren), 1A7 (extension from ox to subjects), 7B31 (filling out)",
+      "evidence_expression": "synthesis",
+      "note": "Mencius grounds benevolence in a spontaneous, non-instrumental reaction to a child about to fall into a well, calls compassion the sprout of ren, and argues it must be extended from the near case to the distant."
+    },
+    {
+      "evidence_id": "src-compassionate-sep-mencius-2024",
+      "location": "Stanford Encyclopedia of Philosophy, 'Mencius', sections on the virtues and human nature",
+      "evidence_expression": "synthesis",
+      "note": "The SEP synthesis confirms the sprouts doctrine, the child-at-the-well thought experiment, and the extension argument, situating them in Mencius's ethical cultivation programme."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-compassionate-sep-mencius-2024",
+      "note": "Confucian care is graded (greater obligation to kin and friends), so it is not impartial compassion; the 'extension' is of concern within a role ethic, not a universalism."
+    }
+  ],
+  "scope": "Moral-extension narrative and argument; Indian/regional and comparative contexts.",
+  "exceptions": [
+    "Legal or impartialist argument that forbids favouring the near case."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/compassionate.md#8--cultural-scope",
+    "tones/compassionate.md#2--why-it-works--the-mechanism"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

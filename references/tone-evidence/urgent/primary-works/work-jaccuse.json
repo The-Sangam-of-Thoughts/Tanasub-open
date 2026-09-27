@@ -1,0 +1,38 @@
+{
+  "id": "work-jaccuse",
+  "title": "J'Accuse...!",
+  "creators": [
+    "Émile Zola"
+  ],
+  "work_type": "open-letter",
+  "published_date": "1898-01-13",
+  "languages": [
+    "fr"
+  ],
+  "regions": [
+    "France"
+  ],
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "period_role": "formative",
+  "source_id": "src-urgent-zola-jaccuse-1898",
+  "access": {
+    "edition_or_version": "L'Aurore, 13 January 1898 (public domain)",
+    "language_used": "fr",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "An open letter to the President of France charging the state with antisemitism and the unlawful conviction of Alfred Dreyfus.",
+    "tone_function": "Civic urgency at maximum compression: a public indictment that treats each passing day of injustice as intolerable.",
+    "time_handling": "The letter's force lies in unmasking a present, ongoing wrong rather than warning of a future one; the deadline is the continuing fact of imprisonment.",
+    "structure": "Direct address to a named authority, followed by a numbered litany of named accusations; the catalogue structure makes the urgency cumulative.",
+    "syntax_and_rhythm": "Short, parallel accusations built on a repeated first-person accusation verb create a hammering rhythm; the direct-address frame raises the register without softening it.",
+    "lexical_fields": "Crime, truth, justice, accusation, knowledge ('I know'); verbs of naming.",
+    "figurative_moves": "The letter personifies the state as a defendant; the writer assumes the prosecutor's role.",
+    "cost_and_stakes": "The urgency is material: publication exposed Zola to prosecution, and he was convicted of libel and fled. Urgency backed by demonstrated personal cost is ethically distinct from manufactured pressure.",
+    "verification_note": "Publication facts and aftermath (13 Jan 1898, L'Aurore, addressed to Félix Faure, conviction 23 Feb 1898) verified via reference summary. No passage reproduced."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "src-warm-brown-levinson-1987",
+  "title": "Politeness: Some Universals in Language Usage",
+  "creators": [
+    "Penelope Brown",
+    "Stephen C. Levinson"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Cambridge University Press",
+    "published_date": "1987",
+    "edition": "Reissue with new introduction (first essay 1978)",
+    "doi": null,
+    "isbn": "978-0521313551"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom",
+    "United States"
+  ],
+  "access": {
+    "locator": "https://psycnet.apa.org/record/1987-97641-000",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-warm)",
+    "verification_notes": "Confirmed authors, publisher and 1987 revised edition. Verified the positive-politeness output-strategy catalogue (notice wants, intensify interest, in-group markers, seek agreement, presuppose common ground, joke, include both parties, assume reciprocity) and the positive/negative face distinction."
+  },
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "claim_ids": [
+    "clm-tone-warm-positive-politeness",
+    "clm-tone-warm-crosscultural-affiliation",
+    "clm-tone-warm-dosage-yield"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Cambridge University Press book; analytical citation only."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "work-art-of-war-sun-tzu",
+  "title": "The Art of War",
+  "creators": [
+    "Sun Tzu (attributed)"
+  ],
+  "work_type": "treatise",
+  "published_date": "c. 5th century BCE (compiled over the Warring States period)",
+  "languages": [
+    "zh"
+  ],
+  "regions": [
+    "China"
+  ],
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "period_role": "formative",
+  "source_id": "src-urgent-frederick-loewenstein-odonoghue-2002",
+  "access": {
+    "edition_or_version": "Classical text; consulted via reference-level description of the text and its attributed authorship",
+    "language_used": "en",
+    "translator": "Not fixed",
+    "access_conditions": "open"
+  },
+  "analysis_status": "partial",
+  "mechanics": {
+    "premise": "A classical Chinese treatise on strategy that repeatedly treats time, speed and momentum as decisive resources.",
+    "tone_function": "Cross-cultural anchor for the idea that urgency is a property of the situation (the moment of advantage) rather than of emotional volume.",
+    "time_handling": "Speed and timely action are framed as strategic goods; delay is a lost position, not merely an emotional failure.",
+    "conceptual_vocabulary": "The classical notion of strategic configuration / momentum (shi) and the value of the opportune moment overlap functionally with kairos, though the traditions are not equivalent.",
+    "cultural_scope": "Warring States Chinese strategy; engagement is analogical and explicitly bounded, not an assertion of translatability.",
+    "translation_limits": "The text is compiled and its authorship attributed; key terms such as shi resist one-word English rendering.",
+    "verification_note": "Sun Tzu and the text's traditional attribution described via reference summary; marked partial because no single translation was page-inspected and key-term analysis would need specialist verification."
+  }
+}

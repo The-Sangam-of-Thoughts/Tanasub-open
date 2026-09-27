@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-deadpan-withheld-play-frame",
+  "craft_claim": "Deadpan works by withholding the play signal: the writer never announces the joke, so the reader must infer that a play frame is active. The inference is the mechanism; removing it converts comedy into literal statement.",
+  "tone_ids": ["tone-deadpan"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-deadpan-bateson-play-frame-1955",
+      "location": "in Bateson (ed.), *A Theory of Play and Fantasy*, pp. 31–56",
+      "evidence_expression": "paraphrase",
+      "note": "Bateson's play signal marks 'these are not the signals that they would be' — deadpan is defined by the removal of exactly this marker, requiring the participant to reframe unprompted. Tier 2, foundational theoretical paper."
+    },
+    {
+      "evidence_id": "src-deadpan-goffman-frame-analysis-1974",
+      "location": "ch. 3 and part VI",
+      "evidence_expression": "paraphrase",
+      "note": "Frame analysis explains the reader's re-framing work: a neutral surface must be reclassified as 'this is play/satire' using keys supplied elsewhere in the text. Tier 2 scholarly book."
+    },
+    {
+      "evidence_id": "src-deadpan-winner-point-of-words-1988",
+      "location": "ch. 4, pp. 104–142",
+      "evidence_expression": "paraphrase",
+      "note": "Winner documents that detecting nonliteral, teasing, or ironic intent is a learned competence — readers who lack the competence never enter the play frame. Tier 2 scholarly book; supports both the mechanism and failure mode (claim 5)."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-deadpan-clark-gerrig-pretense-1984",
+      "location": "pp. 121–126 (esp. obviousness discussion)",
+      "evidence_expression": "paraphrase",
+      "note": "Clark and Gerrig treat obviousness as a spectrum: pretense can be partially transparent, and audiences may knowingly go along with an obvious pretense. Bounds the claim: deadpan occupies the *least obvious* end but the frame need not be fully hidden for irony to work."
+    }
+  ],
+  "scope": "Written contexts where no performer is present to signal with face or timing. Holds for narration, essay, and dialogue; in stage/film media some signals (Keaton's face) are present but still minimal.",
+  "exceptions": "When the text supplies an early unmistakable 'tell' (an incongruity that cannot be sincere), the frame is inferred quickly and reliably; when no key exists at all, the reader stays literal (claims 5 and 9).",
+  "confidence": "moderate",
+  "report_locations": ["#2--why-it-works--the-mechanism", "#5--how-to-use-it--operators"],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

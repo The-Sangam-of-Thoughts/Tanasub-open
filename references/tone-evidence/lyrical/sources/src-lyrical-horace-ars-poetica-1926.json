@@ -1,0 +1,60 @@
+{
+  "id": "src-lyrical-horace-ars-poetica-1926",
+  "title": "Ars Poetica (Epistula ad Pisones)",
+  "creators": [
+    "Horace",
+    "H. Rushton Fairclough"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "craft-support",
+    "counterevidence"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Harvard University Press / William Heinemann (Loeb Classical Library); in Satires, Epistles and Ars Poetica",
+    "published_date": "1926",
+    "edition": "Loeb Classical Library, trans. H. Rushton Fairclough",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "la"
+  ],
+  "regions": [
+    "Roman Empire"
+  ],
+  "access": {
+    "locator": "https://archive.org/details/satiresepistlesa00horauoft",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-lyrical)",
+    "verification_notes": "Edition verified via Internet Archive advanced search (Fairclough, Heinemann/Harvard, 1926). The 'purple patch' warning at lines 14-23 confirmed as the origin of the ornament-without-function critique."
+  },
+  "axis_ids": [
+    "tone-lyrical"
+  ],
+  "claim_ids": [
+    "clm-tone-lyrical-music-of-prose-tradition",
+    "clm-tone-lyrical-purple-prose-failure"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "la",
+    "translator": "H. Rushton Fairclough",
+    "limitations": [
+      "Latin verse sound-patterns are not reproducible in English; the doctrine about ornamental display is the transferable content."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": false,
+    "notes": "Loeb translation public domain in the United States; no text reproduced."
+  }
+}

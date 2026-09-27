@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-defiant-moral-conviction-collective",
+  "craft_claim": "When moral conviction is integrated with social identity, it strengthens collective action intentions through identification with a moral cause, so a single moralized 'we' outperforms an inventory of grievances.",
+  "tone_ids": [
+    "tone-defiant"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-defiant-vanzomeren-conviction-2012",
+      "location": "British Journal of Social Psychology 51(1):52-71",
+      "evidence_expression": "synthesis",
+      "note": "The authors integrate moral conviction with the social identity model of collective action and report that conviction's collective consequences run through identification with a moral cause."
+    },
+    {
+      "evidence_id": "src-defiant-drury-reicher-2005",
+      "location": "European Journal of Social Psychology 35(1):35-58",
+      "evidence_expression": "synthesis",
+      "note": "Empowerment as an outcome depends on action being understood as expressing social identity, which converges with the conviction-through-identity pathway."
+    },
+    {
+      "evidence_id": "work-declaration-of-independence",
+      "location": "Opening pronouncement and closing pledge",
+      "evidence_expression": "synthesis",
+      "note": "The declaration constitutes a collective speaker and grounds its claim in self-evident principle, fusing identity and moral warrant in a single move."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-defiant-skitka-bauman-sargis-2005",
+      "note": "A moralized identity also predicts greater distance from dissenters; the strong 'we' can harden into an in-group that cannot hear the undecided."
+    }
+  ],
+  "scope": "Group-addressed resistance prose, manifestos, and movement testimony.",
+  "exceptions": [
+    "Identity-first framing can exclude audiences who do not already share the identity; when persuasion of outsiders is the goal, the identity term must be opened rather than asserted."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/defiant.md#2--why-it-works--the-mechanism",
+    "tones/defiant.md#6--combination-rules"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

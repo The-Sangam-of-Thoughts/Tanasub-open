@@ -1,0 +1,57 @@
+{
+  "id": "src-inspirational-wood-2009",
+  "title": "Positive Self-Statements: Power for Some, Peril for Others",
+  "creators": [
+    "Joanne V. Wood",
+    "W. Q. Elaine Perunovic",
+    "John W. Lee"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychological Science, vol. 20, no. 7, pp. 860-866",
+    "published_date": "2009",
+    "edition": null,
+    "doi": "10.1111/j.1467-9280.2009.02370.x",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Canada"
+  ],
+  "access": {
+    "locator": "https://journals.sagepub.com/doi/10.1111/j.1467-9280.2009.02370.x",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-inspirational)",
+    "verification_notes": "Citation, volume, pages, and DOI confirmed; author-hosted PDF confirms two experiments in which low-self-esteem participants repeating a positive self-statement felt worse, while high-self-esteem participants improved only to a limited degree."
+  },
+  "axis_ids": [
+    "tone-inspirational"
+  ],
+  "claim_ids": [
+    "clm-tone-inspirational-toxic-positivity-backfire",
+    "clm-tone-inspirational-self-efficacy-models",
+    "clm-tone-inspirational-dosage-yield"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "SAGE journal article; analytical citation only, no text reproduced."
+  }
+}

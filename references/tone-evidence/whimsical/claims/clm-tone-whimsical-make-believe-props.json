@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-whimsical-make-believe-props",
+  "craft_claim": "An invented creature, object, or law functions as a prop that prescribes specific imaginings; whimsical pleasure grows when the prop is internally consistent enough for the reader to imagine into it.",
+  "tone_ids": [
+    "tone-whimsical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-whimsical-walton-mimesis-1990",
+      "location": "Mimesis as Make-Believe (Harvard UP, 1990), ch. 1 ('Props and Fictional Truths', pp. 38-43) and ch. 4",
+      "evidence_expression": "paraphrase",
+      "note": "Walton treats representational works as props that, through principles of generation, prescribe imaginings and generate fictional truths; he regards engagement with them as continuous with children's games of make-believe."
+    },
+    {
+      "evidence_id": "work-cosmicomics",
+      "location": "Twelve stories, Italian 1965",
+      "evidence_expression": "synthesis",
+      "note": "Calvino literalizes a scientific premise (for example a once-closer Moon) and then reasons consistently inside the invented situation rather than treating it as a joke, so the premise operates as a prop the reader imagines through."
+    },
+    {
+      "evidence_id": "work-abol-tabol",
+      "location": "Collection of 53 quatrains, Bengali 1923",
+      "evidence_expression": "synthesis",
+      "note": "Ray compounds two ordinary animal names into a new creature that then behaves according to internally consistent absurd rules, so the neologism becomes a prop rather than a mere sound."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Fiction, poetry, and essay that invent entities or worlds the reader is invited to imagine.",
+  "exceptions": [
+    "Prop-oriented make-believe (Walton) uses an invented thing to communicate about the real world; that shading belongs nearer tone-philosophical or satirical-literature."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/whimsical.md#2--why-it-works--the-mechanism",
+    "tones/whimsical.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

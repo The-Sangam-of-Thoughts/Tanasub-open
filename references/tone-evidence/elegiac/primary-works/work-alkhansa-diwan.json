@@ -1,0 +1,34 @@
+{
+  "id": "work-alkhansa-diwan",
+  "title": "Diwan al-Khansa' (collected elegies)",
+  "creators": ["al-Khansa' (Tumadir bint 'Amr)"],
+  "work_type": "poetry-collection",
+  "published_date": "collected 9th c. CE; poems composed 7th c. CE",
+  "languages": ["ar"],
+  "regions": ["Arabian Peninsula", "Najd"],
+  "axis_ids": ["tone-elegiac"],
+  "period_role": "formative",
+  "source_id": "src-stetkevych-mute-immortals-1993",
+  "access": {
+    "edition_or_version": "Collected by Ibn al-Sikkit (802-858 CE); English translation by Arthur Wormhoudt, 1973",
+    "language_used": "ar (English translation consulted via secondary scholarship)",
+    "translator": "Arthur Wormhoudt (1973)",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "formulaic, repeated address to the dead brother (Sakhr, Mu'awiyah)",
+      "repeated imperative to the eye to weep, descending from ritual wailing (nawh)",
+      "public and iterative mourning sustained across many poems and years",
+      "despair at irretrievable loss, with the dead kept present rather than released",
+      "short poems built on refrains of remembered detail"
+    ],
+    "emotional_progression": "Summons to weep -> praise and memory of the dead -> insistence on the centrality of grief rather than resolution.",
+    "point_of_view": "First-person female mourner addressing the dead and her own weeping eye.",
+    "rhythm_and_cadence": "Monorhymed Arabic verse whose repetitions function ritually; the effect is incantatory rather than progressive.",
+    "psychic_distance": "Intimate address to the dead combined with public, ritual performance for the tribe.",
+    "style_and_devices": "Arabic ritha' conventions (ritha') as studied by Stetkevych; biographical recognition via Britannica. Translation limits: formulaic repetition in Arabic reads as redundancy in English.",
+    "copyright_note": "Source text ancient and public domain; the 1973 Wormhoudt translation is copyrighted. Described by technique only; no passage reproduced."
+  }
+}

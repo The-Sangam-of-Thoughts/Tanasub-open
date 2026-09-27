@@ -1,0 +1,66 @@
+{
+  "id": "src-urgent-anandavardhana-dhvanyaloka-1990",
+  "title": "The Dhvanyaloka of Anandavardhana with the Locana of Abhinavagupta",
+  "creators": [
+    "Anandavardhana",
+    "Abhinavagupta",
+    "Daniel H. H. Ingalls",
+    "Jeffrey Moussaieff Masson",
+    "M. V. Patwardhan"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support",
+    "indian-context"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Harvard University Press (Harvard Oriental Series Vol. 49)",
+    "published_date": "1990",
+    "edition": "Ingalls/Masson/Patwardhan translation",
+    "doi": null,
+    "isbn": "978-0674207301"
+  },
+  "languages": [
+    "en",
+    "sa"
+  ],
+  "regions": [
+    "India",
+    "South Asia",
+    "Kashmir"
+  ],
+  "access": {
+    "locator": "https://www.hup.harvard.edu/books/9780674207301",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-urgent)",
+    "verification_notes": "Silo mirror of the verified shared record src-anandavardhana-dhvanyaloka-1990. Used here for the broader claim that aesthetic effect (including the effect of a tense or forceful passage) is judged by propriety and suggested meaning rather than by surface intensity. The specific Sanskrit concept aucitya (propriety of fit, including fit of moment) is a specialist lead not page-verified here; see dossier evidence-incomplete note."
+  },
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "claim_ids": [
+    "clm-tone-urgent-indian-energetic-style"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "sa",
+    "translator": "Daniel H. H. Ingalls, J. M. Masson, M. V. Patwardhan",
+    "limitations": [
+      "Sanskrit aesthetic technical terminology requires bilingual cross-referencing.",
+      "aucitya (propriety) is most developed in Kshemendra's later poetics, outside this edition; that extension is flagged as evidence-incomplete."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Harvard Oriental Series edition; translation copyrighted; analytical citation only, no reproduction."
+  }
+}

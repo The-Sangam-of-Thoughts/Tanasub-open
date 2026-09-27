@@ -1,0 +1,27 @@
+{
+  "id": "work-detached-jealousy",
+  "title": "Jealousy (La Jalousie)",
+  "creators": ["Alain Robbe-Grillet"],
+  "work_type": "novel",
+  "published_date": "1957",
+  "languages": ["fr", "en"],
+  "regions": ["France"],
+  "axis_ids": ["tone-detached"],
+  "period_role": "formative",
+  "source_id": "src-detached-robbegrillet-new-novel-1963",
+  "access": {
+    "edition_or_version": "English translation by Richard Howard (Grove Press / Calder)",
+    "language_used": "en",
+    "translator": "Richard Howard",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "point_of_view": "External focalization by an unnamed, camera-like observer; no direct interior access.",
+    "style_and_devices": "Precise spatial catalogs; repetition and variation of surfaces; metonymic imagery; neutral registering of things.",
+    "emotional_progression": "Jealousy is never stated; it is inferred from the observer's obsessive attention and the geometry of the house.",
+    "dialogue": "Fragmented and reported at a remove; speech is one object among others.",
+    "tone_mechanism": "Demonstrates clm-tone-detached-psychic-distance and clm-tone-detached-reader-emotion-inference.",
+    "verification_note": "Novel and its camera-eye narration confirmed; Robbe-Grillet's theoretical program in Pour un nouveau roman."
+  }
+}

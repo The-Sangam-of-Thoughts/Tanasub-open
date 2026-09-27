@@ -1,0 +1,42 @@
+{
+  "id": "clm-causal-escalation-vs-episodic",
+  "craft_claim": "Plot coherence depends on causal necessity ('because of that') linking events rather than mere chronological sequence ('and then').",
+  "axis_ids": [
+    "axis-dastan-tradition",
+    "axis-ghazal-sequence",
+    "axis-katha-tradition",
+    "axis-picaresque-literature",
+    "axis-vachana-poetry"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-forster-aspects-novel-1927",
+      "location": "Chapter 5: The Plot, pp. 99-125",
+      "evidence_expression": "quotation",
+      "note": "Forster distinguishes plot from story by demanding causality: 'The king died and then the queen died' is story; 'The king died and then the queen died of grief' is plot."
+    },
+    {
+      "evidence_id": "src-aristotle-poetics-1996",
+      "location": "Chapter 9: Episodic Plots",
+      "evidence_expression": "quotation",
+      "note": "Aristotle calls episodic plots the worst, where episodes succeed one another without probable or necessary sequence."
+    },
+    {
+      "evidence_id": "work-godan",
+      "location": "Hori's progressive indebtedness",
+      "evidence_expression": "synthesis",
+      "note": "Every misfortune stems directly from Hori's prior compromises with village money-lending rules."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Plot-driven narrative forms.",
+  "exceptions": [
+    "Picaresque literature where episodic wandering and chance encounters constitute the primary genre convention."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "05-structure-plot-and-escalation.md#structure-plot-and-escalation-preferred_label"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-12"
+}

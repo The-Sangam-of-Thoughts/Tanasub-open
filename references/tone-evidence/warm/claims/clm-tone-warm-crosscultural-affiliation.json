@@ -1,0 +1,43 @@
+{
+  "id": "clm-tone-warm-crosscultural-affiliation",
+  "craft_claim": "Non-Anglophone traditions practise affiliative warmth (Japanese haibun companionship; Persian adab counsel; Southern African ubuntu humaneness), but what counts as warm differs, so no single technique is universal.",
+  "tone_ids": [
+    "tone-warm"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-warm-basho-hosomichi-1966",
+      "location": "Oku no Hosomichi (1689 journey; Yuasa trans. 1966)",
+      "evidence_expression": "synthesis",
+      "note": "Basho's haibun records a long journey with a companion and addresses readers as fellow travellers, producing unhurried companionable warmth through ordinary places."
+    },
+    {
+      "evidence_id": "src-warm-sadi-gulistan-1258",
+      "location": "Gulistan (1258), framing and stories",
+      "evidence_expression": "paraphrase",
+      "note": "Sa'di offers moral counsel in an adab register of simple elegant prose, presenting severe instruction as a friend's advice sweetened with wit."
+    },
+    {
+      "evidence_id": "src-warm-ramose-ubuntu-1999",
+      "location": "African Philosophy Through Ubuntu (1999)",
+      "evidence_expression": "paraphrase",
+      "note": "Ramose grounds humaneness in the maxim umuntu ngumuntu ngabantu (a person is a person through other persons), making affiliation an ontological rather than merely stylistic matter."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-warm-brown-levinson-1987",
+      "note": "The claimed universality of positive politeness has been repeatedly contested in cross-cultural pragmatics (e.g., Japanese solidarity and honorific systems behave differently), so forms must not be exported as universals."
+    }
+  ],
+  "scope": "Cross-cultural deployment of the tone; establishes function-level commonality while refusing technique-level universals.",
+  "exceptions": [
+    "Cultures where unsolicited familiarity registers as intrusion rather than kindness."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/warm.md#8--cultural-scope"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

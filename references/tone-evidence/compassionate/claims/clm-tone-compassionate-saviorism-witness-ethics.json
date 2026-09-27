@@ -1,0 +1,50 @@
+{
+  "id": "clm-tone-compassionate-saviorism-witness-ethics",
+  "craft_claim": "Writing another's suffering fails when it centres the helper's sentiment, erases the sufferer's agency, or speaks over them; ethical witness keeps the sufferer as the subject of their own account.",
+  "tone_ids": [
+    "tone-compassionate"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-compassionate-cole-2012",
+      "location": "The Atlantic, 21 March 2012, 'The White-Savior Industrial Complex'",
+      "evidence_expression": "synthesis",
+      "note": "Cole names helping narrated as an emotional experience that validates the helper's privilege, reducing the helped to 'hungry mouths', and calls for respect for the agency and consultation of those concerned."
+    },
+    {
+      "evidence_id": "src-compassionate-bex-craps-2016",
+      "location": "Cultural Critique 92:32-56, humanitarian testimony vs Kony 2012",
+      "evidence_expression": "synthesis",
+      "note": "Bex and Craps contrast testimony that preserves the sufferer's voice with advocacy that makes the sufferer a backdrop for Western heroism."
+    },
+    {
+      "evidence_id": "src-compassionate-spivak-1988",
+      "location": "'Can the Subaltern Speak?', representation and the subaltern",
+      "evidence_expression": "synthesis",
+      "note": "Spivak documents the epistemic harm of representing marginalised others from a position that cannot hear them."
+    },
+    {
+      "evidence_id": "src-compassionate-sontag-2003",
+      "location": "Regarding the Pain of Others, spectatorship and the representation of atrocity",
+      "evidence_expression": "synthesis",
+      "note": "Sontag warns that representing others' suffering can produce solidarity or numbing, and that spectatorship is not understanding."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-compassionate-spivak-1988",
+      "note": "The claim that a speaker can never represent another risks a paralysing essentialism; the safer rule is make room for the sufferer's own voice, not abstain entirely."
+    }
+  ],
+  "scope": "Testimony, reportage, advocacy prose, and any narration of a socially distant sufferer.",
+  "exceptions": [
+    "Fiction that clearly frames a fallible or satirised helper as the object of critique."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/compassionate.md#7--failure-modes-and-revision",
+    "tones/compassionate.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "src-irreverent-kabir-tagore-1915",
+  "title": "One Hundred Poems of Kabir",
+  "creators": [
+    "Kabir",
+    "Rabindranath Tagore",
+    "Evelyn Underhill"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "craft-support",
+    "indian-context"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "1915 English edition; Internet Archive scan (item onehundredpoemso00kabiuoft)",
+    "published_date": "1915",
+    "edition": "First English edition, translated by Rabindranath Tagore assisted by Evelyn Underhill",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "India"
+  ],
+  "access": {
+    "locator": "https://archive.org/details/onehundredpoemso00kabiuoft",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "Full scan text inspected this session; locators confirmed without quoting: Translator's Introduction p. xvi (the tradition's apparatus of piety is what Kabir denounced); Poem XXI pp. 28-29 (priestly garb and sworn devotion masking predation); Poems LXV-LXVII pp. 68-71 (idol-worship, ceremonial dress, and ritual bathing mocked); Poem LXIX pp. 72-73 (wonder-working friar scene with Hindu/Muslim irony). Open Library OL316213W corroborates title, translator, and 1915 first publication. All content described, never reproduced."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [
+    "clm-tone-irreverent-indian-anticlerical-hasya",
+    "clm-tone-irreverent-hierarchy-leveling"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": null,
+    "translator": "Rabindranath Tagore, assisted by Evelyn Underhill",
+    "limitations": [
+      "Kabir's poems survive in North Indian vernacular bhakti registers; the exact source language behind the 1915 English mediation was not verified this session (original_language left null rather than guessed). All locators refer to the 1915 English verse; reception and nuance are translation-mediated."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": true,
+    "notes": "1915 edition public domain in the USA; no full text stored in this repository — verified locators and description only."
+  }
+}

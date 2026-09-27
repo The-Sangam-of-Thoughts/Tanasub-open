@@ -1,0 +1,61 @@
+{
+  "id": "src-cynical-naim-parsai-matadeen-1994",
+  "title": "Inspector Matadeen on the Moon and Other Satires",
+  "creators": [
+    "Harishankar Parsai",
+    "C. M. Naim"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "craft-support",
+    "indian-context"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Manas Books (Chennai)",
+    "published_date": "1994",
+    "edition": "First English collection; reissued by Katha Press, 2003",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "hi"
+  ],
+  "regions": [
+    "India",
+    "Madhya Pradesh"
+  ],
+  "access": {
+    "locator": "Manas Books, 1994; Katha reprint, 2003 (library catalogs)",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-cynical)",
+    "verification_notes": "Edition identity (21 stories; trans. C. M. Naim; Manas Books 1994; Katha reprint 2003) confirmed via library catalog and reference metadata on 2026-09-24; full text not inspected. Author facts (1924-1995; Sahitya Akademi Award 1982 for Viklaang Shraddha ka Daur) confirmed via Wikipedia API extract. Used as the English access point for Parsai's deadpan bureaucratic Hindi satire. No passage quoted."
+  },
+  "axis_ids": [
+    "tone-cynical"
+  ],
+  "claim_ids": [
+    "clm-tone-cynical-crosscultural-deflation",
+    "clm-tone-cynical-rasa-dhvani-mapping"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "hi",
+    "translator": "C. M. Naim",
+    "limitations": [
+      "Hindi idiom, proverbs, and bureaucratic register are only partly carried in English; claims are limited to narrative stance and structure as rendered, not to Parsai's wordplay."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Manas Books / Katha collection; translation copyrighted; techniques described, no passage reproduced."
+  }
+}

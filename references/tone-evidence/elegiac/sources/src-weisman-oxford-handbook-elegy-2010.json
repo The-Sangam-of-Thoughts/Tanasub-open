@@ -1,0 +1,41 @@
+{
+  "id": "src-weisman-oxford-handbook-elegy-2010",
+  "title": "The Oxford Handbook of the Elegy",
+  "creators": ["Karen Weisman"],
+  "source_type": "scholarly-book",
+  "source_roles": ["recognition", "definition"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Oxford University Press",
+    "published_date": "2010",
+    "edition": "First edition",
+    "doi": "10.1093/oxfordhb/9780199228133.001.0001",
+    "isbn": "9780199228133"
+  },
+  "languages": ["en"],
+  "regions": ["United Kingdom", "United States"],
+  "access": {
+    "locator": "https://academic.oup.com/edited-volume/28093",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-elegiac)",
+    "verification_notes": "Existence, editor, publisher, year, page count, and the observation that 'elegy' is remarkably ill-defined (somber tone / monumentalizing / lament for the dead) verified via Oxford Academic and library catalogs."
+  },
+  "axis_ids": ["tone-elegiac"],
+  "claim_ids": ["clm-tone-elegiac-consolation-arc"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Edited scholarly handbook; analytical paraphrase only."
+  }
+}

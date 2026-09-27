@@ -1,0 +1,45 @@
+{
+  "id": "src-sacks-english-elegy-1985",
+  "title": "The English Elegy: Studies in the Genre from Spenser to Yeats",
+  "creators": ["Peter M. Sacks"],
+  "source_type": "scholarly-book",
+  "source_roles": ["recognition", "definition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Johns Hopkins University Press",
+    "published_date": "1985",
+    "edition": "First edition (paperback 1987, ISBN 9780801834714)",
+    "doi": null,
+    "isbn": "9780801834714"
+  },
+  "languages": ["en"],
+  "regions": ["United Kingdom", "United States"],
+  "access": {
+    "locator": "https://www.hfsbooks.com/books/the-english-elegy-sacks",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-elegiac)",
+    "verification_notes": "Existence, publisher, year, and the Christian Gauss Award verified via Johns Hopkins University Press/HFS Books listing and multiple library catalogs. The formulation of elegy as a poem of mortal loss and consolation and the convention list (pastoral contexts, repetition and refrains, vengeful anger) verified via the published introduction excerpt."
+  },
+  "axis_ids": ["tone-elegiac"],
+  "claim_ids": [
+    "clm-tone-elegiac-present-loss",
+    "clm-tone-elegiac-consolation-arc",
+    "clm-tone-elegiac-apostrophe-address"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scholarly monograph; analytical paraphrase only, no reproduction."
+  }
+}

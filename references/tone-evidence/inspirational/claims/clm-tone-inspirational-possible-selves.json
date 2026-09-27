@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-inspirational-possible-selves",
+  "craft_claim": "Future-self imagery links self-concept to motivation, but it changes behaviour only when joined to plausible, concrete strategies and a reframed meaning of difficulty.",
+  "tone_ids": [
+    "tone-inspirational"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-inspirational-markus-nurius-1986",
+      "location": "American Psychologist 41(9):954-969",
+      "evidence_expression": "paraphrase",
+      "note": "Possible selves are future-projected elements of self-knowledge, both hoped-for and feared, that provide the cognitive link between self-concept and motivation."
+    },
+    {
+      "evidence_id": "src-inspirational-oyserman-2006",
+      "location": "Journal of Personality and Social Psychology 91(1):188-204, intervention and mediation analyses",
+      "evidence_expression": "synthesis",
+      "note": "A randomized school intervention showed possible selves alone were insufficient; academic gains required linking possible selves with plausible strategies, congruent identity, and a reframed meaning of difficulty, with effects sustained at two-year follow-up and mediated by change in possible selves."
+    },
+    {
+      "evidence_id": "work-nuestra-america",
+      "location": "Essay, first published 10 January 1891",
+      "evidence_expression": "synthesis",
+      "note": "Marti pairs a forward continental ideal with named obstacles (imported doctrine, internal division), a balanced-vision structure consistent with possible-selves theory."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-inspirational-markus-nurius-1986",
+      "note": "Section B defines possible selves as both hoped-for and feared, and the link from self-concept to motivation runs through the feared future self as well, so future-self imagery is not inherently uplifting and the inspirational use selects one half of a two-sided construct."
+    }
+  ],
+  "scope": "Uplift aimed at identity or behavioural change across essay, speech, and blog forms.",
+  "exceptions": [
+    "Purely commemorative or celebratory passages may invoke a future self without a strategy and still function as tone-warm or tone-reverent rather than motivational."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/inspirational.md#2--why-it-works--the-mechanism",
+    "tones/inspirational.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

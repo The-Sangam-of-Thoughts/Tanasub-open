@@ -1,0 +1,66 @@
+{
+  "id": "src-aristotle-poetics-1996",
+  "title": "Poetics",
+  "creators": [
+    "Aristotle",
+    "Malcolm Heath"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support",
+    "history"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Penguin Books",
+    "published_date": "1996",
+    "edition": "Penguin Classics edition",
+    "doi": null,
+    "isbn": "978-0140446364"
+  },
+  "languages": [
+    "en",
+    "grc"
+  ],
+  "regions": [
+    "Europe",
+    "Greece"
+  ],
+  "access": {
+    "locator": "https://www.penguinrandomhouse.com/books/260759/poetics-by-aristotle/",
+    "accessed_at": "2026-09-12",
+    "access_conditions": "purchased"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-12T14:00:00Z",
+    "verified_by": "Codex S10 foundation evidence agent",
+    "verification_notes": "Directly verified against chapters on mimesis, plot causality (mythos), reversal (peripeteia), recognition (anagnorisis), and catharsis."
+  },
+  "axis_ids": [
+    "axis-feature-screenplay",
+    "axis-nataka-drama",
+    "axis-thriller-fiction"
+  ],
+  "claim_ids": [
+    "clm-three-act-plot-points",
+    "clm-causal-escalation-vs-episodic",
+    "clm-climax-inevitability-surprise",
+    "clm-denouement-resonance"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "grc",
+    "translator": "Malcolm Heath",
+    "limitations": [
+      "Ancient Greek technical terms (hamartia, catharsis, mythos) have contested translations in modern English craft."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Translation text copyrighted; analytical citation and claim mapping only."
+  }
+}

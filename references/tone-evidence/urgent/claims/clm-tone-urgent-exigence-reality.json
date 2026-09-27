@@ -1,0 +1,41 @@
+{
+  "id": "clm-tone-urgent-exigence-reality",
+  "craft_claim": "Legitimate urgency tracks a real, locatable exigence whose resolution is still possible; when the pressure originates in the rhetoric rather than the situation, the tone becomes manufactured.",
+  "tone_ids": [
+    "tone-urgent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-urgent-bitzer-rhetorical-situation-1968",
+      "location": "The Rhetorical Situation, pp. 1-14 (exigence as the organizing element of the situation)",
+      "evidence_expression": "paraphrase",
+      "note": "Bitzer defines rhetorical discourse as called into existence by a situation containing an exigence: an imperfection that can be positively modified by discourse. This gives the tone a test for real versus staged pressure."
+    },
+    {
+      "evidence_id": "src-urgent-poulakos-sophistic-rhetoric-1983",
+      "location": "Toward a Sophistic Definition of Rhetoric, pp. 35-48 (kairos)",
+      "evidence_expression": "paraphrase",
+      "note": "The Sophistic treatment ties effective speech to the opportune moment (kairos) and to appropriateness (prepon); urgency is legitimate when the moment is genuinely opportune, not when the moment is asserted."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-urgent-vatz-myth-rhetorical-situation-1973",
+      "location": "The Myth of the Rhetorical Situation, pp. 154-161",
+      "evidence_expression": "paraphrase",
+      "note": "Vatz argues that rhetoric makes situations salient rather than being determined by them. This is the precise mechanism by which urgency can be fabricated: the rhetor manufactures salience and then claims the situation demanded it."
+    }
+  ],
+  "scope": "Persuasive, informational and fiction prose in which urgency is claimed as a reason to act.",
+  "exceptions": [
+    "Openly fictional dramatized clocks (a countdown invented for a story) are not deception when the fiction frame is clear.",
+    "Satire or critique of marketing urgency may perform manufactured pressure deliberately, with the performance as the object of critique."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/urgent.md#1--definition-and-boundaries",
+    "tones/urgent.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

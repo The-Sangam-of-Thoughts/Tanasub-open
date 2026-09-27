@@ -1,0 +1,41 @@
+{
+  "id": "src-detached-bal-veltkamp-empathy-2013",
+  "title": "How Does Fiction Reading Influence Empathy? An Experimental Investigation on the Role of Emotional Transportation",
+  "creators": ["P. Matthijs Bal", "Martijn Veltkamp"],
+  "source_type": "peer-reviewed-article",
+  "source_roles": ["craft-support", "recognition"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "PLOS ONE",
+    "published_date": "2013-01-30",
+    "edition": "Vol. 8, No. 1, e55341",
+    "doi": "10.1371/journal.pone.0055341",
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["Netherlands"],
+  "access": {
+    "locator": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0055341",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-detached)",
+    "verification_notes": "Article retrieved directly (open access). Low emotional transportation predicted decreased empathy over one week; high transportation predicted increased empathy among fiction readers."
+  },
+  "axis_ids": ["tone-detached"],
+  "claim_ids": ["clm-tone-detached-transportation-risk"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "open-access",
+    "repository_copy_allowed": false,
+    "notes": "CC BY 3.0; synthesis only, no reproduction."
+  }
+}

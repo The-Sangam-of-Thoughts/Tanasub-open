@@ -1,0 +1,54 @@
+{
+  "id": "src-compassionate-batson-1991",
+  "title": "The Altruism Question: Toward a Social-Psychological Answer",
+  "creators": [
+    "C. Daniel Batson"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Lawrence Erlbaum Associates",
+    "published_date": "1991",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "Open Library work OL4300746W (https://openlibrary.org/works/OL4300746W)",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-compassionate)",
+    "verification_notes": "Open Library confirmed title, author, and 1991 first publication. The empathy-altruism program's instructed perspective-taking findings are summarized at book level; specific study locators are not claimed because the volume was not inspected page-by-page."
+  },
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "claim_ids": [
+    "clm-tone-compassionate-perspective-taking"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Monograph; analytical citation only; no text reproduced."
+  }
+}

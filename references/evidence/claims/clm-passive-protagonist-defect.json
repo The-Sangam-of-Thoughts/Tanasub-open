@@ -1,0 +1,39 @@
+{
+  "id": "clm-passive-protagonist-defect",
+  "craft_claim": "A protagonist who reacts only to external shocks without making difficult decisions with irreversible costs produces viewer disengagement.",
+  "axis_ids": [
+    "axis-episodic-television-script",
+    "axis-feature-screenplay"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-egri-art-dramatic-writing-1946",
+      "location": "Chapter 2: Weak Characters, pp. 99-112",
+      "evidence_expression": "quotation",
+      "note": "Egri shows that a character who cannot make decisions or fight for their conviction cannot carry a drama."
+    },
+    {
+      "evidence_id": "src-mckee-story-1997",
+      "location": "Chapter 7: The Substance of Story, pp. 135-152",
+      "evidence_expression": "paraphrase",
+      "note": "McKee demonstrates that a passive protagonist reduces drama to coincidence and melodrama."
+    },
+    {
+      "evidence_id": "work-things-fall-apart",
+      "location": "Okonkwo's choices",
+      "evidence_expression": "synthesis",
+      "note": "Okonkwo's tragedy is devastating because every catastrophe is rooted in his own aggressive choices, not passive victimhood."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Dramatic storytelling.",
+  "exceptions": [
+    "Naturalist fiction depicting total human powerlessness against industrial-economic machinery."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "13-failure-modes-and-revision.md#failure-modes-and-revision-preferred_label"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-12"
+}

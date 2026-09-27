@@ -1,0 +1,54 @@
+{
+  "id": "clm-showing-telling-balance",
+  "craft_claim": "Mastery of narrative scale requires alternating rhythmically between scene dramatization ('showing') for emotional crises and narrative summary ('telling') for temporal transitions.",
+  "axis_ids": [
+    "axis-cyberpunk",
+    "axis-dastan-tradition",
+    "axis-epistolary-fiction",
+    "axis-frame-narrative",
+    "axis-ghazal-sequence",
+    "axis-horror-fiction",
+    "axis-katha-tradition",
+    "axis-nataka-drama",
+    "axis-pastoral-literature",
+    "axis-picaresque-literature",
+    "axis-prakarana-drama",
+    "axis-psychological-fiction",
+    "axis-psychological-thriller",
+    "axis-satirical-literature",
+    "axis-speculative-fiction",
+    "axis-urban-fantasy",
+    "axis-vachana-poetry"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-burroway-writing-fiction-2019",
+      "location": "Chapter 2: Seeing Is Believing, pp. 25-50",
+      "evidence_expression": "paraphrase",
+      "note": "Burroway clarifies the crude 'show don't tell' rule by showing that narrative summary is essential for compression and rhythm."
+    },
+    {
+      "evidence_id": "src-gardner-art-fiction-1984",
+      "location": "Chapter 3: Common Errors, pp. 55-72",
+      "evidence_expression": "paraphrase",
+      "note": "Gardner warns against dramatizing trivial moments while summarizing crucial emotional confrontations."
+    },
+    {
+      "evidence_id": "work-things-fall-apart",
+      "location": "Part 2, Mbanta exile summary vs Ikemefuna scene",
+      "evidence_expression": "synthesis",
+      "note": "Achebe summarizes seven years of exile in brief chapters but renders the death of Ikemefuna in intense beat-by-beat dramatic scene."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Prose fiction across all genres.",
+  "exceptions": [
+    "Pure drama or screenplays where all story action must be dramatized visually or through speech."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "11-literary-devices-and-language-techniques.md#literary-devices-and-language-techniques-preferred_label"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-12"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-philosophical-essai-provisional",
+  "craft_claim": "The essay form's founding licence — an attempt that need not conclude — lets the philosophical voice test an idea openly rather than assert doctrine.",
+  "tone_ids": [
+    "tone-philosophical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-philosophical-montaigne-frame-1958",
+      "location": "Preface 'To the Reader' and the Essais, Books I-III",
+      "evidence_expression": "synthesis",
+      "note": "Montaigne coined 'essai' from the French for trial or attempt; the essays proceed by testing judgment without obligation to reach a verdict."
+    },
+    {
+      "evidence_id": "src-philosophical-adorno-essay-form-1991",
+      "location": "Notes to Literature Vol. 1, 'The Essay as Form'",
+      "evidence_expression": "paraphrase",
+      "note": "Adorno theorises the essay as a mode of critical inquiry that rejects closure, tolerates doubt, and works between art and systematic science."
+    },
+    {
+      "evidence_id": "work-kenko-tsurezuregusa",
+      "location": "The zuihitsu sequence as a whole",
+      "evidence_expression": "synthesis",
+      "note": "Kenko's miscellaneous sections accumulate into a view of impermanence without ever asserting a single thesis."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Essays, academic blog posts, literary non-fiction, column writing, and essayistic interludes in fiction.",
+  "exceptions": [
+    "In academic L0 a bounded conclusion is still required; provisionality lives in the reasoning, not in abandoning the answer."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/philosophical.md#2--why-it-works--the-mechanism",
+    "tones/philosophical.md#3--when-it-works"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "work-gray-elegy-1751",
+  "title": "Elegy Written in a Country Churchyard",
+  "creators": ["Thomas Gray"],
+  "work_type": "poem",
+  "published_date": "1751",
+  "languages": ["en"],
+  "regions": ["United Kingdom", "England"],
+  "axis_ids": ["tone-elegiac"],
+  "period_role": "formative",
+  "source_id": "src-sacks-english-elegy-1985",
+  "access": {
+    "edition_or_version": "First published 1751 as 'An Elegy Wrote in a Country Church Yard'; public-domain text (Project Gutenberg, Wikisource)",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "open"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "present-tense mortality meditation (the curfew, the fading landscape)",
+      "ubi sunt / vanished-labor imagery: hearth, harvest, children no longer returning",
+      "plain, largely monosyllabic diction holding strong feeling at a distance",
+      "synecdoche and epitaph: the nameless dead as 'rude forefathers'",
+      "withheld consolation: the poem closes on the speaker's own anticipated grave rather than a resolved lesson"
+    ],
+    "emotional_progression": "Evening stillness -> elegiac enumeration of the unremembered dead -> meditation on thwarted potential -> turn toward the speaker's own mortality.",
+    "point_of_view": "First-person meditative observer moving among graves, widening to generalized reflection.",
+    "rhythm_and_cadence": "Iambic pentameter quatrains (ABAB) with a slow, falling cadence; heavy caesurae slow the line to a walking pace.",
+    "psychic_distance": "Tender but restrained: the speaker mourns strangers at a slight remove, then draws close to his own end.",
+    "style_and_devices": "Graveyard mode; personification of evening and death; apostrophe to abstractions (Ambition, Grandeur); emblematic rather than confessional.",
+    "copyright_note": "Public domain. Described by technique only; no passage reproduced."
+  }
+}

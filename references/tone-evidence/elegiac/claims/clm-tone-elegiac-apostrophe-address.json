@@ -1,0 +1,45 @@
+{
+  "id": "clm-tone-elegiac-apostrophe-address",
+  "craft_claim": "Apostrophe and direct second-person address to the absent dead, often joined to ubi sunt and seasonal imagery, are core elegiac figures that keep the lost present.",
+  "tone_ids": ["tone-elegiac"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-sacks-english-elegy-1985",
+      "location": "Introduction and chapters on the elegiac conventions",
+      "evidence_expression": "paraphrase",
+      "note": "Sacks lists pastoral contexts, repetition and refrains, and other conventions as elements in the performance of mourning; address to the dead keeps the dead grammatically alive."
+    },
+    {
+      "evidence_id": "src-stetkevych-mute-immortals-1993",
+      "location": "Chapters on the pre-Islamic ritha'",
+      "evidence_expression": "paraphrase",
+      "note": "The Arabic elegy's formulaic address to the slain and repeated imperative to the eye to weep are ritual address, not merely decoration."
+    },
+    {
+      "evidence_id": "src-lambert-placing-sorrow-1976",
+      "location": "Chapters on the pastoral elegy convention from Theocritus to Milton",
+      "evidence_expression": "paraphrase",
+      "note": "The pastoral elegy's flower and season imagery objectifies impermanence and frames the address to the lost."
+    },
+    {
+      "evidence_id": "work-auden-memory-yeats-1939",
+      "location": "The three-part structure of the poem",
+      "evidence_expression": "synthesis",
+      "note": "Auden addresses and characterizes the dead poet while the ordinary world continues indifferently, a modern use of elegiac address."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-ramazani-poetry-mourning-1994",
+      "note": "Section G item 5 'Borrowed sorrow': Ramazani's unearned or self-regarding mourning means elegiac cadence and direct address can be performed on losses the text has never made real, in which case the address keeps no dead present and reads as display."
+    }
+  ],
+  "scope": "Poetry and lyric prose; in fiction the equivalent is direct interior address or a kept object.",
+  "exceptions": [
+    "Address used for rhetorical heightening without genuine absence becomes hollow apostrophe and can read as sentimental."
+  ],
+  "confidence": "strong",
+  "report_locations": ["tones/elegiac.md#5--how-to-use-it--operators"],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

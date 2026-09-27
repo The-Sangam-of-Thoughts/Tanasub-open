@@ -1,0 +1,52 @@
+{
+  "id": "src-compassionate-arendt-1963",
+  "title": "On Revolution",
+  "creators": [
+    "Arendt"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": null,
+    "published_date": "1963",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [],
+  "access": {
+    "locator": null,
+    "accessed_at": "2026-09-24",
+    "access_conditions": null
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": null,
+    "verified_by": "Tone Layer researcher (tone-compassionate)",
+    "verification_notes": "Citation recorded from the dossier claims matrix: Arendt (1963) supports the compassion/pity distinction (chapter-level locator not stated in the dossier), and the dossier also records the distinction as interpretive and contested (confidence moderate). The dossier states no publisher, author given name, region, chapter locator, or verification, so those fields are null."
+  },
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "claim_ids": [
+    "clm-tone-compassionate-pity-distinction"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scholarly book; analytical citation only; no text reproduced."
+  }
+}

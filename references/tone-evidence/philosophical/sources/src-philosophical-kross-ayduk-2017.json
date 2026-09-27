@@ -1,0 +1,56 @@
+{
+  "id": "src-philosophical-kross-ayduk-2017",
+  "title": "Self-Distancing: Theory, Research, and Current Directions",
+  "creators": [
+    "Ethan Kross",
+    "Ozlem Ayduk"
+  ],
+  "source_type": "scholarly-book-chapter",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Advances in Experimental Social Psychology, Vol. 55 (Academic Press)",
+    "published_date": "2017",
+    "edition": null,
+    "doi": "10.1016/bs.aesp.2016.10.002",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://sites.lsa.umich.edu/emotion-selfcontrol-psych/wp-content/uploads/sites/1322/2017/09/Self-distancing-theory-research-future.pdf",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-philosophical)",
+    "verification_notes": "Confirmed the review's core distinction between self-immersed rumination and self-distanced reflection, and that adopting an observer stance enables adaptive, less reactive reflection."
+  },
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "claim_ids": [
+    "clm-tone-philosophical-self-distanced-thought"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Elsevier volume chapter; analytical citation only."
+  }
+}

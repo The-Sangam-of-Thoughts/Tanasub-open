@@ -1,0 +1,29 @@
+{
+  "id": "work-lowell-life-studies",
+  "title": "Life Studies",
+  "creators": ["Robert Lowell"],
+  "work_type": "poetry collection (with autobiographical prose)",
+  "published_date": "1959",
+  "languages": ["en"],
+  "regions": ["United States"],
+  "axis_ids": ["tone-intimate"],
+  "period_role": "formative",
+  "source_id": "src-intimate-rosenthal-poetry-confession-1959",
+  "access": {
+    "edition_or_version": "First edition, Farrar, Straus and Cudahy (1959); National Book Award 1960",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": "library"
+  },
+  "analysis_status": "identified",
+  "mechanics": {
+    "tone_relevance": "Origin point of the 'confessional' label: M. L. Rosenthal's 1959 review described the poet as removing the mask and offering personal confidences.",
+    "point_of_view": "First person speaker identified with the poet; autobiographical material (marriage, illness, family) disclosed directly.",
+    "emotional_progression": "Family history and personal breakdown are disclosed across the collection, moving from remembered youth to adult crisis.",
+    "style_and_devices": "Loose, conversational meters and colloquial diction against earlier formal verse; prose memoir section ('91 Revere Street'); concrete domestic detail.",
+    "register": "Casual and colloquial; the downward register shift is the signature of the new confessional mode.",
+    "intimacy_technique": "The speaker is 'unequivocally himself'; the reader is positioned as the recipient of confidences.",
+    "critical_reception": "Widely credited with inaugurating the confessional poetry movement; also the target of the charge that disclosed interiority is self-dramatisation rather than craft.",
+    "copyright_note": "Poems copyrighted. Techniques and reception described, no text reproduced."
+  }
+}

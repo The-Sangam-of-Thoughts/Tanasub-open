@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-laurenceau-intimacy-1998",
+  "title": "Intimacy as an interpersonal process: The importance of self-disclosure, partner disclosure, and perceived partner responsiveness in interpersonal exchanges",
+  "creators": ["Jean-Philippe Laurenceau", "Lisa Feldman Barrett", "Paula R. Pietromonaco"],
+  "source_type": "peer-reviewed-article",
+  "source_roles": ["definition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Personality and Social Psychology",
+    "published_date": "1998-05",
+    "edition": "Vol. 74, No. 5, pp. 1238-1251",
+    "doi": "10.1037/0022-3514.74.5.1238",
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://pubmed.ncbi.nlm.nih.gov/9599440",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "PubMed record, DOI, and abstract verified, including the interpersonal process model of intimacy (Reis & Shaver 1988) and the greater predictive weight of emotional over factual disclosure."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-self-disclosure-closeness", "clm-tone-intimate-reciprocal-responsiveness"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical paraphrase only, no text reproduced."
+  }
+}

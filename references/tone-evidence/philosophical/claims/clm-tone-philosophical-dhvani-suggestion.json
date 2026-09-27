@@ -1,0 +1,38 @@
+{
+  "id": "clm-tone-philosophical-dhvani-suggestion",
+  "craft_claim": "Indirection — meaning suggested beyond the literal statement — can carry philosophical weight, but suggestion must remain tethered to an arguable idea or it slides into vagueness.",
+  "tone_ids": [
+    "tone-philosophical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-anandavardhana-dhvanyaloka-1990",
+      "location": "Dhvanyaloka, Uddyota 1",
+      "evidence_expression": "paraphrase",
+      "note": "Anandavardhana's dhvani theory holds that suggested meaning (dhvani) can outrank literal statement (abhidha) and metaphor (laksana); cross-links the existing shared claim clm-dhvani-suggestion-theory. Read-only shared source."
+    },
+    {
+      "evidence_id": "work-kenko-tsurezuregusa",
+      "location": "Passim, e.g. the seasonal and ruin imagery",
+      "evidence_expression": "synthesis",
+      "note": "Kenko lets images of impermanence suggest a general claim about conduct without stating it as a proposition."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-philosophical-pennycook-pseudo-profound-2015",
+      "note": "Undirected suggestion is exactly what pseudo-profound receptivity rewards; suggestion can obscure rather than deepen when no arguable idea constrains it."
+    }
+  ],
+  "scope": "Poetry, literary non-fiction, contemplative prose and image-led copy.",
+  "exceptions": [
+    "In evidence-bearing academic L0, suggestive indirection must yield to explicit claim and locator; dhvani is not a licence for unsupported assertion."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/philosophical.md#8--cultural-scope",
+    "tones/philosophical.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

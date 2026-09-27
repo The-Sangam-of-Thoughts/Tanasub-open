@@ -1,0 +1,60 @@
+{
+  "id": "src-philosophical-adorno-essay-form-1991",
+  "title": "The Essay as Form (in Notes to Literature, Vol. 1)",
+  "creators": [
+    "Theodor W. Adorno",
+    "Shierry Weber Nicholsen"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Columbia University Press",
+    "published_date": "1991",
+    "edition": "English translation; essay written 1954-1958",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "de"
+  ],
+  "regions": [
+    "Germany",
+    "United States"
+  ],
+  "access": {
+    "locator": "https://web.english.upenn.edu/~cavitch/pdf-library/Adorno_EssayAsForm.pdf",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-philosophical)",
+    "verification_notes": "Confirmed the essay's theorisation of the form as critical inquiry that refuses closure, tolerates doubt, and works between art and science rather than asserting systematic doctrine."
+  },
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "claim_ids": [
+    "clm-tone-philosophical-essai-provisional"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "de",
+    "translator": "Shierry Weber Nicholsen",
+    "limitations": [
+      "Adorno's German syntax is central to his meaning; not assessed here."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Columbia University Press; analytical citation only."
+  }
+}

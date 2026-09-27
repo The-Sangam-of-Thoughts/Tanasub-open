@@ -1,0 +1,56 @@
+{
+  "id": "src-urgent-ambedkar-annihilation-caste-1936",
+  "title": "Annihilation of Caste (undelivered speech, 1936)",
+  "creators": [
+    "B. R. Ambedkar"
+  ],
+  "source_type": "primary-document",
+  "source_roles": [
+    "recognition",
+    "craft-support",
+    "indian-context"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Self-published, 1936; later editions include a 2014 Verso edition with introduction by Arundhati Roy",
+    "published_date": "1936",
+    "edition": "First printed edition (self-published)",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "India",
+    "South Asia"
+  ],
+  "access": {
+    "locator": "Self-published 1936; widely reprinted. Full text public in India (author died 1956).",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-urgent)",
+    "verification_notes": "Historic facts (author, undelivered 1936 anti-caste speech, self-publication after organizers withdrew the invitation) verified against a reference summary. Text not inspected in this pass; used as a documented Indian exemplar of urgent social-reform address, not quoted."
+  },
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "claim_ids": [
+    "clm-tone-urgent-indian-energetic-style"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": false,
+    "notes": "Public domain in India; later editions' introductions are separately copyrighted. No passage reproduced."
+  }
+}

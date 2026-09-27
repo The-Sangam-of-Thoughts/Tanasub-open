@@ -1,0 +1,56 @@
+{
+  "id": "clm-controlling-idea",
+  "craft_claim": "Theme functions in storytelling as a controlling idea proved through the final dramatic reversal rather than asserted through expository dialogue.",
+  "axis_ids": [
+    "axis-bildungsroman",
+    "axis-cozy-mystery",
+    "axis-cyberpunk",
+    "axis-dastan-tradition",
+    "axis-detective-and-mystery-fiction",
+    "axis-epistolary-fiction",
+    "axis-flash-fiction",
+    "axis-frame-narrative",
+    "axis-ghazal-sequence",
+    "axis-gothic-fiction",
+    "axis-historical-fiction",
+    "axis-horror-fiction",
+    "axis-interactive-fiction",
+    "axis-katha-tradition",
+    "axis-pastoral-literature",
+    "axis-picaresque-literature",
+    "axis-psychological-fiction",
+    "axis-psychological-thriller",
+    "axis-satirical-literature",
+    "axis-solarpunk",
+    "axis-speculative-fiction",
+    "axis-thriller-fiction",
+    "axis-urban-fantasy",
+    "axis-vachana-poetry"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-mckee-story-1997",
+      "location": "Chapter 6: Structure and Meaning, pp. 110-131",
+      "evidence_expression": "quotation",
+      "note": "McKee demonstrates that a story's controlling idea is a single sentence describing how and why life undergoes a change from one condition to another at the climax."
+    },
+    {
+      "evidence_id": "work-things-fall-apart",
+      "location": "Part 3, Chapter 25",
+      "evidence_expression": "synthesis",
+      "note": "The controlling idea regarding colonial disruption and tragic rigidity is crystallized in Okonkwo's suicide and the District Commissioner's chilling note."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Narrative fiction, screenplays, and dramatic writing.",
+  "exceptions": [
+    "Satirical or absurd fiction where meaning is deliberately undermined or fragmented."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "04-premise-theme-and-meaning.md#premise-theme-and-meaning-preferred_label",
+    "00-how-to-write.md#develop-the-idea"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-12"
+}

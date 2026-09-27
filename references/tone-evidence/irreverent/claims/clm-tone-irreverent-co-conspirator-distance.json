@@ -1,0 +1,49 @@
+{
+  "id": "clm-tone-irreverent-co-conspirator-distance",
+  "craft_claim": "Irreverent voice treats the reader as a fellow insider who already shares the safe distance from the target, which is why breaking that shared stance — explaining the joke, moralizing mid-deflation — collapses the register.",
+  "tone_ids": [
+    "tone-irreverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-irreverent-mcgraw-warren-2010",
+      "location": "Psychological Science 21(8):1141-1149, benignity condition 3",
+      "evidence_expression": "paraphrase",
+      "note": "Psychological distance from the violation is one of the three conditions that make it benign — the voice supplies that distance by narrating from alongside the reader rather than from above the target or below it."
+    },
+    {
+      "evidence_id": "src-irreverent-provine-laughter-2000",
+      "location": "Whole-book citation (Tier 4; bibliographic verification only this session)",
+      "evidence_expression": "synthesis",
+      "note": "Provine's book-length account treats laughter as fundamentally social and conversational — a coordination signal between co-present people, consistent with shared-stance reading of teasing."
+    },
+    {
+      "evidence_id": "src-irreverent-freud-jokes-1905",
+      "location": "Whole-work citation (SE vol. VIII; chapter locators unverified)",
+      "evidence_expression": "synthesis",
+      "note": "The joke's economy depends on the listener completing the forbidden step themselves — the pleasure is in the complicity, which direct explanation would forfeit."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-irreverent-provine-laughter-2000",
+      "note": "Tier 4 trade book, cited at book level only; the social-laughter finding is well known but was not re-inspected in the text this session, so the claim leans mainly on the McGraw & Warren distance condition."
+    },
+    {
+      "evidence_id": "src-irreverent-bell-failed-humor-2015",
+      "note": "If the audience does not share the distance — reads the voice as an outsider mocking what they hold — the same lines land as contempt rather than conspiracy (failure mode governed by clm-tone-irreverent-licensed-frame)."
+    }
+  ],
+  "scope": "Narration and direct address where the reader is positioned as already-in on the deflation; chiefly comic narration, deadpan exposition, aside-to-the-reader passages.",
+  "exceptions": [
+    "Where the reader's distance must be CREATED (unfamiliar sacred register), a beat of neutral setup before the deflation supplies it.",
+    "Moralizing explanation inside the deflation converts conspirator to prosecutor — the register fails (ties to clm-tone-irreverent-aggressive-style-drift)."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/irreverent.md#2--why-it-works--the-mechanism",
+    "tones/irreverent.md#3--when-it-works"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

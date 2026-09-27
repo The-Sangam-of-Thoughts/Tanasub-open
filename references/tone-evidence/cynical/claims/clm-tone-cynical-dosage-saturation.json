@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-cynical-dosage-saturation",
+  "craft_claim": "No study isolates cynical prose tone, so saturation guidance is inferred: adjacent findings on aggressive-humor costs, detected persuasion intent, and the correlates of chronic distrust imply that unrecovered irony habituates and must yield at intervals.",
+  "tone_ids": [
+    "tone-cynical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-cynical-martin-aggressive-humor-2003",
+      "location": "Journal of Research in Personality 37(1):48-75",
+      "evidence_expression": "synthesis",
+      "note": "If aggressive, ridiculing humor as a sustained style tracks poorer relational outcomes, then a text that sustains barbed irony without relief accumulates the same tax in the reader-writer relation."
+    },
+    {
+      "evidence_id": "src-cynical-friestad-wright-pkm-1994",
+      "location": "Journal of Consumer Research 21(1):1-31",
+      "evidence_expression": "synthesis",
+      "note": "Readers monitor for the performing agent's intent; once the deflating voice is read as a stance being performed on them, each further deflation lands with less recognition and more irritation."
+    },
+    {
+      "evidence_id": "src-cynical-stavrova-ehlebracht-2016",
+      "location": "Journal of Personality and Social Psychology 110(1):116-132",
+      "evidence_expression": "synthesis",
+      "note": "Chronic distrust is documented as costly rather than costless; prose that offers the reader no release from distrust models a disposition that burdens rather than frees. The mapping to reader fatigue is analogical."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-cynical-friestad-wright-pkm-1994",
+      "note": "Persuasion knowledge equips people to cope in varied ways, compliance included; detecting a performing or persuasive agent does not automatically produce backlash, so irony's budget is wide for readers who enjoy the game."
+    }
+  ],
+  "scope": "Long-form and serial content; feeds card section 4. Honest null: no direct tone-isolation dosage study was found.",
+  "exceptions": [
+    "Short forms (a single satirical essay or epigram sequence) may sustain deflation to the last line because the form ends before habituation.",
+    "Deadpan delivery can carry sustained irony farther than barbed asides because it lowers the hostile signal."
+  ],
+  "confidence": "limited",
+  "report_locations": [
+    "tones/cynical.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

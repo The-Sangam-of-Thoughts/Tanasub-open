@@ -1,0 +1,56 @@
+{
+  "id": "src-warm-baumeister-leary-1995",
+  "title": "The Need to Belong: Desire for Interpersonal Attachments as a Fundamental Human Motivation",
+  "creators": [
+    "Roy F. Baumeister",
+    "Mark R. Leary"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychological Bulletin, Vol. 117, No. 3",
+    "published_date": "1995",
+    "edition": null,
+    "doi": "10.1037/0033-2909.117.3.497",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://pubmed.ncbi.nlm.nih.gov/7777651",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-warm)",
+    "verification_notes": "Confirmed authorship, journal, volume, issue and pagination (117(3):497-529); verified the belongingness hypothesis: need for frequent, non-aversive interactions within an ongoing relational bond, with broad emotional and cognitive effects."
+  },
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "claim_ids": [
+    "clm-tone-warm-affiliation-belonging"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical citation only."
+  }
+}

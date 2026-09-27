@@ -1,0 +1,33 @@
+{
+  "id": "clm-tone-philosophical-instruction-voice",
+  "craft_claim": "An instruction voice that generalises outward from a concrete stake produces philosophy in prose, provided the concrete stake is not abandoned.",
+  "tone_ids": [
+    "tone-philosophical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-philosophical-gita-miller-1986",
+      "location": "Bhagavad Gita, chs. 2-3 (instruction on action and discipline)",
+      "evidence_expression": "paraphrase",
+      "note": "Krishna's counsel repeatedly widens Arjuna's immediate battlefield dilemma into principle about action, duty and self, with Arjuna's objections supplying the reader's resistance."
+    },
+    {
+      "evidence_id": "work-bhagavad-gita",
+      "location": "Chapters 1-3, the movement from Arjuna's despair to instruction",
+      "evidence_expression": "synthesis",
+      "note": "The dialogue's structure keeps the concrete stake present while the argument abstracts away from it."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Academic teaching prose, blog explanation, argumentative essays, and didactic fiction.",
+  "exceptions": [
+    "Instruction without a concrete stake becomes sermon; the abstract claim must keep returning to the situation (see clm-tone-philosophical-concreteness-grounding)."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/philosophical.md#5--how-to-use-it--operators",
+    "tones/philosophical.md#8--cultural-scope"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

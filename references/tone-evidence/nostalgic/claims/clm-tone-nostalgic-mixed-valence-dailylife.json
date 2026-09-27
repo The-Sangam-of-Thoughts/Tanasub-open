@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-nostalgic-mixed-valence-dailylife",
+  "craft_claim": "Nostalgia chosen feels different from nostalgia that ambushes you: experimentally elicited recollections improve well-being, while spontaneous daily-life nostalgia covaries negatively with it and can trend into rumination and sadness. Dosage rule - keep the reader's nostalgic attention invited and bounded by a concrete trigger, never ambient and inescapable.",
+  "tone_ids": [
+    "tone-nostalgic"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-nostalgic-newman-2020-daily-life",
+      "location": "Journal of Personality and Social Psychology 118(2):325-347, Studies 2-5",
+      "evidence_expression": "paraphrase",
+      "note": "With daily-diary measurement, state nostalgia was negatively related to well-being; lagged analyses showed mixed effects later the same day and negative effects the following day, with daily nostalgia predicting increased rumination and sadness. Study 5 reconciles the literature: experimentally induced nostalgic recollections are rated more positive and less negative than naturally occurring nostalgia."
+    },
+    {
+      "evidence_id": "src-nostalgic-batcho-2020-anticipatory",
+      "location": "Frontiers in Psychology 11:1186, abstract and discussion",
+      "evidence_expression": "paraphrase",
+      "note": "Anticipatory nostalgia - missing the present before it has become past - is characterized by difficulty enjoying the present and a tendency toward sadness and worry; when nostalgia is pointed at the present or future rather than the past, it tilts maladaptive."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-nostalgic-wildschut-2006-nostalgia-content",
+      "location": "Journal of Personality and Social Psychology 91(5):975-993, Studies 5-7",
+      "evidence_expression": "paraphrase",
+      "note": "Elicited nostalgic recollection reliably increases positive affect, self-regard, and social bonds in the lab - the opposite valence profile. The reconciliation is method, not contradiction: chosen, cued nostalgia helps; ambient, involuntary nostalgia can hurt."
+    }
+  ],
+  "scope": "Dosage and pacing rules for sustained nostalgic passages; feeds card dosage section.",
+  "exceptions": [
+    "Tragedy and grief-adjacent passages may deliberately run ambient nostalgia as dysphoria - but then the piece has left pure tone work and entered another register (elegiac, elegy)."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/nostalgic.md"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

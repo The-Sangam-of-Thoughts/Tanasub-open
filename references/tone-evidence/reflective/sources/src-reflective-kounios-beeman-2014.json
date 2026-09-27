@@ -1,0 +1,47 @@
+{
+  "id": "src-reflective-kounios-beeman-2014",
+  "title": "The Cognitive Neuroscience of Insight",
+  "creators": [
+    "John Kounios",
+    "Mark Beeman"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Annual Review of Psychology",
+    "published_date": "2014",
+    "edition": "65, pp. 71-93",
+    "doi": "10.1146/annurev-psych-010213-115154",
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://doi.org/10.1146/annurev-psych-010213-115154",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reflective)",
+    "verification_notes": "Confirmed via PubMed record 24405359 and Annual Reviews record (Annual Review of Psychology 65:71-93, 2014, DOI confirmed). An initial lead of 65:73-99 was corrected to 71-93. Abstract confirms insight as sudden comprehension with identified antecedents."
+  },
+  "axis_ids": ["tone-reflective"],
+  "claim_ids": ["clm-tone-reflective-earned-epiphany"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Annual Reviews article; analytical citations only."
+  }
+}

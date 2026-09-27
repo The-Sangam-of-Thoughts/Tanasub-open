@@ -1,0 +1,45 @@
+{
+  "id": "clm-tone-defiant-collective-injustice-efficacy",
+  "craft_claim": "Collective action follows from perceived injustice plus perceived efficacy plus social identity; a defiant text that names only the wrong leaves the reader with anger and no route, so it should also supply a plausible agency clause and a 'we'.",
+  "tone_ids": [
+    "tone-defiant"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-defiant-vanzomeren-simca-2008",
+      "location": "Psychological Bulletin 134(4):504-535; three meta-analyses, 182 effects",
+      "evidence_expression": "synthesis",
+      "note": "Perceived injustice, perceived efficacy, and social identity each causally predict collective action; identity functions as the psychological bridge from which efficacy and injustice are construed, and injustice alone yields group-based anger rather than action."
+    },
+    {
+      "evidence_id": "src-defiant-vanzomeren-conviction-2012",
+      "location": "British Journal of Social Psychology 51(1):52-71",
+      "evidence_expression": "paraphrase",
+      "note": "Integrating moral conviction with the social identity model shows conviction strengthens collective action intentions through identification with a moral cause."
+    },
+    {
+      "evidence_id": "work-hum-dekhenge",
+      "location": "Nazm, written 1979, published 1981",
+      "evidence_expression": "synthesis",
+      "note": "Faiz's poem pairs the naming of present power with an anticipated collective vindication, supplying both the injustice term and an image of efficacy rather than leaving the audience at the wrong."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-defiant-scott-smith-1969",
+      "note": "Confrontation rhetoric sometimes deliberately refuses the available channels of efficacy; in that tradition the refusal itself, not a route to success, is the persuasive act, which limits how far the efficacy term should be treated as mandatory."
+    }
+  ],
+  "scope": "Civic oratory, campaign copy, and protest poetry addressed to an audience that could plausibly act.",
+  "exceptions": [
+    "Pure lament or elegiac resistance may intentionally withhold a route; this claim governs mobilizing defiance, not mourning.",
+    "When no route genuinely exists, inventing one is manipulation and violates the repository's no-manufactured-agency standard."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/defiant.md#2--why-it-works--the-mechanism",
+    "tones/defiant.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "src-deadpan-esslin-theatre-absurd-1961",
+  "title": "The Theatre of the Absurd",
+  "creators": [
+    "Martin Esslin"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "counterevidence"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Anchor Books / Doubleday",
+    "published_date": "1961",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "Library record: The Theatre of the Absurd (Anchor Books/Doubleday, 1961)",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-deadpan)",
+    "verification_notes": "Staging/convention discussion used as counterevidence bounding the performance-transfer claim: absurdist stage delivery depends on theatrical conventions prose does not inherit, so the transfer is a rebuild rather than a transcription. First edition 1961 (Doubleday); later editions exist and pagination differs — cited without page numbers. Anchor role only; no passage quoted."
+  },
+  "axis_ids": [
+    "tone-deadpan"
+  ],
+  "claim_ids": [
+    "clm-tone-deadpan-performance-transfer"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "1961 book; cited without page numbers, paraphrased only."
+  }
+}

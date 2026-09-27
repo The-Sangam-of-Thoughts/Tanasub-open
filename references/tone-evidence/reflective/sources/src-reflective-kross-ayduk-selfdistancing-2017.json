@@ -1,0 +1,48 @@
+{
+  "id": "src-reflective-kross-ayduk-selfdistancing-2017",
+  "title": "Self-Distancing: Theory, Research, and Current Directions",
+  "creators": [
+    "Ethan Kross",
+    "Ozlem Ayduk"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Advances in Experimental Social Psychology, vol. 55 (ed. J. M. Olson), Academic Press/Elsevier",
+    "published_date": "2017",
+    "edition": "chapter, pp. 81-136",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://sites.lsa.umich.edu/emotion-selfcontrol-psych/wp-content/uploads/sites/1322/2017/09/Self-distancing-theory-research-future.pdf",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reflective)",
+    "verification_notes": "Verified via author-hosted PDF (University of Michigan Emotion & Self-Control lab) and multiple independent citations confirming volume 55, pp. 81-136, ed. Olson. Appendix D's unanchored 'self-distanced reflection research (Kross)' lead resolved to this chapter; an initial suspected 2011 citation was corrected."
+  },
+  "axis_ids": ["tone-reflective"],
+  "claim_ids": ["clm-tone-reflective-self-distanced-reflection"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Elsevier chapter; author-hosted PDF open at time of access. Analytical citations only; no text reproduced."
+  }
+}

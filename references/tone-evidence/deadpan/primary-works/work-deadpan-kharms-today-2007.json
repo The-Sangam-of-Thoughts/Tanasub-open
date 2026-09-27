@@ -1,0 +1,18 @@
+{
+  "id": "work-deadpan-kharms-today-2007",
+  "axis_ids": ["tone-deadpan"],
+  "source_type": "primary-work",
+  "title": "Today I Read Quite by Accident… (collected absurd prose)",
+  "creators": ["Daniil Kharms"],
+  "publication": {
+    "publisher": "Glas / Pushkin House (Russian Library)",
+    "publication_year": 2007
+  },
+  "identifiers": {},
+  "tier": 3,
+  "analysis_status": "translation-mediated",
+  "tone_mechanism": "Escalation without inflection: sentence length, vocabulary, and clause rhythm stay constant while stakes rise to death and catastrophe; catastrophe is processed as paperwork (inventory clauses, sequential 'then' parataxis, administrative passivity). The deadpan lives in sentence order, not in any character's voice — prose-native deadpan, no performer required.",
+  "verification_note": "English collection, 2007 (Glas/Pushkin House); translator attribution (Anna Mohr) standard for this edition but not re-verified page-by-page. Translation-mediated: Russian paratactic rhythm is flattened in English — flagged as transfer limitation in claim records. No sibling silo owns a Kharms record (checked 2026-09-24).",
+  "copyright_note": "In copyright (posthumous author, 2007 English edition). Technique described only; no text reproduced.",
+  "used_by_claims": ["clm-tone-deadpan-saturation-dosage"]
+}

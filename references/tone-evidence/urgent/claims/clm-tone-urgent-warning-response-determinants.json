@@ -1,0 +1,34 @@
+{
+  "id": "clm-tone-urgent-warning-response-determinants",
+  "craft_claim": "Warning response is driven less by alarm intensity than by message specificity, source credibility, consistency, and confirmation of the threat through multiple channels.",
+  "tone_ids": [
+    "tone-urgent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-urgent-mileti-sorensen-warnings-1990",
+      "location": "ORNL-6609 (communication of emergency public warnings)",
+      "evidence_expression": "synthesis",
+      "note": "The assessment synthesizes warning research showing that response depends on what the message says (specific guidance), who says it (credible, consistent sources), and whether the public can confirm the threat, rather than on raw alarm volume."
+    },
+    {
+      "evidence_id": "src-urgent-lindell-perry-padm-2012",
+      "location": "Risk Analysis 32(4), pp. 616-632 (Protective Action Decision Model)",
+      "evidence_expression": "paraphrase",
+      "note": "The model sequences warning response through attention, threat perception, protective-action perception, information search, and decision, with stakeholder perception and information sources shaping each stage. Urgency that supplies only threat leaves the protective-action stage empty."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Crisis, risk and public-safety communication; transferable at the level of reader cognition to informational prose.",
+  "exceptions": [
+    "Under extreme immediacy, single-source authoritative warnings can suffice.",
+    "The model is developed mainly on U.S. disaster populations; cross-cultural transfer is not assumed."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/urgent.md#2--why-it-works--the-mechanism",
+    "tones/urgent.md#3--when-it-works"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

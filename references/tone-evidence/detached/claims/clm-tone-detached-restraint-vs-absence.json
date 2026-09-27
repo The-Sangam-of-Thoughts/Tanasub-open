@@ -1,0 +1,42 @@
+{
+  "id": "clm-tone-detached-restraint-vs-absence",
+  "craft_claim": "Omission strengthens prose only when the omitted material exists and is inferable; with nothing beneath, the same surface reads as absence, not restraint.",
+  "tone_ids": ["tone-detached"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-detached-hemingway-death-afternoon-1932",
+      "location": "Chapter 16 (the iceberg / theory of omission passage)",
+      "evidence_expression": "paraphrase",
+      "note": "Hemingway states that a writer who knows the omitted material may omit it and the reader will feel those things as strongly as if stated, whereas one who omits what he does not know makes hollow places."
+    },
+    {
+      "evidence_id": "src-detached-miall-kuiken-foregrounding-1994",
+      "location": "Study results and discussion, pp. 389-407",
+      "evidence_expression": "synthesis",
+      "note": "Empirical work shows foregrounding prompts defamiliarization and evokes feeling; a text with no foregrounded element offers feeling nothing to attach to, which is the experimental analogue of the iceberg's failure condition."
+    },
+    {
+      "evidence_id": "src-detached-shklovsky-art-technique-1965",
+      "location": "Section on automatization and ostranenie",
+      "evidence_expression": "paraphrase",
+      "note": "Shklovsky argues that habitual perception is automatized and that art restores perception by presenting things as if seen for the first time, which presupposes something perceived beneath the surface."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-detached-wood-how-fiction-works-2008",
+      "note": "Wood's account of narrative style cautions that restraint is only legible against an implied fullness; where the writer's knowledge is thin, stylistic avoidance is often indistinguishable from thinness."
+    }
+  ],
+  "scope": "Prose narration that deliberately withholds affect or interpretation from the surface.",
+  "exceptions": [
+    "Procedural, legal, or documentary writing whose contract is information transfer with no affective inference expected."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/detached.md#2--why-it-works--the-mechanism",
+    "tones/detached.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

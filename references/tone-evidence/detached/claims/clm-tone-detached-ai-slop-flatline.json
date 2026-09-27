@@ -1,0 +1,35 @@
+{
+  "id": "clm-tone-detached-ai-slop-flatline",
+  "craft_claim": "Machine-sounding flatness differs from crafted detachment: it combines uniform sentence length/frame and generic assertion with a missing inferable charge, precisely the structural tells the catalog flags.",
+  "tone_ids": ["tone-detached"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-detached-miall-kuiken-foregrounding-1994",
+      "location": "Studies 1-4, pp. 389-407",
+      "evidence_expression": "synthesis",
+      "note": "Without a foregrounded element, the affective response that guides literary reading does not occur, which is the mechanism by which a surface that should carry buried charge instead reads as empty or automated."
+    },
+    {
+      "evidence_id": "src-detached-structural-tells-catalog",
+      "location": "Rows: Uniform sentence length; Uniform sentence frame; Committee voice; Generic significance",
+      "evidence_expression": "synthesis",
+      "note": "The catalog lists uniform sentence frame and length, committee voice, and generic significance as reflection prompts for prose that reads as machine-generated rather than authored."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-detached-shklovsky-art-technique-1965",
+      "note": "An even, unadorned surface is not itself an error; Shklovsky's and Hemingway's methods show plainness can be craft, so the tells are questions to investigate, not automatic verdicts."
+    }
+  ],
+  "scope": "Diagnosis of detached prose suspected of reading as AI-generated.",
+  "exceptions": [
+    "Procedural/technical registers where uniform syntax is conventional and correct."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/detached.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

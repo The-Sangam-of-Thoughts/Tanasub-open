@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-intimate-confession-truth-mode",
+  "craft_claim": "The confessional mode draws its force from performed self-accusation addressed to a witness, treating disclosure as a truth-producing act rather than a neutral description.",
+  "tone_ids": ["tone-intimate"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-intimate-augustine-confessions-1991",
+      "location": "Confessions, books I-IX; the narrated life addressed to God and overheard by the reader",
+      "evidence_expression": "synthesis",
+      "note": "Augustine turns the narrating self into an object of examination, disclosing fault and motive to a witness; this establishes the addressed-disclosure convention."
+    },
+    {
+      "evidence_id": "src-intimate-foucault-history-sexuality-1978",
+      "location": "Part Three, 'Scientia Sexualis', on confession as a technology of truth",
+      "evidence_expression": "paraphrase",
+      "note": "Confession is described as a ritual of discourse that produces a truth about the self within a power relation between speaker and interlocutor."
+    },
+    {
+      "evidence_id": "src-intimate-brooks-troubling-confessions-2000",
+      "location": "Introduction and readings of Rousseau and Dostoevsky",
+      "evidence_expression": "paraphrase",
+      "note": "Brooks argues Western culture treats confessional speech as a prime measure of authenticity while simultaneously suspecting it of being coerced or self-serving."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-intimate-brooks-troubling-confessions-2000",
+      "note": "Confessional truth is systematically unreliable; the mode promises authenticity it cannot guarantee, which is itself a reproducible failure mode."
+    }
+  ],
+  "scope": "Memoir, personal essay, and first-person fiction that performs self-accusation or exposure.",
+  "exceptions": [
+    "Non-Western and devotional traditions may frame intimate address as devotion rather than guilt; see clm-tone-intimate-crosscultural-norms."
+  ],
+  "confidence": "moderate",
+  "report_locations": ["tones/intimate.md#2--why-it-works--the-mechanism", "tones/intimate.md#7--failure-modes-and-revision"],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

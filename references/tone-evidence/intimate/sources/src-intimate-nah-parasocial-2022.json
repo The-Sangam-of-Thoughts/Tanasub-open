@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-nah-parasocial-2022",
+  "title": "The appeal of 'real' in parasocial interaction: The effect of self-disclosure on message acceptance via perceived authenticity and liking",
+  "creators": ["Hye Soo Nah"],
+  "source_type": "peer-reviewed-article",
+  "source_roles": ["craft-support", "recognition"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Computers in Human Behavior",
+    "published_date": "2022-05",
+    "edition": "Vol. 134, Article 107330",
+    "doi": "10.1016/j.chb.2022.107330",
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://www.sciencedirect.com/science/article/abs/pii/S0747563222001522",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "ScienceDirect record, DOI, and abstract verified; two randomized experiments and the disclosure to authenticity to liking to message-acceptance serial mediation confirmed."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-parasocial-address", "clm-tone-intimate-manufactured-authenticity"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Elsevier journal article; analytical paraphrase only, no text reproduced."
+  }
+}

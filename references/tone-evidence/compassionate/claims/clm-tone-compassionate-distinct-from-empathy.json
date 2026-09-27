@@ -1,0 +1,45 @@
+{
+  "id": "clm-tone-compassionate-distinct-from-empathy",
+  "craft_claim": "Compassion is a distinct affective-motivational state — appraisal of another's suffering plus motivation to relieve it — separable from empathy-as-resonance and from personal distress, so the compassionate voice must carry steady regard rather than mirror the pain.",
+  "tone_ids": [
+    "tone-compassionate"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-compassionate-singer-klimecki-2014",
+      "location": "Current Biology 24(18):R875-R878, review of empathy and compassion",
+      "evidence_expression": "synthesis",
+      "note": "Singer and Klimecki distinguish empathy (resonance with another's affect, which can become vicarious distress) from compassion (concern coupled with the motivation to improve the other's welfare)."
+    },
+    {
+      "evidence_id": "src-compassionate-goetz-2010",
+      "location": "Psychological Bulletin 136(3):351-374, appraisal and function sections",
+      "evidence_expression": "synthesis",
+      "note": "Goetz, Keltner, and Simon-Thomas synthesize evidence that compassion has a distinct appraisal structure (suffering is serious, undeserved, remediable), physiology, and prosocial action tendency."
+    },
+    {
+      "evidence_id": "src-compassionate-klimecki-2014-brain",
+      "location": "Social Cognitive and Affective Neuroscience 9(6):873-879",
+      "evidence_expression": "synthesis",
+      "note": "Empathy training increased negative affect and distress-related activation, whereas subsequent compassion training increased positive affect and prosocial behaviour, supporting dissociation and trainability."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-compassionate-goetz-2010",
+      "note": "The literature uses 'empathy', 'sympathy', and 'compassion' inconsistently across studies; the dissociation is a research consensus, not a strict lexical boundary."
+    }
+  ],
+  "scope": "Prose that stages another person's suffering and seeks to move the reader toward care.",
+  "exceptions": [
+    "Clinical or scientific description where mirroring the sufferer's state is the explicit purpose.",
+    "First-person accounts of the sufferer's own pain, which belong to other tonal surfaces."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/compassionate.md#2--why-it-works--the-mechanism",
+    "tones/compassionate.md#1--definition-and-boundaries"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

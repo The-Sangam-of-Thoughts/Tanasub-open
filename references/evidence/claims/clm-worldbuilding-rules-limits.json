@@ -1,0 +1,70 @@
+{
+  "id": "clm-worldbuilding-rules-limits",
+  "craft_claim": "Fictive worlds gain convincing verisimilitude through rigorous limitations, costs, and consequences rather than unbounded magical capability.",
+  "axis_ids": [
+    "axis-bildungsroman",
+    "axis-cozy-mystery",
+    "axis-detective-and-mystery-fiction",
+    "axis-episodic-television-script",
+    "axis-epistolary-fiction",
+    "axis-fantasy-fiction",
+    "axis-feature-screenplay",
+    "axis-flash-fiction",
+    "axis-frame-narrative",
+    "axis-gothic-fiction",
+    "axis-historical-fiction",
+    "axis-horror-fiction",
+    "axis-interactive-fiction",
+    "axis-katha-tradition",
+    "axis-nataka-drama",
+    "axis-picaresque-literature",
+    "axis-prakarana-drama",
+    "axis-psychological-fiction",
+    "axis-psychological-thriller",
+    "axis-romance-fiction",
+    "axis-satirical-literature",
+    "axis-science-fiction",
+    "axis-solarpunk",
+    "axis-space-opera",
+    "axis-speculative-fiction",
+    "axis-thriller-fiction"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-leguin-steering-craft-2015",
+      "location": "Chapter 8: Pacing and World, pp. 95-110",
+      "evidence_expression": "paraphrase",
+      "note": "Le Guin demonstrates that believable invented worlds require consistent ecological, social, and physical limitations."
+    },
+    {
+      "evidence_id": "src-gardner-art-fiction-1984",
+      "location": "Chapter 1: The Fictive Dream, pp. 15-32",
+      "evidence_expression": "quotation",
+      "note": "Gardner emphasizes that arbitrary magic without rules breaks the reader's fictive dream and destroys emotional stakes."
+    },
+    {
+      "evidence_id": "work-left-hand-darkness",
+      "location": "Gobrin Ice crossing rules",
+      "evidence_expression": "synthesis",
+      "note": "Strict physical calorie requirements and freezing thresholds govern every mile of the crossing."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "work-ficciones",
+      "location": "'The Library of Babel'",
+      "evidence_expression": "paraphrase",
+      "note": "Borges uses mathematical paradoxes to explore ontological impossibility rather than physical survival rules."
+    }
+  ],
+  "scope": "Speculative fiction, fantasy, science fiction, and historical worldbuilding.",
+  "exceptions": [
+    "Surrealist, dream-logic, or absurdist allegories."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "08-setting-atmosphere-and-worldbuilding.md#setting-atmosphere-and-worldbuilding-preferred_label"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-12"
+}

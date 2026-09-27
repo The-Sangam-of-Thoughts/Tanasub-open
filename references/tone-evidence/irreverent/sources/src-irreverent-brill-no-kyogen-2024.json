@@ -1,0 +1,56 @@
+{
+  "id": "src-irreverent-brill-no-kyogen-2024",
+  "title": "A Companion to Nō and Kyōgen Theatre (chapter DOI 10.1163/9789004722781_005)",
+  "creators": [
+    "Yamanaka (ed.)",
+    "Bethe (ed.)",
+    "Grossmann (ed.)",
+    "Hare (ed.)",
+    "Pellecchia (ed.)",
+    "Watson (ed.)"
+  ],
+  "source_type": "scholarly-anthology",
+  "source_roles": [
+    "recognition"
+  ],
+  "reliability_tier": 3,
+  "publication": {
+    "publisher_or_container": "Brill (Handbook of Oriental Studies, Section 5, Vol. 19/1-2)",
+    "published_date": "2024",
+    "edition": "Chapter 5 DOI 10.1163/9789004722781_005",
+    "doi": "10.1163/9789004722781_005",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Japan"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1163/9789004722781_005",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "Chapter DOI, container title, series statement, and year verified earlier in this research session via the publisher listing; editor SURNAMES ONLY were captured (given names not verified and deliberately not invented). A Brill re-fetch on 2026-09-24 returned a CloudFront 403 block, and the chapter text was never inspected. Record serves as bibliographic context for kyōgen scholarship only; no claim in this silo rests on it, and the chapter's own title is not recorded."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Paywalled Brill volume; bibliographic record only, no content reproduced."
+  }
+}

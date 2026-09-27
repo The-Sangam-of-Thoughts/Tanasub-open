@@ -1,0 +1,43 @@
+{
+  "id": "clm-tone-grim-psychic-distance-restraint",
+  "craft_claim": "Grim writing often holds a middle-to-far psychic distance, keeping the camera on the world's fact rather than the narrator's feeling, so the reader must infer emotional cost; diving to raw interiority too early trades weight for self-pity.",
+  "tone_ids": [
+    "tone-grim"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-grim-gardner-art-fiction-1984",
+      "location": "Chapter 5: Technical Details (psychic distance gradations)",
+      "evidence_expression": "paraphrase",
+      "note": "Gardner maps psychic distance across continuous gradations from objective survey to unfiltered interiority; distance is a controllable dial, not a fixed property of a scene."
+    },
+    {
+      "evidence_id": "src-grim-bell-mccarthy-1988",
+      "location": "The Achievement of Cormac McCarthy, on withheld interiority",
+      "evidence_expression": "synthesis",
+      "note": "Bell's reading supports the observation that McCarthy's narration keeps the human subject at a remove, forcing judgement and feeling back onto the reader."
+    },
+    {
+      "evidence_id": "work-the-road",
+      "location": "Whole novel",
+      "evidence_expression": "synthesis",
+      "note": "The narration stays close to the father's plight yet keeps a clipped, near-affectless surface; the pain is inferred from action and image rather than confessed."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-grim-gardner-art-fiction-1984",
+      "note": "Section G 'Pity-seeking': the documented failure is demanding an emotional response greater than the situation justifies, not proximity as such, so close interiority does not by itself trade weight for self-pity and middle-to-far distance does not prevent the failure."
+    }
+  ],
+  "scope": "Third-person and first-person prose in a bleak register.",
+  "exceptions": [
+    "First-person confessional forms may work at close distance throughout, but they must still earn the reader's inference rather than narrate their own grief."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/grim.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

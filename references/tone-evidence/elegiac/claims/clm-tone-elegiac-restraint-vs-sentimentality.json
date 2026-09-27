@@ -1,0 +1,42 @@
+{
+  "id": "clm-tone-elegiac-restraint-vs-sentimentality",
+  "craft_claim": "Concrete, understated gesture carries grief more credibly than declarative emotional display; emotion that exceeds the established psychological and causal stakes reads as sentimentality.",
+  "tone_ids": ["tone-elegiac"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-gardner-art-fiction-1984",
+      "location": "Chapter 7: Faults of Technique, pp. 150-165",
+      "evidence_expression": "quotation",
+      "note": "Gardner defines sentimentality as demanding an emotional response greater than the situation justifies. Shared source."
+    },
+    {
+      "evidence_id": "src-solomon-defense-sentimentality-2004",
+      "location": "Chapter 1, 'In Defense of Sentimentality'",
+      "evidence_expression": "paraphrase",
+      "note": "Solomon contends that sentimentality is often wrongly condemned and can be ethically serious, so the failure is fit-to-stakes rather than strong feeling as such."
+    },
+    {
+      "evidence_id": "work-godan",
+      "location": "Closing scene of Hori's death",
+      "evidence_expression": "synthesis",
+      "note": "Premchand renders a death with austere factual quietude, avoiding florid laments; the restraint is what makes the grief land."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-solomon-defense-sentimentality-2004",
+      "note": "Understatement is not automatically superior; some legitimate elegy is openly emotional, and dismissing it as sentimental is an over-correction."
+    }
+  ],
+  "scope": "Fiction, memoir, and poetry; applies wherever the writer displays emotion rather than dramatizing its cause.",
+  "exceptions": [
+    "Camp, opera, or deliberate Victorian melodrama where exaggerated performance is the recognized aesthetic code."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/elegiac.md#4--when-to-show-restraint",
+    "tones/elegiac.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

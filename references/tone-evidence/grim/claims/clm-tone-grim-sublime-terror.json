@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-grim-sublime-terror",
+  "craft_claim": "The aesthetic tradition grounds grim weight in the sublime, where terror and obscurity yield a negative pleasure that elevates; but the term 'tragic' is contested, so grim writing should not assume a single metaphysical frame for its darkness.",
+  "tone_ids": [
+    "tone-grim"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-grim-burke-sublime-1757",
+      "location": "A Philosophical Enquiry, Part II (terror, obscurity, and power as sources of the sublime)",
+      "evidence_expression": "paraphrase",
+      "note": "Burke locates the sublime in terror, obscurity, and overwhelming power rather than in beauty, supplying the historical basis for treating dreadful subject matter as aesthetically elevating."
+    },
+    {
+      "evidence_id": "src-grim-steiner-death-tragedy-1961",
+      "location": "The Death of Tragedy, opening argument",
+      "evidence_expression": "synthesis",
+      "note": "Steiner argues that genuine tragedy requires a transcendent order against which catastrophe registers; his thesis implies that bleakness without any implied order is something other than tragedy."
+    },
+    {
+      "evidence_id": "src-grim-williams-modern-tragedy-1966",
+      "location": "Modern Tragedy, Part I",
+      "evidence_expression": "synthesis",
+      "note": "Williams contests Steiner by locating tragedy in secular social experience and revolution, showing that the metaphysical frame is not the only or necessary ground of tragic gravity."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-grim-williams-modern-tragedy-1966",
+      "note": "Williams's secular account is itself counterevidence to the claim that grim gravity requires a religious or metaphysical order."
+    }
+  ],
+  "scope": "The literary and rhetorical tradition of the sublime and the tragic.",
+  "exceptions": [
+    "Genre horror may use terror for sensation rather than elevation, which is a different contract."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/grim.md#2--why-it-works--the-mechanism",
+    "tones/grim.md#8--cultural-scope"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

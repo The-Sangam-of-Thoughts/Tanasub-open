@@ -1,0 +1,29 @@
+{
+  "id": "clm-tone-detached-indian-vairagya",
+  "craft_claim": "In Indian thought vairagya (dispassion/renunciation) is a disciplined stance that stills the mind, not indifference; it is a training, not an absence of relation.",
+  "tone_ids": ["tone-detached"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-detached-yoga-sutras-bryant-2009",
+      "location": "Yoga Sutras 1.12-1.15 (Book I, Samadhi Pada), with Bryant's commentary",
+      "evidence_expression": "paraphrase",
+      "note": "Patanjali pairs abhyasa (practice) with vairagya (dispassion/renunciation) as the two means by which the fluctuations of mind are stilled; detachment is thus cultivated, not passively lacking."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-detached-miall-kuiken-foregrounding-1994",
+      "note": "Philosophical dispassion is a stance toward experience and cannot be mapped directly onto reader affect; the transfer to craft is an analogy, not a derivation."
+    }
+  ],
+  "scope": "Indian philosophical and literary context; analogue for the tone's disciplined withholding.",
+  "exceptions": [
+    "Ascetic renunciation traditions in which vairagya does aim at withdrawal from worldly relation, a stronger claim than this tone's craft stance."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/detached.md#8--cultural-scope"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

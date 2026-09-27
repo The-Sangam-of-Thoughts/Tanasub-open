@@ -1,0 +1,38 @@
+{
+  "id": "work-write-down-i-am-an-arab",
+  "title": "Write Down, I Am an Arab",
+  "creators": [
+    "Mahmoud Darwish"
+  ],
+  "work_type": "poem",
+  "published_date": "1964",
+  "languages": [
+    "ar"
+  ],
+  "regions": [
+    "Palestine"
+  ],
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "period_role": "modern",
+  "source_id": null,
+  "access": {
+    "edition_or_version": "Arabic original, 1964; the dossier notes that English renderings vary and does not rely on any single translation for claims about music",
+    "language_used": "en (English-language descriptions and varying renderings)",
+    "translator": null,
+    "access_conditions": null
+  },
+  "analysis_status": "translation-mediated",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "performative present-tense self-declaration: an imperative act of self-declaration that fixes identity against an official category",
+      "concrete named power and stake: identity fixed against official classification under military law",
+      "the declaration move transposed into lyric"
+    ],
+    "rhetorical_situation": "His context as a Palestinian citizen under military law is the formal rhetorical situation, not a translation overlay (dossier section E).",
+    "translation_limit": "The poem is Arabic; English renderings vary, and this dossier does not rely on any single translation for claims about music (dossier section E).",
+    "scope_note": "Region follows the dossier's wording ('Palestinian citizen under military law'); no publisher, page, or DOI data was added.",
+    "verification_note": "Verified via documented reception and 2014 documentary record; description only, no text reproduced (dossier section F)."
+  }
+}

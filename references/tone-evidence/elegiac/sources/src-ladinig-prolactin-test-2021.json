@@ -1,0 +1,44 @@
+{
+  "id": "src-ladinig-prolactin-test-2021",
+  "title": "Enjoying Sad Music: A Test of the Prolactin Theory",
+  "creators": ["Olivia Ladinig", "Charles Brooks", "Niels Chr. Hansen", "Katelyn Horn", "David Huron"],
+  "source_type": "peer-reviewed-article",
+  "source_roles": ["counterevidence"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Musicae Scientiae, vol. 25, no. 4, pp. 429-448",
+    "published_date": "2021",
+    "edition": null,
+    "doi": "10.1177/1029864919890900",
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["Australia", "United States", "Denmark"],
+  "access": {
+    "locator": "https://journals.sagepub.com/doi/10.1177/1029864919890900",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-elegiac)",
+    "verification_notes": "Authors, journal, volume, issue, pages, year, and DOI verified via SAGE and a university research repository. The finding that sad music did not significantly increase prolactin and that the prolactin theory was not supported verified via the abstract."
+  },
+  "axis_ids": ["tone-elegiac"],
+  "claim_ids": [
+    "clm-tone-elegiac-negative-emotion-reward",
+    "clm-tone-elegiac-oscillation-dosage"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Peer-reviewed replication study; null result paraphrased only."
+  }
+}

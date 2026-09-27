@@ -1,0 +1,62 @@
+{
+  "id": "src-lcgft-literature-2024",
+  "title": "Library of Congress Genre/Form Terms for Library and Archival Materials: Literature Terms",
+  "creators": [
+    "Library of Congress Policy, Training, and Cooperative Programs Division"
+  ],
+  "source_type": "library-vocabulary",
+  "source_roles": [
+    "recognition",
+    "definition"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Library of Congress",
+    "published_date": "2024",
+    "edition": "2024 web edition",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "global"
+  ],
+  "access": {
+    "locator": "https://id.loc.gov/authorities/genreFormTerms.html",
+    "accessed_at": "2026-09-12",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-12T10:00:00Z",
+    "verified_by": "Codex S04 taxonomy harvest agent",
+    "verification_notes": "Directly verified against the official Library of Congress linked data genre/form authority system."
+  },
+  "axis_ids": [
+    "axis-science-fiction",
+    "axis-detective-and-mystery-fiction",
+    "axis-historical-fiction",
+    "axis-romance-fiction",
+    "axis-horror-fiction",
+    "axis-fantasy-fiction",
+    "axis-gothic-fiction",
+    "axis-picaresque-literature",
+    "axis-epistolary-fiction",
+    "axis-pastoral-literature",
+    "axis-satirical-literature"
+  ],
+  "claim_ids": [],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": true,
+    "notes": "US Government work; public domain."
+  }
+}

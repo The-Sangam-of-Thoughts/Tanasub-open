@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-philosophical-conceptual-metaphor",
+  "craft_claim": "Abstract ideas become tractable when the voice carries them on a concrete conceptual metaphor or a compact thought-experiment image.",
+  "tone_ids": [
+    "tone-philosophical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-philosophical-lakoff-johnson-1980",
+      "location": "Metaphors We Live By, chs. 1-2 and 5",
+      "evidence_expression": "paraphrase",
+      "note": "Argues that metaphor is a fundamental mechanism of thought by which concrete physical and social experience structures abstract domains; the mechanism is widely influential though partly contested, so the claim is scoped to the mechanism."
+    },
+    {
+      "evidence_id": "work-zhuangzi",
+      "location": "'On the Equality of Things', the Butterfly Dream passage",
+      "evidence_expression": "synthesis",
+      "note": "A brief dream image is made to carry an abstract problem about the reality of waking and the stability of the self."
+    },
+    {
+      "evidence_id": "src-philosophical-zhuangzi-watson-2013",
+      "location": "The Zhuangzi, parables and transformation imagery",
+      "evidence_expression": "paraphrase",
+      "note": "Confirms the text's use of story, parable and transformation imagery to embody claims rather than state them."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Essay, poetry, contemplative fiction and conceptual copy.",
+  "exceptions": [
+    "A metaphor that decorates without mapping onto the argument becomes ornament; the vehicle must carry structure the reader can extend."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/philosophical.md#5--how-to-use-it--operators",
+    "tones/philosophical.md#8--cultural-scope"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

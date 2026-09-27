@@ -1,0 +1,57 @@
+{
+  "id": "src-warm-fiske-warmth-competence-2007",
+  "title": "Universal Dimensions of Social Cognition: Warmth and Competence",
+  "creators": [
+    "Susan T. Fiske",
+    "Amy J. C. Cuddy",
+    "Peter Glick"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Trends in Cognitive Sciences, Vol. 11, No. 2",
+    "published_date": "2007",
+    "edition": null,
+    "doi": "10.1016/j.tics.2006.11.005",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://pubmed.ncbi.nlm.nih.gov/17188552",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-warm)",
+    "verification_notes": "Confirmed authorship, journal, volume and pages (11(2):77-83), and the central claim that warmth and competence are universal dimensions of social cognition, with warmth prioritized (friend-or-foe intent precedes ability)."
+  },
+  "axis_ids": [
+    "tone-warm"
+  ],
+  "claim_ids": [
+    "clm-tone-warm-warmth-primacy"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Elsevier journal article; analytical citation only."
+  }
+}

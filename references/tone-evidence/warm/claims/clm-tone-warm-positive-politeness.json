@@ -1,0 +1,45 @@
+{
+  "id": "clm-tone-warm-positive-politeness",
+  "craft_claim": "Positive-politeness moves (in-group markers, seeking agreement, joking, including the reader in the activity, attending to the reader's wants) are the linguistic signature of the warm voice.",
+  "tone_ids": [
+    "tone-warm"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-warm-brown-levinson-1987",
+      "location": "Politeness: Some Universals in Language Usage, ch. 5, positive-politeness output strategies",
+      "evidence_expression": "synthesis",
+      "note": "Catalogues approach-based redress strategies oriented to the addressee's positive face, including noticing wants, intensifying interest, in-group identity markers, seeking agreement, presupposing common ground, joking, including both parties, and assuming reciprocity."
+    },
+    {
+      "evidence_id": "work-malgudi-days",
+      "location": "Malgudi Days (1943), narration across stories",
+      "evidence_expression": "synthesis",
+      "note": "The narrators treat ordinary characters' failings with affectionate irony, inviting the reader into shared amusement rather than judgement, an instance of searching for agreement and shared ground."
+    },
+    {
+      "evidence_id": "work-gulistan",
+      "location": "Gulistan (1258), framing statement and stories",
+      "evidence_expression": "paraphrase",
+      "note": "Sa'di frames severe moral counsel as a friend's advice, mixing instruction with wit so the reader is included in the exchange rather than lectured."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-warm-leech-pragmatics-2014",
+      "note": "Leech's sociopragmatic scale registers overpoliteness as a potential sarcasm, so the strategies fail when they exceed what the situation warrants."
+    }
+  ],
+  "scope": "Conversational and direct-address writing across forms; the strategies require a plausible relationship to be genuine.",
+  "exceptions": [
+    "High-formality registers where positive politeness would violate expected negative-face respect.",
+    "Cultures whose warmth forms differ from Anglophone positive politeness (see dossier E)."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/warm.md#5--how-to-use-it--operators",
+    "tones/warm.md#2--why-it-works--the-mechanism"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

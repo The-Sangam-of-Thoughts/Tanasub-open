@@ -1,0 +1,38 @@
+{
+  "id": "work-aurelius-meditations",
+  "title": "Meditations (Ta eis heauton)",
+  "creators": [
+    "Marcus Aurelius"
+  ],
+  "work_type": "philosophical-notebook",
+  "published_date": "c. 170-180 CE",
+  "languages": [
+    "grc"
+  ],
+  "regions": [
+    "Roman Empire"
+  ],
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "period_role": "classical",
+  "source_id": "src-philosophical-aurelius-hard-2011",
+  "access": {
+    "edition_or_version": "Meditations: with Selected Correspondence, trans. Robin Hard, intro. Christopher Gill (Oxford World's Classics, 2011)",
+    "language_used": "en",
+    "translator": "Robin Hard",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "Practical Stoic exercises: reminding oneself of principle under the pressure of daily life and mortality.",
+    "argumentative_stance": "Self-addressed admonition that abstracts a concrete occasion into a general rule about conduct and impermanence.",
+    "point_of_view": "Second-person or impersonal address to oneself (distanced self-address), not narrative recollection.",
+    "structure": "Short, unconnected entries grouped only by recurring themes; no plot or linear argument.",
+    "style_and_devices": "Compressed maxim, antithesis, repetition of key terms (nature, reason, mortality), analogy drawn from crafts and nature.",
+    "imagery": "Cosmic and surgical imagery: the view from above, the body as instrument, time as a river.",
+    "emotional_progression": "Agitation steadied into acceptance through repetition of principle.",
+    "critical_reception": "Central text of Stoicism and of contemplative prose; studied as a model of philosophical self-address.",
+    "failure_or_misuse_signals": "Maxim without situation becomes abstract moralising; second-person address without a concrete trigger reads as sermon."
+  }
+}

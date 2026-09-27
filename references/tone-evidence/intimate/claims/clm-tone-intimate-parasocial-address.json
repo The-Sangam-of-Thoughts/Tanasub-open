@@ -1,0 +1,34 @@
+{
+  "id": "clm-tone-intimate-parasocial-address",
+  "craft_claim": "Direct address to a reader ('you', apostrophe, or a letter frame) constitutes a para-social dyad that manufactures felt intimacy at a distance.",
+  "tone_ids": ["tone-intimate"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-intimate-horton-wohl-1956",
+      "location": "Psychiatry 19(3): 215-229, thesis of 'intimacy at a distance'",
+      "evidence_expression": "paraphrase",
+      "note": "Media personae generate a sensed conversational friendship with the audience through address and apparent self-reference."
+    },
+    {
+      "evidence_id": "src-intimate-culler-pursuit-signs-1981",
+      "location": "Chapter 7, 'Apostrophe'",
+      "evidence_expression": "paraphrase",
+      "note": "Apostrophe constitutes an addressee and forces writer and reader into an altered circuit of communication, making the address an event rather than a description."
+    },
+    {
+      "evidence_id": "src-intimate-nah-parasocial-2022",
+      "location": "Computers in Human Behavior 134: 107330, Studies 1 and 2",
+      "evidence_expression": "paraphrase",
+      "note": "A performer's intimate self-disclosure raised perceived authenticity and liking, which increased acceptance of the performer's message."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Lyric, blog/marketing copy, fiction, letters, and first-person nonfiction.",
+  "exceptions": [
+    "Third-person narration can simulate intimacy via free indirect style without explicit address; see clm-tone-intimate-free-indirect-consciousness."
+  ],
+  "confidence": "strong",
+  "report_locations": ["tones/intimate.md#2--why-it-works--the-mechanism", "tones/intimate.md#5--how-to-use-it--operators"],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

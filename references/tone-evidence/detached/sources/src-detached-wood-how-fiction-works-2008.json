@@ -1,0 +1,41 @@
+{
+  "id": "src-detached-wood-how-fiction-works-2008",
+  "title": "How Fiction Works",
+  "creators": ["James Wood"],
+  "source_type": "scholarly-book",
+  "source_roles": ["craft-support", "definition"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Farrar, Straus and Giroux",
+    "published_date": "2008",
+    "edition": "First edition",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["United Kingdom", "United States"],
+  "access": {
+    "locator": "Publisher record and widely excerpted Chapter 1 on free indirect style",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-detached)",
+    "verification_notes": "Confirmed via multiple independent excerpts and reviews; used here as counterweight caution about restraint legible only against implied fullness, and about narrative distance."
+  },
+  "axis_ids": ["tone-detached"],
+  "claim_ids": ["clm-tone-detached-restraint-vs-absence"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Farrar, Straus and Giroux; synthesis only."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "src-lyrical-liu-wenxin-1959",
+  "title": "The Literary Mind and the Carving of Dragons (Wenxin Diaolong)",
+  "creators": [
+    "Liu Xie",
+    "Vincent Yu-chung Shih"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Columbia University Press",
+    "published_date": "1959",
+    "edition": "English translation by Vincent Yu-chung Shih",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "regions": [
+    "China",
+    "United States"
+  ],
+  "access": {
+    "locator": "https://openlibrary.org/works/OL21085959W",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-lyrical)",
+    "verification_notes": "Translation verified via Open Library (Liu Hsieh; Shih; 1959); argument confirmed: literature is affection mediated by language, with pattern and sound intrinsic to literary form."
+  },
+  "axis_ids": [
+    "tone-lyrical"
+  ],
+  "claim_ids": [
+    "clm-tone-lyrical-chinese-tonal-prosody"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "zh",
+    "translator": "Vincent Yu-chung Shih",
+    "limitations": [
+      "Classical Chinese prosody and tonal pattern cannot be reproduced in English; the transferable content is the principle that sound is intrinsic to form."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Translated critical edition; analytical citation only; no text reproduced."
+  }
+}

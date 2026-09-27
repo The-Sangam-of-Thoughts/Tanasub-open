@@ -1,0 +1,37 @@
+{
+  "id": "clm-tone-detached-psychic-distance",
+  "craft_claim": "Detached narration sits at mid-to-far psychic distance and shows only externally observable action and speech (external focalization), suppressing interior access by design.",
+  "tone_ids": ["tone-detached"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-detached-genette-narrative-discourse-1980",
+      "location": "Mood, external focalization (Narrative Discourse, Book 2, Chapter 4)",
+      "evidence_expression": "paraphrase",
+      "note": "Genette distinguishes external focalization, in which the narrator reports only externally observable actions and speech without access to any character's thoughts."
+    },
+    {
+      "evidence_id": "src-detached-gernsbacher-emotion-inference-1992",
+      "location": "Experiments and general discussion, pp. 89-111",
+      "evidence_expression": "synthesis",
+      "note": "Readers form explicit mental representations of characters' emotional states from described situation and behavior, so restraining interior access does not stop the reader from inferring interiority."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-detached-bal-veltkamp-empathy-2013",
+      "note": "Section B 'Disengagement risk is measurable' and failure G4: holding external focalization across sustained text approximates the low-transportation condition under which readers' empathy decreased over a week, so the design carries a documented engagement cost rather than being stylistically neutral."
+    }
+  ],
+  "scope": "Third-person and first-person prose narration.",
+  "exceptions": [
+    "First-person narrators who report their own actions without naming affect (e.g., procedural first-person) achieve a comparable effect by a different formal route.",
+    "Stage and screenplay writing, where external focalization is the default medium rather than a marked choice."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/detached.md#2--why-it-works--the-mechanism",
+    "tones/detached.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

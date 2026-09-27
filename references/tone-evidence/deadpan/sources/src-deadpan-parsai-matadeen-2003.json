@@ -1,0 +1,60 @@
+{
+  "id": "src-deadpan-parsai-matadeen-2003",
+  "title": "Inspector Matadeen on the Move (Hindi: Mastak Charandas / Matadeen series stories)",
+  "creators": [
+    "Harishankar Parsai",
+    "Dina Nayar (translator, where credited)"
+  ],
+  "source_type": "primary-work",
+  "source_roles": [
+    "craft-support",
+    "indian-context"
+  ],
+  "reliability_tier": 3,
+  "publication": {
+    "publisher_or_container": "Katha",
+    "published_date": "2003",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "hi"
+  ],
+  "regions": [
+    "India",
+    "Madhya Pradesh"
+  ],
+  "access": {
+    "locator": "Library record: Inspector Matadeen on the Move (Katha, 2003)",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-deadpan)",
+    "verification_notes": "Hindi satiric stories in bureaucratic register, English edition via Katha (2003). Used as the Indian practice anchor for register-inherited understatement and deadpan mask openings (genres/satirical-literature.md lines 211–213; translation gap at line 571). NOT to be confused with the sibling comedic silo's record work-parsai-inspector-matadeen (Manas 1994 / Katha 2003, trans. Naim) — that is a primary-work record; this is the source record, and both silos kept separate IDs deliberately. Translator attribution kept general (Nayar/Naim credits vary across printings) because the exact translator-by-imprint mapping was not verified this session. Passage-level close reading not performed — evidence-incomplete item 3. Tier re-derived 2026-09-25 against layers/layer0-academic.md: held at 3 rather than raised to the Tier-1 direct-primary default because this record is translation-mediated and secondary-attested (passage-level close reading not performed), so the Tier-1 'verified direct primary evidence' precondition is unmet."
+  },
+  "axis_ids": [
+    "tone-deadpan"
+  ],
+  "claim_ids": [
+    "clm-tone-deadpan-understatement-operators",
+    "clm-tone-deadpan-clinical-reportage"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "hi",
+    "translator": "Dina Nayar (where credited; Nayar/Naim credits vary across printings)",
+    "limitations": [
+      "Translation gap: the bureaucratic office-Hindi register Parsai's deadpan depends on has no English equivalent (genres/satirical-literature.md line 571); translator-by-imprint mapping not verified this session."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "2003 Katha English edition in copyright; technique described only, no passage reproduced."
+  }
+}

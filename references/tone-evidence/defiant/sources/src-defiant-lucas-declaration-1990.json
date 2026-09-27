@@ -1,0 +1,55 @@
+{
+  "id": "src-defiant-lucas-declaration-1990",
+  "title": "The Stylistic Artistry of the Declaration of Independence",
+  "creators": [
+    "Stephen E. Lucas"
+  ],
+  "source_type": "practitioner-work",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 4,
+  "publication": {
+    "publisher_or_container": "Prologue: Quarterly of the National Archives, Vol. 22",
+    "published_date": "1990",
+    "edition": "pp. 25-43",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://www.archives.gov/founding-docs/stylistic-artistry-of-the-declaration",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-defiant)",
+    "verification_notes": "Article hosted by the U.S. National Archives and listed in the Prologue 1990 index (22:25-43) and the author's university bibliography; analyzes the Declaration's parallel structure, indictment catalog, and present-tense pronouncement."
+  },
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "claim_ids": [
+    "clm-tone-defiant-declaration-performance",
+    "clm-tone-defiant-confrontation-tradition"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "open-access",
+    "repository_copy_allowed": false,
+    "notes": "U.S. National Archives publication; analysis cited, no text reproduced."
+  }
+}

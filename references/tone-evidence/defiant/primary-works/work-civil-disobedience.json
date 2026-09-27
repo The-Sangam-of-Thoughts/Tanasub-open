@@ -1,0 +1,34 @@
+{
+  "id": "work-civil-disobedience",
+  "title": "Resistance to Civil Government (later titled Civil Disobedience)",
+  "creators": [
+    "Henry David Thoreau"
+  ],
+  "work_type": "essay",
+  "published_date": "1849",
+  "languages": [
+    "en"
+  ],
+  "regions": [],
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "period_role": "formative",
+  "source_id": null,
+  "access": {
+    "edition_or_version": "Published 1849 as 'Resistance to Civil Government'; later titled 'Civil Disobedience'; the dossier does not name a consulted edition",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": null
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "duty warrant: defiance grounded in a duty the speaker already owes - conscience outranks compliance with unjust law",
+      "withdrawal of support named as the act of resistance, not a mood"
+    ],
+    "influence_note": "A documented influence on Gandhi's satyagraha and on Martin Luther King Jr.'s nonviolent resistance; the practical legacy is defiance grounded in duty rather than mood (dossier section C).",
+    "scope_note": "Region is not stated in the dossier and is recorded as [] rather than inferred; no publisher, page, or DOI data was added.",
+    "verification_note": "Verified via scholarly and archival records; influenced Gandhi and King; description only, no text reproduced (dossier section F)."
+  }
+}

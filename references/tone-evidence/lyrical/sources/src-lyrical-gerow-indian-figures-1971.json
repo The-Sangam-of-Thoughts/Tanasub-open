@@ -1,0 +1,59 @@
+{
+  "id": "src-lyrical-gerow-indian-figures-1971",
+  "title": "A Glossary of Indian Figures of Speech",
+  "creators": [
+    "Edwin Gerow"
+  ],
+  "source_type": "reference-work",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "indian-context"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Mouton",
+    "published_date": "1971",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "sa"
+  ],
+  "regions": [
+    "India",
+    "United States"
+  ],
+  "access": {
+    "locator": "https://openlibrary.org/works/OL6449671W",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-lyrical)",
+    "verification_notes": "Work verified via Open Library; the Sanskrit distinction between sabdalankara (sound figures) and arthalankara (sense figures) confirmed as a documented classification of figures of speech."
+  },
+  "axis_ids": [
+    "tone-lyrical"
+  ],
+  "claim_ids": [
+    "clm-tone-lyrical-dhvani-suggested-meaning"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "sa",
+    "translator": "Edwin Gerow",
+    "limitations": [
+      "Sanskrit technical vocabulary is glossed in English and does not carry the original phonetic associations."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Reference work; analytical citation only."
+  }
+}

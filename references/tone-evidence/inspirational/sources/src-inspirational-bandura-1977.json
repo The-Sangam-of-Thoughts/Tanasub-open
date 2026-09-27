@@ -1,0 +1,54 @@
+{
+  "id": "src-inspirational-bandura-1977",
+  "title": "Self-Efficacy: Toward a Unifying Theory of Behavioral Change",
+  "creators": [
+    "Albert Bandura"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Psychological Review, vol. 84, no. 2, pp. 191-215",
+    "published_date": "1977",
+    "edition": null,
+    "doi": "10.1037/0033-295X.84.2.191",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://pubmed.ncbi.nlm.nih.gov/847061/",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-inspirational)",
+    "verification_notes": "Citation, volume, pages, DOI, and PMID confirmed. The four sources of efficacy expectations (performance accomplishments, vicarious experience, verbal persuasion, physiological states) verified from the article's published abstract and text."
+  },
+  "axis_ids": [
+    "tone-inspirational"
+  ],
+  "claim_ids": [
+    "clm-tone-inspirational-self-efficacy-models"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical citation only, no text reproduced."
+  }
+}

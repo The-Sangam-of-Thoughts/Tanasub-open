@@ -1,0 +1,57 @@
+{
+  "id": "src-urgent-cialdini-influence-2007",
+  "title": "Influence: The Psychology of Persuasion",
+  "creators": [
+    "Robert B. Cialdini"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "counterevidence",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "HarperCollins (Harper Business)",
+    "published_date": "2007",
+    "edition": "Revised edition",
+    "doi": null,
+    "isbn": "978-0061241895"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "social psychology",
+    "persuasion practice"
+  ],
+  "access": {
+    "locator": "HarperCollins, revised edition 2007; ISBN 978-0061241895.",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-urgent)",
+    "verification_notes": "Author and scholarly standing confirmed via the encyclopedic record. Tier 2 per the Layer-0 scholarly-book category; it is a practitioner-oriented synthesis of research, not the primary scarcity literature (cf. Lynn 1991). Scarcity-principle summary is from established description; no text reproduced."
+  },
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "claim_ids": [
+    "clm-tone-urgent-manufactured-urgency-line"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Trade book; no text reproduced."
+  }
+}

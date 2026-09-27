@@ -1,0 +1,58 @@
+{
+  "id": "src-comedic-martin-humor-styles-2003",
+  "title": "Individual Differences in Uses of Humor and Their Relation to Psychological Well-Being: Development of the Humor Styles Questionnaire",
+  "creators": [
+    "Rod A. Martin",
+    "Patricia Puhlik-Doris",
+    "Gwen Larsen",
+    "Jeanette Gray",
+    "Kelly Weir"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Research in Personality, 37(1)",
+    "published_date": "2003",
+    "edition": "pp. 48-75",
+    "doi": "10.1016/S0092-6566(02)00534-2",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Canada"
+  ],
+  "access": {
+    "locator": "https://www.sciencedirect.com/science/article/abs/pii/S0092656602005342",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-comedic)",
+    "verification_notes": "Develops the Humor Styles Questionnaire distinguishing affiliative and self-enhancing (adaptive) from aggressive and self-defeating (maladaptive) humour styles. Citation details verified via ScienceDirect and subsequent validation studies."
+  },
+  "axis_ids": [
+    "tone-comedic"
+  ],
+  "claim_ids": [
+    "clm-tone-comedic-disparagement-harm"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Peer-reviewed article; citation and paraphrase only."
+  }
+}

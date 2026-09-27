@@ -1,0 +1,27 @@
+{
+  "id": "clm-tone-lyrical-jakobson-poetic-function",
+  "craft_claim": "The poetic function foregrounds the message's sound, projecting equivalence and parallelism from the axis of selection onto the axis of combination, so sound becomes the organizing principle of the line.",
+  "tone_ids": [
+    "tone-lyrical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-lyrical-jakobson-poetics-1960",
+      "location": "'Linguistics and Poetics', in Style in Language (Sebeok, ed.), MIT Press",
+      "evidence_expression": "paraphrase",
+      "note": "Jakobson defines the poetic function as the projection of the principle of equivalence from the axis of selection onto the axis of combination, making sound-patterning a structural property of the utterance."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Verse and lyrical prose; strongest where repetition and parallelism are audible.",
+  "exceptions": [
+    "Prose whose dominant function is referential or metalinguistic (technical, legal, instructional), where poetic foregrounding is subordinated."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/lyrical.md#2--why-it-works--the-mechanism",
+    "tones/lyrical.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "src-grim-dhvanyaloka-1990",
+  "title": "The Dhvanyaloka of Anandavardhana with the Locana of Abhinavagupta",
+  "creators": [
+    "Anandavardhana",
+    "Abhinavagupta",
+    "Daniel H. H. Ingalls",
+    "Jeffrey Moussaieff Masson",
+    "M. V. Patwardhan"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support",
+    "indian-context"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Harvard University Press",
+    "published_date": "1990",
+    "edition": "Harvard Oriental Series Vol. 49",
+    "doi": null,
+    "isbn": "978-0674207301"
+  },
+  "languages": [
+    "en",
+    "sa"
+  ],
+  "regions": [
+    "India",
+    "South Asia",
+    "Kashmir"
+  ],
+  "access": {
+    "locator": "https://www.hup.harvard.edu/books/9780674207301",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-grim)",
+    "verification_notes": "Silo restatement of the shared coordinator-verified record src-anandavardhana-dhvanyaloka-1990 (tier 1). Used for the principle that suggested emotion (dhvani) outranks stated emotion, which underwrites understatement in the grim register. The present researcher did not re-inspect the edition."
+  },
+  "axis_ids": [
+    "tone-grim"
+  ],
+  "claim_ids": [
+    "clm-tone-grim-rasa-karuna-bhayanaka"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "sa",
+    "translator": "Daniel H. H. Ingalls, J. M. Masson, M. V. Patwardhan",
+    "limitations": [
+      "Sanskrit aesthetic technical terminology requires bilingual cross-referencing; dhvani has no exact English equivalent."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Harvard Oriental Series edition; translation copyrighted; analytical citations only."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "clm-tone-whimsical-playfulness-trait",
+  "craft_claim": "Adult playfulness is a measurable disposition whose OLIW model includes a distinct 'whimsical' facet, so appetite for a whimsical register varies across readers and argues for bounded rather than continuous deployment.",
+  "tone_ids": [
+    "tone-whimsical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-whimsical-proyer-smap-2012",
+      "location": "Personality and Individual Differences 53(8):989-994",
+      "evidence_expression": "paraphrase",
+      "note": "Proyer develops the Short Measure of Adult Playfulness (SMAP), showing a one-dimensional solution with good internal consistency and test-retest reliability, and locating playfulness with cheerfulness and culture and against low seriousness."
+    },
+    {
+      "evidence_id": "src-whimsical-brauer-proyer-2021",
+      "location": "Social and Personality Psychology Compass 15(4):e12589",
+      "evidence_expression": "paraphrase",
+      "note": "The review describes the OLIW model of adult playfulness with four facets - Other-directed, Lighthearted, Intellectual, and Whimsical - giving a named psychological home to the 'whimsical' facet."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Audience disposition and dosage planning; not a claim about prose technique.",
+  "exceptions": [
+    "Trait playfulness describes receivers, so it cannot license a universal dosage rule; individual pieces must still be judged on effect."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/whimsical.md#4--when-to-show-restraint",
+    "tones/whimsical.md#3--when-it-works"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

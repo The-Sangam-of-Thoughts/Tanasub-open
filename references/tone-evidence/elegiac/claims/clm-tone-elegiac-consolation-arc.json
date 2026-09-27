@@ -1,0 +1,40 @@
+{
+  "id": "clm-tone-elegiac-consolation-arc",
+  "craft_claim": "The canonical elegy moves from grief toward consolation through ritual work, while the modern elegy frequently refuses or doubts that consolation; consolation is available but not obligatory.",
+  "tone_ids": ["tone-elegiac"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-sacks-english-elegy-1985",
+      "location": "Introduction, pp. 1-3, and chapters on Spenser and Milton",
+      "evidence_expression": "paraphrase",
+      "note": "Sacks's compensatory model reads elegiac conventions as the performance of mourning that works toward consolation."
+    },
+    {
+      "evidence_id": "src-ramazani-poetry-mourning-1994",
+      "location": "Introduction and Chapter 1",
+      "evidence_expression": "paraphrase",
+      "note": "Ramazani argues the compensatory model fits canonical elegies but not modern ones, which turn toward irresolution, irredemption, and self-criticism and often withhold consolation."
+    },
+    {
+      "evidence_id": "work-tennyson-in-memoriam-1850",
+      "location": "The sequence of cantos, especially the Christmas poems and the epilogue",
+      "evidence_expression": "synthesis",
+      "note": "In Memoriam stages a long, doubt-ridden movement that reaches a guarded faith and consolation only after sustained oscillation."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-ramazani-poetry-mourning-1994",
+      "note": "If consolation is treated as required, the many respected anti-consolatory elegies are misread."
+    }
+  ],
+  "scope": "Elegiac poetry and elegiac-inflected prose; the arc is a tendency, not a rule.",
+  "exceptions": [
+    "War and disaster elegies that deliberately deny consolation.",
+    "Elegies for public figures that substitute commemoration for personal consolation."
+  ],
+  "confidence": "strong",
+  "report_locations": ["tones/elegiac.md#2--why-it-works--the-mechanism"],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

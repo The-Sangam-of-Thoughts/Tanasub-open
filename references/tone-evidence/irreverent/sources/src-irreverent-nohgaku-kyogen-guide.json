@@ -1,0 +1,57 @@
+{
+  "id": "src-irreverent-nohgaku-kyogen-guide",
+  "title": "Introduction to Kyōgen (official guide)",
+  "creators": [
+    "Monica Bethe",
+    "Nōgaku Kyōkai (Nohgaku Association of Japan)"
+  ],
+  "source_type": "reference-work",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 3,
+  "publication": {
+    "publisher_or_container": "Nōgaku Kyōkai (Nohgaku Association of Japan), official website",
+    "published_date": "n.d.",
+    "edition": "English web guide page",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Japan"
+  ],
+  "access": {
+    "locator": "https://www.nohgaku.or.jp/en/guide/kyogen",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "Page re-fetched on 2026-09-24 (HTTP 200; page title 'Introduction to Kyōgen'; describes kyōgen as comedy of medieval ordinary life, mostly performed without masks); full guide text was read earlier in this research session and establishes: master-servant defiance, the embarrassment of arrogant authority figures, satirical treatment of priests and yamabushi, kyōgen's sanctioned slot in the nō program, and the genre's restraint from mere slapstick (all paraphrased, never quoted). Author identified as Monica Bethe earlier in the session."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [
+    "clm-tone-irreverent-licensed-frame",
+    "clm-tone-irreverent-hierarchy-leveling"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Institutional website content; paraphrased only."
+  }
+}

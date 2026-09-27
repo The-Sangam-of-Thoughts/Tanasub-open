@@ -1,0 +1,53 @@
+{
+  "id": "src-compassionate-figley-1995",
+  "title": "Compassion Fatigue",
+  "creators": [
+    "Figley"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "craft-support",
+    "dosage"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": null,
+    "published_date": "1995",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [],
+  "access": {
+    "locator": null,
+    "accessed_at": "2026-09-24",
+    "access_conditions": null
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": null,
+    "verified_by": "Tone Layer researcher (tone-compassionate)",
+    "verification_notes": "Citation recorded from the dossier claims matrix and sections B, G, and H: Figley (1995) frames compassion fatigue as the cost of caring, a secondary traumatic stress in helpers. The dossier states no subtitle, publisher, author given name, region, or verification, so those fields are null; no access locator is recorded because the dossier gives none."
+  },
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "claim_ids": [
+    "clm-tone-compassionate-compassion-fatigue-yield"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scholarly book; analytical citation only; no text reproduced."
+  }
+}

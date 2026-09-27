@@ -1,0 +1,54 @@
+{
+  "id": "src-compassionate-davis-1983",
+  "title": "Measuring individual differences in empathy: Evidence for a multidimensional approach",
+  "creators": [
+    "Mark H. Davis"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Personality and Social Psychology, vol. 44, no. 1, pp. 113-126",
+    "published_date": "1983",
+    "edition": null,
+    "doi": "10.1037/0022-3514.44.1.113",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1037/0022-3514.44.1.113",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-compassionate)",
+    "verification_notes": "Crossref record confirmed title, author, journal, volume, issue, pages, year, and DOI; used for the separation of perspective-taking, empathic concern, fantasy, and personal distress."
+  },
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "claim_ids": [
+    "clm-tone-compassionate-perspective-taking"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical citation only."
+  }
+}

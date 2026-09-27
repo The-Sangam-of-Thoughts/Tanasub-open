@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-deadpan-echoic-dissociation",
+  "craft_claim": "Deadpan's flat surface is a vehicle for echoic-mention: the narration repeats an attitude, report, or institutional formula while dissociating from it, and the dissociation is signalled only by the absurdity of what is being echoed — never by a change of voice.",
+  "tone_ids": ["tone-deadpan"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-deadpan-wilson-sperber-verbal-irony-1992",
+      "location": "pp. 56–74",
+      "evidence_expression": "paraphrase",
+      "note": "Verbal irony echoes an attitude the speaker dissociates from; the echoic-mention account predicts an ironic voice that need not vary its surface, since dissociation is carried by the echoed target. Tier 2; primary theoretical support."
+    },
+    {
+      "evidence_id": "src-deadpan-sperber-wilson-mention-1981",
+      "location": "pp. 283–292",
+      "evidence_expression": "synthesis",
+      "note": "The mention/use distinction underlying echoic mention: the deadpan text *mentions* an institutional or reportorial register rather than *using* it sincerely. Tier 2 peer-reviewed article."
+    },
+    {
+      "evidence_id": "src-deadpan-clark-gerrig-pretense-1984",
+      "location": "pp. 121–126",
+      "evidence_expression": "paraphrase",
+      "note": "Pretense theory independently frames the flat voice as apparent rather than actual communication of the displayed attitude. Tier 2; converging account."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-deadpan-giora-graded-salience-1997",
+      "location": "pp. 183–206",
+      "evidence_expression": "paraphrase",
+      "note": "Giora's graded-salience hypothesis holds that the most salient (often literal) meaning is accessed first regardless of context, complicating a purely echo-driven default reading. Does not defeat dissociation but predicts that readers may reach the literal reading first — relevant to failure mode 2."
+    }
+  ],
+  "scope": "Applies when the deadpan surface borrows a recognizable register (case file, memo, news report, budget) — the echo target. Purely personal first-person flatness without a borrowed register is weaker and edges toward `tone-detached`.",
+  "exceptions": "When nothing recognizable is echoed (no institutional formula, no cited attitude), there is no dissociation target and the construction loses its ironic charge.",
+  "confidence": "strong",
+  "report_locations": ["#1--definition-and-boundaries", "#2--why-it-works--the-mechanism"],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

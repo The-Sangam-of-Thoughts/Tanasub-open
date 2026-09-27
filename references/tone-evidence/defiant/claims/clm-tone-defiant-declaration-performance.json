@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-defiant-declaration-performance",
+  "craft_claim": "The declaration tradition performs a self-authorizing act in the present tense, built from parallel clauses and a catalog of indictments, rather than arguing to a neutral judge.",
+  "tone_ids": [
+    "tone-defiant"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-defiant-lucas-declaration-1990",
+      "location": "Prologue: Quarterly of the National Archives 22:25-43",
+      "evidence_expression": "synthesis",
+      "note": "Lucas analyzes the Declaration's stylistic architecture: an opening pronouncement in the present tense, a formally parallel catalog of grievances, and a closing pledge, all governed by an elevated public style."
+    },
+    {
+      "evidence_id": "work-write-down-i-am-an-arab",
+      "location": "Poem, 1964",
+      "evidence_expression": "synthesis",
+      "note": "Darwish's poem performs an act of self-declaration that fixes identity against an official category, the declaration move transposed into lyric."
+    },
+    {
+      "evidence_id": "work-annihilation-of-caste",
+      "location": "Self-published speech, 15 May 1936",
+      "evidence_expression": "synthesis",
+      "note": "Ambedkar's text builds a cumulative, parallel indictment of caste's effects before issuing its refusal, matching the catalog-then-declare structure."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-defiant-scott-smith-1969",
+      "note": "Not all defiant rhetoric declares; confrontation can also proceed by disrupting the opponent's occasion, which is a different structure from the formal declaration."
+    }
+  ],
+  "scope": "Declarations, manifestos, charters, perorations, and lyric self-declaration.",
+  "exceptions": [
+    "A declaration without a verifiable warrant risks reading as self-authorizing bluster; the form amplifies whatever principle is or is not present."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/defiant.md#5--how-to-use-it--operators",
+    "tones/defiant.md#6--combination-rules"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

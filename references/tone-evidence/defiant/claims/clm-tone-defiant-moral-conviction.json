@@ -1,0 +1,45 @@
+{
+  "id": "clm-tone-defiant-moral-conviction",
+  "craft_claim": "Defiant voice draws its spine from moral conviction rather than preference: moral mandates are authority- and peer-independent, predict counter-conformity, and carry an ought that ordinary attitude strength does not.",
+  "tone_ids": [
+    "tone-defiant"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-defiant-skitka-bauman-sargis-2005",
+      "location": "Journal of Personality and Social Psychology 88(6):895-917, Studies 1-3",
+      "evidence_expression": "synthesis",
+      "note": "Attitudes held with strong moral conviction (moral mandates) are perceived as objectively true and universal, are relatively authority- and peer-independent, and after controlling for attitude strength uniquely predict preferring greater social and physical distance from attitudinally dissimilar others."
+    },
+    {
+      "evidence_id": "src-defiant-skitka-mullen-2002",
+      "location": "Analyses of Social Issues and Public Policy 2(1):35-41",
+      "evidence_expression": "paraphrase",
+      "note": "Moral mandates have high action potential because they are oughts and shoulds; the authors review how they can lead people to disregard procedural safeguards as well as to prosocial action."
+    },
+    {
+      "evidence_id": "src-defiant-wisneski-2009",
+      "location": "Psychological Science 20(9):1059-1063",
+      "evidence_expression": "paraphrase",
+      "note": "Across a nationally representative sample, stronger moral conviction predicted greater distrust in authorities to decide a contested issue, distinguishing moral conviction from religiosity."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-defiant-skitka-bauman-sargis-2005",
+      "note": "The same moral absolutism that gives a defiant voice force also predicts reduced tolerance of dissent, so moral vocabulary carries a documented rigidity cost as well as a motivational gain."
+    }
+  ],
+  "scope": "Moral and civic argument, manifestos, and testimony where the speaker claims a principle rather than a preference.",
+  "exceptions": [
+    "When moral language is used instrumentally without an underlying principle, audiences and research both register it as posturing rather than conviction.",
+    "In contexts where the audience does not share the moral predicate, the ought reads as imposition and raises reactance."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/defiant.md#2--why-it-works--the-mechanism",
+    "tones/defiant.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "src-deadpan-sperber-wilson-mention-1981",
+  "title": "Irony and the Use-Mention Distinction",
+  "creators": [
+    "Dan Sperber",
+    "Deirdre Wilson"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Poetics, Vol. 10, No. 2–3 (Elsevier)",
+    "published_date": "1981",
+    "edition": "pp. 283–292",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "France",
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "Library record: Irony and the Use-Mention Distinction, Poetics 10(2–3):283–292",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-deadpan)",
+    "verification_notes": "Foundational mention/use paper underpinning echoic mention: the deadpan text *mentions* an institutional register rather than *using* it sincerely. Supports the echoic-dissociation claim."
+  },
+  "axis_ids": [
+    "tone-deadpan"
+  ],
+  "claim_ids": [
+    "clm-tone-deadpan-echoic-dissociation"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Elsevier journal article; citation and paraphrase only."
+  }
+}

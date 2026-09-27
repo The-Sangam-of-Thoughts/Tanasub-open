@@ -1,0 +1,40 @@
+{
+  "id": "clm-tone-urgent-deadline-framing",
+  "craft_claim": "Naming a real deadline, count, or dated event converts diffuse concern into felt pressure; urgency dissipates when the deadline is vague or indefinitely deferred.",
+  "tone_ids": [
+    "tone-urgent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-urgent-frederick-loewenstein-odonoghue-2002",
+      "location": "Journal of Economic Literature 40(2), pp. 351-401 (time discounting)",
+      "evidence_expression": "synthesis",
+      "note": "If near-term outcomes are weighted more heavily, then moving a consequence to a named, near date should raise its motivational weight. Deadline framing operationalizes that move in prose."
+    },
+    {
+      "evidence_id": "src-urgent-poulakos-sophistic-rhetoric-1983",
+      "location": "Toward a Sophistic Definition of Rhetoric, pp. 35-48 (kairos)",
+      "evidence_expression": "paraphrase",
+      "note": "Kairos is the specific, non-repeatable moment for action; an explicit, datable occasion is the prose analogue of that moment."
+    },
+    {
+      "evidence_id": "work-jaccuse",
+      "location": "J'Accuse...! (ongoing present wrong rather than future warning)",
+      "evidence_expression": "synthesis",
+      "note": "The indictment's pressure comes from a continuing present wrong with a dateable publication moment, not from a vague warning about the future."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Persuasive, informational and narrative prose where a decision is being urged.",
+  "exceptions": [
+    "A deadline that resets or recurs on demand is manufactured, not real.",
+    "In fiction, an invented clock is legitimate inside the fiction frame."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/urgent.md#2--why-it-works--the-mechanism",
+    "tones/urgent.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

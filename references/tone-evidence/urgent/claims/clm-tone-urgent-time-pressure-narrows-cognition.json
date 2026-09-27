@@ -1,0 +1,40 @@
+{
+  "id": "clm-tone-urgent-time-pressure-narrows-cognition",
+  "craft_claim": "Time pressure and scarcity narrow attention, shorten information search, and push readers toward premature commitment, which is why urgent prose must supply a clear next action.",
+  "tone_ids": [
+    "tone-urgent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-urgent-kruglanski-webster-1996",
+      "location": "Psychological Review 103(2), pp. 263-283 (need for cognitive closure; seizing and freezing)",
+      "evidence_expression": "paraphrase",
+      "note": "The closure account predicts that time pressure and the desire to reach a firm answer shorten search and hasten commitment to an early option, producing seizing (adopting an available judgment) and freezing (holding it against alternatives)."
+    },
+    {
+      "evidence_id": "src-urgent-frederick-loewenstein-odonoghue-2002",
+      "location": "Journal of Economic Literature 40(2), pp. 351-401 (time discounting)",
+      "evidence_expression": "synthesis",
+      "note": "The review establishes that near-term outcomes are generally weighted more heavily than delayed ones, which is the lever urgent framing pulls when it moves a consequence closer."
+    },
+    {
+      "evidence_id": "src-urgent-mullainathan-shafir-scarcity-2013",
+      "location": "Book thesis (scarcity captures attention and narrows cognitive bandwidth)",
+      "evidence_expression": "paraphrase",
+      "note": "Scarcity is argued to tunnel attention onto the scarce resource at the cost of peripheral processing. Under urgency, the reader seals the topic as the scarce thing and stops weighing context."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Reader cognition under a perceived time constraint, including persuasion, warnings, and narrative suspense.",
+  "exceptions": [
+    "Expert readers with strong prior knowledge and low personal stakes show weaker narrowing.",
+    "Narrowing can aid compliance when the available action is real and correct; it is not inherently harmful."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/urgent.md#2--why-it-works--the-mechanism",
+    "tones/urgent.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

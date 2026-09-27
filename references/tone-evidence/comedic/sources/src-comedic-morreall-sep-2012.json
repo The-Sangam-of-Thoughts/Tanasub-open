@@ -1,0 +1,56 @@
+{
+  "id": "src-comedic-morreall-sep-2012",
+  "title": "Philosophy of Humor",
+  "creators": [
+    "John Morreall"
+  ],
+  "source_type": "reference-work",
+  "source_roles": [
+    "recognition",
+    "definition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Stanford Encyclopedia of Philosophy (Metaphysics Research Lab, CSLI, Stanford University)",
+    "published_date": "2012",
+    "edition": "Revised edition (entry)",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://plato.stanford.edu/entries/humor/",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-comedic)",
+    "verification_notes": "Peer-reviewed encyclopedia entry by a specialist; surveyed directly. Classifies humour theories into superiority, relief, and incongruity families and treats each as partial."
+  },
+  "axis_ids": [
+    "tone-comedic"
+  ],
+  "claim_ids": [
+    "clm-tone-comedic-incongruity-resolution",
+    "clm-tone-comedic-superiority-limits",
+    "clm-tone-comedic-figurative-register"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "open-access",
+    "repository_copy_allowed": false,
+    "notes": "Open-access encyclopedia entry; citation and paraphrase only."
+  }
+}

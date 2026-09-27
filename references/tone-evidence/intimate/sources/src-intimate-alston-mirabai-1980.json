@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-alston-mirabai-1980",
+  "title": "The Devotional Poems of Mirabai",
+  "creators": ["Mirabai", "A. J. Alston"],
+  "source_type": "critical-edition",
+  "source_roles": ["recognition", "craft-support", "indian-context"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Motilal Banarsidass",
+    "published_date": "1980",
+    "edition": "First edition, 144 pp. (based on Chaturvedi's selection)",
+    "doi": null,
+    "isbn": "9780895815101"
+  },
+  "languages": ["en", "hi"],
+  "regions": ["India", "South Asia"],
+  "access": {
+    "locator": "https://archive.org/details/devotionalpoemso0000mira",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "Internet Archive and multiple catalog records verified the Alston translation; the Poetry Foundation and Britannica confirm Mirabai's bhakti convention of addressing Krishna through the analogy of human love. Tier 2: critical edition; translation scoped."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-crosscultural-norms"],
+  "translation": {
+    "is_translation": true,
+    "original_language": "hi",
+    "translator": "A. J. Alston",
+    "limitations": ["Braj Bhasa verse into English loses musical refrain structure and idiomatic register; manuscript attribution is itself uncertain because the poems survive orally in multiple recensions."]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Translation copyrighted; analytical paraphrase only, no text reproduced."
+  }
+}

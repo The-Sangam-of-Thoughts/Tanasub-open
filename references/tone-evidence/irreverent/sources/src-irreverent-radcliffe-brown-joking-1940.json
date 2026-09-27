@@ -1,0 +1,56 @@
+{
+  "id": "src-irreverent-radcliffe-brown-joking-1940",
+  "title": "On Joking Relationships",
+  "creators": [
+    "A. R. Radcliffe-Brown"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Africa: Journal of the International African Institute, Vol. 13, No. 3",
+    "published_date": "1940",
+    "edition": "pp. 195-210",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Sub-Saharan Africa",
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://www.jstor.org/stable/1156093",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "Citation (journal, volume, issue, pages, JSTOR stable ID 1156093) and the article's thesis — that joking relationships are socially defined, institutionally sanctioned relationships in which insults do not cause offence — verified earlier in this research session. A JSTOR re-fetch on 2026-09-24 returned an automated client-challenge page, so the article text was not re-inspected; cited at article-thesis level."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [
+    "clm-tone-irreverent-licensed-frame",
+    "clm-tone-irreverent-no-sustained-target"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Journal article in copyright; paraphrased only."
+  }
+}

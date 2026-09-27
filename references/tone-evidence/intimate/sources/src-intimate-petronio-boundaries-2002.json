@@ -1,0 +1,41 @@
+{
+  "id": "src-intimate-petronio-boundaries-2002",
+  "title": "Boundaries of Privacy: Dialectics of Disclosure",
+  "creators": ["Sandra Petronio"],
+  "source_type": "scholarly-book",
+  "source_roles": ["definition", "craft-support"],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "State University of New York Press (SUNY series in Communication Studies)",
+    "published_date": "2002-10",
+    "edition": "Paperback, 288 pp.",
+    "doi": null,
+    "isbn": "9780791455166"
+  },
+  "languages": ["en"],
+  "regions": ["United States"],
+  "access": {
+    "locator": "https://sunypress.edu/Books/B/Boundaries-of-Privacy",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-intimate)",
+    "verification_notes": "Publisher page and library catalog records verified; communication privacy management (privacy boundaries, co-ownership, boundary turbulence) confirmed."
+  },
+  "axis_ids": ["tone-intimate"],
+  "claim_ids": ["clm-tone-intimate-disclosure-risk-boundaries", "clm-tone-intimate-ethics-of-others"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Monograph; analytical paraphrase only, no text reproduced."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "clm-tone-comedic-benign-violation",
+  "craft_claim": "Humour requires a simultaneous violation and a benign framing; if the violation is not made benign for the audience, amusement collapses into offence or discomfort.",
+  "tone_ids": [
+    "tone-comedic"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-comedic-mcgraw-warren-2010",
+      "location": "Studies 1-5",
+      "evidence_expression": "paraphrase",
+      "note": "Moral violations judged simultaneously benign elicit amusement; three routes to benign-ness are identified: an alternative norm, a large psychological distance, and a weak commitment to the violated norm."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-comedic-morreall-sep-2012",
+      "note": "The dossier records superiority, relief and incongruity as rival partial families of humour theory and warns against presenting one as the whole explanation (dossier sections B and C); the simultaneous-benign requirement is a feature of the benign-violation account rather than an established general condition of humour."
+    }
+  ],
+  "scope": "Humour involving norms, moral content, and social taboos, across forms.",
+  "exceptions": [
+    "Audiences that reject the benign framing read the same content as offensive rather than funny.",
+    "The benign route is audience-relative; a framing that works for one group can fail for another."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/comedic.md#2--why-it-works--the-mechanism",
+    "tones/comedic.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

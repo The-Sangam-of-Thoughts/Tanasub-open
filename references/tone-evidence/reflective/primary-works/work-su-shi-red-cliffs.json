@@ -1,0 +1,44 @@
+{
+  "id": "work-su-shi-red-cliffs",
+  "title": "Qian Chibi Fu / Hou Chibi Fu (Rhapsody on the Red Cliffs, First and Second)",
+  "creators": [
+    "Su Shi (Su Dongpo)"
+  ],
+  "work_type": "fu rhapsody prose-poem (paired)",
+  "published_date": "1082",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "regions": [
+    "China",
+    "East Asia"
+  ],
+  "axis_ids": [
+    "tone-reflective"
+  ],
+  "period_role": "classical",
+  "source_id": "src-reflective-watson-sutungpo-1965",
+  "access": {
+    "edition_or_version": "Burton Watson, Su Tung-p'o: Selections from a Sung Dynasty Poet (Columbia University Press, 1965) — verified English anchor. Original classical Chinese text public domain; translation copyrighted.",
+    "language_used": "en",
+    "translator": "Burton Watson",
+    "access_conditions": "library"
+  },
+  "analysis_status": "secondary-attested",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "reflection staged as guest-question / host-answer dialogue so it never becomes soliloquy",
+      "place-names and the dated occasion (Huangzhou exile, 1082) fix the meditation in an actual site and circumstance",
+      "question-form philosophical lexis: the reflective turn proceeds by interrogative exchange rather than declaration",
+      "the scale pivot — small self against vast time — as the celebrated self-distancing move"
+    ],
+    "point_of_view": "Two voices: a guest voices the problem of impermanence; the host answers by re-deriving the vantage point (river and moon as enduring, the human moment as borrowed).",
+    "tense_and_structure": "Present-at-the-site scenic description opening into historical past (Three Kingdoms allusion) and back — temporal layering comparable to Wordsworth's stacked tenses (dossier §E comparative note).",
+    "rhythm_and_cadence": "Parallelism and tonal cadence typical of fu slow the pace at the reflective turn; scenic momentum yields to measured questioning.",
+    "psychic_distance": "Distance is opened by scale comparison, not psychological jargon — a cross-cultural instance of self-distancing (supports clm-tone-reflective-self-distanced-reflection by analogy).",
+    "style_and_devices": "The river/moon figure carries the philosophical work so narration need not state a thesis; the paired fu structure (first dialogue, second more analytic) institutionalizes the reflective pivot.",
+    "copyright_note": "Original classical Chinese text public domain; Watson translation copyrighted. Described by technique only; no passage reproduced.",
+    "translation_note": "The fu's question-answer architecture and tonal parallelism are only partly recoverable in English; pin Watson page numbers before quoting the translation."
+  }
+}

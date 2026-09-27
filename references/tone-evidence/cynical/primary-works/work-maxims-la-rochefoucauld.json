@@ -1,0 +1,43 @@
+{
+  "id": "work-maxims-la-rochefoucauld",
+  "title": "Maxims (Reflections; Sentences and Moral Maxims)",
+  "creators": [
+    "François de La Rochefoucauld"
+  ],
+  "work_type": "maxim collection",
+  "published_date": "1665",
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "regions": [
+    "France"
+  ],
+  "axis_ids": [
+    "tone-cynical"
+  ],
+  "period_role": "canonical",
+  "source_id": "src-cynical-tancock-rochefoucauld-maxims-1981",
+  "access": {
+    "edition_or_version": "Penguin Classics, trans. Leonard M. Tancock (UK 1981; US 1982); original 1665; public-domain English text at Project Gutenberg #9105",
+    "language_used": "en",
+    "translator": "Leonard M. Tancock",
+    "access_conditions": "open"
+  },
+  "analysis_status": "partial",
+  "mechanics": {
+    "premise": "Several hundred short maxims re-describing admired human motives — virtue, friendship, love, loyalty, generosity — as refined operations of self-love and self-esteem.",
+    "point_of_view": "Impersonal gnomic observer with no character and no plot; authority carried entirely by compression and antithesis.",
+    "style_and_devices": "Antithesis; balanced parallel clauses; occasional self-qualifying hedges that scope a generalization; the portable one-sentence unit as the form of the insight.",
+    "emotional_progression": "Recognition -> deflation -> self-implication: the reader catches the attributed motive in their own case before the sentence finishes.",
+    "conventions": "French classical moralist tradition (with Pascal and La Brouyere); the model from which the literary maxim and the modern 'cynical' sensibility take their shape.",
+    "tone_mechanisms": [
+      "echoic recall of a shared ideal",
+      "maxim-form deflation",
+      "antithetical compression",
+      "serial deflation accumulating into worldview"
+    ],
+    "critical_reception": "First published 1665 and expanded by the author across editions; described in reference accounts as portraying human conduct with a cynical attitude toward professed virtue and declarations of affection.",
+    "verification_note": "Existence, 1665 first publication, authorship, and cynical characterization confirmed via Wikipedia API extract (Francois de La Rochefoucauld) on 2026-09-24; edition metadata via publisher catalog. Analysis covers the collection's method as documented; no maxim reproduced verbatim in this silo."
+  }
+}

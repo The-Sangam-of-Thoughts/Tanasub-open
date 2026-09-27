@@ -1,0 +1,61 @@
+{
+  "id": "src-cynical-tancock-rochefoucauld-maxims-1981",
+  "title": "Maxims (Reflections; Sentences and Moral Maxims)",
+  "creators": [
+    "François de La Rochefoucauld",
+    "Leonard M. Tancock"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "craft-support",
+    "history"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Penguin Classics",
+    "published_date": "1981",
+    "edition": "trans. Leonard M. Tancock (UK 1981; US 1982); original Réflexions ou sentences et maximes morales, 1665",
+    "doi": null,
+    "isbn": "9780140440959"
+  },
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "regions": [
+    "France"
+  ],
+  "access": {
+    "locator": "ISBN 9780140440959 (Penguin catalog); public-domain English text at Project Gutenberg #9105",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-cynical)",
+    "verification_notes": "Edition identity (Tancock trans., Penguin Classics, ISBN 9780140440959; original maxims first published 1665) confirmed via publisher catalog and reference metadata on 2026-09-24. Author characterization confirmed via Wikipedia API extract: the Maxims portray human conduct with a cynical attitude toward professed virtue and avowals of affection, friendship, and loyalty. Full text of the Penguin edition not inspected; no maxim reproduced verbatim in this silo."
+  },
+  "axis_ids": [
+    "tone-cynical"
+  ],
+  "claim_ids": [
+    "clm-tone-cynical-irony-echoic",
+    "clm-tone-cynical-maxim-deflation",
+    "clm-tone-cynical-crosscultural-deflation"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "fr",
+    "translator": "Leonard M. Tancock",
+    "limitations": [
+      "French aphoristic antithesis and the amour-propre vocabulary are only partly carried in English; technique claims are limited to the maxim's deflationary structure."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "This record describes the Tancock translation (Penguin Classics 1981), which is copyrighted: repository_copy_allowed is false and no passage is reproduced. Rights status is recorded per the work as used here, not per the underlying text — the 1665 French original and pre-1930 English versions are public domain, and the access locator's Project Gutenberg text is a different, older English version, not this translation."
+  }
+}

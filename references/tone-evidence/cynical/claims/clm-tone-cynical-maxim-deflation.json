@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-cynical-maxim-deflation",
+  "craft_claim": "Cynical wit compresses the gap between professed motive and attributed motive into a portable counter-maxim; the unit works only where the professed ideal is shared enough to be recognized when inverted.",
+  "tone_ids": [
+    "tone-cynical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-cynical-kreuz-glucksberg-1989",
+      "location": "Journal of Experimental Psychology: General 118(4):374-386",
+      "evidence_expression": "paraphrase",
+      "note": "The echoic-reminder model makes the prior expectation the trigger of ironic access: the maxim form supplies that prior inside itself, restating the shared claim before overturning it in the same breath."
+    },
+    {
+      "evidence_id": "src-cynical-tancock-rochefoucauld-maxims-1981",
+      "location": "Introduction and the sequence of maxims on self-esteem, virtue, and friendship (Tancock trans.)",
+      "evidence_expression": "synthesis",
+      "note": "La Rochefoucauld's method re-describes admired motives — virtue, friendship, love, loyalty — as operations of self-love, producing deflation in a single portable sentence rather than an argument."
+    },
+    {
+      "evidence_id": "work-maxims-la-rochefoucauld",
+      "location": "Whole collection (1665; over 500 maxims)",
+      "evidence_expression": "synthesis",
+      "note": "The maxim delivers the cynical insight as a quotable unit the reader can carry and redeploy against new cases; serial deflation accumulates from wit into worldview."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-cynical-kreuz-glucksberg-1989",
+      "note": "Section H item 1: ironic access requires a fresh recoverable prior, so a portable maxim that re-deflates an ideal already deflated teaches the reader to skip (section G 'Edgelord contrarianism': inversion without referent); the unit's portability is bounded by the stated claims present in the scene."
+    }
+  ],
+  "scope": "Aphoristic prose, narrator asides, epigrammatic dialogue; anywhere a single sentence must carry the deflation.",
+  "exceptions": [
+    "Where the audience does not share the ideal (subcultural or historical distance), the inversion reads as nonsense or aggression rather than recognition.",
+    "Maxim-form deflation carries no plot: in narrative it must be attached to a character, a target, or a stake, or it becomes wallpaper (see dosage claim)."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/cynical.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

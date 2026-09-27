@@ -1,0 +1,51 @@
+{
+  "id": "work-charulata",
+  "title": "Charulata (The Lonely Wife)",
+  "creators": [
+    "Satyajit Ray"
+  ],
+  "work_type": "feature-film",
+  "published_date": "1964",
+  "languages": [
+    "bn"
+  ],
+  "regions": [
+    "India",
+    "Bengal"
+  ],
+  "axis_ids": [
+    "axis-episodic-television-script",
+    "axis-feature-screenplay",
+    "axis-psychological-fiction"
+  ],
+  "period_role": "recognized",
+  "source_id": "src-wga-screenplay-glossary-2023",
+  "access": {
+    "edition_or_version": "Criterion Collection restoration of Satyajit Ray's film based on Rabindranath Tagore's Nastanirh",
+    "language_used": "en",
+    "translator": "Subtitles",
+    "access_conditions": "licensed"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "In late 19th-century Calcutta, an intellectually gifted but neglected wife of a political newspaper editor discovers her own literary voice and romantic awakening through her visiting cousin-in-law.",
+    "reader_promise": "Masterclass in visual storytelling, internal emotional nuance, and delicate subtext of unspoken love and artistic awakening.",
+    "opening": "Nine-minute near-silent opening sequence: Charulata wanders through a lavish Victorian mansion with opera glasses, observing street life through shuttered blinds.",
+    "point_of_view": "Objective visual camera maintaining intimate psychological alignment with Charulata's silent consciousness.",
+    "character_system": "Charulata (intellectual, lonely wife), Bhupati (idealistic, preoccupied husband), Amal (charismatic, aspiring writer cousin-in-law).",
+    "conflict_and_stakes": "Intellectual self-realization and illicit romantic affinity versus marital duty and domestic stability.",
+    "structure": "Three-act chamber drama structured by Amal's arrival, literary collaboration, and sudden departure.",
+    "scene_movement": "Victorian drawing rooms, library, sun-drenched garden swing, printing press in the courtyard.",
+    "dialogue": "Subtle, witty Bengali exchanges laden with literary allusions, teasing double entendres, and agonizing silences.",
+    "setting": "Wealthy Victorian-Brahmo mansion in colonial Calcutta during the 1879 Bengal Renaissance.",
+    "style_and_devices": "Visual subtext, opera-glasses motif, garden swing rhythm, freeze-frame ending, musical leitmotifs.",
+    "emotional_progression": "Listless boredom -> creative and emotional blossoming -> artistic competition -> grief of abandonment -> fractured domestic truce.",
+    "suspense_or_anticipation": "Whether the unspoken romantic bond between Charulata and Amal will erupt into overt marital scandal.",
+    "climax": "Amal flees abruptly upon realizing Bhupati's financial betrayal by another relative; Charulata weeps openly, and Bhupati overhears her grief.",
+    "ending": "Famous series of freeze-frames: Bhupati and Charulata reach toward each other's hands, pausing inches apart in unresolved suspension.",
+    "conventions": "Exemplary adaptation of Rabindranath Tagore's novella *Nastanirh* into cinematic narrative grammar.",
+    "innovation_or_subversion": "Proves that visual blocking, silence, and gaze can convey internal narrative psychological conflict more powerfully than exposition.",
+    "critical_reception": "Won the Silver Bear for Best Director at Berlin International Film Festival; Ray considered it his most flawless film.",
+    "audience_reception": "Internationally celebrated cinematic landmark of psychological adaptation and feminine agency."
+  }
+}

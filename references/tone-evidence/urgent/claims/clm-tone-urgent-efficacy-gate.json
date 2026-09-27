@@ -1,0 +1,28 @@
+{
+  "id": "clm-tone-urgent-efficacy-gate",
+  "craft_claim": "Urgent and fear-based appeals motivate protective action only when the reader perceives an effective, feasible response; without it, urgency produces defensive avoidance or denial.",
+  "tone_ids": [
+    "tone-urgent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-urgent-witte-eppm-1992",
+      "location": "Communication Monographs 59(4), pp. 329-349 (threat appraisal versus efficacy appraisal)",
+      "evidence_expression": "paraphrase",
+      "note": "The extended parallel process model separates threat appraisal from efficacy appraisal: when threat is high but perceived efficacy is low, people enter fear-control (avoidance, denial, reactance) rather than danger-control (protective action). Urgency therefore requires a plausible action path."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Health, safety, civic and marketing messages that raise alarm to change behavior.",
+  "exceptions": [
+    "When the message's only goal is attention rather than action, the efficacy gate is weaker, but the ethical burden then rises.",
+    "Culturally specific authority and trust can substitute for some explicit efficacy cues, but this is context-dependent."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/urgent.md#2--why-it-works--the-mechanism",
+    "tones/urgent.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

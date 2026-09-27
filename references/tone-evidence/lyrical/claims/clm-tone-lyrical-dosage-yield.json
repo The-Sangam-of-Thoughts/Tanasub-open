@@ -1,0 +1,43 @@
+{
+  "id": "clm-tone-lyrical-dosage-yield",
+  "craft_claim": "Sustained high foregrounding and ornament fatigue the reader and lower fluency, so the lyrical voice must alternate with plain prose and yield at argument, information, and stakes peaks.",
+  "tone_ids": [
+    "tone-lyrical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-lyrical-reber-fluency-2004",
+      "location": "Personality and Social Psychology Review 8(4):364-382",
+      "evidence_expression": "synthesis",
+      "note": "Processing ease yields positive affect; effortful disfluency lowers it, implying a ceiling on ornament density beyond which the tone becomes counterproductive."
+    },
+    {
+      "evidence_id": "src-lyrical-miall-foregrounding-1994",
+      "location": "Poetics 22(5):389-407",
+      "evidence_expression": "synthesis",
+      "note": "Foregrounding only registers against a background of ordinary language, so lyrical passages require intervening plain prose to remain perceptible."
+    },
+    {
+      "evidence_id": "src-lyrical-margulis-repetition-2013",
+      "location": "On Repeat (Oxford University Press), on repetition and attention",
+      "evidence_expression": "synthesis",
+      "note": "Repetition's musical effect depends on spacing and context; too-frequent repetition or refrain loses its force."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-lyrical-miall-foregrounding-1994",
+      "note": "Some readers tolerate and even seek sustained foregrounding, so the threshold is a craft default, not a psychological absolute."
+    }
+  ],
+  "scope": "Long-form prose, serial content, academic and informational writing, and any passage that must remain clear.",
+  "exceptions": [
+    "Short lyric forms (a poem, an invocation, a coda) may sustain the register for their whole span."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/lyrical.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

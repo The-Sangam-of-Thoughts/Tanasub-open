@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-whimsical-tonal-clash-stakes",
+  "craft_claim": "A play frame brackets consequence; applied to genuine, present stakes it can read as trivialization or emotion invalidation, so the tone must yield at stakes peaks.",
+  "tone_ids": [
+    "tone-whimsical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-whimsical-walton-mimesis-1990",
+      "location": "Mimesis as Make-Believe (Harvard UP, 1990), ch. 1 on props and fictional truths",
+      "evidence_expression": "paraphrase",
+      "note": "Make-believe engagement is a game with props; treating a real situation as an object of make-believe denies its actual consequences, which is precisely what misfires when stakes are live."
+    },
+    {
+      "evidence_id": "src-whimsical-bateson-play-fantasy-1972",
+      "location": "Steps to an Ecology of Mind (1972), pp. 177-193",
+      "evidence_expression": "synthesis",
+      "note": "The play-frame signal asserts that the action does not denote what the real action would denote; imposing that frame on real harm is a category error."
+    },
+    {
+      "evidence_id": "clm-tone-inspirational-toxic-positivity-backfire",
+      "location": "Cross-link (read-only shared claim); Wood et al. 2009; Zielinski et al. 2023",
+      "evidence_expression": "researcher-inference",
+      "note": "Positivity that invalidates negative emotion can backfire; framing real distress as play is the same invalidation move in a comic key."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-whimsical-mcgraw-warren-2010",
+      "note": "Humor can coexist with negative emotion when a violation stays benign; the risk is not emotion itself but a frame that tells the reader their live stake is not real."
+    }
+  ],
+  "scope": "Stakes peaks and direct address of suffering.",
+  "exceptions": [
+    "Tragicomedy and dark comedy deliberately hold both registers; that is an integration pattern governed by the genre engine, not a licence to trivialize."
+  ],
+  "confidence": "limited",
+  "report_locations": [
+    "tones/whimsical.md#7--failure-modes-and-revision",
+    "tones/whimsical.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

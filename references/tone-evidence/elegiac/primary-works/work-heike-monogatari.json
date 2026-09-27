@@ -1,0 +1,33 @@
+{
+  "id": "work-heike-monogatari",
+  "title": "The Tale of the Heike (Heike monogatari)",
+  "creators": ["anonymous (compiled 13th century)"],
+  "work_type": "epic-prose",
+  "published_date": "13th century CE",
+  "languages": ["ja"],
+  "regions": ["Japan"],
+  "axis_ids": ["tone-elegiac"],
+  "period_role": "formative",
+  "source_id": "src-parkes-japanese-aesthetics-sep-2005",
+  "access": {
+    "edition_or_version": "Helen Craig McCullough translation, Stanford University Press, 1988 (consulted as locator)",
+    "language_used": "ja (English translation consulted)",
+    "translator": "Helen Craig McCullough (1988)",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "opening meditation on the impermanence of all things (mujo)",
+      "the fall of the proud as emblem of transience",
+      "recurring seasonal and natural imagery of decline",
+      "collective elegy for a defeated clan"
+    ],
+    "emotional_progression": "Grand opening on impermanence -> rise and fall of a warrior house -> lament for the fallen.",
+    "point_of_view": "Recited narrative voice, moving between court and battlefield.",
+    "rhythm_and_cadence": "Prose with embedded verse; rhetorical repetition suited to oral recitation.",
+    "psychic_distance": "Public, communal mourning rather than private confession; distance is doctrinal (Buddhist impermanence).",
+    "style_and_devices": "The canonical Japanese exemplar of mono no aware / mujo, cited by Parkes SEP. Described, not quoted.",
+    "copyright_note": "Source text public domain; the 1988 translation is copyrighted. Described by technique only; no passage reproduced."
+  }
+}

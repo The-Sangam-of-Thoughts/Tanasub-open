@@ -1,0 +1,52 @@
+{
+  "id": "src-lyrical-shirane-basho-1998",
+  "title": "Bashō",
+  "creators": [
+    "Shirane"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": null,
+    "published_date": "1998",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [],
+  "regions": [
+    "Japan"
+  ],
+  "access": {
+    "locator": "https://openlibrary.org/works/OL2699934W (library record: Haruo Shirane, Traces of Dreams, Stanford University Press 1998 — the work cited as Shirane 1998 on Basho poetics in clm-tone-lyrical-crosscultural-sound-sense)",
+    "accessed_at": "2026-09-24",
+    "access_conditions": null
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-lyrical)",
+    "verification_notes": "Record materialized from the lyrical dossier's own citation only: the source appears there as 'Shirane's study of Bashō' (section E) and as 'Shirane 1998' in the claims matrix for clm-tone-lyrical-crosscultural-sound-sense, and is declared in dossier section I. The title shown follows the record ID declared in section I and the dossier's description; the dossier states no full bibliographic title and names the author by surname only. Region 'Japan' follows the dossier's 'Japanese and Pacific' grouping. reliability_tier 2 follows the dossier's claims-matrix tier; source_type scholarly-book follows the dossier's wording 'study'. The dossier also uses this source as the corroborating poetics source for work-narrow-road. Every other unstated field is null or [] rather than guessed. No text was consulted or reproduced."
+  },
+  "axis_ids": [
+    "tone-lyrical"
+  ],
+  "claim_ids": [
+    "clm-tone-lyrical-crosscultural-sound-sense"
+  ],
+  "translation": {
+    "is_translation": null,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": null,
+    "repository_copy_allowed": false,
+    "notes": "Copyright status not stated in the dossier; analytical citation only, no text reproduced."
+  }
+}

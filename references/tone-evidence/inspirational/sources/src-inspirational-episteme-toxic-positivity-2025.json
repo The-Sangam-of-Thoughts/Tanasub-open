@@ -1,0 +1,53 @@
+{
+  "id": "src-inspirational-episteme-toxic-positivity-2025",
+  "title": "Toxic Positivity and Epistemic Injustice",
+  "creators": [
+    "Shené Jheanne de Rijk"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Episteme (Cambridge University Press)",
+    "published_date": "2025",
+    "edition": null,
+    "doi": "10.1017/epi.2025.7",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United Kingdom"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1017/epi.2025.7",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-inspirational)",
+    "verification_notes": "DOI, journal, year, author (Shené Jheanne de Rijk, University of Johannesburg), and argument confirmed via the Cambridge Core article page. Defines toxic positivity as unreasonable positivity that invalidates another's feelings and argues it can constitute epistemic injustice."
+  },
+  "axis_ids": [
+    "tone-inspirational"
+  ],
+  "claim_ids": [
+    "clm-tone-inspirational-toxic-positivity-backfire"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "open-access",
+    "repository_copy_allowed": false,
+    "notes": "Cambridge Core open-access article; analytical citation only, no text reproduced."
+  }
+}

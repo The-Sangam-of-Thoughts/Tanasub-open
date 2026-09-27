@@ -1,0 +1,48 @@
+{
+  "id": "src-reflective-schooler-overshadowing-1993",
+  "title": "Thoughts Beyond Words: When Language Overshadows Insight",
+  "creators": [
+    "Jonathan W. Schooler",
+    "Stellan Ohlsson",
+    "Kevin Brooks"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Experimental Psychology: General",
+    "published_date": "1993",
+    "edition": "122(2), pp. 166-183",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": ["en"],
+  "regions": ["Canada", "Sweden"],
+  "access": {
+    "locator": "Library record: Journal of Experimental Psychology: General 122(2):166-183 (APA); confirmed via multiple independent scholarly citations",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-reflective)",
+    "verification_notes": "Title, journal, volume, issue, and pages confirmed via PhilPapers record and multiple citing articles (Fleck 2004; Laukkonen 2021; Macchi 2025). Appendix D did not name this paper; an initial 'Trying not to try' title lead was dropped as unverified and belongs to a different, uncited work."
+  },
+  "axis_ids": ["tone-reflective"],
+  "claim_ids": ["clm-tone-reflective-earned-epiphany"],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA article; analytical citations only. No experimental text or results reproduced."
+  }
+}

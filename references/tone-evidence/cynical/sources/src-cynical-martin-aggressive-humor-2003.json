@@ -1,0 +1,59 @@
+{
+  "id": "src-cynical-martin-aggressive-humor-2003",
+  "title": "Individual differences in uses of humor and their relation to psychological well-being: Development of the Humor Styles Questionnaire",
+  "creators": [
+    "Rod A. Martin",
+    "Patricia Puhlik-Doris",
+    "Gwen Larsen",
+    "Jeanette Gray",
+    "Kelly Weir"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Research in Personality",
+    "published_date": "2003-02",
+    "edition": "Vol. 37, No. 1, pp. 48-75",
+    "doi": "10.1016/S0092-6566(02)00534-2",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "Canada"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1016/S0092-6566(02)00534-2",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-cynical)",
+    "verification_notes": "Bibliographic metadata (authors, container, 37(1):48-75, DOI) confirmed via Crossref on 2026-09-24; full text not inspected. The paper develops the Humor Styles Questionnaire distinguishing four humor styles; the aggressive style — sarcastic, ridiculing humor — is classified as potentially maladaptive and is associated with poorer relational outcomes. Recorded also as counterevidence nuance: the same instrument distinguishes adaptive styles (affiliative, self-enhancing), so the documented cost attaches to hostile usage rather than to irony per se, and the study reports personality-level associations rather than effects of a single ironic line. No passage quoted."
+  },
+  "axis_ids": [
+    "tone-cynical"
+  ],
+  "claim_ids": [
+    "clm-tone-cynical-failure-unearned-nihilism",
+    "clm-tone-cynical-dosage-saturation"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Elsevier / Journal of Research in Personality; analytical citation only."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "work-grammar-of-anarchy",
+  "title": "Closing address to the Constituent Assembly",
+  "creators": [
+    "B. R. Ambedkar"
+  ],
+  "work_type": "speech",
+  "published_date": "25 November 1949",
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "India"
+  ],
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "period_role": "canonical",
+  "source_id": null,
+  "access": {
+    "edition_or_version": "Delivered 25 November 1949, two days before adoption of the Constitution; verified via the Constituent Assembly record",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": null
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "naming a freedom the citizen already holds: constitutional guarantees framed as freedoms owned rather than privileges granted",
+      "constitutional moral warrant, including the warning against the 'grammar of anarchy'",
+      "direct address to a present 'we' at close psychic distance and high certainty"
+    ],
+    "language_note": "English-language Indian text, alongside Annihilation of Caste (dossier section E).",
+    "verification_note": "Closing Constituent Assembly address of 25 November 1949, delivered two days before adoption of the Constitution; verified via the Constituent Assembly record; description only, no text reproduced (dossier section F)."
+  }
+}

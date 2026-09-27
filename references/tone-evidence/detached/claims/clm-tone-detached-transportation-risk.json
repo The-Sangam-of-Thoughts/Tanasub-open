@@ -1,0 +1,36 @@
+{
+  "id": "clm-tone-detached-transportation-risk",
+  "craft_claim": "Detached narration lowers emotional transportation; low transportation predicts reduced empathy and disengagement, while high transportation predicts its increase.",
+  "tone_ids": ["tone-detached"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-detached-green-brock-transportation-2000",
+      "location": "Experiments 1-2 and transportation scale, pp. 701-721",
+      "evidence_expression": "synthesis",
+      "note": "Transportation is defined as absorption entailing imagery, affect, and attentional focus; more transported readers showed stronger story-consistent beliefs and fewer detected false notes, establishing affect as part of engagement."
+    },
+    {
+      "evidence_id": "src-detached-bal-veltkamp-empathy-2013",
+      "location": "Study 1 and Study 2, e55341",
+      "evidence_expression": "synthesis",
+      "note": "Fiction readers who were not emotionally transported showed lower empathy after one week, while highly transported readers showed higher empathy; the effect was specific to emotional transportation."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-detached-miall-kuiken-foregrounding-1994",
+      "note": "Foregrounding can evoke feeling even in stylistically spare texts, so detachment is not guaranteed to produce low transportation if specific details are foregrounded."
+    }
+  ],
+  "scope": "Extended narrative and persuasive prose.",
+  "exceptions": [
+    "Short documentary or informational texts whose purpose is not transportive identification."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/detached.md#4--when-to-show-restraint",
+    "tones/detached.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

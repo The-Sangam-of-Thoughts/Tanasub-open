@@ -1,0 +1,50 @@
+{
+  "id": "src-lyrical-auerbach-mimesis-1946",
+  "title": "Mimesis",
+  "creators": [
+    "Auerbach"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": null,
+    "published_date": "1946",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [],
+  "regions": [],
+  "access": {
+    "locator": "https://openlibrary.org/works/OL159300W",
+    "accessed_at": "2026-09-24",
+    "access_conditions": null
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-lyrical)",
+    "verification_notes": "Record materialized from the lyrical dossier's own citation only: the source appears there as 'Auerbach 1946, The Brown Stocking' in the craft inventory and exemplar field, and is declared in dossier section I. The title shown follows the record ID declared in section I; the dossier states no full bibliographic title and names the author by surname only. reliability_tier 2 and source_type scholarly-book follow the dossier's claims-matrix tier for clm-tone-lyrical-exemplars-cadence. Every field the dossier does not state (publisher, edition, DOI/ISBN, languages, regions, access locator, translation status, copyright status) is recorded as null or [] rather than guessed. No text was consulted or reproduced."
+  },
+  "axis_ids": [
+    "tone-lyrical"
+  ],
+  "claim_ids": [
+    "clm-tone-lyrical-exemplars-cadence"
+  ],
+  "translation": {
+    "is_translation": null,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": null,
+    "repository_copy_allowed": false,
+    "notes": "Copyright status not stated in the dossier; analytical citation only, no text reproduced."
+  }
+}

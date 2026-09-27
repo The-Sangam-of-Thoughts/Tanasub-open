@@ -1,0 +1,43 @@
+{
+  "id": "clm-tone-grim-grimdark-posturing-failure",
+  "craft_claim": "When bleakness becomes an end in itself—darkness without causal or moral pressure—it degrades into grimdark posturing: shock, nihilism-as-decoration, and misery that absolves rather than implicates.",
+  "tone_ids": [
+    "tone-grim"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-grim-roberts-writing-sf-2014",
+      "location": "Get Started in Writing Science Fiction and Fantasy, p. 42",
+      "evidence_expression": "paraphrase",
+      "note": "Roberts characterises grimdark as fiction where nobody is honourable and might is right, and notes it conveys the sense that the world is a cynical, ultraviolent place rather than re-imagining any actual history."
+    },
+    {
+      "evidence_id": "src-grim-bourke-grimdark-review-2015",
+      "location": "Strange Horizons review, 17 April 2015",
+      "evidence_expression": "paraphrase",
+      "note": "Bourke identifies grimdark's defining risk as a retreat into valorising darkness for its own sake, a nihilism in which right action is impossible or futile—which absolves protagonist and reader of moral responsibility."
+    },
+    {
+      "evidence_id": "src-grim-walter-guardian-2016",
+      "location": "The Guardian, 1 January 2016",
+      "evidence_expression": "paraphrase",
+      "note": "Walter criticises the trend as escalation (more fighting, bloodier blood) driven by a commercial imperative, set against more emotionally nuanced fantasy."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-grim-roberts-writing-sf-2014",
+      "note": "Section G bounds the failure to register without history: Roberts' definition targets fiction conveying a cynical, ultraviolent world rather than re-imagining any actual history, so darkness grounded in an examined history or indictment falls outside it and 'an end in itself' cannot be diagnosed from surface bleakness alone."
+    }
+  ],
+  "scope": "Speculative fiction primarily, but the pattern generalises to any genre that uses bleakness as brand.",
+  "exceptions": [
+    "Darkness may be the legitimate subject when it is causally and morally examined (for example atrocity as historical indictment); the failure is darkness as style."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/grim.md#7--failure-modes-and-revision"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

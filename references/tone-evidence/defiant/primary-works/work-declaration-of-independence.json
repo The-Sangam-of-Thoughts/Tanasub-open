@@ -1,0 +1,36 @@
+{
+  "id": "work-declaration-of-independence",
+  "title": "Declaration of Independence",
+  "creators": [
+    "Thomas Jefferson et al."
+  ],
+  "work_type": "declaration",
+  "published_date": "1776",
+  "languages": [
+    "en"
+  ],
+  "regions": [],
+  "axis_ids": [
+    "tone-defiant"
+  ],
+  "period_role": "formative",
+  "source_id": "src-defiant-lucas-declaration-1990",
+  "access": {
+    "edition_or_version": "Declaration of 1776; stylistic analysis per Lucas 1990 (National Archives); the dossier does not name a consulted edition",
+    "language_used": "en",
+    "translator": null,
+    "access_conditions": null
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "performative present-tense declaration that performs a self-authorizing act rather than arguing to a neutral judge",
+      "formally parallel indictment catalog making an inventory of wrongs audible as a single charge",
+      "first-person-plural constitution of a 'we' that includes the listener",
+      "closing pledge committing speaker and reader to a shared future"
+    ],
+    "structure_note": "Opening pronouncement in the present tense, formally parallel indictment catalog, closing pledge (dossier section C, per Lucas 1990).",
+    "scope_note": "Region is not stated in the dossier and is recorded as [] rather than inferred; no edition, publisher, or page data was added.",
+    "verification_note": "Stylistic analysis per Lucas 1990 (National Archives); no text reproduced (dossier section F)."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "work-pedro-paramo",
+  "title": "Pedro Páramo",
+  "creators": [
+    "Juan Rulfo"
+  ],
+  "work_type": "novel",
+  "published_date": "1955",
+  "languages": [
+    "es"
+  ],
+  "regions": [
+    "Mexico",
+    "Latin America"
+  ],
+  "axis_ids": [
+    "tone-grim"
+  ],
+  "period_role": "canonical",
+  "source_id": "src-grim-steiner-death-tragedy-1961",
+  "access": {
+    "edition_or_version": "English translation by Margaret Sayers Peden (Grove Press, 1994)",
+    "language_used": "en",
+    "translator": "Margaret Sayers Peden",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "Juan Preciado travels to the town of Comala to find his father and discovers a ghost town of the dead, whose voices reveal the ruin his father caused.",
+    "point_of_view": "Fragmented, multi-voiced; narrating positions shift among the living and the dead, with no stable ground.",
+    "style_and_devices": "Non-linear fragments, overheard murmurs, and an unpeopled landscape; the novel withholds exposition and lets the reader assemble a doomed history.",
+    "emotional_progression": "Filial hope -> encounter with a dead town -> gradual revelation of cruelty -> total desolation and stasis.",
+    "dialogue": "Echoing, fragmentary voices of the dead; the dialogue is the narration and the haunting at once.",
+    "setting": "Comala, a heat-struck town of ghosts; landscape as both memory and punishment.",
+    "tone_mechanisms": [
+      "fragmented structure",
+      "ghost chorus",
+      "bleak landscape",
+      "withheld exposition",
+      "irredeemable aftermath"
+    ],
+    "critical_reception": "Initially cold, later canonised; a key influence on Latin American fiction and widely translated. Cited for its unflinching, non-Anglophone bleakness.",
+    "verification_note": "Existence, date, and premise confirmed via Wikipedia 'Pedro Páramo' API extract; English translator noted from the standard Grove/Peden edition. No text reproduced. Translation limits: Rulfo's Mexican rural idiom and its silences do not fully transfer."
+  }
+}

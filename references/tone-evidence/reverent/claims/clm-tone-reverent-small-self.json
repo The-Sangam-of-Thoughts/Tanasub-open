@@ -1,0 +1,38 @@
+{
+  "id": "clm-tone-reverent-small-self",
+  "craft_claim": "Withdrawing the first-person narrator's claims and letting the sacred object occupy the frame enacts the small-self shift that makes awe feel genuine rather than asserted.",
+  "tone_ids": [
+    "tone-reverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-reverent-piff-2015",
+      "location": "JPSP 108(6):883-899, Studies 1-5",
+      "evidence_expression": "synthesis",
+      "note": "Across five studies, awe reduced the emphasis on the individual self ('small self') and increased prosocial, collective-oriented and ethical behaviour; the small self is offered as a mechanism."
+    },
+    {
+      "evidence_id": "src-reverent-ramanujan-speaking-of-siva-1973",
+      "location": "Vachanas of Akka Mahadevi and Basava",
+      "evidence_expression": "synthesis",
+      "note": "Devotional speakers dissolve the 'I' into the named lord, making the deity the grammatical and emotional centre of the utterance."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-reverent-perlin-li-2020",
+      "note": "Perlin and Li review complications: the small self is not the only mediator of awe's prosocial effects, so a repeated 'I am nothing' formula is not a validated rendering of the mechanism."
+    }
+  ],
+  "scope": "Narrative and devotional passages where the object is meant to dominate the speaker; strongest in first-person or lyric prose.",
+  "exceptions": [
+    "Dramatic monologue and confessional forms may keep the 'I' prominent while still orienting awe outward."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/reverent.md#2--why-it-works--the-mechanism",
+    "tones/reverent.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

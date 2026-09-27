@@ -1,0 +1,57 @@
+{
+  "id": "src-nostalgic-mitchell-1997-rosy-view",
+  "title": "Temporal Adjustments in the Evaluation of Events: The \"Rosy View\"",
+  "creators": [
+    "Timothy R. Mitchell",
+    "Lorraine Thompson",
+    "Erika Peterson",
+    "Robert Cronk"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Experimental Social Psychology, Vol. 33, No. 4",
+    "published_date": "1997",
+    "edition": "pp. 421-448",
+    "doi": "10.1006/jesp.1997.1333",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1006/jesp.1997.1333",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-nostalgic)",
+    "verification_notes": "Citation (journal, volume, issue, pages, year, DOI) and abstract-level findings - across three event studies (European trip, Thanksgiving vacation, California bicycle trip) expectations were more positive than in-event experience and later recollection more positive than the experience, with negative in-event thoughts fading within days - verified via Elsevier/ScienceDirect and indexing records on web search 2026-09-24. Full text not accessed."
+  },
+  "axis_ids": [
+    "tone-nostalgic"
+  ],
+  "claim_ids": [
+    "clm-tone-nostalgic-rosey-retrospection"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Elsevier journal article; abstract-level citation only, no reproduction."
+  }
+}

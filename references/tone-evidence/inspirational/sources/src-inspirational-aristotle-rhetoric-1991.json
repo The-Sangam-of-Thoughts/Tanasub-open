@@ -1,0 +1,60 @@
+{
+  "id": "src-inspirational-aristotle-rhetoric-1991",
+  "title": "On Rhetoric: A Theory of Civic Discourse (Aristotle), translated by George A. Kennedy",
+  "creators": [
+    "Aristotle",
+    "George A. Kennedy"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Oxford University Press",
+    "published_date": "1991",
+    "edition": "First edition (Kennedy translation)",
+    "doi": null,
+    "isbn": "978-0195064872"
+  },
+  "languages": [
+    "en",
+    "grc"
+  ],
+  "regions": [
+    "United Kingdom",
+    "United States",
+    "Ancient Greece"
+  ],
+  "access": {
+    "locator": "https://global.oup.com/academic/product/on-rhetoric-9780195064872",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-inspirational)",
+    "verification_notes": "Translation, publisher, and ISBN confirmed via Oxford University Press catalogue and Stanford Encyclopedia of Philosophy's account of the Rhetoric. Book II treats pathos and Book III treats style and arrangement."
+  },
+  "axis_ids": [
+    "tone-inspirational"
+  ],
+  "claim_ids": [
+    "clm-tone-inspirational-peroration-late-climax"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "grc",
+    "translator": "George A. Kennedy",
+    "limitations": [
+      "English translation of a Greek technical vocabulary; emotional-appeal terms do not map one-to-one onto modern 'tone'."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Oxford University Press translation; analytical citation only, no text reproduced."
+  }
+}

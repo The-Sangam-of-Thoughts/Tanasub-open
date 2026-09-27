@@ -1,0 +1,38 @@
+{
+  "id": "clm-tone-reverent-dosage-yield",
+  "craft_claim": "Sustained awe habituates and, under threat framing, curdles; the reverent voice should occupy bounded passages and yield to plain, grim, elegiac, or urgent register at stakes peaks and across cultures.",
+  "tone_ids": [
+    "tone-reverent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-reverent-katz-franz-2026",
+      "location": "American Psychologist 81(1):82-93",
+      "evidence_expression": "synthesis",
+      "note": "Awe lacks an uncontested definition, and cross-cultural knowledge of awe is thin; a continuous reverent register is neither universally legible nor indefinitely potent."
+    },
+    {
+      "evidence_id": "src-reverent-perlin-li-2020",
+      "location": "Perspectives on Psychological Science 15(2):291-308",
+      "evidence_expression": "synthesis",
+      "note": "The small-self mechanism is not the sole mediator of awe's effects; reducing the speaker to a repeated negation is a formula, not a validated rendering."
+    },
+    {
+      "evidence_id": "src-reverent-gordon-2017",
+      "location": "JPSP, threat-based vs positive awe",
+      "evidence_expression": "synthesis",
+      "note": "Threat-based awe is distinct and not reliably prosocial; sustained awe under threat framing should yield to grim or elegiac register."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Dosage and saturation findings §H; feeds card §4.",
+  "exceptions": [
+    "Liturgical and ritual texts may sustain the register because the form itself is the occasion; the dosage rule targets narrative and argumentative prose."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/reverent.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "src-grim-oliver-raney-eudaimonic-2011",
+  "title": "Entertainment as Pleasurable and Meaningful: Identifying Hedonic and Eudaimonic Motivations for Entertainment Consumption",
+  "creators": [
+    "Mary Beth Oliver",
+    "Arthur A. Raney"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Communication, Vol. 61, No. 5",
+    "published_date": "2011",
+    "edition": null,
+    "doi": "10.1111/j.1460-2466.2011.01585.x",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1111/j.1460-2466.2011.01585.x",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-grim)",
+    "verification_notes": "Bibliographic record confirmed via Crossref (DOI 10.1111/j.1460-2466.2011.01585.x). The hedonic/eudaimonic distinction is stated in the title and abstract; full text not directly inspected."
+  },
+  "axis_ids": [
+    "tone-grim"
+  ],
+  "claim_ids": [
+    "clm-tone-grim-eudaimonic-painful-art",
+    "clm-tone-grim-dosage-desensitization"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Wiley journal article; analytical citation only."
+  }
+}

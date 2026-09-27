@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-philosophical-self-distanced-thought",
+  "craft_claim": "A voice that addresses the self from outside — third person, second person, or an observer stance — turns raw feeling into generalisable reflection without tipping into rumination.",
+  "tone_ids": [
+    "tone-philosophical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-philosophical-kross-ayduk-2017",
+      "location": "Advances in Experimental Social Psychology 55, pp. 81-136",
+      "evidence_expression": "paraphrase",
+      "note": "The review distinguishes self-immersed rumination from self-distanced reflection and reports that adopting an observer stance produces more adaptive, less reactive analysis of negative experience."
+    },
+    {
+      "evidence_id": "src-philosophical-kross-self-talk-2014",
+      "location": "Journal of Personality and Social Psychology 106(2), pp. 304-324",
+      "evidence_expression": "paraphrase",
+      "note": "Shifting self-talk away from first person acts as a regulatory mechanism, supporting the linguistic route by which an observer stance is enacted on the page."
+    },
+    {
+      "evidence_id": "work-aurelius-meditations",
+      "location": "Passim, e.g. the self-addressed entries of Books 2-4",
+      "evidence_expression": "synthesis",
+      "note": "The Meditations are written as second-person or impersonal self-address that converts a daily irritation into a principle about conduct and mortality."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "First-person reflective and academic prose, and philosophical fiction that needs to hold feeling at reflective distance.",
+  "exceptions": [
+    "Self-distancing can become evasion or emotional flatness when used to avoid a stake that the reader has already been promised (compare tone-detached)."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/philosophical.md#2--why-it-works--the-mechanism",
+    "tones/philosophical.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "src-compassionate-shantideva-bodhicaryavatara-1997",
+  "title": "Bodhicaryāvatāra",
+  "creators": [
+    "Śāntideva"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "definition",
+    "craft-support",
+    "indian-context"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Snow Lion",
+    "published_date": "1997",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "sa"
+  ],
+  "regions": [
+    "India"
+  ],
+  "access": {
+    "locator": null,
+    "accessed_at": "2026-09-24",
+    "access_conditions": null
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-compassionate)",
+    "verification_notes": "Dossier section F records 'Wallace & Wallace trans. Snow Lion 1997 confirmed'; section E names the translator as Wallace (1997) and section F gives the Sanskrit original. Cited for equalizing and exchanging self and other as the rhetoric of impartial compassion (sections A, D, E). No access locator is given in the dossier."
+  },
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "claim_ids": [
+    "clm-tone-compassionate-buddhist-karuna-universal"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "sa",
+    "translator": "Wallace & Wallace",
+    "limitations": [
+      "Dossier limits note: karuna is among the Sanskrit/Pali/Chinese terms that are not exact equivalents of the English 'compassion'."
+    ]
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Modern translation of a classical Buddhist treatise; analytical citation only; no text reproduced."
+  }
+}

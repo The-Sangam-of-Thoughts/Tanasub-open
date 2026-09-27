@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-urgent-saturation-decay",
+  "craft_claim": "Urgency decays with repetition within a text and across a corpus; sustained high-intensity urgency produces fatigue and reduced response, so the tone must yield to lower-intensity passages.",
+  "tone_ids": [
+    "tone-urgent"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-urgent-breznitz-cry-wolf-1984",
+      "location": "Cry Wolf: The Psychology of False Alarms, book thesis",
+      "evidence_expression": "paraphrase",
+      "note": "Habituation to alarms lowers later response; the more often the alarm is raised, the cheaper each raising becomes."
+    },
+    {
+      "evidence_id": "src-urgent-mileti-sorensen-warnings-1990",
+      "location": "ORNL-6609 (repetition and warning response)",
+      "evidence_expression": "synthesis",
+      "note": "Accurate repetition can reinforce, but indiscriminate repetition of high-intensity messages dilutes signal value; warning practice depends on reserve and differentiation of alerts."
+    },
+    {
+      "evidence_id": "src-urgent-joint-commission-alarm-2013",
+      "location": "Sentinel Event Alert, Issue 50",
+      "evidence_expression": "synthesis",
+      "note": "Operational evidence that high alarm volume produces desensitization, supporting the claim that urgency has a saturation point."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Sustained prose longer than a few paragraphs, and any publication stream with a recurring audience.",
+  "exceptions": [
+    "Very short copy may sustain a single urgent beat without fatigue.",
+    "Genuine fast-developing crises can justify dense repetition for a bounded interval."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/urgent.md#4--when-to-show-restraint"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "clm-talking-heads-syndrome",
+  "craft_claim": "Extended dialogue without physical action, spatial anchoring, or subtext results in 'talking heads' syndrome, detaching reader sensory immersion.",
+  "axis_ids": [
+    "axis-cozy-mystery",
+    "axis-flash-fiction"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-field-screenplay-2005",
+      "location": "Chapter 8: Visual Staging, pp. 140-158",
+      "evidence_expression": "paraphrase",
+      "note": "Field emphasizes that film is a visual medium where dialogue must be integrated with character movement and action."
+    },
+    {
+      "evidence_id": "src-king-on-writing-2000",
+      "location": "Toolbox: Dialogue and Description, pp. 175-188",
+      "evidence_expression": "paraphrase",
+      "note": "King cautions against disembodied speech and teaches sensory grounding in physical setting."
+    },
+    {
+      "evidence_id": "work-charulata",
+      "location": "Living room dialogue",
+      "evidence_expression": "synthesis",
+      "note": "Ray constantly grounds dialogue in tactile interaction with books, embroidery, tea cups, and window blinds."
+    }
+  ],
+  "counterevidence": [],
+  "scope": "Prose fiction and screenwriting.",
+  "exceptions": [
+    "Radio plays or audio drama where auditory delivery alone carries the dramatic weight."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "13-failure-modes-and-revision.md#failure-modes-and-revision-preferred_label"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-12"
+}

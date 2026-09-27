@@ -1,0 +1,39 @@
+{
+  "id": "clm-tone-comedic-comic-distance",
+  "craft_claim": "Laughter requires a degree of emotional distance; too much proximity to real stakes suppresses the comic response, so psychic distance is a controllable craft dial.",
+  "tone_ids": [
+    "tone-comedic"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-comedic-bergson-laughter-1900",
+      "location": "Chapter I",
+      "evidence_expression": "paraphrase",
+      "note": "Bergson identifies an 'absence of feeling' or indifference as a condition of laughter and names emotion as its enemy; laughter is a social gesture rather than a personal emotional reaction."
+    },
+    {
+      "evidence_id": "src-comedic-mcgraw-warren-2010",
+      "location": "Conditions making a violation benign",
+      "evidence_expression": "synthesis",
+      "note": "Psychological distance is one of the named routes by which a potential violation becomes benign and therefore humorous."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-comedic-mcgraw-warren-2010",
+      "note": "Section B lists psychological distance as only one of three routes to benign-ness, alongside an alternative norm and weak commitment to the violated norm, so distance is a sufficient route rather than a required one and humour can hold at close range where another route supplies benignity."
+    }
+  ],
+  "scope": "Narrator positioning and psychic distance in prose and copy; comic staging of tense material.",
+  "exceptions": [
+    "Dark or gallows humour can operate close to real pain when the framing still grants distance or shared solidarity.",
+    "Empathic identification with a target can be the intended effect in tragicomic work, which is not pure comedic tone."
+  ],
+  "confidence": "strong",
+  "report_locations": [
+    "tones/comedic.md#2--why-it-works--the-mechanism",
+    "tones/comedic.md#5--how-to-use-it--operators"
+  ],
+  "inference_label": "source-stated",
+  "last_verified": "2026-09-24"
+}

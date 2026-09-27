@@ -1,0 +1,56 @@
+{
+  "id": "src-comedic-ford-ferguson-2004",
+  "title": "Social Consequences of Disparagement Humor: A Prejudiced Norm Theory",
+  "creators": [
+    "Thomas E. Ford",
+    "Mark A. Ferguson"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support",
+    "recognition"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Personality and Social Psychology Review, 8(1)",
+    "published_date": "2004",
+    "edition": "pp. 79-94",
+    "doi": "10.1207/S15327957PSPR0801_4",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://pubmed.ncbi.nlm.nih.gov/15121541/",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-comedic)",
+    "verification_notes": "Introduces prejudiced norm theory: disparagement humour can establish a norm of levity that increases tolerance of discrimination, especially for high-prejudice audiences. Abstract and citation details verified against PubMed and the SAGE journal record."
+  },
+  "axis_ids": [
+    "tone-comedic"
+  ],
+  "claim_ids": [
+    "clm-tone-comedic-superiority-limits",
+    "clm-tone-comedic-disparagement-harm"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Peer-reviewed article; citation and paraphrase only."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "clm-tone-detached-cross-cultural-objectivity",
+  "craft_claim": "Objectivity movements recur independently — French chosisme (Robbe-Grillet), German Neue Sachlichkeit, Japanese shasei, Chinese baimiao — each defining a neutral descriptive register, not a universal code.",
+  "tone_ids": ["tone-detached"],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-detached-robbegrillet-new-novel-1963",
+      "location": "Essays collected in Pour un nouveau roman (e.g., 'Nature, humanism, tragedy')",
+      "evidence_expression": "paraphrase",
+      "note": "Robbe-Grillet argues for a neutral registering of sensations and things and against the humanist-tragic frame, a French instance of an objective descriptive program."
+    },
+    {
+      "evidence_id": "src-detached-neue-sachlichkeit-crockett-1999",
+      "location": "Chapters on the movement's meaning and literature",
+      "evidence_expression": "synthesis",
+      "note": "Neue Sachlichkeit (term coined by Hartlaub, 1925) produced a literature of non-sentimental, emotionless reporting with precise detail and veneration for 'the fact,' while remaining politically motivated."
+    },
+    {
+      "evidence_id": "src-detached-shiki-selected-poems-1997",
+      "location": "Introduction and selected poetry (shasei)",
+      "evidence_expression": "synthesis",
+      "note": "Masaoka Shiki's shasei ('sketch from life') rejects ornamental fantasy for realistic observation of nature, an independent Japanese instance of plain observed-fact description."
+    },
+    {
+      "evidence_id": "src-detached-baimiao-reference-2026",
+      "location": "Reference-work entry on baimiao (plain line drawing)",
+      "evidence_expression": "paraphrase",
+      "note": "Baimiao denotes an unembellished, subtractive plain-line descriptive register in Chinese art and narrative, a further independent analogue."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-detached-neue-sachlichkeit-crockett-1999",
+      "note": "Section C 'Contested status' and section E item 6 record that Neue Sachlichkeit's neutrality was politically loaded and that 'objectivity' is a stance with an agenda, not a view from nowhere, so the shared neutral descriptive register these movements define is contested at its centre."
+    }
+  ],
+  "scope": "Cross-cultural survey of objectivity traditions; scoped per tradition, not asserted as a universal aesthetic.",
+  "exceptions": [
+    "These movements differ in motive (soteriological, perceptual, political, anti-humanist) and are not the same stance; only the surface technique of withholding affect recurs."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/detached.md#8--cultural-scope"
+  ],
+  "inference_label": "synthesis",
+  "last_verified": "2026-09-24"
+}

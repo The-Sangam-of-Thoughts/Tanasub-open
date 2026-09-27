@@ -1,0 +1,58 @@
+{
+  "id": "src-philosophical-hui-aphorism-2019",
+  "title": "A Theory of the Aphorism: From Confucius to Twitter",
+  "creators": [
+    "Andrew Hui"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Princeton University Press",
+    "published_date": "2019",
+    "edition": null,
+    "doi": null,
+    "isbn": "978-0-691-18895-9"
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States",
+    "China",
+    "Greece",
+    "Europe"
+  ],
+  "access": {
+    "locator": "https://press.princeton.edu/books/hardcover/9780691188959/a-theory-of-the-aphorism",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "library"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-philosophical)",
+    "verification_notes": "Confirmed the book's thesis that aphorisms stand 'before, against, and after philosophy' and that the form is charged with maximal intensity in minimal size; cross-cultural scope (Confucius, Heraclitus, biblical, Renaissance, Nietzsche)."
+  },
+  "axis_ids": [
+    "tone-philosophical"
+  ],
+  "claim_ids": [
+    "clm-tone-philosophical-aphorism-compression"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Princeton University Press; analytical citation only."
+  }
+}

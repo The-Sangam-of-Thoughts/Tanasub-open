@@ -1,0 +1,52 @@
+{
+  "id": "src-compassionate-cole-2012",
+  "title": null,
+  "creators": [
+    "Cole"
+  ],
+  "source_type": "journalism",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 3,
+  "publication": {
+    "publisher_or_container": "The Atlantic",
+    "published_date": "2012",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [],
+  "access": {
+    "locator": null,
+    "accessed_at": "2026-09-24",
+    "access_conditions": null
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": null,
+    "verified_by": "Tone Layer researcher (tone-compassionate)",
+    "verification_notes": "Citation recorded from the dossier claims matrix and section G: Cole's Atlantic essay (2012) names the 'white-savior industrial complex' - helping narrated as an emotional experience validating the helper's privilege, with the helped reduced to mouths. The dossier does not state the essay's title or an exact date, so title is null and published_date is year-only; no verification is recorded. Tier 3 follows the layer0 hierarchy for professional journalism (the claims-matrix tier of 2 is the row's composite tier)."
+  },
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "claim_ids": [
+    "clm-tone-compassionate-saviorism-witness-ethics"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Magazine essay; analytical citation only; no text reproduced."
+  }
+}

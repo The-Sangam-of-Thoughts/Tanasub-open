@@ -1,0 +1,55 @@
+{
+  "id": "src-inspirational-green-brock-2000",
+  "title": "The Role of Transportation in the Persuasiveness of Public Narratives",
+  "creators": [
+    "Melanie C. Green",
+    "Timothy C. Brock"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "recognition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Journal of Personality and Social Psychology, vol. 79, no. 5, pp. 701-721",
+    "published_date": "2000",
+    "edition": null,
+    "doi": "10.1037/0022-3514.79.5.701",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://psycnet.apa.org/record/2000-00920-003",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-inspirational)",
+    "verification_notes": "Citation, volume, pages, and DOI confirmed via APA PsycNet abstract. Four experiments show transportation raises story-consistent beliefs and lowers detection of false notes; effects generally unaffected by fact/fiction labelling."
+  },
+  "axis_ids": [
+    "tone-inspirational"
+  ],
+  "claim_ids": [
+    "clm-tone-inspirational-narrative-transportation"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "APA journal article; analytical citation only, no text reproduced."
+  }
+}

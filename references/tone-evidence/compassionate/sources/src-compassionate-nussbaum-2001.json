@@ -1,0 +1,52 @@
+{
+  "id": "src-compassionate-nussbaum-2001",
+  "title": "Upheavals of Thought",
+  "creators": [
+    "Nussbaum"
+  ],
+  "source_type": "scholarly-book",
+  "source_roles": [
+    "definition",
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": null,
+    "published_date": "2001",
+    "edition": null,
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [],
+  "access": {
+    "locator": null,
+    "accessed_at": "2026-09-24",
+    "access_conditions": null
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": null,
+    "verified_by": "Tone Layer researcher (tone-compassionate)",
+    "verification_notes": "Citation recorded from the dossier claims matrix (chapter 6 locator) for the compassion/pity distinction: compassion is action-oriented and assumes shared vulnerability, whereas pity is hierarchical and distancing. The dossier states no publisher, author given name, region, or verification, so those fields are null; no access locator is recorded because the dossier gives none."
+  },
+  "axis_ids": [
+    "tone-compassionate"
+  ],
+  "claim_ids": [
+    "clm-tone-compassionate-pity-distinction"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "Scholarly book; analytical citation only; no text reproduced."
+  }
+}

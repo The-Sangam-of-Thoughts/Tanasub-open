@@ -1,0 +1,56 @@
+{
+  "id": "src-irreverent-ford-sexist-humor-2008",
+  "title": "More Than \"Just a Joke\": The Prejudice-Releasing Function of Sexist Humor",
+  "creators": [
+    "Thomas E. Ford",
+    "Christie F. Boxer",
+    "Jacob Armstrong",
+    "Jessica R. Edel"
+  ],
+  "source_type": "peer-reviewed-article",
+  "source_roles": [
+    "craft-support"
+  ],
+  "reliability_tier": 2,
+  "publication": {
+    "publisher_or_container": "Personality and Social Psychology Bulletin, Vol. 34, No. 2",
+    "published_date": "2008",
+    "edition": "pp. 159-170",
+    "doi": "10.1177/0146167207310022",
+    "isbn": null
+  },
+  "languages": [
+    "en"
+  ],
+  "regions": [
+    "United States"
+  ],
+  "access": {
+    "locator": "https://doi.org/10.1177/0146167207310022",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "paywalled"
+  },
+  "verification": {
+    "verified_directly": true,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-irreverent)",
+    "verification_notes": "Full title, four authors, journal, volume, issue, pages, year, and DOI confirmed via Crossref on 2026-09-24; abstract confirms two experiments (hostile sexism predicted donations cut from a women's organization after sexist jokes and skits, but not after nonhumorous sexist statements or neutral jokes). Abstract-level citation only."
+  },
+  "axis_ids": [
+    "tone-irreverent"
+  ],
+  "claim_ids": [
+    "clm-tone-irreverent-prejudiced-norm-backfire"
+  ],
+  "translation": {
+    "is_translation": false,
+    "original_language": null,
+    "translator": null,
+    "limitations": []
+  },
+  "copyright": {
+    "status": "copyrighted",
+    "repository_copy_allowed": false,
+    "notes": "SAGE journal article; abstract paraphrased only."
+  }
+}

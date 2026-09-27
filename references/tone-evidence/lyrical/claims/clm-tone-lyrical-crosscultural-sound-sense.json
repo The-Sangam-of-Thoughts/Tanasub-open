@@ -1,0 +1,44 @@
+{
+  "id": "clm-tone-lyrical-crosscultural-sound-sense",
+  "craft_claim": "Multiple unrelated traditions treat sound and rhythm as a system of sentiment and meaning rather than decoration, though the system differs (metrical, tonal, quantitative, or social) and no single universal technique exists.",
+  "tone_ids": [
+    "tone-lyrical"
+  ],
+  "supporting_evidence": [
+    {
+      "evidence_id": "src-lyrical-shirane-basho-1998",
+      "location": "Traces of Dreams (Stanford University Press), on Basho's poetics and rhythm",
+      "evidence_expression": "synthesis",
+      "note": "Shirane shows that in Basho's linked verse and travel prose, rhythm and precise imagery are used to produce emotional and cultural resonance."
+    },
+    {
+      "evidence_id": "src-lyrical-feld-sound-sentiment-1982",
+      "location": "Sound and Sentiment (University of Pennsylvania Press), Kaluli song and lament",
+      "evidence_expression": "synthesis",
+      "note": "Feld's ethnography demonstrates that the Kaluli experience sound — bird calls, wept song — as an organized system of sentiment, showing that sound-as-meaning is not a Western or written-literary peculiarity."
+    },
+    {
+      "evidence_id": "src-anandavardhana-dhvanyaloka-1990",
+      "location": "Uddyota 1 (cross-link)",
+      "evidence_expression": "synthesis",
+      "note": "Sanskrit dhvani theory similarly treats sound and suggestion as meaning-bearing, independently of the Greek and Chinese traditions."
+    }
+  ],
+  "counterevidence": [
+    {
+      "evidence_id": "src-lyrical-vangelder-arabic-2012",
+      "note": "Because the metrical systems differ fundamentally, the shared principle does not license a single transferable technique; cross-cultural comparison must stay at the level of principle."
+    }
+  ],
+  "scope": "Comparative poetics; the general principle only, not transferable local devices.",
+  "exceptions": [
+    "Any claim that a specific English rhythm reproduces a tonal, quantitative, or social sound-system.",
+    "Translation contexts where the sound dimension is lost."
+  ],
+  "confidence": "moderate",
+  "report_locations": [
+    "tones/lyrical.md#8--cultural-scope"
+  ],
+  "inference_label": "writer-inference",
+  "last_verified": "2026-09-24"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "src-urgent-natyashastra-ghosh-1951",
+  "title": "The Natyasastra: A Treatise on Hindu Dramaturgy and Histrionics (Vols. I-II)",
+  "creators": [
+    "Bharata Muni",
+    "Manomohan Ghosh"
+  ],
+  "source_type": "critical-edition",
+  "source_roles": [
+    "recognition",
+    "definition",
+    "craft-support",
+    "indian-context"
+  ],
+  "reliability_tier": 1,
+  "publication": {
+    "publisher_or_container": "Royal Asiatic Society of Bengal (Bibliotheca Indica)",
+    "published_date": "1951",
+    "edition": "Ghosh critical translation",
+    "doi": null,
+    "isbn": null
+  },
+  "languages": [
+    "en",
+    "sa"
+  ],
+  "regions": [
+    "India",
+    "South Asia"
+  ],
+  "access": {
+    "locator": "https://archive.org/details/natyasastra-manomohan-ghosh",
+    "accessed_at": "2026-09-24",
+    "access_conditions": "open"
+  },
+  "verification": {
+    "verified_directly": false,
+    "verified_at": "2026-09-24T00:00:00Z",
+    "verified_by": "Tone Layer researcher (tone-urgent)",
+    "verification_notes": "Silo mirror of the shared record src-natyashastra-ghosh-1951 (structure and edition facts match the verified shared record). For tone-urgent the relevant material is the vritti (style) system, in particular the energetic arabhati vritti tied to conflict, action and unrest. Chapter-level page locations not re-inspected in this pass; cite as the classical system statement, not a page-specific quotation."
+  },
+  "axis_ids": [
+    "tone-urgent"
+  ],
+  "claim_ids": [
+    "clm-tone-urgent-indian-energetic-style"
+  ],
+  "translation": {
+    "is_translation": true,
+    "original_language": "sa",
+    "translator": "Manomohan Ghosh",
+    "limitations": [
+      "Classical Sanskrit dramaturgical terminology is rendered into English; the vritti and rasa terms are best verified bilingually.",
+      "Claims about rhythm and sound are not made from the translation alone."
+    ]
+  },
+  "copyright": {
+    "status": "public-domain",
+    "repository_copy_allowed": true,
+    "notes": "Ancient text public domain; 1951 Ghosh translation public domain under applicable Indian term. No passage reproduced."
+  }
+}

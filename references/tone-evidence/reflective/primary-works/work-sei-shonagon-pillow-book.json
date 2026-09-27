@@ -1,0 +1,44 @@
+{
+  "id": "work-sei-shonagon-pillow-book",
+  "title": "The Pillow Book (Makura no Sōshi)",
+  "creators": [
+    "Sei Shōnagon"
+  ],
+  "work_type": "zuihitsu prose miscellany",
+  "published_date": "c. 1002",
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "regions": [
+    "Japan",
+    "East Asia"
+  ],
+  "axis_ids": [
+    "tone-reflective"
+  ],
+  "period_role": "formative",
+  "source_id": "src-reflective-morris-pillow-book-1967",
+  "access": {
+    "edition_or_version": "Ivan Morris, ed. and trans., The Pillow Book (Columbia University Press, 1967) — the scholarly anchor used here (edition verified 2026-09-24). Original classical Japanese text public domain; translation copyrighted.",
+    "language_used": "en",
+    "translator": "Ivan Morris",
+    "access_conditions": "library"
+  },
+  "analysis_status": "secondary-attested",
+  "mechanics": {
+    "tone_mechanisms_observed": [
+      "evaluative labels sorting experience into lists — juxtaposed notings whose arrangement is itself the judgment",
+      "paratactic fragment juxtaposition: entries stand beside each other without connective argument; reflection emerges from the sequence, never from a thesis sentence",
+      "abrupt, unsentimental cuts between entries — the piece stops where attention stops",
+      "list-making as a sorting, evaluating stance: mild self-distance through classification"
+    ],
+    "point_of_view": "First-person court observer, evaluatively present; reflection is social and reputational rather than solitary-internal — attention stays outward, to incident.",
+    "tense_and_structure": "Narrative past for episodes; timeless generic present for list entries.",
+    "rhythm_and_cadence": "Short fragments and sudden cuts; no period builds — the reflective counterpart of the brush's stroke.",
+    "psychic_distance": "Close and immediate in observation, but the classifying act evaluates from a slight remove.",
+    "style_and_devices": "Seasonal and courtly vocabulary anchoring each fragment to a specific hour or occasion; comparison through adjacency rather than simile.",
+    "copyright_note": "Original classical Japanese text public domain; Morris translation copyrighted. Described by technique only; no passage reproduced.",
+    "translation_note": "Japanese parataxis and juxtaposition do not carry the analytic connectives the English reflective voice leans on; describe classical features via the named scholarly treatment (Morris; Cambridge History of Japanese Literature 2016, chs. 14-15), not from an unnamed modern rendering."
+  }
+}

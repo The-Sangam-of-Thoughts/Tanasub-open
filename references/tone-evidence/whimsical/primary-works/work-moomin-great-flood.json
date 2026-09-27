@@ -1,0 +1,40 @@
+{
+  "id": "work-moomin-great-flood",
+  "title": "The Moomins and the Great Flood (Småtrollen och den stora översvämningen)",
+  "creators": [
+    "Tove Jansson"
+  ],
+  "work_type": "children's novel",
+  "published_date": "1945",
+  "languages": [
+    "sv"
+  ],
+  "regions": [
+    "Finland"
+  ],
+  "axis_ids": [
+    "tone-whimsical"
+  ],
+  "period_role": "formative",
+  "source_id": "src-whimsical-jansson-moomin-1945",
+  "access": {
+    "edition_or_version": "First edition, 1945 (Finland-Swedish); first of the Moomin books",
+    "language_used": "en",
+    "translator": "various English translations",
+    "access_conditions": "library"
+  },
+  "analysis_status": "complete",
+  "mechanics": {
+    "premise": "Moomintroll and Moominmamma search through a flooded landscape for Moominpappa, encountering dangers before finding a valley to settle.",
+    "point_of_view": "Third-person narration close to the small, curious protagonists, with a gentle comic tone.",
+    "invented_world_and_props": "A habitable, self-contained world of whimsical creatures whose adventures stay domestic in scale, so the invented feels liveable rather than grand.",
+    "play_frame": "The fantastic setting is treated as ordinary life, so strangeness is accepted rather than marvelled at or explained.",
+    "style_and_devices": "Gentle humour, soft irony, anthropomorphic invention, and a mixture of cosiness with real small-scale fear.",
+    "emotional_progression": "Displacement and mild fear -> companionship and resourcefulness -> warm arrival and settlement.",
+    "dialogue": "Affectionate, idiosyncratic family dialogue carrying much of the characterization and humour.",
+    "conventions": "A forerunner of the main Moomin series; combines the children's adventure with a philosophical, gently comic sensibility.",
+    "innovation_or_subversion": "Builds a distinctly Northern, habitable fantasy whose delights are social and domestic rather than heroic.",
+    "critical_reception": "Jansson's Moomin books became classics of Finnish literature and are praised for individualistic characters, complicated plots, and sophisticated humour.",
+    "audience_reception": "Global classic translated into dozens of languages, adapted to comics, television, film, and an opera."
+  }
+}
